@@ -4,7 +4,7 @@ title_en: ""
 slug: el-sobresaliente-de-hoy
 series: 8
 volume: 1
-issue_date: 2024-11
+issue_date: ""
 author: "Edgardo Alegría Reichmann"
 themes: []   # GUESS — confirm/correct (5-theme vocab)
 feature_type: sobresaliente
@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [empty-body, heading-image-only]
+review: [empty-body, date-missing, heading-image-only]
 ---
 
 # El Sobresaliente de Hoy

@@ -1,0 +1,38 @@
+---
+title_es: "Falleción don eugenio Von Boeck"
+title_en: ""
+slug: fallecion-don-eugenio-von-boeck
+series: 6
+volume: 5
+issue_date: 2014-06
+author: "Edgardo Alegría Reichmann"
+themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+feature_type: investigacion
+page_start: 42
+page_end: 42
+image_count: 3   # flagged; precise article-image match is a later pass
+summary_es: "El 22 de febrero de 2014 falleció el connotado filatelista boliviano don Eugenio Von Boeck. La filatelia boliviana e internacional causa baja de uno de sus más sólidos pilares. Cabe destacar que como jurado, el señor Von Boeck no dudó"
+is_featured: false     # EDITORIAL DECISION
+has_exhibition: false  # EDITORIAL DECISION
+has_audio: false       # EDITORIAL DECISION
+lang_available: [es]
+review: [author-unconfirmed, theme-guessed]
+---
+
+# Falleción don eugenio Von Boeck
+El 22 de febrero de 2014 falleció el connotado filatelista boliviano don Eugenio Von Boeck. La filatelia boliviana e internacional causa baja de uno de sus más sólidos pilares. Cabe destacar que como jurado, el señor Von Boeck no dudó ninguna vez en apoyarnos como jurado y consejero en varias de nuestras exposiciones.
+
+Nos solidarizamos con el luto de la Federación Filatélica Boliviana, al tiempo de expresarles que el legado de tales personajes en cualquiera de nuestras sociedades debe permanecer en vigor a través de los filatelistas de relevo.
+
+El autor y el Jurado Von Boeck durante el palmares de EXFILHON 88
+
+EL
+
+---
+
+<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
+  - image28.jpeg
+  - image29.jpeg
+  - image30.jpeg
+-->
+

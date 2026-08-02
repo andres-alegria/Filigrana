@@ -4,7 +4,7 @@ title_en: ""
 slug: italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena
 series: 8
 volume: 1
-issue_date: 2024-11
+issue_date: ""
 author: "Edgardo Alegría Reichmann"
 themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [theme-guessed]
+review: [theme-guessed, date-missing]
 ---
 
 # Italo Ghizzoni en la génesis de la filatelia hondureña

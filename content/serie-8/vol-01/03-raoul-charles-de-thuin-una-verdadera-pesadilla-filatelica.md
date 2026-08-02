@@ -4,7 +4,7 @@ title_en: ""
 slug: raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica
 series: 8
 volume: 1
-issue_date: 2024-11
+issue_date: ""
 author: "Edgardo Alegría Reichmann"
 themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [author-unconfirmed, theme-guessed]
+review: [author-unconfirmed, theme-guessed, date-missing]
 ---
 
 # Raoul Charles de Thuin – una verdadera pesadilla filatélica

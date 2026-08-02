@@ -154,16 +154,17 @@ def _first_date(text):
         return f"{m.group(2)}-{MONTH_NUM[m.group(1)]:02d}", m.group(0)
     return None, None
 
-def find_issue_date(z, fulltext):
+def find_issue_date(z, cover_text):
     """The printed masthead date lives in the page header/footer (most
-    reliable); fall back to the cover textbox / body text."""
+    reliable); else the cover (text above the TOC). We deliberately do NOT
+    scan the article body — a date deep in a story is not the issue date."""
     hdr = []
     for n in z.namelist():
         if re.search(r'word/(header|footer)\d*\.xml', n):
             hdr.append(' '.join(t.text or ''
                        for t in ET.fromstring(z.read(n)).iter(W + 't')))
     d, raw = _first_date(' '.join(hdr))
-    return (d, raw) if d else _first_date(fulltext)
+    return (d, raw) if d else _first_date(cover_text)
 
 # ---------------------------------------------------------------- TOC parse
 SKIP_TOC = {'CONTENIDO', 'PAGINA', 'ARTICULO'}
@@ -177,36 +178,71 @@ def is_title_line(s):
     letters = [c for c in s if c.isalpha()]
     return bool(letters) and sum(c.isupper() for c in letters) / len(letters) > 0.7
 
+# Wrapped-title continuation signals. A line whose predecessor ends with a
+# dangling connector (CONN_END: "...usados en las") continues it; likewise a
+# line starting with CONN_START ("de/y..."). CONN_START deliberately excludes
+# articles (el/la/un) since real titles routinely start with them.
+CONN_END = {'de', 'del', 'la', 'el', 'los', 'las', 'y', 'e', 'o', 'en', 'a',
+            'al', 'con', 'para', 'por', 'que', 'usados', 'usadas', 'usado'}
+CONN_START = {'de', 'del', 'y', 'e'}
+
+def _nospace(s):
+    return re.sub(r'\s', '', strip_accents(collapse_spacing(s))).upper()
+
+def toc_start_index(blocks):
+    """First TOC block: anchored on DIRECTORIO, else a CONTENIDO/ARTÍCULO/
+    PÁGINA header, else 0. Everything before it is the cover."""
+    s = next((i for i, b in enumerate(blocks[:120])
+              if norm_key(b['text']).startswith('directorio')), None)
+    if s is None:
+        s = next((i for i, b in enumerate(blocks[:120])
+                  if _nospace(b['text']) in ('CONTENIDO', 'ARTICULO',
+                                             'PAGINA')), 0)
+    return s
+
+def merge_to_count(titles, target):
+    """Block layout: #titles must equal #pages. Merge wrapped continuation
+    lines into their predecessor until the counts match — grammatical signal
+    first, shortest-line fallback (never touching entries 0/1 = DIR/EDITORIAL)."""
+    titles = list(titles)
+    while len(titles) > target > 0:
+        merged = False
+        for i in range(1, len(titles)):
+            pw = strip_accents(titles[i - 1].split()[-1]).lower()
+            cw = strip_accents(titles[i].split()[0]).lower()
+            if pw in CONN_END or cw in CONN_START:
+                titles[i - 1] += ' ' + titles[i]; del titles[i]
+                merged = True; break
+        if not merged:
+            i = min(range(2, len(titles)), key=lambda j: len(titles[j])) \
+                if len(titles) > 2 else len(titles) - 1
+            titles[i - 1] += ' ' + titles[i]; del titles[i]
+    return titles
+
 def parse_toc(blocks):
     """Return ordered [(title, page|None)]. Handles both TOC layouts:
     Serie 8 = titles block then pages block; Serie 6/7 = interleaved
     title,page,title,page. Auto-detected."""
-    # locate the TOC region: from the CONTENIDO/ARTÍCULO/PÁGINA header to the
-    # masthead ('FEDERACIÓN FILATÉLICA'). Anchoring on the header keeps the
-    # cover text (VOLUMEN/date) out of the TOC.
-    start_i, end_i = None, len(blocks)
-    for i, b in enumerate(blocks[:90]):
-        up = strip_accents(collapse_spacing(b['text'])).upper().strip()
-        if start_i is None and up in ('CONTENIDO', 'ARTICULO', 'PAGINA'):
-            start_i = i
-        if start_i is not None and up.startswith('FEDERACION FILATELICA'):
-            end_i = i; break
-    if start_i is None:
-        start_i = 0
+    # TOC region: anchor on DIRECTORIO (reliably the first TOC entry in every
+    # issue; the DIRECTORIO body section comes much later) and end at the
+    # masthead. This is robust to missing/garbled 'CONTENIDO/ARTÍCULO' headers.
+    start_i = toc_start_index(blocks)
+    end_i = next((i for i in range(start_i + 1, len(blocks))
+                  if _nospace(blocks[i]['text']).startswith('FEDERACIONFILAT')),
+                 len(blocks))
 
     seq = []                                     # ordered ('title'|'num', val)
     for b in blocks[start_i:end_i]:
         s = collapse_spacing(b['text']).strip()
         if not s:
             continue
-        up = strip_accents(s).upper().rstrip('.').strip()
-        if up in SKIP_TOC:
+        if _nospace(s) in SKIP_TOC:
             continue
         if b['pagenum'] is not None:
             seq.append(('num', b['pagenum'])); continue
         if is_title_line(s):
             seq.append(('title', strip_leaders(s)))
-        elif seq and seq[-1][0] == 'title':
+        elif seq and seq[-1][0] == 'title':      # mixed-case wrapped line
             seq[-1] = ('title', seq[-1][1] + ' ' + strip_leaders(s))
 
     types = [t for t, _ in seq]
@@ -225,11 +261,15 @@ def parse_toc(blocks):
             elif pending:                        # num closes the pending title
                 entries.append((' '.join(pending), v)); pending = []
         entries += [(v, None) for v in pending]
-    elif len(nums) == len(titles) + 1:           # block, DIRECTORIO page only
-        entries = [('DIRECTORIO', nums[0])] + list(zip(titles, nums[1:]))
     else:                                         # block (Serie 8)
-        entries = [(t, nums[i] if i < len(nums) else None)
-                   for i, t in enumerate(titles)]
+        if len(nums) and len(titles) > len(nums):
+            titles = merge_to_count(titles, len(nums))
+        if len(nums) == len(titles) + 1 and \
+           not norm_key(titles[0]).startswith('directorio'):
+            entries = [('DIRECTORIO', nums[0])] + list(zip(titles, nums[1:]))
+        else:
+            entries = [(t, nums[i] if i < len(nums) else None)
+                       for i, t in enumerate(titles)]
     return entries
 
 # ---------------------------------------------------------------- segment
@@ -418,7 +458,10 @@ def emit_article(meta, title, page_start, page_end, author, author_flag,
 def main(path):
     meta = parse_meta(path)
     z, blocks, fulltext = load_blocks(path)
-    meta['issue_date'], date_raw = find_issue_date(z, fulltext)
+    cover = ' '.join(collapse_spacing(b['text'])
+                     for b in blocks[:toc_start_index(blocks)])
+    meta['issue_date'], date_raw = find_issue_date(z, cover)
+    date_flags = [] if meta['issue_date'] else ['date-missing']
     entries = parse_toc(blocks)
     start = find_body_start(blocks, entries)
     locs = locate_headings(blocks, entries, start)
@@ -445,7 +488,7 @@ def main(path):
         page_start = page
         page_end = entries[i + 1][1] - 1 if i + 1 < len(entries) \
             and entries[i + 1][1] else None
-        extra = []
+        extra = list(date_flags)
         if locs[i] is None:
             # heading absent from the text (usually an image-only section
             # divider). Emit a flagged stub rather than stealing the previous
