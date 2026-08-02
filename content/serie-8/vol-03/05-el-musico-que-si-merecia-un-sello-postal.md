@@ -1,5 +1,5 @@
 ---
-title_es: "El músico que sï merecía un sello postal"
+title_es: "El músico que sí merecía un sello postal"
 title_en: ""
 slug: el-musico-que-si-merecia-un-sello-postal
 series: 8
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# El músico que sï merecía un sello postal
+# El músico que sí merecía un sello postal
 Carlos Humberto Daniel Cano Romero fue un virtuoso violinista y compositor, nacido en Tegucigalpa el 12 de febrero de 1906, siendo sus padres Hipólito Cano y María del Carmen Romero Johanin. Fueron sus padrinos de bautismo el expresidente Policarpo Bonilla y su esposa.
 
 En la iglesia parroquial de san Miguel de Tegucigalpa el día dos de mayo de mil novecientos seis, yo el cura encargado de esta Parroquia, bauticé solemnemente a un niño que nació el doce de febrero del presente año, poniéndole el nombre de Carlos Humberto Daniel, es hijo legítimo de Hipólito Cano y María del Carmen Romero. Fueron padrinos Policarpo Bonilla y Emma Bonilla. Santiago Zelaya.

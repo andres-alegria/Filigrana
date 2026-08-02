@@ -20,10 +20,10 @@ export interface PublishEntry {
 }
 
 export const publishQueue: PublishEntry[] = [
-  // TODO(Andrés): replace with your chosen launch slate.
+  { id: 'serie-8/vol-01/02-gemas-de-la-mosquitia', publishDate: '2026-08-02' },
+  { id: 'serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal', publishDate: '2026-08-02' },
+  // TODO(Andrés): add the rest of your launch slate here.
   // Pick `id` values (the `file` column, .md optional) from content/_index.csv.
-  // Example (remove before real launch):
-  // { id: 'serie-8/vol-01/02-gemas-de-la-mosquitia', publishDate: '2026-08-04' },
   // { id: 'serie-8/vol-01/06-un-sello-con-historia', publishDate: '2026-08-11', locked: true },
 ];
 
