@@ -1,12 +1,12 @@
 ---
-title_es: "Buzón de Novedades"
+title_es: "Buzón de novedades"
 title_en: ""
 slug: buzon-de-novedades
 series: 8
 volume: 1
 issue_date: 2024-11
 author: "Edgardo Alegría Reichmann"
-themes: []            # EDITORIAL DECISION — assign from the 5-theme vocab
+themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: novedades
 page_start: 71
 page_end: null
@@ -16,10 +16,10 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: []
+review: [theme-guessed]
 ---
 
-# Buzón de Novedades
+# Buzón de novedades
 BERTA CÁCERES - HEROÍNA NACIONAL
 
 Valor de los sellos:

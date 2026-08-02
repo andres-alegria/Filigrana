@@ -19,8 +19,8 @@ image_count: 63
 | Directorio | 2 | — |
 | Editorial | 3 | [01](01-editorial.md) |
 | Gemas de la Mosquitia | 4 | [02](02-gemas-de-la-mosquitia.md) |
-| Raoul Charles de Thuin – una Verdadera Pesadilla Filatélica | 39 | [03](03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica.md) |
-| Italo Ghizzoni en la Génesis de la Filatelia Hondureña | 61 | [04](04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena.md) |
+| Raoul Charles de Thuin – una verdadera pesadilla filatélica | 39 | [03](03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica.md) |
+| Italo Ghizzoni en la génesis de la filatelia hondureña | 61 | [04](04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena.md) |
 | El Sobresaliente de Hoy | 68 | [05](05-el-sobresaliente-de-hoy.md) |
-| Un Sello con Historia | 69 | [06](06-un-sello-con-historia.md) |
-| Buzón de Novedades | 71 | [07](07-buzon-de-novedades.md) |
+| Un sello con historia | 69 | [06](06-un-sello-con-historia.md) |
+| Buzón de novedades | 71 | [07](07-buzon-de-novedades.md) |

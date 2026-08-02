@@ -6,7 +6,7 @@ series: 8
 volume: 1
 issue_date: 2024-11
 author: "Edgardo Alegría Reichmann"
-themes: []            # EDITORIAL DECISION — assign from the 5-theme vocab
+themes: []   # GUESS — confirm/correct (5-theme vocab)
 feature_type: sobresaliente
 page_start: 68
 page_end: 68

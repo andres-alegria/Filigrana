@@ -58,6 +58,59 @@ def title_case_es(s):
         first = False
     return ''.join(out)
 
+# Recurring-feature titles with a fixed canonical casing (override sentence
+# case). El Sobresaliente de Hoy per Andrés's instruction.
+CANONICAL = {'elsobresalientedehoy': 'El Sobresaliente de Hoy'}
+
+def build_propers(fulltext):
+    """Corpus-driven proper-noun set: words that appear capitalized
+    mid-sentence (not sentence-initial) more often than lowercased. Gives us
+    the case signal the ALL-CAPS titles lack."""
+    counts = {}
+    tokens = re.findall(r"[^\W\d_]+|[.!?:;¡¿]", fulltext, re.UNICODE)
+    sent_start = True
+    for tok in tokens:
+        if tok in '.!?:;¡¿':
+            sent_start = tok in '.!?'
+            continue
+        if tok.isupper() and len(tok) > 1:      # acronym / heading word
+            sent_start = False; continue
+        low = tok.lower()
+        d = counts.setdefault(low, [0, 0])       # [cap_mid, lower]
+        if tok[0].isupper():
+            if not sent_start:
+                d[0] += 1
+        else:
+            d[1] += 1
+        sent_start = False
+    # Common adjectives that ride along inside org names ("Honduras
+    # Filatélica", "Federación Filatélica") but are lowercase as plain words.
+    stop = {'filatelica', 'filatelico', 'filatelia', 'postal', 'postales',
+            'nacional', 'internacional', 'republica', 'federacion'}
+    return {w for w, (cap, lo) in counts.items()
+            if cap >= 2 and cap > lo and len(w) > 2
+            and strip_accents(w) not in stop}
+
+def sentence_case_es(s, propers):
+    """Spanish sentence case: first word + proper nouns capitalized, the
+    rest lowercase. Roman numerals stay upper."""
+    key = norm_key(s)
+    if key in CANONICAL:
+        return CANONICAL[key]
+    s = collapse_spacing(s).strip().rstrip('.').strip()
+    parts, out, first = re.split(r'(\s+|[–—-])', s.lower()), [], True
+    for p in parts:
+        if not p.strip() or p in '–—-':
+            out.append(p); continue
+        if re.fullmatch(r'[ivxlcdm]+', p) and len(p) > 1:
+            out.append(p.upper())
+        elif first or p in propers:
+            out.append(p[:1].upper() + p[1:])
+        else:
+            out.append(p)
+        first = False
+    return ''.join(out)
+
 def slugify(s):
     s = strip_accents(collapse_spacing(s)).lower()
     s = re.sub(r'[^a-z0-9]+', '-', s).strip('-')
@@ -202,14 +255,53 @@ def clean_body(blocks, lo, hi, issue_title_keys):
 
 BYLINE = re.compile(r'^\s*(?:por|texto de|escrito por)\s*[:\-]?\s*(.+)$', re.I)
 
+def canonical_author(name):
+    """Standardize the known recurring author names to one canonical form."""
+    n = strip_accents(name).lower()
+    if 'edgardo' in n and 'alegr' in n: return 'Edgardo Alegría Reichmann'
+    if 'humberto' in n and 'prats' in n: return 'Humberto Prats G.'
+    if 'balladares' in n: return 'Manuel Balladares'
+    if 'welch' in n: return 'Bill Welch'
+    return collapse_spacing(name).rstrip('.')
+
 def detect_author(paras):
     """Return (author, flag, byline_index). byline_index is the paragraph to
     drop from the body once its name is lifted into the author field."""
     for i, p in enumerate(paras[:6]):
         m = BYLINE.match(p)
         if m and len(m.group(1)) < 60:
-            return collapse_spacing(m.group(1)).rstrip('.'), False, i
+            return canonical_author(m.group(1)), False, i
     return "Edgardo Alegría Reichmann", True, None   # default -> flag
+
+# Best-guess theme classifier (the 5-theme vocab). Always flagged
+# `theme-guessed` so Andrés confirms/corrects — never treated as final.
+THEME_KW = {
+    'Historia postal y falsificaciones':
+        ['falsific', 'falso', 'falsa', 'cancelacion', 'matasellos', 'seebeck',
+         'thuin', 'emision', 'perforac', 'charnela', 'provisional',
+         'sobrecarga', 'filigrana', 'timbre', 'fechador'],
+    'Historia a través del correo':
+        ['censo', 'independencia', 'presidente', 'guerra', 'colonial',
+         'poblacion', 'republica', 'historia postal', 'genesis', 'biografia'],
+    'Transporte y modernidad':
+        ['ferrocarril', 'tren', 'avion', 'aereo', 'aeropostal', 'vapor',
+         'barco', 'transporte', 'carretera', 'diligencia', 'mula', 'vuelo'],
+    'Intriga y escándalo':
+        ['escandalo', 'intriga', 'asesin', 'robo', 'fraude', 'conspir',
+         'pesadilla', 'crimen', 'contrabando', 'pirata'],
+    'Curiosidades':
+        ['curiosidad', 'rareza', 'gema', 'insolito', 'singular', 'anecdota',
+         'peculiar'],
+}
+
+def guess_theme(title, summary):
+    hay = strip_accents((title + ' ' + summary).lower())
+    best, score = None, 0
+    for theme, kws in THEME_KW.items():
+        s = sum(hay.count(k) for k in kws)
+        if s > score:
+            best, score = theme, s
+    return best or 'Historia a través del correo'
 
 def feature_type(title):
     k = norm_key(title)
@@ -226,13 +318,16 @@ def yaml_str(s):
     return '"' + s.replace('"', '\\"') + '"'
 
 def emit_article(meta, title, page_start, page_end, author, author_flag,
-                 ftype, paras, images, extra_flags):
+                 ftype, paras, images, extra_flags, themes):
     slug = slugify(title)
     summary = ' '.join(' '.join(paras).split()[:40]) if paras else ''
     review = []
     if author_flag: review.append('author-unconfirmed')
     if not paras: review.append('empty-body')
+    if themes: review.append('theme-guessed')
     review += extra_flags
+    themes_yaml = ('[' + ', '.join(yaml_str(t) for t in themes) + ']'
+                   if themes else '[]')
     fm = [
         '---',
         f'title_es: {yaml_str(title)}',
@@ -242,7 +337,7 @@ def emit_article(meta, title, page_start, page_end, author, author_flag,
         f'volume: {meta["volume"]}',
         f'issue_date: {meta.get("issue_date") or "\"\""}',
         f'author: {yaml_str(author)}',
-        'themes: []            # EDITORIAL DECISION — assign from the 5-theme vocab',
+        f'themes: {themes_yaml}   # GUESS — confirm/correct (5-theme vocab)',
         f'feature_type: {ftype}',
         f'page_start: {page_start if page_start else "null"}',
         f'page_end: {page_end if page_end else "null"}',
@@ -276,6 +371,7 @@ def main(path):
     entries = parse_toc(blocks)
     start = find_body_start(blocks, entries)
     locs = locate_headings(blocks, entries, start)
+    propers = build_propers(fulltext)
 
     out_dir = os.path.join(ROOT, 'content',
                            f'serie-{meta["serie"]}',
@@ -293,7 +389,7 @@ def main(path):
     for i, (title, page) in enumerate(entries):
         if feature_type(title) == 'directorio':
             continue
-        clean_title = title_case_es(title)
+        clean_title = sentence_case_es(title, propers)
         ftype = feature_type(title)
         page_start = page
         page_end = entries[i + 1][1] - 1 if i + 1 < len(entries) \
@@ -306,7 +402,7 @@ def main(path):
             extra.append('heading-image-only')
             slug, md = emit_article(meta, clean_title, page_start, page_end,
                                     "Edgardo Alegría Reichmann", False, ftype,
-                                    [], [], extra)
+                                    [], [], extra, [])
             fname = f'{i:02d}-{slug}.md'
             with open(os.path.join(out_dir, fname), 'w') as f:
                 f.write(md)
@@ -316,14 +412,22 @@ def main(path):
         hi = next((locs[j] for j in range(i + 1, len(locs))
                    if locs[j] is not None), n)
         paras, images, _ = clean_body(blocks, lo + 1, hi, issue_title_keys)
+        # drop a leading ALL-CAPS subtitle that just repeats part of the title
+        if paras and paras[0].isupper() and \
+           norm_key(paras[0]) in norm_key(clean_title):
+            paras.pop(0)
         author, aflag, byidx = detect_author(paras)
         if byidx is not None:
             paras.pop(byidx)                    # lift byline into front-matter
         if ftype in ('editorial', 'sello-con-historia', 'sobresaliente',
                      'credo', 'novedades'):
             author, aflag = "Edgardo Alegría Reichmann", False
+        summary_seed = ' '.join(paras[:2]) if paras else ''
+        themes = [] if ftype in ('editorial', 'directorio') \
+            else [guess_theme(clean_title, summary_seed)]
         slug, md = emit_article(meta, clean_title, page_start, page_end,
-                                author, aflag, ftype, paras, images, extra)
+                                author, aflag, ftype, paras, images, extra,
+                                themes)
         fname = f'{i:02d}-{slug}.md'
         with open(os.path.join(out_dir, fname), 'w') as f:
             f.write(md)
@@ -337,9 +441,9 @@ def main(path):
         if feature_type(title) == 'directorio':
             toc_lines.append(f'| Directorio | {page} | — |')
             continue
+        ct = sentence_case_es(title, propers)
         toc_lines.append(
-            f'| {title_case_es(title)} | {page or "?"} | '
-            f'[{i:02d}]({i:02d}-{slugify(title_case_es(title))}.md) |')
+            f'| {ct} | {page or "?"} | [{i:02d}]({i:02d}-{slugify(ct)}.md) |')
     issue_md = '\n'.join([
         '---',
         f'series: {meta["serie"]}',

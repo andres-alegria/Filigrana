@@ -1,27 +1,25 @@
 ---
-title_es: "Raoul Charles de Thuin – una Verdadera Pesadilla Filatélica"
+title_es: "Raoul Charles de Thuin – una verdadera pesadilla filatélica"
 title_en: ""
 slug: raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica
 series: 8
 volume: 1
 issue_date: 2024-11
 author: "Edgardo Alegría Reichmann"
-themes: []            # EDITORIAL DECISION — assign from the 5-theme vocab
+themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
 page_start: 39
 page_end: 60
 image_count: 13   # flagged; precise article-image match is a later pass
-summary_es: "UNA VERDADERA PESADILLA FILATÉLICA Raoul Charles de Thuin Knapenn, nacido en Bruselas, Bélgica en 1890 del matrimonio formado por Charles de Thuin y Marie Louise Knapenn, fue un prolífico falsificador y comerciante de sellos, quien en su mejor etapa operó"
+summary_es: "Raoul Charles de Thuin Knapenn, nacido en Bruselas, Bélgica en 1890 del matrimonio formado por Charles de Thuin y Marie Louise Knapenn, fue un prolífico falsificador y comerciante de sellos, quien en su mejor etapa operó desde Mérida, Yucatán, México,"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [author-unconfirmed]
+review: [author-unconfirmed, theme-guessed]
 ---
 
-# Raoul Charles de Thuin – una Verdadera Pesadilla Filatélica
-UNA VERDADERA PESADILLA FILATÉLICA
-
+# Raoul Charles de Thuin – una verdadera pesadilla filatélica
 Raoul Charles de Thuin Knapenn, nacido en Bruselas, Bélgica en 1890 del matrimonio formado por Charles de Thuin y Marie Louise Knapenn, fue un prolífico falsificador y comerciante de sellos, quien en su mejor etapa operó desde Mérida, Yucatán, México, país del cual eventualmente se naturalizó.
 
 Su hija Raymonde (1911–1998), nacida en Bruselas (Bélgica), contrajo nupcias en Tegucigalpa con el abogado José Ángel Ulloa Donaire (1903-1989), quien en 1961 fungió como Canciller de la República y luego como Embajador de Honduras en México. Tuvieron dos hijos, Ileana y Alejandro, acreditado este último como Embajador de Honduras en Bélgica (1998-2002) y como Alcalde de Tegucigalpa (1978-1981).

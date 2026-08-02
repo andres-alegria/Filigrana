@@ -1,12 +1,12 @@
 ---
-title_es: "Un Sello con Historia"
+title_es: "Un sello con historia"
 title_en: ""
 slug: un-sello-con-historia
 series: 8
 volume: 1
 issue_date: 2024-11
 author: "Edgardo Alegría Reichmann"
-themes: []            # EDITORIAL DECISION — assign from the 5-theme vocab
+themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: sello-con-historia
 page_start: 69
 page_end: 70
@@ -16,10 +16,10 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: []
+review: [theme-guessed]
 ---
 
-# Un Sello con Historia
+# Un sello con historia
 1916
 
 RECUERDO DEL DE FEBRERO

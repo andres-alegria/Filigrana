@@ -1,27 +1,25 @@
 ---
-title_es: "Italo Ghizzoni en la Génesis de la Filatelia Hondureña"
+title_es: "Italo Ghizzoni en la génesis de la filatelia hondureña"
 title_en: ""
 slug: italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena
 series: 8
 volume: 1
 issue_date: 2024-11
-author: "Edgardo Alegría R"
-themes: []            # EDITORIAL DECISION — assign from the 5-theme vocab
+author: "Edgardo Alegría Reichmann"
+themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
 page_start: 61
 page_end: 67
 image_count: 8   # flagged; precise article-image match is a later pass
-summary_es: "DE LA FILATELIA HONDUREÑA El tema se basa en este precioso sobre dirigido el 30 de mayo de 1896 a Miguel Gálvez Jiménez, Calle de La Cruz No. 1, Madrid, que más allá de insertarse en los primerísimos días de"
+summary_es: "El tema se basa en este precioso sobre dirigido el 30 de mayo de 1896 a Miguel Gálvez Jiménez, Calle de La Cruz No. 1, Madrid, que más allá de insertarse en los primerísimos días de vida de la Litografía"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: []
+review: [theme-guessed]
 ---
 
-# Italo Ghizzoni en la Génesis de la Filatelia Hondureña
-DE LA FILATELIA HONDUREÑA
-
+# Italo Ghizzoni en la génesis de la filatelia hondureña
 El tema se basa en este precioso sobre dirigido el 30 de mayo de 1896 a Miguel Gálvez Jiménez, Calle de La Cruz No. 1, Madrid, que más allá de insertarse en los primerísimos días de vida de la Litografía Nacional, cautelosamente nos induce a una posible relación de compra/venta ligada a la primera emisión elaborada en el país, y posiblemente a la segunda también. Pero, antes que nada, un poco sobre la historia precedente.
 
 El proceso de creación de la Litografía Nacional de Honduras nació a través de la firma de un contrato en la Ciudad de Cádiz, España, el 10 de noviembre de 1889, entre el comisionado por el gobierno de Honduras, doctor Antonio Ramírez Fontecha, en ese entonces rector de la Universidad Central de Honduras, y el ciudadano italiano Italo Ghizzoni Cappelletti.
