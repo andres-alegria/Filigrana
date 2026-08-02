@@ -70,6 +70,61 @@ CANONICAL = {'elsobresalientedehoy': 'El Sobresaliente de Hoy'}
 SKIP_TITLES = {'buzondenovedades', 'nuestronuevosocio', 'nuestrosnuevossocios',
                'nuestronuevossocios', 'bienvenidosnuestrosnuevossocios'}
 
+# Recurring-feature names that get fused onto the end of a real title when the
+# TOC wraps ("... UN SELLO CON HISTORIA BUZÓN DE NOVEDADES"). Peeled off as
+# their own entries so the real article stays clean and the feature is handled
+# on its own (dropped if in SKIP_TITLES, or kept as its own file).
+FEATURE_PHRASES = ['buzon de novedades', 'un sello con historia',
+                   'el sobresaliente de hoy', 'credo del filatelista',
+                   'nuestros nuevos socios', 'nuestro nuevos socios',
+                   'nuestro nuevo socio']
+
+# Words a title should never end on: a title ending here is a wrapped line and
+# continues into the next TOC entry ("...ENVIADA POR UN" + "HIJO DEL...").
+DANGLE = {'de', 'del', 'la', 'el', 'los', 'las', 'un', 'una', 'unos', 'unas',
+          'y', 'e', 'o', 'en', 'a', 'al', 'con', 'para', 'por', 'su', 'sus',
+          'que', 'sin'}
+
+def split_features(title):
+    """Peel any trailing recurring-feature names off a title.
+    Returns (prefix, [feature_entries])."""
+    words = title.split()
+    norm = [strip_accents(w).lower().strip('.,;:¿?¡!') for w in words]
+    suffixes = []
+    changed = True
+    while changed and words:
+        changed = False
+        for ph in FEATURE_PHRASES:
+            pw = ph.split(); n = len(pw)
+            if len(words) > n and norm[-n:] == pw:
+                suffixes.insert(0, ' '.join(words[-n:]))
+                words, norm = words[:-n], norm[:-n]; changed = True; break
+    return ' '.join(words).strip(), suffixes
+
+def merge_danglers(entries):
+    """Join a title that ends on a dangling connector/article into the next
+    entry (a wrapped TOC title split across two lines)."""
+    out = []
+    i = 0
+    while i < len(entries):
+        title, page = entries[i]
+        while i + 1 < len(entries) and title.split() and \
+                strip_accents(title.split()[-1]).lower().strip('.,;:') in DANGLE:
+            title = title + ' ' + entries[i + 1][0]
+            i += 1                               # absorb next, keep first page
+        out.append((title, page)); i += 1
+    return out
+
+def apply_toc_corrections(entries):
+    split = []
+    for t, p in entries:
+        pre, sufs = split_features(t)
+        if pre:
+            split.append((pre, p))
+        for s in sufs:
+            split.append((s, p))
+    return merge_danglers(split)
+
 # Confirmed issue dates for issues whose cover date is image-only (not in the
 # text). Andrés-confirmed; overrides extraction so a rebuild keeps them.
 DATE_OVERRIDES = {
@@ -285,7 +340,7 @@ def parse_toc(blocks):
         else:
             entries = [(t, nums[i] if i < len(nums) else None)
                        for i, t in enumerate(titles)]
-    return entries
+    return apply_toc_corrections(entries)
 
 # ---------------------------------------------------------------- segment
 def find_body_start(blocks, entries):
@@ -514,6 +569,8 @@ def main(path):
         page_start = page
         page_end = entries[i + 1][1] - 1 if i + 1 < len(entries) \
             and entries[i + 1][1] else None
+        if page_end is not None and page_start:   # same-page split -> clamp
+            page_end = max(page_end, page_start)
         extra = list(date_flags)
         if locs[i] is None:
             # heading absent from the text (usually an image-only section

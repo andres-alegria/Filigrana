@@ -4,7 +4,7 @@ volume: 2
 issue_date: 2024-12
 source_file: "(28) Vol. 2 - Serie 8.docx"
 incompleta: false
-article_count: 9
+article_count: 8
 image_count: 97
 ---
 
@@ -24,5 +24,4 @@ image_count: 97
 | El Sobresaliente de Hoy | 40 | [05](05-el-sobresaliente-de-hoy.md) |
 | Una postal primigenia | 43 | [06](06-una-postal-primigenia.md) |
 | Un sello con historia | 44 | [07](07-un-sello-con-historia.md) |
-| La Empresa Correos de Honduras inaugura su | 46 | [08](08-la-empresa-correos-de-honduras-inaugura-su.md) |
-| Primera muestra filatélica Buzón de novedades | 47 | [09](09-primera-muestra-filatelica-buzon-de-novedades.md) |
+| La Empresa Correos de Honduras inaugura su primera muestra filatélica | 46 | [08](08-la-empresa-correos-de-honduras-inaugura-su-primera-muestra-f.md) |

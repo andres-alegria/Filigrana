@@ -1,14 +1,14 @@
 ---
-title_es: "Hijo del General Morazán"
+title_es: "Emerge tarjeta postal de 1897 enviada por un hijo del General Morazán"
 title_en: ""
-slug: hijo-del-general-morazan
+slug: emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera
 series: 8
 volume: 3
 issue_date: 2025-06
 author: "Erick J. Rodríguez"
 themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
-page_start: 17
+page_start: 10
 page_end: 30
 image_count: 5   # flagged; precise article-image match is a later pass
 summary_es: "Una conexión olvidada entre el legado, el comercio y la historia postal de Nicaragua. Francisco Morazán Moncada Esta extraordinaria pieza surgió durante una búsqueda entre varios álbumes con sobres y tarjetas postales, donde había permanecido sin ser reconocida durante décadas."
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Hijo del General Morazán
+# Emerge tarjeta postal de 1897 enviada por un hijo del General Morazán
 Una conexión olvidada entre el legado, el comercio y la historia postal de Nicaragua.
 
 Francisco Morazán Moncada

@@ -97,9 +97,10 @@ series,volume,issue_date,order,title_es,author,feature_type,themes,page_start,pa
 7,9,2022-06,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,,serie-7/vol-09/01-editorial.md
 7,9,2022-06,02,Enigmas de la Litografía nacional al imprimir la emisión postal de 1896,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,4,29,17,,serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos.md
 7,9,2022-06,03,Se aprueba una contrata para el transporte de correo a Choluteca,Edgardo Alegría Reichmann,investigacion,Transporte y modernidad,30,33,7,,serie-7/vol-09/03-se-aprueba-una-contrata-para-el-transporte-de-correo-a-cholu.md
-7,9,2022-06,05,Los permitase de la Casa Kohncke,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,35,49,18,,serie-7/vol-09/05-los-permitase-de-la-casa-kohncke.md
-7,9,2022-06,06,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,Historia postal y falsificaciones,50,50,1,,serie-7/vol-09/06-el-sobresaliente-de-hoy.md
-7,9,2022-06,07,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,51,51,1,,serie-7/vol-09/07-un-sello-con-historia.md
+7,9,2022-06,04,Bienvenidos,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,34,34,1,empty-body,serie-7/vol-09/04-bienvenidos.md
+7,9,2022-06,06,Los permitase de la Casa Kohncke,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,35,49,18,,serie-7/vol-09/06-los-permitase-de-la-casa-kohncke.md
+7,9,2022-06,07,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,Historia postal y falsificaciones,50,50,1,,serie-7/vol-09/07-el-sobresaliente-de-hoy.md
+7,9,2022-06,08,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,51,51,1,,serie-7/vol-09/08-un-sello-con-historia.md
 7,10,2022-12,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,13,,serie-7/vol-10/01-editorial.md
 7,10,2022-12,02,El surgimiento y uso del papel sellado,Edgardo Alegría Reichmann,investigacion,,4,21,0,empty-body; heading-image-only,serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado.md
 7,10,2022-12,03,En la Capitanía General de Guatemala,Edgardo Alegría Reichmann,investigacion,,22,25,0,empty-body; heading-image-only,serie-7/vol-10/03-en-la-capitania-general-de-guatemala.md
@@ -108,7 +109,7 @@ series,volume,issue_date,order,title_es,author,feature_type,themes,page_start,pa
 7,10,2022-12,06,El caso excepcional del correo encaminado en Honduras,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,46,50,33,,serie-7/vol-10/06-el-caso-excepcional-del-correo-encaminado-en-honduras.md
 7,10,2022-12,07,Renuncia don Pío Bustillo,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,51,52,3,,serie-7/vol-10/07-renuncia-don-pio-bustillo.md
 7,10,2022-12,08,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,Historia a través del correo,53,53,2,,serie-7/vol-10/08-el-sobresaliente-de-hoy.md
-7,10,2022-12,09,Un sello con historia buzón de novedades,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,54,null,7,,serie-7/vol-10/09-un-sello-con-historia-buzon-de-novedades.md
+7,10,2022-12,09,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,54,54,1,,serie-7/vol-10/09-un-sello-con-historia.md
 7,11,2023-06,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,,serie-7/vol-11/01-editorial.md
 7,11,2023-06,02,Una diligencia al servicio del correo,Edgardo Alegría Reichmann,investigacion,Transporte y modernidad,4,33,20,,serie-7/vol-11/02-una-diligencia-al-servicio-del-correo.md
 7,11,2023-06,03,Marcas de control sobre los timbres de Honduras,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,34,45,49,,serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras.md
@@ -134,17 +135,15 @@ series,volume,issue_date,order,title_es,author,feature_type,themes,page_start,pa
 8,2,2024-12,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,40,42,0,empty-body; heading-image-only,serie-8/vol-02/05-el-sobresaliente-de-hoy.md
 8,2,2024-12,06,Una postal primigenia,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,43,43,2,,serie-8/vol-02/06-una-postal-primigenia.md
 8,2,2024-12,07,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,44,45,3,,serie-8/vol-02/07-un-sello-con-historia.md
-8,2,2024-12,08,La Empresa Correos de Honduras inaugura su,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,46,46,7,,serie-8/vol-02/08-la-empresa-correos-de-honduras-inaugura-su.md
-8,2,2024-12,09,Primera muestra filatélica Buzón de novedades,Edgardo Alegría Reichmann,novedades,,47,null,0,empty-body; heading-image-only,serie-8/vol-02/09-primera-muestra-filatelica-buzon-de-novedades.md
+8,2,2024-12,08,La Empresa Correos de Honduras inaugura su primera muestra filatélica,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,46,46,1,,serie-8/vol-02/08-la-empresa-correos-de-honduras-inaugura-su-primera-muestra-f.md
 8,3,2025-06,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,,serie-8/vol-03/01-editorial.md
 8,3,2025-06,02,Variedades en la emisión de celéo arias,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,4,9,9,,serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias.md
-8,3,2025-06,03,Emerge tarjeta postal de 1897 enviada por un,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,10,16,0,empty-body,serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un.md
-8,3,2025-06,04,Hijo del General Morazán,Erick J. Rodríguez,investigacion,Historia a través del correo,17,30,5,,serie-8/vol-03/04-hijo-del-general-morazan.md
-8,3,2025-06,05,"Dr. Raúl Durón membreño, un personaje controvertido",Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,31,37,21,,serie-8/vol-03/05-dr-raul-duron-membreno-un-personaje-controvertido.md
-8,3,2025-06,06,El músico que sï merecía un sello postal,Edgardo Alegría Reichmann,investigacion,,38,38,0,empty-body; heading-image-only,serie-8/vol-03/06-el-musico-que-si-merecia-un-sello-postal.md
-8,3,2025-06,08,Surgimiento de los enteros telegráficos de 15 y 20 centavos,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,46,47,14,,serie-8/vol-03/08-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos.md
-8,3,2025-06,09,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,48,49,0,empty-body; heading-image-only,serie-8/vol-03/09-el-sobresaliente-de-hoy.md
-8,3,2025-06,10,Un sello con historia buzón de novedades,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,50,null,18,,serie-8/vol-03/10-un-sello-con-historia-buzon-de-novedades.md
+8,3,2025-06,03,Emerge tarjeta postal de 1897 enviada por un hijo del General Morazán,Erick J. Rodríguez,investigacion,Historia a través del correo,10,30,5,,serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera.md
+8,3,2025-06,04,"Dr. Raúl Durón membreño, un personaje controvertido",Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,31,37,21,,serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido.md
+8,3,2025-06,05,El músico que sï merecía un sello postal,Edgardo Alegría Reichmann,investigacion,,38,38,0,empty-body; heading-image-only,serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal.md
+8,3,2025-06,07,Surgimiento de los enteros telegráficos de 15 y 20 centavos,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,46,47,14,,serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos.md
+8,3,2025-06,08,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,48,49,0,empty-body; heading-image-only,serie-8/vol-03/08-el-sobresaliente-de-hoy.md
+8,3,2025-06,09,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,50,50,1,,serie-8/vol-03/09-un-sello-con-historia.md
 8,4,2025-08,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,,serie-8/vol-04/01-editorial.md
 8,4,2025-08,02,Censura postal CIVIL al correo de Honduras durante la Segunda guerra Mundial,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,4,31,43,,serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund.md
 8,4,2025-08,03,La Locomotora – su reimpresión de 1902,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,32,42,17,,serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902.md

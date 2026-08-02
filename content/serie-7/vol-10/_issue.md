@@ -25,4 +25,4 @@ image_count: 123
 | El caso excepcional del correo encaminado en Honduras | 46 | [06](06-el-caso-excepcional-del-correo-encaminado-en-honduras.md) |
 | Renuncia don Pío Bustillo | 51 | [07](07-renuncia-don-pio-bustillo.md) |
 | El Sobresaliente de Hoy | 53 | [08](08-el-sobresaliente-de-hoy.md) |
-| Un sello con historia buzón de novedades | 54 | [09](09-un-sello-con-historia-buzon-de-novedades.md) |
+| Un sello con historia | 54 | [09](09-un-sello-con-historia.md) |
