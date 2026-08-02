@@ -7,6 +7,10 @@ Filatelia/
 # moodboard HTML embeds only what it needs).
 _moodboard_src/
 
+# Extracted magazine images — derived from the (git-ignored) source docx
+# and fully regenerable by the pipeline. Copyrighted; kept local for now.
+content/_assets/
+
 # --- OS / editor cruft ---
 .DS_Store
 *.swp
