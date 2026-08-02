@@ -173,6 +173,26 @@ section{padding:78px 0;border-top:1px solid var(--line);position:relative}
 .wm .hint{position:absolute;bottom:8px;font-family:'IBM Plex Mono',monospace;font-size:9.5px;
   letter-spacing:.15em;color:var(--ink-soft)}
 #guilloche-motif{width:100%;height:150px}
+/* texture-pair motif: duotone by default, true grabado revealed on hover */
+.tex-pair{display:flex;gap:14px;width:100%}
+.tex{flex:1;aspect-ratio:1;position:relative;overflow:hidden;border:1px solid var(--line);cursor:pointer}
+.tex img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;
+  filter:grayscale(1) contrast(1.15) brightness(1.05);z-index:0}
+.tex::after{content:"";position:absolute;inset:0;background:var(--green);
+  mix-blend-mode:multiply;opacity:.6;transition:opacity .5s var(--ease);z-index:1}
+.tex.alt::after{background:var(--blue);opacity:.55}
+.tex:hover::after{opacity:.1}
+.tex .lbl{position:absolute;left:9px;bottom:8px;z-index:2;font-family:'IBM Plex Mono',monospace;
+  font-size:9.5px;letter-spacing:.1em;color:#f4eeda;text-shadow:0 1px 3px rgba(0,0,0,.5)}
+
+/* ============================================================ IDENTIDAD */
+.logo-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.logo-plate{border:1px solid var(--line);padding:44px;display:flex;align-items:center;justify-content:center}
+.logo-plate img{width:100%;max-width:420px}
+.logo-plate.on-white{background:#fdfbf4}
+.logo-plate.on-vitela{background:var(--paper-lit)}
+.logo-note{grid-column:1 / -1;font-size:13.5px;color:var(--ink-soft);max-width:64ch;margin-top:6px}
+.logo-note em{color:var(--ink);font-style:italic}
 
 /* ============================================================ IN USE */
 .use{display:grid;grid-template-columns:1.1fr .9fr;gap:0;border:1px solid var(--line);
@@ -199,9 +219,10 @@ footer{padding:56px 0 70px;border-top:1px solid var(--line)}
 
 @media(max-width:820px){
   .wrap{padding:0 22px}
-  .concept-grid,.type-grid,.use{grid-template-columns:1fr}
+  .concept-grid,.type-grid,.use,.logo-grid{grid-template-columns:1fr}
   .swatches{grid-template-columns:repeat(2,1fr)}
   .motif-grid{grid-template-columns:1fr}
+  .tex-pair{flex-direction:column}
   .type-demo .body{columns:1}
 }
 </style>
@@ -245,10 +266,23 @@ footer{padding:56px 0 70px;border-top:1px solid var(--line)}
   </div>
 </section>
 
-<!-- ===================================================== 02 PALETA -->
+<!-- ===================================================== 02 IDENTIDAD -->
+<section id="identidad">
+  <div class="wrap">
+    <div class="sec-head reveal"><span class="sec-num">02</span><h2 class="section-t">Identidad heredada</h2></div>
+    <p class="lead reveal" style="max-width:56ch;margin-bottom:28px">El emblema FFRH, redibujado en vector fiel al original de 1974 — la marca institucional que <em class="serif">Filigrana</em> acompaña, no reemplaza.</p>
+    <div class="logo-grid reveal">
+      <div class="logo-plate on-white"><img src="Logo.svg" alt="Federación Filatélica de la República de Honduras — emblema FFRH, 1974"></div>
+      <div class="logo-plate on-vitela"><img src="Logo.svg" alt=""></div>
+      <p class="logo-note">Uso institucional — actas, correspondencia oficial, portada impresa de la revista. En el sitio aparece con moderación: pie de página, créditos de cada edición y portada de archivo. El protagonismo en pantalla es de <em>Filigrana</em>, la voz editorial digital.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ===================================================== 03 PALETA -->
 <section id="paleta">
   <div class="wrap">
-    <div class="sec-head reveal"><span class="sec-num">02</span><h2 class="section-t">Paleta</h2></div>
+    <div class="sec-head reveal"><span class="sec-num">03</span><h2 class="section-t">Paleta</h2></div>
     <div class="swatches reveal">
       <div class="sw"><div class="chip" style="background:var(--paper)"><span class="chip-label" style="color:var(--ink-soft)">papel</span></div>
         <div class="meta"><div class="name">Vitela</div><div class="role">Fondo · papel</div><div class="hex">#E9DFC7</div></div></div>
@@ -264,10 +298,10 @@ footer{padding:56px 0 70px;border-top:1px solid var(--line)}
   </div>
 </section>
 
-<!-- ===================================================== 03 TIPOGRAFÍA -->
+<!-- ===================================================== 04 TIPOGRAFÍA -->
 <section id="tipografia">
   <div class="wrap">
-    <div class="sec-head reveal"><span class="sec-num">03</span><h2 class="section-t">Tipografía</h2></div>
+    <div class="sec-head reveal"><span class="sec-num">04</span><h2 class="section-t">Tipografía</h2></div>
     <div class="type-grid reveal">
       <div class="spec"><div class="glyph">Aa</div><div class="fam">Fraunces</div>
         <div class="role">Display · titulares</div>
@@ -291,10 +325,10 @@ footer{padding:56px 0 70px;border-top:1px solid var(--line)}
   </div>
 </section>
 
-<!-- ===================================================== 04 TEXTURA -->
+<!-- ===================================================== 05 TEXTURA -->
 <section id="textura">
   <div class="wrap">
-    <div class="sec-head reveal"><span class="sec-num">04</span><h2 class="section-t">Textura &amp; imagen</h2></div>
+    <div class="sec-head reveal"><span class="sec-num">05</span><h2 class="section-t">Textura &amp; imagen</h2></div>
     <p class="lead reveal" style="max-width:44ch;margin-bottom:36px">El detalle macro del grabado como material principal — presentado como láminas de gabinete.</p>
     <div class="plates reveal">
       <figure class="plate"><img src="../Intaglio/Unknown-4.jpg" alt=""><figcaption class="cap"><span>Trama cruzada · efigie</span><span class="no">Pl. 01</span></figcaption></figure>
@@ -313,10 +347,10 @@ footer{padding:56px 0 70px;border-top:1px solid var(--line)}
   </div>
 </section>
 
-<!-- ===================================================== 05 MOTIVOS -->
+<!-- ===================================================== 06 MOTIVOS -->
 <section id="motivos">
   <div class="wrap">
-    <div class="sec-head reveal"><span class="sec-num">05</span><h2 class="section-t">Motivos gráficos</h2></div>
+    <div class="sec-head reveal"><span class="sec-num">06</span><h2 class="section-t">Motivos gráficos</h2></div>
     <div class="motif-grid reveal">
       <div class="motif">
         <div class="mt">Guilloché generativo</div>
@@ -336,14 +370,22 @@ footer{padding:56px 0 70px;border-top:1px solid var(--line)}
           <div style="width:100%;height:1px;background:linear-gradient(90deg,transparent,var(--green),var(--gold),var(--green),transparent)"></div>
         </div>
       </div>
+      <div class="motif" style="grid-column:1 / -1">
+        <div class="mt">Texturas intaglio</div>
+        <div class="md">Pares de grabado en detalle, entonados en la paleta — para fondos de sección y estados hover. Pasa el cursor para revelar el grabado real.</div>
+        <div class="stage"><div class="tex-pair">
+          <div class="tex"><img src="../Intaglio/Unknown-9.jpg" alt="Guilloché · red de puntos"><span class="lbl">FONDO DE SECCIÓN</span></div>
+          <div class="tex alt"><img src="../Intaglio/Unknown-12.jpg" alt="Guilloché · rose engine"><span class="lbl">OVERLAY · HOVER</span></div>
+        </div></div>
+      </div>
     </div>
   </div>
 </section>
 
-<!-- ===================================================== 06 EN USO -->
+<!-- ===================================================== 07 EN USO -->
 <section id="uso">
   <div class="wrap">
-    <div class="sec-head reveal"><span class="sec-num">06</span><h2 class="section-t">En uso</h2></div>
+    <div class="sec-head reveal"><span class="sec-num">07</span><h2 class="section-t">En uso</h2></div>
     <div class="use reveal">
       <div class="art"><img src="../Intaglio/Unknown-8.jpg" alt=""><span class="tag">EXHIBICIÓN</span></div>
       <div class="txt">
