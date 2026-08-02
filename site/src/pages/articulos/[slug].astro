@@ -1,0 +1,50 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import PasswordGate from '../../components/PasswordGate.astro';
+import { publishQueue, isPublished, findEntry } from '../../data/publish';
+import { routeSlug } from '../../lib/routing';
+import { LOCK_HASH } from '../../data/lock';
+import { stripLeadingTitle } from '../../lib/content';
+
+export async function getStaticPaths() {
+  const articles = await getCollection('articles');
+  return publishQueue
+    .filter((p) => isPublished(p))
+    .map((p) => {
+      const entry = findEntry(articles, p);
+      return entry
+        ? { params: { slug: routeSlug(entry) }, props: { entry, locked: !!p.locked, publishDate: p.publishDate } }
+        : null;
+    })
+    .filter((x) => x !== null);
+}
+
+const { entry, locked, publishDate } = Astro.props;
+const { title_es, author, themes, page_start, page_end, series, volume } = entry.data;
+const dateLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-HN', {
+  year: 'numeric', month: 'long', day: 'numeric',
+});
+---
+<Layout title={title_es} description={entry.data.summary_es}>
+  <article>
+    <header class="article-head wrap">
+      <div class="meta">
+        <span>{dateLabel}</span>
+        {themes[0] && <span>· {themes[0]}</span>}
+        <span>· Serie {series}, Vol. {volume}</span>
+        {page_start && <span>· pág. {page_start}{page_end && page_end !== page_start ? `–${page_end}` : ''}</span>}
+      </div>
+      <h1>{title_es}</h1>
+      <div class="byline">POR {author.toUpperCase()}</div>
+    </header>
+
+    <div class="wrap">
+      {locked ? (
+        <PasswordGate slug={routeSlug(entry)} lockHash={LOCK_HASH} />
+      ) : (
+        <div class="article-body" set:html={stripLeadingTitle(entry.rendered?.html ?? '')} />
+      )}
+    </div>
+  </article>
+</Layout>

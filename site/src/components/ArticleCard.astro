@@ -1,0 +1,24 @@
+---
+interface Props {
+  routeSlug: string;
+  title: string;
+  author: string;
+  publishDate: string;
+  themes: string[];
+  summary?: string;
+  locked?: boolean;
+}
+const { routeSlug, title, author, publishDate, themes, summary, locked } = Astro.props;
+const dateLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-HN', {
+  year: 'numeric', month: 'long', day: 'numeric',
+});
+---
+<a class="card" href={`/articulos/${routeSlug}/`}>
+  <div class="meta">
+    <span>{dateLabel}</span>
+    {themes[0] && <span>· {themes[0]}</span>}
+    {locked && <span class="lockpill">🔒 Con contraseña</span>}
+  </div>
+  <h2>{title}</h2>
+  {summary && <p class="dek">{summary}</p>}
+</a>

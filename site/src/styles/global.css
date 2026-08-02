@@ -1,0 +1,102 @@
+/* ============================================================
+   FILIGRANA — global styles
+   Design tokens mirror design/moodboard.html. Adjust palette,
+   type, and spacing here — everything else reads from these.
+   ============================================================ */
+:root{
+  --paper:#e9dfc7;
+  --paper-lit:#f4eeda;
+  --ink:#1c1a15;
+  --ink-soft:#544c3d;
+  --green:#1a4731;
+  --green-mid:#356b4f;
+  --blue:#264458;
+  --gold:#b0863f;
+  --line:rgba(28,26,21,.16);
+  --maxw:900px;
+  --ease:cubic-bezier(.2,.7,.2,1);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  font-family:'Archivo',system-ui,sans-serif;
+  color:var(--ink);
+  background-color:var(--paper);
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.35 0 0 0 0 0.31 0 0 0 0 0.22 0 0 0 0.06 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+  line-height:1.65;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 28px}
+a{color:inherit}
+img{max-width:100%;display:block}
+
+.kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.24em;
+  text-transform:uppercase;color:var(--green)}
+h1,h2,h3{font-family:'Fraunces',serif;font-weight:400;letter-spacing:-.01em;line-height:1.08}
+.serif-italic{font-family:'Fraunces',serif;font-style:italic;font-weight:300}
+
+/* ---------- header ---------- */
+header.site{padding:26px 0;border-bottom:1px solid var(--line)}
+header.site .row{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px}
+.wordmark{font-family:'Fraunces',serif;font-size:26px;letter-spacing:-.01em}
+.wordmark .fil{color:var(--green)}
+.wordmark .dot{color:var(--gold)}
+nav.site a{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-soft);text-decoration:none;margin-left:22px}
+nav.site a:hover{color:var(--green)}
+
+/* ---------- hero ---------- */
+.hero{padding:64px 0 48px;position:relative;overflow:hidden}
+#hero-canvas{position:absolute;inset:0;width:100%;height:100%;opacity:.5;z-index:0;pointer-events:none}
+.hero .wrap{position:relative;z-index:1}
+.hero h1{font-size:clamp(38px,7vw,64px)}
+.hero p.tag{font-family:'Fraunces',serif;font-style:italic;font-weight:300;
+  font-size:clamp(17px,2vw,21px);color:var(--ink-soft);margin-top:10px;max-width:34ch}
+
+/* ---------- article cards / list ---------- */
+.article-list{display:flex;flex-direction:column}
+.card{display:block;text-decoration:none;color:inherit;padding:26px 0;
+  border-top:1px solid var(--line)}
+.card:last-child{border-bottom:1px solid var(--line)}
+.card .meta{font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.1em;
+  color:var(--ink-soft);text-transform:uppercase;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.card .lockpill{border:1px solid var(--gold);color:var(--gold);border-radius:999px;
+  padding:2px 8px;font-size:9.5px;letter-spacing:.1em}
+.card h2{font-size:clamp(21px,3vw,27px);margin-top:8px}
+.card:hover h2{color:var(--green)}
+.card p.dek{color:var(--ink-soft);font-size:14.5px;margin-top:8px;max-width:62ch}
+
+/* ---------- article page ---------- */
+.article-head{padding:44px 0 24px;border-bottom:1px solid var(--line)}
+.article-head .meta{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.12em;
+  color:var(--ink-soft);text-transform:uppercase;display:flex;gap:12px;flex-wrap:wrap}
+.article-head h1{font-size:clamp(30px,5vw,46px);margin-top:12px}
+.article-head .byline{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.1em;
+  color:var(--gold);margin-top:16px}
+.article-body{padding:36px 0 60px;font-size:17.5px;line-height:1.75;max-width:70ch}
+.article-body p{margin-bottom:1.3em}
+
+/* ---------- password gate ---------- */
+.gate{border:1px solid var(--line);background:var(--paper-lit);padding:32px 30px;
+  margin:36px 0;max-width:44ch}
+.gate p{color:var(--ink-soft);font-size:14px;margin-bottom:16px}
+.gate form{display:flex;gap:10px;flex-wrap:wrap}
+.gate input[type=password]{flex:1;min-width:160px;border:1px solid var(--line);
+  background:var(--paper);padding:10px 12px;font-family:'Archivo',sans-serif;font-size:14px;color:var(--ink)}
+.gate button{border:1px solid var(--green);background:var(--green);color:var(--paper-lit);
+  padding:10px 18px;font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.1em;
+  text-transform:uppercase;cursor:pointer}
+.gate button:hover{background:var(--green-mid)}
+.gate .err{color:#8a3324;font-size:12.5px;margin-top:10px;display:none}
+.gate.err .err{display:block}
+
+/* ---------- footer ---------- */
+footer.site{padding:40px 0 56px;border-top:1px solid var(--line);margin-top:40px}
+.colophon{display:flex;justify-content:space-between;flex-wrap:wrap;gap:14px;
+  font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.08em;color:var(--ink-soft)}
+
+@media(max-width:640px){
+  .wrap{padding:0 20px}
+  nav.site a{margin-left:14px}
+}

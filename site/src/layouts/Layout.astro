@@ -1,0 +1,50 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = 'Filigrana — el sello como puerta a la historia.' } = Astro.props;
+---
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title} · Filigrana</title>
+  <meta name="description" content={description} />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,300;1,9..144,400&family=Archivo:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+    rel="stylesheet"
+  />
+</head>
+<body>
+  <header class="site">
+    <div class="wrap row">
+      <a href="/" style="text-decoration:none">
+        <span class="wordmark"><span class="fil">Filigra</span>na<span class="dot">.</span></span>
+      </a>
+      <nav class="site">
+        <a href="/">Inicio</a>
+        <a href="/articulos/">Artículos</a>
+        <a href="/sobre/">Sobre</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <slot />
+  </main>
+
+  <footer class="site">
+    <div class="wrap colophon">
+      <span>FILIGRANA</span>
+      <span>FEDERACIÓN FILATÉLICA DE HONDURAS</span>
+      <span>filigrana.hn</span>
+    </div>
+  </footer>
+</body>
+</html>

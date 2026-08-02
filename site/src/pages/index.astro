@@ -1,0 +1,97 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import { publishQueue, isPublished, findEntry } from '../data/publish';
+import { routeSlug } from '../lib/routing';
+
+const articles = await getCollection('articles');
+const latest = publishQueue
+  .filter((p) => isPublished(p))
+  .sort((a, b) => b.publishDate.localeCompare(a.publishDate))
+  .slice(0, 5)
+  .map((p) => ({ ...p, entry: findEntry(articles, p) }))
+  .filter((p) => p.entry);
+---
+<Layout title="Inicio">
+  <section class="hero">
+    <canvas id="hero-canvas"></canvas>
+    <div class="wrap">
+      <span class="kicker">Honduras Filatélica · digital</span>
+      <h1>La marca oculta en el papel, revelada a contraluz.</h1>
+      <p class="tag">El sello como puerta a la historia — 60 años de filatelia hondureña, en artículos.</p>
+    </div>
+  </section>
+
+  <section class="wrap" style="padding:36px 0 60px">
+    <h2 style="font-size:22px;margin-bottom:6px">Últimos artículos</h2>
+    <div class="article-list">
+      {latest.map(({ entry, publishDate, locked }) => (
+        <ArticleCard
+          routeSlug={routeSlug(entry!)}
+          title={entry!.data.title_es}
+          author={entry!.data.author}
+          publishDate={publishDate}
+          themes={entry!.data.themes}
+          summary={entry!.data.summary_es}
+          locked={locked}
+        />
+      ))}
+    </div>
+    {latest.length === 0 && (
+      <p style="color:var(--ink-soft)">Aún no hay artículos publicados — vuelve pronto.</p>
+    )}
+    <p style="margin-top:24px"><a href="/articulos/" style="font-family:'IBM Plex Mono',monospace;font-size:12px;letter-spacing:.1em;color:var(--green)">VER TODOS LOS ARTÍCULOS →</a></p>
+  </section>
+</Layout>
+
+<script>
+  function guilloche(canvas, opts) {
+    const dpr = Math.min(window.devicePixelRatio || 1, 2);
+    const rect = canvas.getBoundingClientRect();
+    const w = (canvas.width = rect.width * dpr), h = (canvas.height = rect.height * dpr);
+    const ctx = canvas.getContext('2d');
+    ctx.clearRect(0, 0, w, h);
+    const lw = (opts.lw || 0.6) * dpr;
+    const cx = w / 2, cy = h / 2;
+    const scale = (Math.min(w, h) / 2) * (opts.scale || 0.86);
+    opts.layers.forEach((L) => {
+      const off = document.createElement('canvas');
+      off.width = w; off.height = h;
+      const octx = off.getContext('2d');
+      octx.lineWidth = lw; octx.strokeStyle = L.color;
+      octx.beginPath();
+      const { R, r, d, turns = 60 } = L, step = 0.02;
+      for (let t = 0; t <= Math.PI * 2 * turns; t += step) {
+        const k = (R - r) / r;
+        const x = (R - r) * Math.cos(t) + d * Math.cos(k * t);
+        const y = (R - r) * Math.sin(t) - d * Math.sin(k * t);
+        const px = cx + x * scale, py = cy + y * scale;
+        t === 0 ? octx.moveTo(px, py) : octx.lineTo(px, py);
+      }
+      octx.stroke();
+      ctx.globalAlpha = L.alpha ?? 0.5;
+      ctx.drawImage(off, 0, 0);
+    });
+    ctx.globalAlpha = 1;
+  }
+  function draw() {
+    const c = document.getElementById('hero-canvas');
+    if (!c) return;
+    const cs = getComputedStyle(document.documentElement);
+    const G = cs.getPropertyValue('--green').trim();
+    const B = cs.getPropertyValue('--blue').trim();
+    const Au = cs.getPropertyValue('--gold').trim();
+    guilloche(c, {
+      lw: 0.5, scale: 1.15,
+      layers: [
+        { R: 1, r: 0.34, d: 0.68, color: G, alpha: 0.24, turns: 50 },
+        { R: 1, r: 0.3, d: 0.62, color: B, alpha: 0.16, turns: 50 },
+        { R: 1, r: 0.233, d: 0.5, color: Au, alpha: 0.18, turns: 80 },
+      ],
+    });
+  }
+  draw();
+  let rt;
+  addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(draw, 180); });
+</script>
