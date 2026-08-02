@@ -4,13 +4,13 @@ volume: 11
 issue_date: 2023-06
 source_file: "(25) Vol. 11 - Serie 7.docx"
 incompleta: false
-article_count: 7
+article_count: 6
 image_count: 136
 ---
 
 # Honduras Filatélica — Serie 7, Volumen 11
 
-*2023-06*
+*2023-06 (confirmado)*
 
 ## Contenido
 
@@ -23,4 +23,3 @@ image_count: 136
 | Se perdió un vestido | 46 | [04](04-se-perdio-un-vestido.md) |
 | El Sobresaliente de Hoy | 48 | [05](05-el-sobresaliente-de-hoy.md) |
 | Un sello con historia | 50 | [06](06-un-sello-con-historia.md) |
-| Buzón de novedades | 55 | [07](07-buzon-de-novedades.md) |

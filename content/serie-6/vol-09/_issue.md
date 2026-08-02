@@ -4,7 +4,7 @@ volume: 9
 issue_date: 2016-06
 source_file: "(11) Vol. 9 - Serie 6.docx"
 incompleta: false
-article_count: 8
+article_count: 7
 image_count: 57
 ---
 
@@ -24,4 +24,3 @@ image_count: 57
 | Los sellos sobretasa “centenario de la muerte del General Francisco morazán” y “cruz Roja hondureña” | 30 | [05](05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra.md) |
 | Nos visitó nuestro socio Christian b | 37 | [06](06-nos-visito-nuestro-socio-christian-b.md) |
 | El Sobresaliente de Hoy | 38 | [07](07-el-sobresaliente-de-hoy.md) |
-| Buzón de novedades | 39 | [08](08-buzon-de-novedades.md) |

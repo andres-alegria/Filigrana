@@ -4,7 +4,7 @@ volume: 10
 issue_date: 2016-12
 source_file: "(12) Vol. 10 - Serie 6.docx"
 incompleta: false
-article_count: 6
+article_count: 5
 image_count: 62
 ---
 
@@ -22,4 +22,3 @@ image_count: 62
 | El sobre que escapó a una revolución | 20 | [03](03-el-sobre-que-escapo-a-una-revolucion.md) |
 | Los matasellos Doane | 45 | [04](04-los-matasellos-doane.md) |
 | El Sobresaliente de Hoy | 48 | [05](05-el-sobresaliente-de-hoy.md) |
-| Buzón de novedades | 49 | [06](06-buzon-de-novedades.md) |

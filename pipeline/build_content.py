@@ -63,6 +63,21 @@ def title_case_es(s):
 # case). El Sobresaliente de Hoy per Andrés's instruction.
 CANONICAL = {'elsobresalientedehoy': 'El Sobresaliente de Hoy'}
 
+# Recurring administrative sections to drop entirely (not real articles).
+# Matched on the exact normalized title, so real pieces that merely mention
+# these words ("Los buzones de 1954", "Un buzón de 1877...") are kept, as are
+# wrapped-title merges ("Un sello con historia buzón de novedades").
+SKIP_TITLES = {'buzondenovedades', 'nuestronuevosocio', 'nuestrosnuevossocios',
+               'nuestronuevossocios', 'bienvenidosnuestrosnuevossocios'}
+
+# Confirmed issue dates for issues whose cover date is image-only (not in the
+# text). Andrés-confirmed; overrides extraction so a rebuild keeps them.
+DATE_OVERRIDES = {
+    (7, 7): '2021-06', (7, 11): '2023-06', (7, 12): '2023-12',
+    (8, 1): '2024-06', (8, 2): '2024-12', (8, 3): '2025-06',
+    (8, 4): '2025-08', (8, 5): '2026-01',
+}
+
 def build_propers(fulltext):
     """Corpus-driven proper-noun set: words that appear capitalized
     mid-sentence (not sentence-initial) more often than lowercased. Gives us
@@ -463,9 +478,13 @@ def main(path):
         print(f"SKIPPED (incompleta): {meta['source_file']}")
         return
     z, blocks, fulltext = load_blocks(path)
-    cover = ' '.join(collapse_spacing(b['text'])
-                     for b in blocks[:toc_start_index(blocks)])
-    meta['issue_date'], date_raw = find_issue_date(z, cover)
+    override = DATE_OVERRIDES.get((meta['serie'], meta['volume']))
+    if override:
+        meta['issue_date'], date_raw = override, override + ' (confirmado)'
+    else:
+        cover = ' '.join(collapse_spacing(b['text'])
+                         for b in blocks[:toc_start_index(blocks)])
+        meta['issue_date'], date_raw = find_issue_date(z, cover)
     date_flags = [] if meta['issue_date'] else ['date-missing']
     entries = parse_toc(blocks)
     start = find_body_start(blocks, entries)
@@ -489,6 +508,8 @@ def main(path):
         if feature_type(title) == 'directorio':
             continue
         clean_title = sentence_case_es(title, propers)
+        if norm_key(clean_title) in SKIP_TITLES:
+            continue                             # drop recurring admin section
         ftype = feature_type(title)
         page_start = page
         page_end = entries[i + 1][1] - 1 if i + 1 < len(entries) \
@@ -541,6 +562,8 @@ def main(path):
             toc_lines.append(f'| Directorio | {page} | — |')
             continue
         ct = sentence_case_es(title, propers)
+        if norm_key(ct) in SKIP_TITLES:
+            continue                             # dropped section: keep out of TOC
         toc_lines.append(
             f'| {ct} | {page or "?"} | [{i:02d}]({i:02d}-{slugify(ct)}.md) |')
     issue_md = '\n'.join([

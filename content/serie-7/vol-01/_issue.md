@@ -4,7 +4,7 @@ volume: 1
 issue_date: 2018-06
 source_file: "(15) Vol. 1 - Serie 7.docx"
 incompleta: false
-article_count: 11
+article_count: 10
 image_count: 53
 ---
 
@@ -27,4 +27,3 @@ image_count: 53
 | Como arruinar un sobre | 31 | [08](08-como-arruinar-un-sobre.md) |
 | Un buzón de 1877 en tegugigalpa | 33 | [09](09-un-buzon-de-1877-en-tegugigalpa.md) |
 | El Sobresaliente de Hoy | 35 | [10](10-el-sobresaliente-de-hoy.md) |
-| Buzón de novedades | 36 | [11](11-buzon-de-novedades.md) |

@@ -42,6 +42,20 @@ don't edit the CSV by hand.
   incomplete (only a table of contents + one section). The pipeline skips any
   file marked *incompleta*; the source stays in `Filatelia/`. Re-run on a
   complete version to add it back.
+- **Recurring admin sections removed:** *Buzón de novedades* and *Nuestro(s)
+  nuevo(s) socio(s)* are dropped everywhere (pipeline `SKIP_TITLES`). Real
+  articles that merely mention the words are kept (*Los buzones de 1954*,
+  *Un buzón de 1877…*, *Nos visitó nuestro socio Christian B*). **Still to
+  decide:** three wrapped-title merges keep a "Buzón de novedades" tail fused
+  to a real feature — split or trim as you like:
+  `serie-7/vol-10/09-un-sello-con-historia-buzon-de-novedades.md`,
+  `serie-8/vol-02/09-primera-muestra-filatelica-buzon-de-novedades.md`,
+  `serie-8/vol-03/10-un-sello-con-historia-buzon-de-novedades.md`.
+- **Issue dates** whose cover carries the date only as an image are set from
+  `DATE_OVERRIDES` in `build_content.py` (Andrés-confirmed), so a rebuild
+  keeps them. A full rebuild does re-add the `theme-guessed` /
+  `author-unconfirmed` flags (they're generation-time guesses); the committed
+  files are the reviewed version with those cleared.
 - **Wrapped TOC titles** occasionally split one article in two (e.g. S8V3
   *"Emerge tarjeta postal…"* + *"…hijo del general Morazán"*). Flagged
   `empty-body` — merge the two files if so.

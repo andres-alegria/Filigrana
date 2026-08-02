@@ -4,7 +4,7 @@ volume: 12
 issue_date: 2017-12
 source_file: "(14) Vol. 12 - Serie 6.docx"
 incompleta: false
-article_count: 9
+article_count: 8
 image_count: 107
 ---
 
@@ -25,4 +25,3 @@ image_count: 107
 | Honduras presente en Brasilia 2017 | 37 | [06](06-honduras-presente-en-brasilia-2017.md) |
 | Un sello con historia | 39 | [07](07-un-sello-con-historia.md) |
 | El Sobresaliente de Hoy | 41 | [08](08-el-sobresaliente-de-hoy.md) |
-| Buzón de novedades | 42 | [09](09-buzon-de-novedades.md) |

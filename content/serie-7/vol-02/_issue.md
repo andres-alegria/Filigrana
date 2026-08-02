@@ -4,7 +4,7 @@ volume: 2
 issue_date: 2018-12
 source_file: "(16) Vol. 2 - Serie 7.docx"
 incompleta: false
-article_count: 7
+article_count: 6
 image_count: 45
 ---
 
@@ -23,4 +23,3 @@ image_count: 45
 | El caso del Scott c20b, usado | 21 | [04](04-el-caso-del-scott-c20b-usado.md) |
 | Un sello con historia | 24 | [05](05-un-sello-con-historia.md) |
 | El Sobresaliente de Hoy | 28 | [06](06-el-sobresaliente-de-hoy.md) |
-| Buzón de novedades | 31 | [07](07-buzon-de-novedades.md) |
