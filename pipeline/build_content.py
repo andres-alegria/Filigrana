@@ -457,6 +457,11 @@ def emit_article(meta, title, page_start, page_end, author, author_flag,
 # ---------------------------------------------------------------- driver
 def main(path):
     meta = parse_meta(path)
+    if meta['incompleta']:
+        # The source file is incomplete (only a TOC + stray content); it does
+        # not belong in the content set. Skip it — the .docx stays in Filatelia/.
+        print(f"SKIPPED (incompleta): {meta['source_file']}")
+        return
     z, blocks, fulltext = load_blocks(path)
     cover = ' '.join(collapse_spacing(b['text'])
                      for b in blocks[:toc_start_index(blocks)])

@@ -38,8 +38,10 @@ don't edit the CSV by hand.
 
 ## Known things to check
 
-- **S6V7 (Vol. 7 Serie 6)** is the *incompleta* issue — several articles are
-  empty because the content isn't in the source file.
+- **S6V7 (Vol. 7 Serie 6)** was **excluded** — its source `.docx` is
+  incomplete (only a table of contents + one section). The pipeline skips any
+  file marked *incompleta*; the source stays in `Filatelia/`. Re-run on a
+  complete version to add it back.
 - **Wrapped TOC titles** occasionally split one article in two (e.g. S8V3
   *"Emerge tarjeta postal…"* + *"…hijo del general Morazán"*). Flagged
   `empty-body` — merge the two files if so.
