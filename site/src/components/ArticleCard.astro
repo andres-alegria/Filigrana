@@ -7,8 +7,9 @@ interface Props {
   publishDate: string; // YYYY-MM-DD, site debut
   summary?: string;
   locked?: boolean;
+  coverSrc?: string | null;
 }
-const { routeSlug, title, author, issueDate, publishDate, summary, locked } = Astro.props;
+const { routeSlug, title, author, issueDate, publishDate, summary, locked, coverSrc } = Astro.props;
 
 const onlineLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-HN', {
   year: 'numeric', month: 'long', day: 'numeric',
@@ -20,7 +21,9 @@ const originalLabel = issueDate
   : null;
 ---
 <a class="card" href={`/articulos/${routeSlug}/`}>
-  <div class="thumb" aria-hidden="true"></div>
+  <div class="thumb" aria-hidden="true">
+    {coverSrc && <img src={coverSrc} alt="" loading="lazy" />}
+  </div>
   <div class="body">
     <div class="byline">Por {author}</div>
     <h2>{title}</h2>

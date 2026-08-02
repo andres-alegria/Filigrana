@@ -5,6 +5,7 @@ import ArticleCard from '../components/ArticleCard.astro';
 import ShareBar from '../components/ShareBar.astro';
 import { publishQueue, isPublished, findEntry } from '../data/publish';
 import { routeSlug } from '../lib/routing';
+import { getArticleImages } from '../lib/images';
 
 const articles = await getCollection('articles');
 const latest = publishQueue
@@ -29,17 +30,21 @@ const latest = publishQueue
   <section class="wrap" style="padding:36px 0 60px">
     <h2 style="font-size:22px;margin-bottom:6px">Últimos artículos</h2>
     <div class="article-list">
-      {latest.map(({ entry, publishDate, locked, teaser }) => (
-        <ArticleCard
-          routeSlug={routeSlug(entry!)}
-          title={entry!.data.title_es}
-          author={entry!.data.author}
-          issueDate={entry!.data.issue_date}
-          publishDate={publishDate}
-          summary={teaser ?? entry!.data.summary_es}
-          locked={locked}
-        />
-      ))}
+      {latest.map(({ entry, publishDate, locked, teaser }) => {
+        const cover = getArticleImages(entry!.id)?.cover;
+        return (
+          <ArticleCard
+            routeSlug={routeSlug(entry!)}
+            title={entry!.data.title_es}
+            author={entry!.data.author}
+            issueDate={entry!.data.issue_date}
+            publishDate={publishDate}
+            summary={teaser ?? entry!.data.summary_es}
+            locked={locked}
+            coverSrc={cover ? `/img/${entry!.id}/${cover}` : null}
+          />
+        );
+      })}
     </div>
     {latest.length === 0 && (
       <p style="color:var(--ink-soft)">Aún no hay artículos publicados — vuelve pronto.</p>

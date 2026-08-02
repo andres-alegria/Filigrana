@@ -1,7 +1,8 @@
 import { getCollection } from 'astro:content';
 import { publishQueue, isPublished, findEntry } from '../../data/publish';
 import { routeSlug } from '../../lib/routing';
-import { stripLeadingTitle } from '../../lib/content';
+import { stripLeadingTitle, formatBibliography, injectFigures } from '../../lib/content';
+import { getArticleImages } from '../../lib/images';
 
 export const prerender = true;
 
@@ -18,7 +19,12 @@ export async function getStaticPaths() {
 
 export async function GET({ props }: { props: { entry: any } }) {
   const { entry } = props;
-  const html = stripLeadingTitle(entry.rendered?.html ?? '');
+  const images = getArticleImages(entry.id);
+  const html = injectFigures(
+    formatBibliography(stripLeadingTitle(entry.rendered?.html ?? '')),
+    entry.id,
+    images
+  );
   return new Response(JSON.stringify({ html }), {
     headers: { 'Content-Type': 'application/json' },
   });

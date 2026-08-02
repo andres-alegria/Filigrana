@@ -6,7 +6,8 @@ import ShareBar from '../../components/ShareBar.astro';
 import { publishQueue, isPublished, findEntry } from '../../data/publish';
 import { routeSlug } from '../../lib/routing';
 import { LOCK_HASH } from '../../data/lock';
-import { stripLeadingTitle } from '../../lib/content';
+import { stripLeadingTitle, formatBibliography, injectFigures } from '../../lib/content';
+import { getArticleImages } from '../../lib/images';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -27,6 +28,12 @@ const dateLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-HN'
   year: 'numeric', month: 'long', day: 'numeric',
 });
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
+const images = getArticleImages(entry.id);
+const bodyHtml = injectFigures(
+  formatBibliography(stripLeadingTitle(entry.rendered?.html ?? '')),
+  entry.id,
+  images
+);
 ---
 <Layout title={title_es} description={entry.data.summary_es}>
   <article>
@@ -46,7 +53,7 @@ const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
       {locked ? (
         <PasswordGate slug={routeSlug(entry)} lockHash={LOCK_HASH} />
       ) : (
-        <div class="article-body" set:html={stripLeadingTitle(entry.rendered?.html ?? '')} />
+        <div class="article-body" set:html={bodyHtml} />
       )}
     </div>
   </article>
