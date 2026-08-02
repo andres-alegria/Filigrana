@@ -1,7 +1,7 @@
 ---
 series: 8
 volume: 2
-issue_date: ""
+issue_date: 2024-12
 source_file: "(28) Vol. 2 - Serie 8.docx"
 incompleta: false
 article_count: 9
@@ -10,7 +10,7 @@ image_count: 97
 
 # Honduras Filatélica — Serie 8, Volumen 2
 
-*fecha por confirmar*
+*2024-12*  *(fecha estimada — confirmar)*
 
 ## Contenido
 

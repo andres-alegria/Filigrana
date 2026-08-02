@@ -4,7 +4,7 @@ title_en: ""
 slug: los-buzones-de-1954
 series: 8
 volume: 2
-issue_date: ""
+issue_date: 2024-12
 author: "Edgardo Alegría Reichmann"
 themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [theme-guessed, date-missing]
+review: [theme-guessed, date-guessed]
 ---
 
 # Los buzones de 1954

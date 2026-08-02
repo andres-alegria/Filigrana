@@ -4,7 +4,7 @@ title_en: ""
 slug: una-diligencia-al-servicio-del-correo
 series: 7
 volume: 11
-issue_date: ""
+issue_date: 2023-06
 author: "Edgardo Alegría Reichmann"
 themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [theme-guessed, date-missing]
+review: [theme-guessed]
 ---
 
 # Una diligencia al servicio del correo

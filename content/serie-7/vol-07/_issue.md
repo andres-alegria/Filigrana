@@ -1,7 +1,7 @@
 ---
 series: 7
 volume: 7
-issue_date: ""
+issue_date: 2021-06
 source_file: "(21) Vol. 7 - Serie 7.docx"
 incompleta: false
 article_count: 7
@@ -10,7 +10,7 @@ image_count: 51
 
 # Honduras Filatélica — Serie 7, Volumen 7
 
-*fecha por confirmar*
+*2021-06*
 
 ## Contenido
 

@@ -1,7 +1,7 @@
 ---
 series: 8
 volume: 3
-issue_date: ""
+issue_date: 2025-06
 source_file: "(29) Vol. 3 - Serie 8.docx"
 incompleta: false
 article_count: 10
@@ -10,7 +10,7 @@ image_count: 82
 
 # Honduras Filatélica — Serie 8, Volumen 3
 
-*fecha por confirmar*
+*2025-06*  *(fecha estimada — confirmar)*
 
 ## Contenido
 

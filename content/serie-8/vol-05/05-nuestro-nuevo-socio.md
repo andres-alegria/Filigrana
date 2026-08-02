@@ -4,7 +4,7 @@ title_en: ""
 slug: nuestro-nuevo-socio
 series: 8
 volume: 5
-issue_date: ""
+issue_date: 2026-01
 author: "Edgardo Alegría Reichmann"
 themes: []   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [empty-body, date-missing, heading-image-only]
+review: [empty-body, heading-image-only, date-guessed]
 ---
 
 # Nuestro nuevo socio

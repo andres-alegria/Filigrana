@@ -4,7 +4,7 @@ title_en: ""
 slug: cancelaciones-falsas-en-la-emision-provisional-de-honduras-d
 series: 8
 volume: 5
-issue_date: ""
+issue_date: 2026-01
 author: "Edgardo Alegría Reichmann"
 themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [theme-guessed, date-missing]
+review: [theme-guessed, date-guessed]
 ---
 
 # Cancelaciones falsas en la emisión provisional de Honduras de 1877

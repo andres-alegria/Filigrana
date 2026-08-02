@@ -1,7 +1,7 @@
 ---
 series: 7
 volume: 12
-issue_date: ""
+issue_date: 2023-12
 source_file: "(26) Vol. 12 - Serie 7.docx"
 incompleta: false
 article_count: 8
@@ -10,7 +10,7 @@ image_count: 102
 
 # Honduras Filatélica — Serie 7, Volumen 12
 
-*fecha por confirmar*
+*2023-12*
 
 ## Contenido
 

@@ -4,7 +4,7 @@ title_en: ""
 slug: editorial
 series: 8
 volume: 4
-issue_date: ""
+issue_date: 2025-08
 author: "Edgardo Alegría Reichmann"
 themes: []   # GUESS — confirm/correct (5-theme vocab)
 feature_type: editorial
@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [date-missing]
+review: [date-guessed]
 ---
 
 # Editorial

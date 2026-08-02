@@ -4,7 +4,7 @@ title_en: ""
 slug: surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos
 series: 8
 volume: 3
-issue_date: ""
+issue_date: 2025-06
 author: "Edgardo Alegría Reichmann"
 themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [author-unconfirmed, theme-guessed, date-missing]
+review: [author-unconfirmed, theme-guessed, date-guessed]
 ---
 
 # Surgimiento de los enteros telegráficos de 15 y 20 centavos

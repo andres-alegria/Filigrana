@@ -4,7 +4,7 @@ title_en: ""
 slug: tres-conceptos-ship-steamship-y-steamboat
 series: 8
 volume: 2
-issue_date: ""
+issue_date: 2024-12
 author: "Edgardo Alegría Reichmann"
 themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [author-unconfirmed, theme-guessed, date-missing]
+review: [author-unconfirmed, theme-guessed, date-guessed]
 ---
 
 # Tres conceptos: ship, Steamship y Steamboat

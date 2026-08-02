@@ -4,7 +4,7 @@ title_en: ""
 slug: fallecio-christian-bostvironois
 series: 7
 volume: 12
-issue_date: ""
+issue_date: 2023-12
 author: "Edgardo Alegría Reichmann"
 themes: []   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [empty-body, date-missing, heading-image-only]
+review: [empty-body, heading-image-only]
 ---
 
 # Falleció christian bostvironois

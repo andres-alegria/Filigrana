@@ -102,13 +102,13 @@ series,volume,issue_date,order,title_es,author,feature_type,themes,page_start,pa
 7,6,2020-12,07,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,Historia a través del correo,27,31,3,theme-guessed,serie-7/vol-06/07-el-sobresaliente-de-hoy.md
 7,6,2020-12,08,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,32,39,5,theme-guessed,serie-7/vol-06/08-un-sello-con-historia.md
 7,6,2020-12,09,Buzon de novedades,Edgardo Alegría Reichmann,novedades,Historia a través del correo,40,null,2,theme-guessed,serie-7/vol-06/09-buzon-de-novedades.md
-7,7,,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-missing,serie-7/vol-07/01-editorial.md
-7,7,,02,La presencia de William Walker en Centro América,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,4,42,32,theme-guessed; date-missing,serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america.md
-7,7,,03,La tarifa que pasó desapercibida,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,43,45,2,theme-guessed; date-missing,serie-7/vol-07/03-la-tarifa-que-paso-desapercibida.md
-7,7,,04,Nuestros nuevos socios,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,46,46,0,author-unconfirmed; theme-guessed; date-missing,serie-7/vol-07/04-nuestros-nuevos-socios.md
-7,7,,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,Historia postal y falsificaciones,47,47,1,theme-guessed; date-missing,serie-7/vol-07/05-el-sobresaliente-de-hoy.md
-7,7,,06,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,48,51,1,theme-guessed; date-missing,serie-7/vol-07/06-un-sello-con-historia.md
-7,7,,07,Luctuosa,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,52,null,0,author-unconfirmed; theme-guessed; date-missing,serie-7/vol-07/07-luctuosa.md
+7,7,2021-06,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,,serie-7/vol-07/01-editorial.md
+7,7,2021-06,02,La presencia de William Walker en Centro América,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,4,42,32,theme-guessed,serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america.md
+7,7,2021-06,03,La tarifa que pasó desapercibida,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,43,45,2,theme-guessed,serie-7/vol-07/03-la-tarifa-que-paso-desapercibida.md
+7,7,2021-06,04,Nuestros nuevos socios,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,46,46,0,author-unconfirmed; theme-guessed,serie-7/vol-07/04-nuestros-nuevos-socios.md
+7,7,2021-06,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,Historia postal y falsificaciones,47,47,1,theme-guessed,serie-7/vol-07/05-el-sobresaliente-de-hoy.md
+7,7,2021-06,06,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,48,51,1,theme-guessed,serie-7/vol-07/06-un-sello-con-historia.md
+7,7,2021-06,07,Luctuosa,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,52,null,0,author-unconfirmed; theme-guessed,serie-7/vol-07/07-luctuosa.md
 7,8,2021-12,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,,serie-7/vol-08/01-editorial.md
 7,8,2021-12,02,El sistema postal en Nicaragua durante el gobierno espurio de William Walker,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,4,30,37,theme-guessed,serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d.md
 7,8,2021-12,03,Honduras: los carteros y sus marcas,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,31,45,26,theme-guessed,serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas.md
@@ -134,62 +134,62 @@ series,volume,issue_date,order,title_es,author,feature_type,themes,page_start,pa
 7,10,2022-12,07,Renuncia don Pío Bustillo,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,51,52,3,author-unconfirmed; theme-guessed,serie-7/vol-10/07-renuncia-don-pio-bustillo.md
 7,10,2022-12,08,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,Historia a través del correo,53,53,2,theme-guessed,serie-7/vol-10/08-el-sobresaliente-de-hoy.md
 7,10,2022-12,09,Un sello con historia buzón de novedades,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,54,null,7,theme-guessed,serie-7/vol-10/09-un-sello-con-historia-buzon-de-novedades.md
-7,11,,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-missing,serie-7/vol-11/01-editorial.md
-7,11,,02,Una diligencia al servicio del correo,Edgardo Alegría Reichmann,investigacion,Transporte y modernidad,4,33,20,theme-guessed; date-missing,serie-7/vol-11/02-una-diligencia-al-servicio-del-correo.md
-7,11,,03,Marcas de control sobre los timbres de Honduras,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,34,45,49,theme-guessed; date-missing,serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras.md
-7,11,,04,Se perdió un vestido,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,46,47,6,author-unconfirmed; theme-guessed; date-missing,serie-7/vol-11/04-se-perdio-un-vestido.md
-7,11,,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,48,49,0,empty-body; date-missing; heading-image-only,serie-7/vol-11/05-el-sobresaliente-de-hoy.md
-7,11,,06,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,50,54,9,theme-guessed; date-missing,serie-7/vol-11/06-un-sello-con-historia.md
-7,11,,07,Buzón de novedades,Edgardo Alegría Reichmann,novedades,Historia a través del correo,55,null,4,theme-guessed; date-missing,serie-7/vol-11/07-buzon-de-novedades.md
-7,12,,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-missing,serie-7/vol-12/01-editorial.md
-7,12,,02,Correspondencia multada,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,4,35,65,theme-guessed; date-missing,serie-7/vol-12/02-correspondencia-multada.md
-7,12,,03,Falleció christian bostvironois,Edgardo Alegría Reichmann,investigacion,,36,36,0,empty-body; date-missing; heading-image-only,serie-7/vol-12/03-fallecio-christian-bostvironois.md
-7,12,,04,Iriona ¿una agencia postal descuidada?,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,37,44,14,theme-guessed; date-missing,serie-7/vol-12/04-iriona-una-agencia-postal-descuidada.md
-7,12,,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,45,45,0,empty-body; date-missing; heading-image-only,serie-7/vol-12/05-el-sobresaliente-de-hoy.md
-7,12,,06,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,46,48,2,theme-guessed; date-missing,serie-7/vol-12/06-un-sello-con-historia.md
-7,12,,07,Nuestro nuevo socio,Edgardo Alegría Reichmann,investigacion,,49,49,0,empty-body; date-missing; heading-image-only,serie-7/vol-12/07-nuestro-nuevo-socio.md
-7,12,,08,Buzón de novedades,Edgardo Alegría Reichmann,novedades,Historia a través del correo,50,null,8,theme-guessed; date-missing,serie-7/vol-12/08-buzon-de-novedades.md
-8,1,,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-missing,serie-8/vol-01/01-editorial.md
-8,1,,02,Gemas de la Mosquitia,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,4,38,20,theme-guessed; date-missing,serie-8/vol-01/02-gemas-de-la-mosquitia.md
-8,1,,03,Raoul Charles de Thuin – una verdadera pesadilla filatélica,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,39,60,13,author-unconfirmed; theme-guessed; date-missing,serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica.md
-8,1,,04,Italo Ghizzoni en la génesis de la filatelia hondureña,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,61,67,8,theme-guessed; date-missing,serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena.md
-8,1,,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,68,68,0,empty-body; date-missing; heading-image-only,serie-8/vol-01/05-el-sobresaliente-de-hoy.md
-8,1,,06,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,69,70,5,theme-guessed; date-missing,serie-8/vol-01/06-un-sello-con-historia.md
-8,1,,07,Buzón de novedades,Edgardo Alegría Reichmann,novedades,Historia a través del correo,71,null,6,theme-guessed; date-missing,serie-8/vol-01/07-buzon-de-novedades.md
-8,2,,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-missing,serie-8/vol-02/01-editorial.md
-8,2,,02,Filatelia de la república Mayor de Centro América,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,4,22,41,theme-guessed; date-missing,serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america.md
-8,2,,03,"Tres conceptos: ship, Steamship y Steamboat",Edgardo Alegría Reichmann,investigacion,Transporte y modernidad,23,27,4,author-unconfirmed; theme-guessed; date-missing,serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat.md
-8,2,,04,Los buzones de 1954,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,28,39,23,theme-guessed; date-missing,serie-8/vol-02/04-los-buzones-de-1954.md
-8,2,,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,40,42,0,empty-body; date-missing; heading-image-only,serie-8/vol-02/05-el-sobresaliente-de-hoy.md
-8,2,,06,Una postal primigenia,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,43,43,2,author-unconfirmed; theme-guessed; date-missing,serie-8/vol-02/06-una-postal-primigenia.md
-8,2,,07,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,44,45,3,theme-guessed; date-missing,serie-8/vol-02/07-un-sello-con-historia.md
-8,2,,08,La Empresa Correos de Honduras inaugura su,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,46,46,7,author-unconfirmed; theme-guessed; date-missing,serie-8/vol-02/08-la-empresa-correos-de-honduras-inaugura-su.md
-8,2,,09,Primera muestra filatélica Buzón de novedades,Edgardo Alegría Reichmann,novedades,,47,null,0,empty-body; date-missing; heading-image-only,serie-8/vol-02/09-primera-muestra-filatelica-buzon-de-novedades.md
-8,3,,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-missing,serie-8/vol-03/01-editorial.md
-8,3,,02,Variedades en la emisión de celéo arias,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,4,9,9,theme-guessed; date-missing,serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias.md
-8,3,,03,Emerge tarjeta postal de 1897 enviada por un,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,10,16,0,author-unconfirmed; empty-body; theme-guessed; date-missing,serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un.md
-8,3,,04,Hijo del General Morazán,Erick J. Rodríguez,investigacion,Historia a través del correo,17,30,5,theme-guessed; date-missing,serie-8/vol-03/04-hijo-del-general-morazan.md
-8,3,,05,"Dr. Raúl Durón membreño, un personaje controvertido",Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,31,37,21,theme-guessed; date-missing,serie-8/vol-03/05-dr-raul-duron-membreno-un-personaje-controvertido.md
-8,3,,06,El músico que sï merecía un sello postal,Edgardo Alegría Reichmann,investigacion,,38,38,0,empty-body; date-missing; heading-image-only,serie-8/vol-03/06-el-musico-que-si-merecia-un-sello-postal.md
-8,3,,07,Nuestro nuevo socio,Edgardo Alegría Reichmann,investigacion,,39,45,0,empty-body; date-missing; heading-image-only,serie-8/vol-03/07-nuestro-nuevo-socio.md
-8,3,,08,Surgimiento de los enteros telegráficos de 15 y 20 centavos,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,46,47,14,author-unconfirmed; theme-guessed; date-missing,serie-8/vol-03/08-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos.md
-8,3,,09,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,48,49,0,empty-body; date-missing; heading-image-only,serie-8/vol-03/09-el-sobresaliente-de-hoy.md
-8,3,,10,Un sello con historia buzón de novedades,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,50,null,18,theme-guessed; date-missing,serie-8/vol-03/10-un-sello-con-historia-buzon-de-novedades.md
-8,4,,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-missing,serie-8/vol-04/01-editorial.md
-8,4,,02,Censura postal CIVIL al correo de Honduras durante la Segunda guerra Mundial,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,4,31,43,theme-guessed; date-missing,serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund.md
-8,4,,03,La Locomotora – su reimpresión de 1902,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,32,42,17,theme-guessed; date-missing,serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902.md
-8,4,,04,Artículos publicados en Honduras filatélica,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,43,49,2,author-unconfirmed; theme-guessed; date-missing,serie-8/vol-04/04-articulos-publicados-en-honduras-filatelica.md
-8,4,,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,50,51,0,empty-body; date-missing; heading-image-only,serie-8/vol-04/05-el-sobresaliente-de-hoy.md
-8,4,,06,Un sello con Historia,Edgardo Alegría Reichmann,sello-con-historia,Historia postal y falsificaciones,52,52,2,theme-guessed; date-missing,serie-8/vol-04/06-un-sello-con-historia.md
-8,4,,07,Gotas del saber,Edgardo Alegría Reichmann,investigacion,Transporte y modernidad,53,53,1,author-unconfirmed; theme-guessed; date-missing,serie-8/vol-04/07-gotas-del-saber.md
-8,4,,08,Nuestro nuevo socio,Edgardo Alegría Reichmann,investigacion,,54,53,0,empty-body; date-missing; heading-image-only,serie-8/vol-04/08-nuestro-nuevo-socio.md
-8,4,,09,Canje filatélico,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,54,54,1,author-unconfirmed; theme-guessed; date-missing,serie-8/vol-04/09-canje-filatelico.md
-8,4,,10,Buzón de novedades,Edgardo Alegría Reichmann,novedades,Historia a través del correo,55,null,2,theme-guessed; date-missing,serie-8/vol-04/10-buzon-de-novedades.md
-8,5,,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-missing,serie-8/vol-05/01-editorial.md
-8,5,,02,Cancelaciones falsas en la emisión provisional de Honduras de 1877,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,4,10,21,theme-guessed; date-missing,serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d.md
-8,5,,03,Matasellos y sellos fechadores usados en las emisiones Seebeck,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,11,40,50,theme-guessed; date-missing,serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe.md
-8,5,,04,Retirando charnelas de manera segura,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,41,47,13,author-unconfirmed; theme-guessed; date-missing,serie-8/vol-05/04-retirando-charnelas-de-manera-segura.md
-8,5,,05,Nuestro nuevo socio,Edgardo Alegría Reichmann,investigacion,,48,48,0,empty-body; date-missing; heading-image-only,serie-8/vol-05/05-nuestro-nuevo-socio.md
-8,5,,06,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,49,50,0,empty-body; date-missing; heading-image-only,serie-8/vol-05/06-el-sobresaliente-de-hoy.md
-8,5,,07,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Transporte y modernidad,51,51,1,theme-guessed; date-missing,serie-8/vol-05/07-un-sello-con-historia.md
-8,5,,08,Credo del filatelista,Edgardo Alegría Reichmann,credo,Historia a través del correo,52,null,0,theme-guessed; date-missing,serie-8/vol-05/08-credo-del-filatelista.md
+7,11,2023-06,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,,serie-7/vol-11/01-editorial.md
+7,11,2023-06,02,Una diligencia al servicio del correo,Edgardo Alegría Reichmann,investigacion,Transporte y modernidad,4,33,20,theme-guessed,serie-7/vol-11/02-una-diligencia-al-servicio-del-correo.md
+7,11,2023-06,03,Marcas de control sobre los timbres de Honduras,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,34,45,49,theme-guessed,serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras.md
+7,11,2023-06,04,Se perdió un vestido,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,46,47,6,author-unconfirmed; theme-guessed,serie-7/vol-11/04-se-perdio-un-vestido.md
+7,11,2023-06,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,48,49,0,empty-body; heading-image-only,serie-7/vol-11/05-el-sobresaliente-de-hoy.md
+7,11,2023-06,06,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,50,54,9,theme-guessed,serie-7/vol-11/06-un-sello-con-historia.md
+7,11,2023-06,07,Buzón de novedades,Edgardo Alegría Reichmann,novedades,Historia a través del correo,55,null,4,theme-guessed,serie-7/vol-11/07-buzon-de-novedades.md
+7,12,2023-12,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,,serie-7/vol-12/01-editorial.md
+7,12,2023-12,02,Correspondencia multada,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,4,35,65,theme-guessed,serie-7/vol-12/02-correspondencia-multada.md
+7,12,2023-12,03,Falleció christian bostvironois,Edgardo Alegría Reichmann,investigacion,,36,36,0,empty-body; heading-image-only,serie-7/vol-12/03-fallecio-christian-bostvironois.md
+7,12,2023-12,04,Iriona ¿una agencia postal descuidada?,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,37,44,14,theme-guessed,serie-7/vol-12/04-iriona-una-agencia-postal-descuidada.md
+7,12,2023-12,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,45,45,0,empty-body; heading-image-only,serie-7/vol-12/05-el-sobresaliente-de-hoy.md
+7,12,2023-12,06,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,46,48,2,theme-guessed,serie-7/vol-12/06-un-sello-con-historia.md
+7,12,2023-12,07,Nuestro nuevo socio,Edgardo Alegría Reichmann,investigacion,,49,49,0,empty-body; heading-image-only,serie-7/vol-12/07-nuestro-nuevo-socio.md
+7,12,2023-12,08,Buzón de novedades,Edgardo Alegría Reichmann,novedades,Historia a través del correo,50,null,8,theme-guessed,serie-7/vol-12/08-buzon-de-novedades.md
+8,1,2024-06,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-guessed,serie-8/vol-01/01-editorial.md
+8,1,2024-06,02,Gemas de la Mosquitia,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,4,38,20,theme-guessed; date-guessed,serie-8/vol-01/02-gemas-de-la-mosquitia.md
+8,1,2024-06,03,Raoul Charles de Thuin – una verdadera pesadilla filatélica,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,39,60,13,author-unconfirmed; theme-guessed; date-guessed,serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica.md
+8,1,2024-06,04,Italo Ghizzoni en la génesis de la filatelia hondureña,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,61,67,8,theme-guessed; date-guessed,serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena.md
+8,1,2024-06,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,68,68,0,empty-body; heading-image-only; date-guessed,serie-8/vol-01/05-el-sobresaliente-de-hoy.md
+8,1,2024-06,06,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,69,70,5,theme-guessed; date-guessed,serie-8/vol-01/06-un-sello-con-historia.md
+8,1,2024-06,07,Buzón de novedades,Edgardo Alegría Reichmann,novedades,Historia a través del correo,71,null,6,theme-guessed; date-guessed,serie-8/vol-01/07-buzon-de-novedades.md
+8,2,2024-12,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-guessed,serie-8/vol-02/01-editorial.md
+8,2,2024-12,02,Filatelia de la república Mayor de Centro América,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,4,22,41,theme-guessed; date-guessed,serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america.md
+8,2,2024-12,03,"Tres conceptos: ship, Steamship y Steamboat",Edgardo Alegría Reichmann,investigacion,Transporte y modernidad,23,27,4,author-unconfirmed; theme-guessed; date-guessed,serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat.md
+8,2,2024-12,04,Los buzones de 1954,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,28,39,23,theme-guessed; date-guessed,serie-8/vol-02/04-los-buzones-de-1954.md
+8,2,2024-12,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,40,42,0,empty-body; heading-image-only; date-guessed,serie-8/vol-02/05-el-sobresaliente-de-hoy.md
+8,2,2024-12,06,Una postal primigenia,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,43,43,2,author-unconfirmed; theme-guessed; date-guessed,serie-8/vol-02/06-una-postal-primigenia.md
+8,2,2024-12,07,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,44,45,3,theme-guessed; date-guessed,serie-8/vol-02/07-un-sello-con-historia.md
+8,2,2024-12,08,La Empresa Correos de Honduras inaugura su,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,46,46,7,author-unconfirmed; theme-guessed; date-guessed,serie-8/vol-02/08-la-empresa-correos-de-honduras-inaugura-su.md
+8,2,2024-12,09,Primera muestra filatélica Buzón de novedades,Edgardo Alegría Reichmann,novedades,,47,null,0,empty-body; heading-image-only; date-guessed,serie-8/vol-02/09-primera-muestra-filatelica-buzon-de-novedades.md
+8,3,2025-06,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-guessed,serie-8/vol-03/01-editorial.md
+8,3,2025-06,02,Variedades en la emisión de celéo arias,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,4,9,9,theme-guessed; date-guessed,serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias.md
+8,3,2025-06,03,Emerge tarjeta postal de 1897 enviada por un,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,10,16,0,author-unconfirmed; empty-body; theme-guessed; date-guessed,serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un.md
+8,3,2025-06,04,Hijo del General Morazán,Erick J. Rodríguez,investigacion,Historia a través del correo,17,30,5,theme-guessed; date-guessed,serie-8/vol-03/04-hijo-del-general-morazan.md
+8,3,2025-06,05,"Dr. Raúl Durón membreño, un personaje controvertido",Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,31,37,21,theme-guessed; date-guessed,serie-8/vol-03/05-dr-raul-duron-membreno-un-personaje-controvertido.md
+8,3,2025-06,06,El músico que sï merecía un sello postal,Edgardo Alegría Reichmann,investigacion,,38,38,0,empty-body; heading-image-only; date-guessed,serie-8/vol-03/06-el-musico-que-si-merecia-un-sello-postal.md
+8,3,2025-06,07,Nuestro nuevo socio,Edgardo Alegría Reichmann,investigacion,,39,45,0,empty-body; heading-image-only; date-guessed,serie-8/vol-03/07-nuestro-nuevo-socio.md
+8,3,2025-06,08,Surgimiento de los enteros telegráficos de 15 y 20 centavos,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,46,47,14,author-unconfirmed; theme-guessed; date-guessed,serie-8/vol-03/08-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos.md
+8,3,2025-06,09,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,48,49,0,empty-body; heading-image-only; date-guessed,serie-8/vol-03/09-el-sobresaliente-de-hoy.md
+8,3,2025-06,10,Un sello con historia buzón de novedades,Edgardo Alegría Reichmann,sello-con-historia,Historia a través del correo,50,null,18,theme-guessed; date-guessed,serie-8/vol-03/10-un-sello-con-historia-buzon-de-novedades.md
+8,4,2025-08,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-guessed,serie-8/vol-04/01-editorial.md
+8,4,2025-08,02,Censura postal CIVIL al correo de Honduras durante la Segunda guerra Mundial,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,4,31,43,theme-guessed; date-guessed,serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund.md
+8,4,2025-08,03,La Locomotora – su reimpresión de 1902,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,32,42,17,theme-guessed; date-guessed,serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902.md
+8,4,2025-08,04,Artículos publicados en Honduras filatélica,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,43,49,2,author-unconfirmed; theme-guessed; date-guessed,serie-8/vol-04/04-articulos-publicados-en-honduras-filatelica.md
+8,4,2025-08,05,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,50,51,0,empty-body; heading-image-only; date-guessed,serie-8/vol-04/05-el-sobresaliente-de-hoy.md
+8,4,2025-08,06,Un sello con Historia,Edgardo Alegría Reichmann,sello-con-historia,Historia postal y falsificaciones,52,52,2,theme-guessed; date-guessed,serie-8/vol-04/06-un-sello-con-historia.md
+8,4,2025-08,07,Gotas del saber,Edgardo Alegría Reichmann,investigacion,Transporte y modernidad,53,53,1,author-unconfirmed; theme-guessed; date-guessed,serie-8/vol-04/07-gotas-del-saber.md
+8,4,2025-08,08,Nuestro nuevo socio,Edgardo Alegría Reichmann,investigacion,,54,53,0,empty-body; heading-image-only; date-guessed,serie-8/vol-04/08-nuestro-nuevo-socio.md
+8,4,2025-08,09,Canje filatélico,Edgardo Alegría Reichmann,investigacion,Historia a través del correo,54,54,1,author-unconfirmed; theme-guessed; date-guessed,serie-8/vol-04/09-canje-filatelico.md
+8,4,2025-08,10,Buzón de novedades,Edgardo Alegría Reichmann,novedades,Historia a través del correo,55,null,2,theme-guessed; date-guessed,serie-8/vol-04/10-buzon-de-novedades.md
+8,5,2026-01,01,Editorial,Edgardo Alegría Reichmann,editorial,,3,3,0,date-guessed,serie-8/vol-05/01-editorial.md
+8,5,2026-01,02,Cancelaciones falsas en la emisión provisional de Honduras de 1877,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,4,10,21,theme-guessed; date-guessed,serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d.md
+8,5,2026-01,03,Matasellos y sellos fechadores usados en las emisiones Seebeck,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,11,40,50,theme-guessed; date-guessed,serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe.md
+8,5,2026-01,04,Retirando charnelas de manera segura,Edgardo Alegría Reichmann,investigacion,Historia postal y falsificaciones,41,47,13,author-unconfirmed; theme-guessed; date-guessed,serie-8/vol-05/04-retirando-charnelas-de-manera-segura.md
+8,5,2026-01,05,Nuestro nuevo socio,Edgardo Alegría Reichmann,investigacion,,48,48,0,empty-body; heading-image-only; date-guessed,serie-8/vol-05/05-nuestro-nuevo-socio.md
+8,5,2026-01,06,El Sobresaliente de Hoy,Edgardo Alegría Reichmann,sobresaliente,,49,50,0,empty-body; heading-image-only; date-guessed,serie-8/vol-05/06-el-sobresaliente-de-hoy.md
+8,5,2026-01,07,Un sello con historia,Edgardo Alegría Reichmann,sello-con-historia,Transporte y modernidad,51,51,1,theme-guessed; date-guessed,serie-8/vol-05/07-un-sello-con-historia.md
+8,5,2026-01,08,Credo del filatelista,Edgardo Alegría Reichmann,credo,Historia a través del correo,52,null,0,theme-guessed; date-guessed,serie-8/vol-05/08-credo-del-filatelista.md
