@@ -173,9 +173,8 @@ section{padding:78px 0;border-top:1px solid var(--line);position:relative}
 .wm .hint{position:absolute;bottom:8px;font-family:'IBM Plex Mono',monospace;font-size:9.5px;
   letter-spacing:.15em;color:var(--ink-soft)}
 #guilloche-motif{width:100%;height:150px}
-/* texture-pair motif: static generative vector patterns (not photographs) */
-.tex-pair{display:flex;gap:14px;width:100%}
-.tex{flex:1;aspect-ratio:1;position:relative;overflow:hidden;border:1px solid var(--line);background:var(--paper)}
+/* texture motif: a static generative vector pattern (not a photograph) */
+.tex{width:100%;height:190px;position:relative;overflow:hidden;border:1px solid var(--line);background:var(--paper)}
 .tex canvas{position:absolute;inset:0;width:100%;height:100%}
 .tex .lbl{position:absolute;left:9px;bottom:8px;z-index:2;font-family:'IBM Plex Mono',monospace;
   font-size:9.5px;letter-spacing:.1em;color:var(--ink-soft);background:var(--paper-lit);padding:3px 7px}
@@ -217,7 +216,6 @@ footer{padding:56px 0 70px;border-top:1px solid var(--line)}
   .concept-grid,.type-grid,.use,.logo-grid{grid-template-columns:1fr}
   .swatches{grid-template-columns:repeat(2,1fr)}
   .motif-grid{grid-template-columns:1fr}
-  .tex-pair{flex-direction:column}
   .type-demo .body{columns:1}
 }
 </style>
@@ -366,11 +364,10 @@ footer{padding:56px 0 70px;border-top:1px solid var(--line)}
         </div>
       </div>
       <div class="motif" style="grid-column:1 / -1">
-        <div class="mt">Tramas grabadas</div>
-        <div class="md">Patrones vectoriales propios, no fotografías — para fondos de sección, orlas y texturas de apoyo.</div>
-        <div class="stage"><div class="tex-pair">
-          <div class="tex"><canvas id="tex-mesh"></canvas><span class="lbl">MALLA MOIRÉ</span></div>
-          <div class="tex"><canvas id="tex-engrave"></canvas><span class="lbl">TRAMA ONDULADA</span></div>
+        <div class="mt">Trama grabada</div>
+        <div class="md">Patrón vectorial propio, no fotografía — para fondos de sección, orlas y texturas de apoyo.</div>
+        <div class="stage"><div class="tex">
+          <canvas id="tex-engrave"></canvas><span class="lbl">TRAMA ONDULADA</span>
         </div></div>
       </div>
     </div>
@@ -432,37 +429,6 @@ function guilloche(canvas, opts){
   });
   ctx.globalAlpha=1;
 }
-/* ---------- Malla moiré: two warped line families crossing ----------
-   A regular grid where each line carries a coherent sine bend, so
-   adjacent lines interfere into a moiré lattice — no photo involved. */
-function meshGrid(canvas, opts){
-  const dpr = Math.min(window.devicePixelRatio||1, 2);
-  const rect = canvas.getBoundingClientRect();
-  const w = canvas.width = rect.width*dpr, h = canvas.height = rect.height*dpr;
-  const ctx = canvas.getContext('2d');
-  ctx.clearRect(0,0,w,h);
-  ctx.strokeStyle = opts.color; ctx.globalAlpha = opts.alpha ?? 0.6;
-  ctx.lineWidth = (opts.lw||0.6)*dpr;
-  const gap=(opts.gap||13)*dpr, amp=(opts.amp||9)*dpr, freq=opts.freq||2.4, step=5*dpr;
-  for(let y0=-gap; y0<=h+gap; y0+=gap){
-    ctx.beginPath();
-    for(let x=0; x<=w; x+=step){
-      const y = y0 + amp*Math.sin((x/w)*Math.PI*freq + y0*0.012);
-      x===0?ctx.moveTo(x,y):ctx.lineTo(x,y);
-    }
-    ctx.stroke();
-  }
-  for(let x0=-gap; x0<=w+gap; x0+=gap){
-    ctx.beginPath();
-    for(let y=0; y<=h; y+=step){
-      const x = x0 + amp*Math.sin((y/h)*Math.PI*freq + x0*0.012);
-      y===0?ctx.moveTo(x,y):ctx.lineTo(x,y);
-    }
-    ctx.stroke();
-  }
-  ctx.globalAlpha=1;
-}
-
 /* ---------- Trama ondulada: flowing engraved-style hatch lines ----------
    Dense parallel lines with a slow bend plus a fine ripple — the rhythm
    of intaglio hatching, abstracted (no portrait, no currency artwork). */
@@ -491,7 +457,7 @@ function engraveFlow(canvas, opts){
 
 const cs = getComputedStyle(document.documentElement);
 const G=cs.getPropertyValue('--green').trim(), B=cs.getPropertyValue('--blue').trim(),
-      Au=cs.getPropertyValue('--gold').trim(), IK=cs.getPropertyValue('--ink').trim();
+      Au=cs.getPropertyValue('--gold').trim();
 function drawAll(){
   const hero=document.getElementById('guilloche-hero');
   if(hero) guilloche(hero,{lw:0.5,scale:1.15,layers:[
@@ -504,8 +470,6 @@ function drawAll(){
     {R:1,r:0.31,d:0.7,color:G,alpha:0.85,turns:44},
     {R:1,r:0.21,d:0.5,color:Au,alpha:0.7,turns:60},
   ]});
-  const tm=document.getElementById('tex-mesh');
-  if(tm) meshGrid(tm,{color:IK,alpha:0.55,gap:13,amp:9,freq:2.4});
   const te=document.getElementById('tex-engrave');
   if(te) engraveFlow(te,{color:B,alpha:0.85,gap:6,amp1:16,f1:1.2,amp2:3,f2:5.5});
 }
