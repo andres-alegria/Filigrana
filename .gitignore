@@ -1,0 +1,21 @@
+# --- Heavy / copyrighted source material (kept local, never pushed) ---
+# The 24 magazine editions (.doc/.docx). Source for the content pipeline;
+# too large for git and rights not yet cleared for publication.
+Filatelia/
+
+# Moodboard source images (originals feeding the design; the final
+# moodboard HTML embeds only what it needs).
+_moodboard_src/
+
+# --- OS / editor cruft ---
+.DS_Store
+*.swp
+Thumbs.db
+
+# --- Node / build (for when the Astro site is scaffolded) ---
+node_modules/
+dist/
+.astro/
+.env
+.env.*
+!.env.example
