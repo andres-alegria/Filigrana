@@ -27,3 +27,6 @@ dist/
 # Python
 __pycache__/
 *.pyc
+
+# Design reference images (inspiration; some stock/copyrighted) — local only
+Intaglio/

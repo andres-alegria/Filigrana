@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Filigrana — Moodboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,300;1,9..144,400&family=Archivo:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   FILIGRANA — Moodboard / Guía de estilo v1
+   Aesthetic: intaglio security-print, editorial, on vellum.
+   Adjustable design tokens live in :root below.
+   ============================================================ */
+:root{
+  /* --- paper & ink --- */
+  --paper:#e9dfc7;          /* base vellum (adjust warmth here) */
+  --paper-lit:#f4eeda;      /* lit paper (cards, plates) */
+  --ink:#1c1a15;            /* warm near-black text */
+  --ink-soft:#544c3d;       /* secondary text */
+  /* --- intaglio palette --- */
+  --green:#1a4731;          /* primary — certificate green (#1A4731) */
+  --green-mid:#356b4f;
+  --green-pale:#9cb1a0;
+  --blue:#264458;           /* secondary — engraving steel-blue */
+  --blue-mid:#3c6684;
+  --gold:#b0863f;           /* accent — network gold */
+  --gold-soft:#caa24c;
+  /* --- system --- */
+  --line:rgba(28,26,21,.16);
+  --maxw:1180px;
+  --ease:cubic-bezier(.2,.7,.2,1);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  font-family:'Archivo',system-ui,sans-serif;
+  color:var(--ink);
+  background-color:var(--paper);
+  /* paper grain — adjust opacity via alpha in feColorMatrix */
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.35 0 0 0 0 0.31 0 0 0 0 0.22 0 0 0 0.06 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 40px}
+
+/* ---------- shared type ---------- */
+.kicker{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.28em;
+  text-transform:uppercase;color:var(--green);}
+.serif{font-family:'Fraunces',serif}
+h2.section-t{font-family:'Fraunces',serif;font-weight:400;font-size:clamp(26px,3.4vw,40px);
+  letter-spacing:-.01em;line-height:1.05}
+.lead{font-family:'Fraunces',serif;font-weight:300;font-style:italic;
+  font-size:clamp(19px,2.2vw,26px);color:var(--ink-soft);line-height:1.45}
+
+/* ---------- section scaffolding ---------- */
+section{padding:78px 0;border-top:1px solid var(--line);position:relative}
+.sec-head{display:flex;align-items:baseline;gap:18px;margin-bottom:38px}
+.sec-num{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--gold);
+  letter-spacing:.15em}
+.reveal{opacity:0;transform:translateY(16px);transition:opacity .9s var(--ease),transform .9s var(--ease)}
+.reveal.in{opacity:1;transform:none}
+
+/* ============================================================ HERO */
+.hero{min-height:96vh;display:flex;flex-direction:column;justify-content:center;
+  position:relative;overflow:hidden;border-top:none;padding:80px 0 60px}
+#guilloche-hero{position:absolute;inset:0;width:100%;height:100%;
+  opacity:.5;pointer-events:none;z-index:0}
+.hero .wrap{position:relative;z-index:1}
+.hero-top{display:flex;justify-content:space-between;align-items:center;
+  margin-bottom:min(11vh,120px)}
+.mark-corner{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  color:var(--ink-soft)}
+.wordmark{font-family:'Fraunces',serif;font-weight:400;
+  font-size:clamp(64px,15vw,190px);line-height:.9;letter-spacing:-.02em;
+  color:var(--ink)}
+.wordmark .fil{color:var(--green)}
+.wordmark .dot{color:var(--gold)}
+.hero-tag{font-family:'Fraunces',serif;font-style:italic;font-weight:300;
+  font-size:clamp(20px,3vw,34px);color:var(--ink-soft);margin-top:26px;max-width:20ch}
+.hero-sub{margin-top:40px;display:flex;gap:34px;flex-wrap:wrap;max-width:640px;
+  font-size:14.5px;color:var(--ink-soft);line-height:1.65}
+.hero-sub p{flex:1;min-width:220px}
+.hairline{height:1px;background:linear-gradient(90deg,transparent,var(--green) 12%,var(--gold) 50%,var(--green) 88%,transparent);
+  opacity:.55;margin-top:52px}
+
+/* ============================================================ CONCEPT */
+.concept-grid{display:grid;grid-template-columns:1.4fr 1fr;gap:56px;align-items:start}
+.concept-body p{font-size:16px;color:var(--ink-soft);margin-bottom:16px;max-width:52ch}
+.concept-body strong{color:var(--ink);font-weight:500}
+.pillars{display:flex;flex-direction:column;gap:0}
+.pillar{padding:18px 0;border-top:1px solid var(--line);display:grid;
+  grid-template-columns:auto 1fr;gap:16px;align-items:baseline}
+.pillar:last-child{border-bottom:1px solid var(--line)}
+.pillar .n{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--gold)}
+.pillar .t{font-family:'Fraunces',serif;font-size:20px}
+.pillar .d{grid-column:2;font-size:13.5px;color:var(--ink-soft);margin-top:2px}
+
+/* ============================================================ PALETTE */
+.swatches{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.sw{border:1px solid var(--line);background:var(--paper-lit);overflow:hidden;
+  display:flex;flex-direction:column}
+.sw .chip{height:132px;position:relative}
+.sw .meta{padding:12px 14px 16px}
+.sw .name{font-family:'Fraunces',serif;font-size:17px;line-height:1.1}
+.sw .role{font-size:11.5px;color:var(--ink-soft);margin-top:3px}
+.sw .hex{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--ink-soft);
+  margin-top:10px;letter-spacing:.04em}
+.sw .chip.on-dark{color:#f4eeda}
+.chip-label{position:absolute;left:12px;bottom:10px;font-family:'IBM Plex Mono',monospace;
+  font-size:10.5px;letter-spacing:.14em;opacity:.85}
+
+/* ============================================================ TYPE */
+.type-grid{display:grid;grid-template-columns:1fr 1fr;gap:48px}
+.spec{border:1px solid var(--line);background:var(--paper-lit);padding:30px 32px}
+.spec .glyph{font-family:'Fraunces',serif;font-size:150px;line-height:.9;color:var(--green);
+  font-weight:400}
+.spec .fam{font-family:'Fraunces',serif;font-size:24px;margin-top:8px}
+.spec .role{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.18em;
+  text-transform:uppercase;color:var(--gold);margin-top:4px}
+.spec .weights{font-size:13px;color:var(--ink-soft);margin-top:14px;border-top:1px solid var(--line);padding-top:14px}
+.spec.sans .glyph{font-family:'Archivo',sans-serif;color:var(--blue)}
+.spec.sans .fam{font-family:'Archivo',sans-serif;font-weight:500}
+.spec.mono .glyph{font-family:'IBM Plex Mono',monospace;color:var(--gold);font-size:120px}
+.spec.mono .fam{font-family:'IBM Plex Mono',monospace}
+.type-demo{grid-column:1 / -1;border:1px solid var(--line);background:var(--paper-lit);
+  padding:44px 48px;margin-top:4px}
+.type-demo .eyebrow{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--green);margin-bottom:14px}
+.type-demo h3{font-family:'Fraunces',serif;font-weight:400;font-size:clamp(28px,4vw,46px);
+  line-height:1.04;letter-spacing:-.015em;max-width:20ch}
+.type-demo .deck{font-family:'Fraunces',serif;font-style:italic;font-weight:300;
+  font-size:20px;color:var(--ink-soft);margin-top:16px;max-width:44ch}
+.type-demo .body{font-size:15.5px;color:var(--ink-soft);margin-top:22px;max-width:60ch;
+  columns:2;column-gap:40px}
+.type-demo .byline{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--gold);
+  letter-spacing:.1em;margin-top:22px}
+
+/* ============================================================ PLATES */
+.plates{columns:3;column-gap:16px}
+@media(max-width:900px){.plates{columns:2}}
+.plate{break-inside:avoid;margin-bottom:16px;border:1px solid var(--line);
+  background:var(--paper-lit);padding:9px;position:relative;transition:transform .5s var(--ease),box-shadow .5s var(--ease)}
+.plate img{width:100%;display:block;filter:contrast(1.02) saturate(.96)}
+.plate .cap{display:flex;justify-content:space-between;gap:10px;margin-top:9px;
+  font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.06em;color:var(--ink-soft)}
+.plate .cap .no{color:var(--gold)}
+.plate:hover{transform:translateY(-3px);box-shadow:0 18px 40px -22px rgba(28,26,21,.55)}
+
+/* ============================================================ MOTIFS */
+.motif-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.motif{border:1px solid var(--line);background:var(--paper-lit);padding:26px;
+  min-height:230px;display:flex;flex-direction:column}
+.motif .mt{font-family:'Fraunces',serif;font-size:19px}
+.motif .md{font-size:12.5px;color:var(--ink-soft);margin-top:4px}
+.motif .stage{flex:1;margin-top:18px;display:flex;align-items:center;justify-content:center;position:relative}
+/* perforation edge */
+.perf{width:100%;height:96px;background:var(--green);position:relative;border-radius:2px;
+  display:flex;align-items:center;justify-content:center}
+.perf::before,.perf::after{content:"";position:absolute;left:0;right:0;height:14px;
+  background-image:radial-gradient(circle at 7px 50%,var(--paper-lit) 5px,transparent 5.5px);
+  background-size:14px 14px}
+.perf::before{top:-7px}.perf::after{bottom:-7px}
+.perf span{font-family:'IBM Plex Mono',monospace;color:#f4eeda;font-size:10px;letter-spacing:.2em}
+/* watermark reveal */
+.wm{width:100%;height:130px;border:1px solid var(--line);background:var(--paper);
+  position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center;cursor:pointer}
+.wm .ghost{font-family:'Fraunces',serif;font-size:52px;color:var(--green);opacity:.08;
+  transition:opacity .6s var(--ease);letter-spacing:.02em}
+.wm:hover .ghost{opacity:.42}
+.wm .hint{position:absolute;bottom:8px;font-family:'IBM Plex Mono',monospace;font-size:9.5px;
+  letter-spacing:.15em;color:var(--ink-soft)}
+#guilloche-motif{width:100%;height:150px}
+
+/* ============================================================ IN USE */
+.use{display:grid;grid-template-columns:1.1fr .9fr;gap:0;border:1px solid var(--line);
+  background:var(--paper-lit)}
+.use .art{position:relative;overflow:hidden;min-height:340px;background:#0e1a14}
+.use .art img{width:100%;height:100%;object-fit:cover;opacity:.92}
+.use .art .tag{position:absolute;top:16px;left:16px;font-family:'IBM Plex Mono',monospace;
+  font-size:10px;letter-spacing:.18em;color:#f4eeda;background:rgba(26,71,49,.8);
+  padding:5px 10px}
+.use .txt{padding:40px 44px;display:flex;flex-direction:column;justify-content:center}
+.use .txt .eyebrow{font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.2em;
+  text-transform:uppercase;color:var(--green)}
+.use .txt h3{font-family:'Fraunces',serif;font-weight:400;font-size:clamp(24px,3vw,34px);
+  line-height:1.06;margin-top:14px;letter-spacing:-.01em}
+.use .txt p{font-size:14.5px;color:var(--ink-soft);margin-top:16px;max-width:40ch}
+.use .txt .meta{margin-top:26px;display:flex;gap:8px;flex-wrap:wrap}
+.tagpill{font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.08em;
+  border:1px solid var(--green);color:var(--green);padding:5px 11px;border-radius:999px}
+
+/* ============================================================ FOOTER */
+footer{padding:56px 0 70px;border-top:1px solid var(--line)}
+.colophon{display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px;
+  font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.08em;color:var(--ink-soft)}
+
+@media(max-width:820px){
+  .wrap{padding:0 22px}
+  .concept-grid,.type-grid,.use{grid-template-columns:1fr}
+  .swatches{grid-template-columns:repeat(2,1fr)}
+  .motif-grid{grid-template-columns:1fr}
+  .type-demo .body{columns:1}
+}
+</style>
+</head>
+<body>
+
+<!-- ===================================================== HERO -->
+<header class="hero">
+  <canvas id="guilloche-hero"></canvas>
+  <div class="wrap">
+    <div class="hero-top">
+      <span class="mark-corner">HONDURAS FILATÉLICA</span>
+      <span class="mark-corner">GUÍA DE ESTILO · V1 · 2026</span>
+    </div>
+    <h1 class="wordmark"><span class="fil">Filigra</span>na<span class="dot">.</span></h1>
+    <p class="hero-tag">La marca oculta en el papel, revelada a contraluz.</p>
+    <div class="hero-sub">
+      <p>Un archivo vivo de la filatelia hondureña — el sello como puerta a la historia. Vocabulario visual construido sobre el grabado en talla dulce: la técnica que dio a estampillas y billetes su textura inconfundible.</p>
+      <p>Limpio y elegante. Papel, tinta y luz. Líneas de seguridad, tramas cruzadas y filigranas que solo se leen de cerca.</p>
+    </div>
+    <div class="hairline"></div>
+  </div>
+</header>
+
+<!-- ===================================================== 01 CONCEPTO -->
+<section id="concepto">
+  <div class="wrap">
+    <div class="sec-head reveal"><span class="sec-num">01</span><h2 class="section-t">Concepto</h2></div>
+    <div class="concept-grid reveal">
+      <div class="concept-body">
+        <p class="lead" style="margin-bottom:24px">Filigrana es la marca de agua escondida en el papel del sello: el signo secreto que prueba lo auténtico, visible solo a contraluz.</p>
+        <p>La identidad nace de la <strong>talla dulce (intaglio)</strong> — el grabado a buril que hunde la línea en la placa y deja tinta en relieve sobre el papel. Es el lenguaje del billete, del certificado y de la estampilla clásica: <strong>líneas finísimas, tramas cruzadas, punteados y guilloché</strong>.</p>
+        <p>El tono es de <strong>catálogo de gabinete</strong>: sobrio, táctil, generoso en aire. Nada estridente. La riqueza vive en el detalle macro — un ojo grabado, una roseta de seguridad, la orla de un certificado.</p>
+      </div>
+      <div class="pillars">
+        <div class="pillar"><span class="n">i</span><span class="t">Archivo</span><span class="d">Las 8 series de la revista, legibles y buscables.</span></div>
+        <div class="pillar"><span class="n">ii</span><span class="t">Exhibiciones</span><span class="d">Muestras digitales inmersivas — el "wow".</span></div>
+        <div class="pillar"><span class="n">iii</span><span class="t">Journal</span><span class="d">Artículos en la voz de la revista, para hoy.</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================================================== 02 PALETA -->
+<section id="paleta">
+  <div class="wrap">
+    <div class="sec-head reveal"><span class="sec-num">02</span><h2 class="section-t">Paleta</h2></div>
+    <div class="swatches reveal">
+      <div class="sw"><div class="chip" style="background:var(--paper)"><span class="chip-label" style="color:var(--ink-soft)">papel</span></div>
+        <div class="meta"><div class="name">Vitela</div><div class="role">Fondo · papel</div><div class="hex">#E9DFC7</div></div></div>
+      <div class="sw"><div class="chip on-dark" style="background:var(--green)"><span class="chip-label">primario</span></div>
+        <div class="meta"><div class="name">Verde Intaglio</div><div class="role">Primario · certificado</div><div class="hex">#1A4731</div></div></div>
+      <div class="sw"><div class="chip on-dark" style="background:var(--blue)"><span class="chip-label">secundario</span></div>
+        <div class="meta"><div class="name">Azul Grabado</div><div class="role">Secundario · acero</div><div class="hex">#264458</div></div></div>
+      <div class="sw"><div class="chip on-dark" style="background:var(--gold)"><span class="chip-label">acento</span></div>
+        <div class="meta"><div class="name">Oro</div><div class="role">Acento · hilo/red</div><div class="hex">#B0863F</div></div></div>
+      <div class="sw"><div class="chip on-dark" style="background:var(--ink)"><span class="chip-label">tinta</span></div>
+        <div class="meta"><div class="name">Tinta</div><div class="role">Texto · negro cálido</div><div class="hex">#1C1A15</div></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================================================== 03 TIPOGRAFÍA -->
+<section id="tipografia">
+  <div class="wrap">
+    <div class="sec-head reveal"><span class="sec-num">03</span><h2 class="section-t">Tipografía</h2></div>
+    <div class="type-grid reveal">
+      <div class="spec"><div class="glyph">Aa</div><div class="fam">Fraunces</div>
+        <div class="role">Display · titulares</div>
+        <div class="weights">Serif de alto contraste, con carácter grabado. Cursiva para citas y "deck". Pesos 300–600.</div></div>
+      <div class="spec sans"><div class="glyph">Aa</div><div class="fam">Archivo</div>
+        <div class="role">Texto · interfaz</div>
+        <div class="weights">Grotesca limpia y neutra para lectura larga y navegación. Pesos 300–600.</div></div>
+      <div class="spec mono" style="grid-column:1 / -1;display:grid;grid-template-columns:auto 1fr;gap:34px;align-items:center">
+        <div><div class="glyph">01</div></div>
+        <div><div class="fam">IBM Plex Mono</div><div class="role">Etiquetas · folios · seriales</div>
+        <div class="weights" style="border:none;padding:0;margin-top:10px">Detalles técnicos, números de serie y metadatos — el eco de la numeración del billete. <span style="color:var(--gold)">SERIE 8 · VOL. 05 · 1877</span></div></div>
+      </div>
+      <div class="type-demo">
+        <div class="eyebrow">Investigación · Historia postal</div>
+        <h3>Cancelaciones falsas en la emisión provisional de 1877</h3>
+        <p class="deck">Cómo el buril delata al falsificador: una lectura a contraluz de la primera emisión hondureña.</p>
+        <p class="body">La seriedad y el celo profesional que las autoridades postales del siglo XIX dedicaron a la persecución del fraude quedó plasmada en la correspondencia de la época. El grabado en talla dulce, con su relieve perceptible al tacto, era en sí mismo una defensa: reproducir la finura de sus líneas exigía una pericia que pocos poseían. Estudiar de cerca la trama —su dirección, su profundidad, el modo en que la tinta se asienta en el papel— permite hoy distinguir lo genuino de lo apócrifo con una certeza que en su momento fue esquiva.</p>
+        <div class="byline">POR EDGARDO ALEGRÍA REICHMANN</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================================================== 04 TEXTURA -->
+<section id="textura">
+  <div class="wrap">
+    <div class="sec-head reveal"><span class="sec-num">04</span><h2 class="section-t">Textura &amp; imagen</h2></div>
+    <p class="lead reveal" style="max-width:44ch;margin-bottom:36px">El detalle macro del grabado como material principal — presentado como láminas de gabinete.</p>
+    <div class="plates reveal">
+      <figure class="plate"><img src="../Intaglio/Unknown-4.jpg" alt=""><figcaption class="cap"><span>Trama cruzada · efigie</span><span class="no">Pl. 01</span></figcaption></figure>
+      <figure class="plate"><img src="../Intaglio/Unknown-12.jpg" alt=""><figcaption class="cap"><span>Guilloché · rose engine</span><span class="no">Pl. 02</span></figcaption></figure>
+      <figure class="plate"><img src="../Intaglio/Unknown-6.jpg" alt=""><figcaption class="cap"><span>Punteado · stipple</span><span class="no">Pl. 03</span></figcaption></figure>
+      <figure class="plate"><img src="../Intaglio/Unknown-8.jpg" alt=""><figcaption class="cap"><span>Guilloché · verde→azul</span><span class="no">Pl. 04</span></figcaption></figure>
+      <figure class="plate"><img src="../Intaglio/Unknown-5.jpg" alt=""><figcaption class="cap"><span>Efigie grabada · billete</span><span class="no">Pl. 05</span></figcaption></figure>
+      <figure class="plate"><img src="../Intaglio/Unknown-10.jpg" alt=""><figcaption class="cap"><span>Roseta · moiré</span><span class="no">Pl. 06</span></figcaption></figure>
+      <figure class="plate"><img src="../Intaglio/Unknown-3.jpg" alt=""><figcaption class="cap"><span>Línea y contralínea</span><span class="no">Pl. 07</span></figcaption></figure>
+      <figure class="plate"><img src="../Intaglio/Unknown-11.jpg" alt=""><figcaption class="cap"><span>Orla · papel de seguridad</span><span class="no">Pl. 08</span></figcaption></figure>
+      <figure class="plate"><img src="../Intaglio/Unknown-2.jpg" alt=""><figcaption class="cap"><span>Grabado a línea · azul</span><span class="no">Pl. 09</span></figcaption></figure>
+      <figure class="plate"><img src="../Intaglio/Unknown-9.jpg" alt=""><figcaption class="cap"><span>Guilloché · red de puntos</span><span class="no">Pl. 10</span></figcaption></figure>
+      <figure class="plate"><img src="../Intaglio/Unknown-7.jpg" alt=""><figcaption class="cap"><span>Punteado sobre papel</span><span class="no">Pl. 11</span></figcaption></figure>
+      <figure class="plate"><img src="../Intaglio/Unknown.jpg" alt=""><figcaption class="cap"><span>Retícula de billete</span><span class="no">Pl. 12</span></figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<!-- ===================================================== 05 MOTIVOS -->
+<section id="motivos">
+  <div class="wrap">
+    <div class="sec-head reveal"><span class="sec-num">05</span><h2 class="section-t">Motivos gráficos</h2></div>
+    <div class="motif-grid reveal">
+      <div class="motif">
+        <div class="mt">Guilloché generativo</div>
+        <div class="md">Filigrana dibujada en vivo — divisores, fondos, sellos.</div>
+        <div class="stage"><canvas id="guilloche-motif"></canvas></div>
+      </div>
+      <div class="motif">
+        <div class="mt">Contraluz</div>
+        <div class="md">La marca de agua que aparece al pasar el cursor.</div>
+        <div class="stage"><div class="wm"><span class="ghost serif">Filigrana</span><span class="hint">— PASA EL CURSOR —</span></div></div>
+      </div>
+      <div class="motif">
+        <div class="mt">Dentado &amp; hilo de oro</div>
+        <div class="md">El borde del sello; la hairline verde–oro–verde.</div>
+        <div class="stage" style="flex-direction:column;gap:22px">
+          <div class="perf"><span>PERF · 12½</span></div>
+          <div style="width:100%;height:1px;background:linear-gradient(90deg,transparent,var(--green),var(--gold),var(--green),transparent)"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===================================================== 06 EN USO -->
+<section id="uso">
+  <div class="wrap">
+    <div class="sec-head reveal"><span class="sec-num">06</span><h2 class="section-t">En uso</h2></div>
+    <div class="use reveal">
+      <div class="art"><img src="../Intaglio/Unknown-8.jpg" alt=""><span class="tag">EXHIBICIÓN</span></div>
+      <div class="txt">
+        <span class="eyebrow">Serie 8 · Vol. 1</span>
+        <h3>Gemas de la Mosquitia</h3>
+        <p>Cinco piezas únicas en el mundo filatélico, ligadas a la historia del "reino misquito" en el litoral atlántico de Honduras.</p>
+        <div class="meta">
+          <span class="tagpill">Historia postal</span>
+          <span class="tagpill">Falsificaciones</span>
+          <span class="tagpill">1877</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap colophon">
+    <span>FILIGRANA · MOODBOARD V1</span>
+    <span>FEDERACIÓN FILATÉLICA DE HONDURAS</span>
+    <span>filigrana.hn</span>
+  </div>
+</footer>
+
+<script>
+/* ---------- Guilloché generator (hypotrochoid interference) ----------
+   Draws layered rose-engine curves — the literal "filigrana" motif. */
+function guilloche(canvas, opts){
+  const dpr = Math.min(window.devicePixelRatio||1, 2);
+  const rect = canvas.getBoundingClientRect();
+  const w = canvas.width = rect.width*dpr, h = canvas.height = rect.height*dpr;
+  const ctx = canvas.getContext('2d');
+  ctx.clearRect(0,0,w,h);
+  ctx.lineWidth = (opts.lw||0.6)*dpr;
+  const cx=w/2, cy=h/2;
+  const scale = Math.min(w,h)/2 * (opts.scale||0.86);
+  opts.layers.forEach((L,i)=>{
+    ctx.strokeStyle = L.color; ctx.globalAlpha = L.alpha ?? 0.5;
+    ctx.beginPath();
+    const R=L.R, r=L.r, d=L.d, turns=L.turns||60, step=0.02;
+    for(let t=0;t<=Math.PI*2*turns;t+=step){
+      const k=(R-r)/r;
+      const x = (R-r)*Math.cos(t)+d*Math.cos(k*t);
+      const y = (R-r)*Math.sin(t)-d*Math.sin(k*t);
+      const px = cx + x*scale, py = cy + y*scale;
+      t===0?ctx.moveTo(px,py):ctx.lineTo(px,py);
+    }
+    ctx.stroke();
+  });
+  ctx.globalAlpha=1;
+}
+const cs = getComputedStyle(document.documentElement);
+const G=cs.getPropertyValue('--green').trim(), B=cs.getPropertyValue('--blue').trim(),
+      Au=cs.getPropertyValue('--gold').trim();
+function drawAll(){
+  const hero=document.getElementById('guilloche-hero');
+  if(hero) guilloche(hero,{lw:0.5,scale:1.15,layers:[
+    {R:1,r:0.34,d:0.68,color:G,alpha:0.28,turns:50},
+    {R:1,r:0.30,d:0.62,color:B,alpha:0.20,turns:50},
+    {R:1,r:0.233,d:0.5,color:Au,alpha:0.22,turns:80},
+  ]});
+  const m=document.getElementById('guilloche-motif');
+  if(m) guilloche(m,{lw:0.7,scale:0.92,layers:[
+    {R:1,r:0.31,d:0.7,color:G,alpha:0.85,turns:44},
+    {R:1,r:0.21,d:0.5,color:Au,alpha:0.7,turns:60},
+  ]});
+}
+drawAll();
+let rt; addEventListener('resize',()=>{clearTimeout(rt);rt=setTimeout(drawAll,180)});
+
+/* ---------- staggered reveal ---------- */
+const io=new IntersectionObserver((es)=>{es.forEach((e,i)=>{
+  if(e.isIntersecting){setTimeout(()=>e.target.classList.add('in'),i*80);io.unobserve(e.target)}
+})},{threshold:0.12});
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+</script>
+</body>
+</html>
