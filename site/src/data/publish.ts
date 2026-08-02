@@ -12,16 +12,33 @@
 // future date stays hidden until that date, so you can schedule several
 // weeks of the "one every week or two" cadence in advance.
 // `locked: true` gates the article behind the shared password.
+//
+// `teaser` is an optional hand-written, punchy card summary — write one
+// whenever you add an article; if omitted, the card falls back to the
+// pipeline's auto-extracted `summary_es` (the article's first ~40 words,
+// which reads more mechanically). This is the "systematic" hook for future
+// articles: the mechanism already exists, filling it in per-article is the
+// only remaining manual step.
 
 export interface PublishEntry {
   id: string;
   publishDate: string; // YYYY-MM-DD
   locked?: boolean;
+  teaser?: string;
 }
 
 export const publishQueue: PublishEntry[] = [
-  { id: 'serie-8/vol-01/02-gemas-de-la-mosquitia', publishDate: '2026-08-02', locked: true },
-  { id: 'serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal', publishDate: '2026-08-02' },
+  {
+    id: 'serie-8/vol-01/02-gemas-de-la-mosquitia',
+    publishDate: '2026-08-02',
+    locked: true,
+    teaser: 'Durante 207 años, una dinastía de reyes zambo-misquitos gobernó un reino olvidado en el litoral hondureño, entre piratas, contrabando y guerra fronteriza con España. Cinco piezas filatélicas, únicas en el mundo, son el rastro que sobrevive de aquel reino perdido.',
+  },
+  {
+    id: 'serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal',
+    publishDate: '2026-08-02',
+    teaser: 'Tocó bajo la batuta de Toscanini, heredó un Stradivarius y deslumbró a la crítica en Milán, París y Berlín. Carlos Humberto Cano fue, sin discusión, el mejor violinista de Centroamérica — y aun así nunca recibió el sello postal que su historia merecía.',
+  },
   // TODO(Andrés): add the rest of your launch slate here.
   // Pick `id` values (the `file` column, .md optional) from content/_index.csv.
   // { id: 'serie-8/vol-01/06-un-sello-con-historia', publishDate: '2026-08-11', locked: true },

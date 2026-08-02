@@ -5,11 +5,10 @@ interface Props {
   author: string;
   issueDate?: string | null; // YYYY-MM, original magazine publication
   publishDate: string; // YYYY-MM-DD, site debut
-  themes: string[];
   summary?: string;
   locked?: boolean;
 }
-const { routeSlug, title, author, issueDate, publishDate, themes, summary, locked } = Astro.props;
+const { routeSlug, title, author, issueDate, publishDate, summary, locked } = Astro.props;
 
 const onlineLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-HN', {
   year: 'numeric', month: 'long', day: 'numeric',
@@ -29,7 +28,6 @@ const originalLabel = issueDate
     <div class="meta">
       {originalLabel && <span>Publicado originalmente: {originalLabel}</span>}
       <span>· En línea: {onlineLabel}</span>
-      {themes[0] && <span>· {themes[0]}</span>}
       {locked && <span class="lockpill">🔒 Con contraseña</span>}
     </div>
   </div>

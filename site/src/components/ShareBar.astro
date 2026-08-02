@@ -1,0 +1,67 @@
+---
+// Discrete social share row. Facebook/WhatsApp/Email use real share
+// intents. Instagram has no web share-intent for arbitrary links (only
+// their app-to-app SDK does), so that button copies the link instead —
+// the standard workaround, since "share to Instagram" isn't otherwise
+// possible from a plain website.
+interface Props {
+  url: string;
+  title: string;
+  label?: string;
+}
+const { url, title, label = 'Compartir' } = Astro.props;
+const fbUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
+const waUrl = `https://wa.me/?text=${encodeURIComponent(title + ' — ' + url)}`;
+const mailUrl = `mailto:?subject=${encodeURIComponent(title)}&body=${encodeURIComponent(url)}`;
+---
+<div class="share" data-url={url}>
+  <span class="share-label">{label}</span>
+
+  <a class="share-btn" href={fbUrl} target="_blank" rel="noopener" aria-label="Compartir en Facebook">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="9"/>
+      <path d="M14 8.6h-1.3c-.9 0-1.4.5-1.4 1.4v1.7h2.5l-.35 2.4h-2.15V21"/>
+    </svg>
+  </a>
+
+  <a class="share-btn" href={waUrl} target="_blank" rel="noopener" aria-label="Compartir por WhatsApp">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 3.5a8.5 8.5 0 0 0-7.3 12.8L3.6 20.4l4.3-1.1A8.5 8.5 0 1 0 12 3.5Z"/>
+      <path d="M8.7 8.7c.2-.45.4-.5.7-.5h.5c.2 0 .4 0 .6.4l.5 1.3c.1.25 0 .45-.1.6l-.4.5c-.1.2-.15.3 0 .55.2.4.75 1 1.5 1.6.6.45 1 .55 1.3.45l.45-.45c.2-.2.4-.2.6-.1l1.2.65c.3.1.4.3.4.5 0 .75-.85 1.3-1.5 1.3-1.5.1-3.3-.85-4.5-2-1.15-1.1-2-2.7-2.1-4.2 0-.5.1-.85.35-1.2Z"/>
+    </svg>
+  </a>
+
+  <button type="button" class="share-btn" data-copy aria-label="Copiar enlace para Instagram">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="3.5" y="3.5" width="17" height="17" rx="5"/>
+      <circle cx="12" cy="12" r="3.6"/>
+      <circle cx="17" cy="7" r="0.55" fill="currentColor" stroke="none"/>
+    </svg>
+  </button>
+
+  <a class="share-btn" href={mailUrl} aria-label="Compartir por correo">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="3" y="5.5" width="18" height="13" rx="2"/>
+      <path d="M4 7.2l8 5.8 8-5.8"/>
+    </svg>
+  </a>
+
+  <span class="share-toast">Enlace copiado — pégalo en tu historia de Instagram</span>
+</div>
+
+<script>
+  document.querySelectorAll<HTMLElement>('.share').forEach((bar) => {
+    const url = bar.dataset.url!;
+    const btn = bar.querySelector<HTMLButtonElement>('[data-copy]');
+    const toast = bar.querySelector<HTMLElement>('.share-toast');
+    btn?.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(url);
+        toast?.classList.add('show');
+        setTimeout(() => toast?.classList.remove('show'), 2200);
+      } catch {
+        /* clipboard unavailable — silently no-op */
+      }
+    });
+  });
+</script>

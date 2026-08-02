@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import PasswordGate from '../../components/PasswordGate.astro';
+import ShareBar from '../../components/ShareBar.astro';
 import { publishQueue, isPublished, findEntry } from '../../data/publish';
 import { routeSlug } from '../../lib/routing';
 import { LOCK_HASH } from '../../data/lock';
@@ -25,6 +26,7 @@ const { title_es, author, themes, page_start, page_end, series, volume } = entry
 const dateLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-HN', {
   year: 'numeric', month: 'long', day: 'numeric',
 });
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
 ---
 <Layout title={title_es} description={entry.data.summary_es}>
   <article>
@@ -37,6 +39,7 @@ const dateLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-HN'
       </div>
       <h1>{title_es}</h1>
       <div class="byline">POR {author.toUpperCase()}</div>
+      <ShareBar url={canonicalUrl} title={title_es} />
     </header>
 
     <div class="wrap">

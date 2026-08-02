@@ -55,6 +55,20 @@ nav.site a:hover{color:var(--green)}
   font-size:clamp(19px,2.4vw,24px);color:var(--ink-soft);margin-top:16px;max-width:36ch}
 .hero p.subtag{font-size:14.5px;color:var(--ink-soft);margin-top:14px;max-width:52ch;line-height:1.6}
 
+/* ---------- share ---------- */
+.share{display:flex;align-items:center;gap:10px;margin-top:20px;position:relative}
+.share-label{font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--ink-soft);margin-right:2px}
+.share-btn{display:flex;align-items:center;justify-content:center;width:30px;height:30px;
+  border:1px solid var(--line);border-radius:999px;color:var(--ink-soft);background:none;
+  cursor:pointer;text-decoration:none;transition:color .25s var(--ease),border-color .25s var(--ease)}
+.share-btn svg{width:15px;height:15px}
+.share-btn:hover{color:var(--green);border-color:var(--green)}
+.share-toast{position:absolute;left:0;bottom:-24px;font-family:'IBM Plex Mono',monospace;
+  font-size:10px;letter-spacing:.03em;color:var(--green);opacity:0;white-space:nowrap;
+  transition:opacity .3s var(--ease)}
+.share-toast.show{opacity:1}
+
 /* ---------- article cards / list ---------- */
 .article-list{display:flex;flex-direction:column}
 .card{display:flex;gap:20px;align-items:flex-start;text-decoration:none;color:inherit;
@@ -108,9 +122,9 @@ nav.site a:hover{color:var(--green)}
 footer.site{padding:40px 0 56px;border-top:1px solid var(--line);margin-top:40px}
 .colophon{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px;
   font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.08em;color:var(--ink-soft)}
-.colophon .fed-mark{display:flex;align-items:center;gap:8px;opacity:.5;transition:opacity .3s var(--ease)}
+.colophon .fed-mark{display:flex;align-items:center;opacity:.5;transition:opacity .3s var(--ease)}
 .colophon .fed-mark:hover{opacity:.85}
-.colophon .fed-mark img{height:20px;width:auto;display:block}
+.colophon .fed-mark img{height:40px;width:auto;display:block}
 
 @media(max-width:640px){
   .wrap{padding:0 20px}
