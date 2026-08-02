@@ -3,22 +3,34 @@ interface Props {
   routeSlug: string;
   title: string;
   author: string;
-  publishDate: string;
+  issueDate?: string | null; // YYYY-MM, original magazine publication
+  publishDate: string; // YYYY-MM-DD, site debut
   themes: string[];
   summary?: string;
   locked?: boolean;
 }
-const { routeSlug, title, author, publishDate, themes, summary, locked } = Astro.props;
-const dateLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-HN', {
+const { routeSlug, title, author, issueDate, publishDate, themes, summary, locked } = Astro.props;
+
+const onlineLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-HN', {
   year: 'numeric', month: 'long', day: 'numeric',
 });
+const originalLabel = issueDate
+  ? new Date(issueDate + '-01T00:00:00').toLocaleDateString('es-HN', {
+      year: 'numeric', month: 'long',
+    })
+  : null;
 ---
 <a class="card" href={`/articulos/${routeSlug}/`}>
-  <div class="meta">
-    <span>{dateLabel}</span>
-    {themes[0] && <span>· {themes[0]}</span>}
-    {locked && <span class="lockpill">🔒 Con contraseña</span>}
+  <div class="thumb" aria-hidden="true"></div>
+  <div class="body">
+    <div class="byline">Por {author}</div>
+    <h2>{title}</h2>
+    {summary && <p class="dek">{summary}</p>}
+    <div class="meta">
+      {originalLabel && <span>Publicado originalmente: {originalLabel}</span>}
+      <span>· En línea: {onlineLabel}</span>
+      {themes[0] && <span>· {themes[0]}</span>}
+      {locked && <span class="lockpill">🔒 Con contraseña</span>}
+    </div>
   </div>
-  <h2>{title}</h2>
-  {summary && <p class="dek">{summary}</p>}
 </a>

@@ -18,8 +18,9 @@ const latest = publishQueue
     <canvas id="hero-canvas"></canvas>
     <div class="wrap">
       <span class="kicker">Honduras Filatélica · digital</span>
-      <h1>La marca oculta en el papel, revelada a contraluz.</h1>
-      <p class="tag">El sello como puerta a la historia — 60 años de filatelia hondureña, en artículos.</p>
+      <h1 class="wordmark hero-mark"><span class="fil">Filigra</span>na<span class="dot">.</span></h1>
+      <p class="tag">La marca oculta en el papel, revelada a contraluz.</p>
+      <p class="subtag">El sello como puerta a la historia — 60 años de filatelia hondureña, en artículos.</p>
     </div>
   </section>
 
@@ -31,6 +32,7 @@ const latest = publishQueue
           routeSlug={routeSlug(entry!)}
           title={entry!.data.title_es}
           author={entry!.data.author}
+          issueDate={entry!.data.issue_date}
           publishDate={publishDate}
           themes={entry!.data.themes}
           summary={entry!.data.summary_es}

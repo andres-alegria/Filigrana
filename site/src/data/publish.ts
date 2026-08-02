@@ -20,7 +20,7 @@ export interface PublishEntry {
 }
 
 export const publishQueue: PublishEntry[] = [
-  { id: 'serie-8/vol-01/02-gemas-de-la-mosquitia', publishDate: '2026-08-02' },
+  { id: 'serie-8/vol-01/02-gemas-de-la-mosquitia', publishDate: '2026-08-02', locked: true },
   { id: 'serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal', publishDate: '2026-08-02' },
   // TODO(Andrés): add the rest of your launch slate here.
   // Pick `id` values (the `file` column, .md optional) from content/_index.csv.
