@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [theme-guessed]
+review: []
 ---
 
 # Censura postal CIVIL al correo de Honduras durante la Segunda guerra Mundial

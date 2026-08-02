@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [author-unconfirmed, theme-guessed]
+review: []
 ---
 
 # Los sellos sobretasa “centenario de la muerte del General Francisco morazán” y “cruz Roja hondureña”

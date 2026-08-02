@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [author-unconfirmed, theme-guessed]
+review: []
 ---
 
 # La controversial presencia de Edward a. Burke en Honduras y su relación con la Lotería de Louisiana

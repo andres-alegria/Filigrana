@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [theme-guessed]
+review: []
 ---
 
 # Enigmas de la Litografía nacional al imprimir la emisión postal de 1896

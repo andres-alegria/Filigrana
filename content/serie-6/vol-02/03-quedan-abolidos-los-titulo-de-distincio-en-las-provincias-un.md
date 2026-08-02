@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [theme-guessed]
+review: []
 ---
 
 # Quedan abolidos los titulo de distincio en las provincias Unidas del centro de america
