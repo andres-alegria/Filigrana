@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 37
 page_end: 44
-image_count: 14   # flagged; precise article-image match is a later pass
+image_count: 12   # flagged; precise article-image match is a later pass
 summary_es: "Nos ha llamado la atención un hecho recurrente vinculado a la agencia postal de Iriona, cuando poco a poco se van detectando piezas circuladas durante la última década del Siglo XIX con evidentes fallas en el manejo de las especies"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -74,11 +74,9 @@ Entero postal de 2 cts. despachado para Alemania el 23 de octubre de 1900, 1 ct.
 
 Entero de 3 cts. circulado el 7 de marzo de 1904 cuando esta emisión de La Locomotora ya había caducado hacía más de un año, el 1 de enero 1903.
 
-Hoy tenemos esta singular pieza circulada de Honduras hacia Alemania con franqueo mixto (Honduras/EUA), a todas luces producto de correo encaminado. Debido a esta circunstancia no presenta ninguna marca de origen, pero por su remitente, don Teodoro Khoncke, un empresario ya muy conocedor de esta alternativa postal, no cabe duda que ésta ya estaba porteada y lista para ser despachada vía correo nacional; sin embargo, las circunstancias cambiaron cuando surgió un viajero que se ofreció encaminarla hasta la ciudad de Long Branch en Nueva Jersey, donde entró al correo americano el 1 de junio de 1927 previo pago del respectivo porte.
-
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 14 en este artículo:
+<!-- IMÁGENES (extraídas, sin emparejar aún) 12 en este artículo:
   - image66.png
   - image67.png
   - image68.png
@@ -91,7 +89,5 @@ Hoy tenemos esta singular pieza circulada de Honduras hacia Alemania con franque
   - image75.png
   - image76.jpeg
   - image77.png
-  - image78.png
-  - image79.jpeg
 -->
 

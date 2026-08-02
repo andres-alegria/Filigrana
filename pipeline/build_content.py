@@ -15,7 +15,7 @@ and only *flagged* per article for a later precise-matching pass. Anything
 the pipeline is unsure about is marked with a `review:` flag in the file's
 front-matter and a `⚠` note, so the human pass is a scan, not a re-read.
 """
-import sys, os, re, zipfile, unicodedata
+import sys, os, re, zipfile, unicodedata, hashlib
 import xml.etree.ElementTree as ET
 from difflib import SequenceMatcher
 
@@ -62,6 +62,14 @@ def title_case_es(s):
 # Recurring-feature titles with a fixed canonical casing (override sentence
 # case). El Sobresaliente de Hoy per Andrés's instruction.
 CANONICAL = {'elsobresalientedehoy': 'El Sobresaliente de Hoy'}
+
+# In the newer issues (S7V11, S7V12, S8V1–V5) the "El Sobresaliente de Hoy"
+# heading is a title image, not text — so it can't be matched as a heading and
+# its content was being absorbed by the previous article. The same banner
+# graphic is reused across all 7 (md5 prefix below), so we use it as the
+# heading anchor. Found by hashing every image and taking the one that recurs
+# in exactly those issues, sitting right before the section's text.
+SOBRESALIENTE_BANNER = '6335d5990e'
 
 # Recurring administrative sections to drop entirely (not real articles).
 # Matched on the exact normalized title, so real pieces that merely mention
@@ -197,6 +205,14 @@ def load_blocks(path):
                  for r in rels if 'image' in r.get('Type', '')}
     root = ET.fromstring(z.read('word/document.xml'))
     body = root.find(W + 'body')
+    mhash = {}
+    def img_hash(target):
+        if target not in mhash:
+            try:
+                mhash[target] = hashlib.md5(z.read(target)).hexdigest()[:10]
+            except KeyError:
+                mhash[target] = None
+        return mhash[target]
     blocks = []
     for p in body.iter(W + 'p'):
         text = ''.join(t.text or '' for t in p.iter(W + 't'))
@@ -204,7 +220,8 @@ def load_blocks(path):
                 if b.get(R + 'embed') in rid2media]
         s = text.strip()
         pagenum = int(s) if re.fullmatch(r'\d{1,3}', s) else None
-        blocks.append({'text': text, 'images': imgs, 'pagenum': pagenum})
+        blocks.append({'text': text, 'images': imgs, 'pagenum': pagenum,
+                       'hashes': [img_hash(t) for t in imgs]})
     fulltext = ' '.join(t.text or '' for t in root.iter(W + 't'))
     return z, blocks, fulltext
 
@@ -386,8 +403,14 @@ def locate_headings(blocks, entries, start):
         # a flagged stub.
         if best_i is not None and best_s >= 0.70:
             locs.append(best_i); cursor = best_i + 1
-        else:
-            locs.append(None)
+            continue
+        # image-only "El Sobresaliente de Hoy": anchor on its banner image
+        if norm_key(title) == 'elsobresalientedehoy':
+            bj = next((j for j in range(cursor, len(blocks))
+                       if SOBRESALIENTE_BANNER in blocks[j]['hashes']), None)
+            if bj is not None:
+                locs.append(bj); cursor = bj + 1; continue
+        locs.append(None)
     return locs
 
 # ---------------------------------------------------------------- copy-edit

@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 41
 page_end: 47
-image_count: 13   # flagged; precise article-image match is a later pass
+image_count: 11   # flagged; precise article-image match is a later pass
 summary_es: "El tema se refiere a la eliminación de las charnelas (bisagras, fijasellos) ​ adheridas a los sellos, tomando en consideración los peligros asociados al hacerlo y algunas técnicas para determinar si es posible o no separar una charnela de forma"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -104,39 +104,9 @@ Charnelas fabricadas con fragmentos de bandas de pliegos de sellos.
 
 Tal como se muestra en este ejemplo, era habitual usar como charnela una porción de la orilla de una hoja perforada de sellos. No hay forma de eliminarla de forma segura excepto con un bisturí o en último caso, lavando el sello con la consecuente pérdida de la goma.
 
-UN SELLO DE DIFUSIÓN DE CUIDADO
-
-LOS EBRIOS SE CONVIERTEN, FRE-
-
-CUENTEMENTE EN LADRONES, ASE-
-
-SINOS E INCENDIARIOS.
-
-LA EMBRIAGUEZ CONDUCE RAPIDA-
-
-MENTE, AL CEMENTERIO, O LO QUE
-
-ES PEOR, AL PRESIDIO O AL MANI-
-
-COMIO.
-
-Este bonito sobre circulado de Tegucigalpa a Comayagua el 5 de junio de 1930, fue estampado con un llamativo sello de difusión de carácter antialcohólico. Esta campaña surgió en el contexto de un movimiento feminista en Honduras durante el siglo XX, dirigido por la organización “Liga Antialcohólica de Mujeres”.
-
-El movimiento se formó como parte de las actividades de la Sociedad Cultural Femenina, fundada por Visitación Padilla, una destacada activista feminista hondureña, y otras mujeres líderes de la época.
-
-Visitación Padilla fue una reconocida maestra, activista social y feminista hondureña nacida en 1882 y fallecida en 1960, destacándose por su lucha en varias causas sociales, entre ellas la promoción de ligas antialcohólicas y la organización de asociaciones comunitarias y de mujeres en Honduras.
-
-El objetivo principal de este movimiento fue combatir el alcoholismo y educar a la población (especialmente mujeres) sobre los efectos negativos del consumo de bebidas embriagantes, dentro de una agenda más amplia de salud y derechos.
-
-Esta organización fue parte de las primeras luchas por la participación social y mejora de las condiciones de vida de las mujeres en Honduras.
-
-No extrañaría que esta campaña antialcohólica estuviese influenciada por su símil acaecida en los Estados Unidos y conocida como La Prohibición (1920–1933) o Ley Seca que, en opinión de muchos, sus efectos más bien inclinaron al público hacia un mayor consumo de bebidas espirituosas.
-
-En su momento, el empuje de esta campaña, tuvo más fuerza en áreas urbanas, vinculadas a sectores medios, maestros y grupos religiosos. Aunque no se eliminó el consumo, sí generó un discurso moral fuerte sobre el tema. A nivel de las zonas rurales y bananeras, el consumo de aguardiente no tuvo efecto alguno, permaneciendo su consumo tan campante como siempre lo ha sido.
-
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 13 en este artículo:
+<!-- IMÁGENES (extraídas, sin emparejar aún) 11 en este artículo:
   - image76.png
   - image77.png
   - image78.png
@@ -148,7 +118,5 @@ En su momento, el empuje de esta campaña, tuvo más fuerza en áreas urbanas, v
   - image84.png
   - image85.png
   - image86.png
-  - image87.png
-  - image88.png
 -->
 

@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 46
 page_end: 47
-image_count: 14   # flagged; precise article-image match is a later pass
+image_count: 10   # flagged; precise article-image match is a later pass
 summary_es: "Desde que el presidente Marco Aurelio Soto inaugurara el telégrafo nacional el 1 de febrero de 1877, hubo la necesidad e establecer la forma en que se cobraría por dicho servicio. Al inició el cobro se efectuó en efectivo, pero"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -68,25 +68,9 @@ En la parte final del documento (marcado con manchas que evidencian el haber rec
 
 Aunque no se sabe la resolución final sobre esta petición ni tampoco contamos con un ejemplar de estos telegramas, si queda establecida su existencia de manera fidedigna. Por otro lado, el documento en mención, además de atestiguar la existencia de dichos enteros, nos expone también la metodología de su distribución urbana, sumándose a ello una apreciación general de la periodicidad de su vigencia, la cual perduraría hasta 1934 cuando se pusieron en uso los primeros timbres telegráficos impresos por la American Bank Note Company, específicamente para este servicio.
 
-La pieza que hoy nos llama la atención es este entero postal nicaragüense despachado el 18 de junio de 1898 de Granada a Tegucigalpa, con una rarísima etiqueta de AUSENTE, colocada en Tegucigalpa y cuyo revelador contenido dice así:
-
-Sr. Pedro Jiménez (Prestidigitador)
-
-Tegucigalpa Honduras
-
-Le suplico tenga la bondad de mandarme pagar los $16.00 que me quedó debiendo por comida pues la Jerónima Ruíz dice que no paga nada por Ud. ______ pero me los manda en la primera oportunidad posible. Recuerde las promesas que tiene a dicha deuda.
-
-Su SS
-
-A. Maciel
-
-Una definitiva muestra de cómo desde antaño pululan a lo largo y ancho del mundo todo tipo de escurridizos gandules que van por ahí dejando a su paso las vanas esperanzas de sus víctimas, que como la señora Maciel, crédula confiaba que desde lejanas tierras le honrarían su deuda.
-
-Desde el punto de vista filatélico, resulta también interesante el raro sello fechador del 8 de marzo de 1899 de la Oficina de Rezagos en Tegucigalpa, indicativo de que la pieza, para su desconsuelo, fue retornada a la remitente.
-
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 14 en este artículo:
+<!-- IMÁGENES (extraídas, sin emparejar aún) 10 en este artículo:
   - image39.png
   - image40.png
   - image41.png
@@ -97,9 +81,5 @@ Desde el punto de vista filatélico, resulta también interesante el raro sello 
   - image46.png
   - image47.png
   - image48.jpeg
-  - image49.png
-  - image50.png
-  - image51.png
-  - image52.png
 -->
 

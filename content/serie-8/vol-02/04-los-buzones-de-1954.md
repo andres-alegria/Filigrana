@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 28
 page_end: 39
-image_count: 23   # flagged; precise article-image match is a later pass
+image_count: 19   # flagged; precise article-image match is a later pass
 summary_es: "En 1954 el Dr. Raúl Agüero Vega fue nombrado Director General de Correos, puesto que desempeñaría con particular entusiasmo y dinamismo orientados a dar pasos transformadores en el quehacer postal. En su afán de proyectar una imagen fresca de la"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -322,39 +322,9 @@ Sábado 18 de abril 1959. Tegucigalpa (Hotel Boston, Bo. Abajo) a EUA.
 
 Sábado 25 de enero de 1969. De Santa Fe (depositada en Trujillo) a EUA.
 
-El ejemplar laureado en esta ocasión viene a enaltecer una vez más la rica herencia postal de Amapala, importante ciudad puerto de nuestra costa Pacífica en la Isla de El Tigre.
-
-En 1844 se declaró el puerto de Amapala puerto de “Depósito”. Pocos años después, en 1847, se derogó el decreto de 1844 para pasar a declararlo “Franco”. Al año siguiente, el 2 de septiembre de 1848, se mandó a que se denominara “Puerto Franco de Amapala”. Es así como dentro de esta última condición fue remitida esta carta de carácter oficial, de la Superintendencia de Amapala al señor Felipe Agustinus residente en Nacaome, el 20 de octubre de 1852.
-
-En esta época, además de puerto franco, Amapala también fungía como oficina de cambio postal entre Honduras, El Salvador y Nicaragua.
-
-A continuación el Decreto proclamando Puerto Franco a la Isla de El Tigre:
-
-Puerto Franco
-
-El Presidente en quien reside el Supremo Poder Ejecutivo del Estado de Honduras.
-
-Considerando: que el decreto de 19 de Abril último ha ofrecido dudas que es menester aclarar para que ellas no presenten obstáculos que impidan los buenos resultados que el Gobierno se propuso al emitirlo, ha tenido a bien decretar y
-
-Decreta
-
-Art. 1º. En el Puerto franco de la isla del Tigre no se pagarán derechos marítimos de ninguna especie.
-
-Art. 2º. Esta concesión durará por el término de diez años. Vencido que sea, el Gobierno determinará su continuación o fenecimiento.
-
-Art. 3º. Queda adicionado de esta manera el decreto referido de 19 de Abril próximo anterior.
-
-Lo tendrá entendido el Ministro del Despacho de Relaciones y dispondrá lo necesario á su cumplimiento.
-
-Dado en Comayagua en la Casa de Gobierno a 10 de Noviembre de 1847.
-
-Juan Lindo - Al Benemérito General Santos Guardiola.
-
-Grabado del Siglo XIX mostrando el antiguo Puerto Franco de Amapala.
-
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 23 en este artículo:
+<!-- IMÁGENES (extraídas, sin emparejar aún) 19 en este artículo:
   - image49.png
   - image50.png
   - image51.png
@@ -374,9 +344,5 @@ Grabado del Siglo XIX mostrando el antiguo Puerto Franco de Amapala.
   - image65.jpeg
   - image66.jpeg
   - image67.png
-  - image68.png
-  - image69.jpeg
-  - image70.jpeg
-  - image71.png
 -->
 
