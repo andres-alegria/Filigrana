@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [author-unconfirmed, empty-body, theme-guessed, date-guessed]
+review: [author-unconfirmed, empty-body, theme-guessed]
 ---
 
 # Emerge tarjeta postal de 1897 enviada por un

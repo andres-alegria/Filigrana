@@ -10,7 +10,7 @@ image_count: 106
 
 # Honduras Filatélica — Serie 8, Volumen 4
 
-*2025-08*  *(fecha estimada — confirmar)*
+*2025-08*
 
 ## Contenido
 

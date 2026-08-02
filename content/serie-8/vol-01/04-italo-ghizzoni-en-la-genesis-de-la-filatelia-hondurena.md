@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [theme-guessed, date-guessed]
+review: [theme-guessed]
 ---
 
 # Italo Ghizzoni en la génesis de la filatelia hondureña

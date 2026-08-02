@@ -16,7 +16,7 @@ is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
 has_audio: false       # EDITORIAL DECISION
 lang_available: [es]
-review: [empty-body, heading-image-only, date-guessed]
+review: [empty-body, heading-image-only]
 ---
 
 # El Sobresaliente de Hoy
