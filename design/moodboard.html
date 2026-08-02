@@ -405,21 +405,34 @@ function guilloche(canvas, opts){
   const w = canvas.width = rect.width*dpr, h = canvas.height = rect.height*dpr;
   const ctx = canvas.getContext('2d');
   ctx.clearRect(0,0,w,h);
-  ctx.lineWidth = (opts.lw||0.6)*dpr;
+  const lw = (opts.lw||0.6)*dpr;
   const cx=w/2, cy=h/2;
   const scale = Math.min(w,h)/2 * (opts.scale||0.86);
-  opts.layers.forEach((L,i)=>{
-    ctx.strokeStyle = L.color; ctx.globalAlpha = L.alpha ?? 0.5;
-    ctx.beginPath();
+  opts.layers.forEach((L)=>{
+    // Each layer is a single very dense, self-crossing path (many turns).
+    // How much alpha compounds at those self-intersections is renderer-
+    // specific — Chromium and Safari resolve overlapping strokes within one
+    // path differently, so the same nominal alpha can look far denser in
+    // Safari. Fix: draw the layer fully opaque on an offscreen canvas (self-
+    // overlap is then just the same solid color, no ambiguity), then
+    // composite that finished layer once with the intended alpha — a plain
+    // image blend, identical in every browser.
+    const off = document.createElement('canvas');
+    off.width = w; off.height = h;
+    const octx = off.getContext('2d');
+    octx.lineWidth = lw; octx.strokeStyle = L.color;
+    octx.beginPath();
     const R=L.R, r=L.r, d=L.d, turns=L.turns||60, step=0.02;
     for(let t=0;t<=Math.PI*2*turns;t+=step){
       const k=(R-r)/r;
       const x = (R-r)*Math.cos(t)+d*Math.cos(k*t);
       const y = (R-r)*Math.sin(t)-d*Math.sin(k*t);
       const px = cx + x*scale, py = cy + y*scale;
-      t===0?ctx.moveTo(px,py):ctx.lineTo(px,py);
+      t===0?octx.moveTo(px,py):octx.lineTo(px,py);
     }
-    ctx.stroke();
+    octx.stroke();
+    ctx.globalAlpha = L.alpha ?? 0.5;
+    ctx.drawImage(off, 0, 0);
   });
   ctx.globalAlpha=1;
 }
