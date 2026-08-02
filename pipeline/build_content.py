@@ -123,7 +123,7 @@ def merge_danglers(entries):
         out.append((title, page)); i += 1
     return out
 
-def apply_toc_corrections(entries):
+def apply_toc_corrections(entries, meta):
     split = []
     for t, p in entries:
         if norm_key(t) in SKIP_TITLES:           # whole title is a dropped
@@ -133,7 +133,35 @@ def apply_toc_corrections(entries):
             split.append((pre, p))
         for s in sufs:
             split.append((s, p))
-    return merge_danglers(split)
+    entries = merge_danglers(split)
+
+    # per-issue manual corrections
+    mc = MANUAL.get((meta['serie'], meta['volume']), {})
+    drop = {norm_key(x) for x in mc.get('drop', set())}
+    merge_prev = {norm_key(x) for x in mc.get('merge_prev', set())}
+    out = []
+    for t, p in entries:
+        k = norm_key(t)
+        if k in drop:
+            continue
+        if k in merge_prev and out:
+            out[-1] = (out[-1][0] + ' ' + t, out[-1][1])   # fold into previous
+            continue
+        out.append((t, p))
+    return out
+
+# Per-issue manual corrections from Andrés's review (the corpus is fixed).
+#   merge_prev : this TOC line is really the tail of the previous entry
+#                (a wrapped title the auto-rules can't detect grammatically).
+#   drop       : not a real article (e.g. a lone image with a TOC line).
+#   anchor     : image-only heading — start the article at the block whose
+#                text contains this phrase.
+MANUAL = {
+    (7, 10): {'merge_prev': {'en la capitania general de guatemala'}},
+    (7, 12): {'drop': {'fallecio christian bostvironois'}},
+    (8, 3):  {'anchor': {'el musico que si merecia un sello postal':
+                         'carlos humberto daniel'}},
+}
 
 # Confirmed issue dates for issues whose cover date is image-only (not in the
 # text). Andrés-confirmed; overrides extraction so a rebuild keeps them.
@@ -308,7 +336,7 @@ def merge_to_count(titles, target):
             titles[i - 1] += ' ' + titles[i]; del titles[i]
     return titles
 
-def parse_toc(blocks):
+def parse_toc(blocks, meta):
     """Return ordered [(title, page|None)]. Handles both TOC layouts:
     Serie 8 = titles block then pages block; Serie 6/7 = interleaved
     title,page,title,page. Auto-detected."""
@@ -359,7 +387,7 @@ def parse_toc(blocks):
         else:
             entries = [(t, nums[i] if i < len(nums) else None)
                        for i, t in enumerate(titles)]
-    return apply_toc_corrections(entries)
+    return apply_toc_corrections(entries, meta)
 
 # ---------------------------------------------------------------- segment
 def find_body_start(blocks, entries):
@@ -382,10 +410,13 @@ def _heading_score(title_key, block):
         return 0.95                              # strong prefix agreement
     return SequenceMatcher(None, title_key, bk).ratio()
 
-def locate_headings(blocks, entries, start):
+def locate_headings(blocks, entries, start, meta):
     """For each TOC title, find its in-body heading, fuzzily (Serie 6/7 titles
     differ from their body headings by OCR/typos). Forward cursor keeps the
     matches in document order; first strong hit wins, else best decent hit."""
+    anchors = {norm_key(k): v for k, v
+              in MANUAL.get((meta['serie'], meta['volume']), {})
+              .get('anchor', {}).items()}
     locs, cursor = [], start
     for title, page in entries:
         if feature_type(title) == 'directorio':
@@ -410,6 +441,19 @@ def locate_headings(blocks, entries, start):
                        if SOBRESALIENTE_BANNER in blocks[j]['hashes']), None)
             if bj is not None:
                 locs.append(bj); cursor = bj + 1; continue
+        # manual anchor: image-only heading located by a body text phrase
+        if norm_key(title) in anchors:
+            phrase = strip_accents(anchors[norm_key(title)]).lower()
+            aj = next((j for j in range(cursor, len(blocks))
+                       if phrase in strip_accents(blocks[j]['text']).lower()),
+                      None)
+            if aj is not None:
+                loc = aj - 1                      # include a byline just above
+                for k in range(max(cursor, aj - 3), aj):
+                    if strip_accents(blocks[k]['text']).lower().strip()\
+                            .startswith('por '):
+                        loc = k - 1; break
+                locs.append(loc); cursor = aj; continue
         locs.append(None)
     return locs
 
@@ -566,9 +610,9 @@ def main(path):
                          for b in blocks[:toc_start_index(blocks)])
         meta['issue_date'], date_raw = find_issue_date(z, cover)
     date_flags = [] if meta['issue_date'] else ['date-missing']
-    entries = parse_toc(blocks)
+    entries = parse_toc(blocks, meta)
     start = find_body_start(blocks, entries)
-    locs = locate_headings(blocks, entries, start)
+    locs = locate_headings(blocks, entries, start, meta)
     propers = build_propers(fulltext)
 
     out_dir = os.path.join(ROOT, 'content',

@@ -9,7 +9,7 @@ author: "Edgardo Alegría Reichmann"
 themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
 page_start: 4
-page_end: 35
+page_end: 36
 image_count: 65   # flagged; precise article-image match is a later pass
 summary_es: "Antaño, ocasionalmente un empleado de correos detectaba una carta franqueada incorrectamente, frente a lo cual tenía dos opciones: primero, devolverla al remitente, siempre y cuando hubiese una dirección de éste, o, segundo, darle trámite de manera que el destinatario fuese"
 is_featured: false     # EDITORIAL DECISION
