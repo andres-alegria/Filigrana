@@ -17,6 +17,7 @@ front-matter and a `⚠` note, so the human pass is a scan, not a re-read.
 """
 import sys, os, re, zipfile, unicodedata
 import xml.etree.ElementTree as ET
+from difflib import SequenceMatcher
 
 W = '{http://schemas.openxmlformats.org/wordprocessingml/2006/main}'
 R = '{http://schemas.openxmlformats.org/officeDocument/2006/relationships}'
@@ -167,39 +168,68 @@ def find_issue_date(z, fulltext):
 # ---------------------------------------------------------------- TOC parse
 SKIP_TOC = {'CONTENIDO', 'PAGINA', 'ARTICULO'}
 
+def strip_leaders(s):
+    """Drop dotted-leader runs ('DIRECTORIO ……… 2' style) and trailing dots."""
+    s = re.sub(r'[.…]{2,}', ' ', s)
+    return re.sub(r'\s{2,}', ' ', s).strip().rstrip('.').strip()
+
+def is_title_line(s):
+    letters = [c for c in s if c.isalpha()]
+    return bool(letters) and sum(c.isupper() for c in letters) / len(letters) > 0.7
+
 def parse_toc(blocks):
-    """Return ordered [(title, page|None)] including DIRECTORIO/EDITORIAL."""
-    titles, pages, started = [], [], False
-    for blk in blocks[:60]:
-        s = collapse_spacing(blk['text']).strip()
+    """Return ordered [(title, page|None)]. Handles both TOC layouts:
+    Serie 8 = titles block then pages block; Serie 6/7 = interleaved
+    title,page,title,page. Auto-detected."""
+    # locate the TOC region: from the CONTENIDO/ARTÍCULO/PÁGINA header to the
+    # masthead ('FEDERACIÓN FILATÉLICA'). Anchoring on the header keeps the
+    # cover text (VOLUMEN/date) out of the TOC.
+    start_i, end_i = None, len(blocks)
+    for i, b in enumerate(blocks[:90]):
+        up = strip_accents(collapse_spacing(b['text'])).upper().strip()
+        if start_i is None and up in ('CONTENIDO', 'ARTICULO', 'PAGINA'):
+            start_i = i
+        if start_i is not None and up.startswith('FEDERACION FILATELICA'):
+            end_i = i; break
+    if start_i is None:
+        start_i = 0
+
+    seq = []                                     # ordered ('title'|'num', val)
+    for b in blocks[start_i:end_i]:
+        s = collapse_spacing(b['text']).strip()
         if not s:
             continue
-        up = strip_accents(s).upper().rstrip('.')
-        if up == 'CONTENIDO':
-            started = True; continue
-        if blk['pagenum'] is not None:
-            pages.append(blk['pagenum']); continue
-        if up.startswith('FEDERACION FILATELICA'):
-            break
-        if pages:
-            break
-        if up in SKIP_TOC or up == 'PÁGINA':
+        up = strip_accents(s).upper().rstrip('.').strip()
+        if up in SKIP_TOC:
             continue
-        letters = [c for c in s if c.isalpha()]
-        if letters and sum(c.isupper() for c in letters) / len(letters) > 0.7:
-            titles.append(s); started = True
-        elif started and titles:
-            titles[-1] += ' ' + s               # wrapped title continuation
-    # Align: drop leading page belonging to DIRECTORIO if counts differ by 1
+        if b['pagenum'] is not None:
+            seq.append(('num', b['pagenum'])); continue
+        if is_title_line(s):
+            seq.append(('title', strip_leaders(s)))
+        elif seq and seq[-1][0] == 'title':
+            seq[-1] = ('title', seq[-1][1] + ' ' + strip_leaders(s))
+
+    types = [t for t, _ in seq]
+    titles = [v for t, v in seq if t == 'title']
+    nums = [v for t, v in seq if t == 'num']
+    first_num = types.index('num') if 'num' in types else len(types)
+    last_title = max((i for i, t in enumerate(types) if t == 'title'),
+                     default=-1)
+
     entries = []
-    if len(pages) == len(titles) + 1:
-        # first title is usually EDITORIAL; first page belongs to DIRECTORIO
-        entries.append(('DIRECTORIO', pages[0]))
-        for t, p in zip(titles, pages[1:]):
-            entries.append((t, p))
-    else:
-        for i, t in enumerate(titles):
-            entries.append((t, pages[i] if i < len(pages) else None))
+    if first_num < last_title:                   # interleaved (Serie 6/7)
+        pending = []
+        for t, v in seq:
+            if t == 'title':
+                pending.append(v)
+            elif pending:                        # num closes the pending title
+                entries.append((' '.join(pending), v)); pending = []
+        entries += [(v, None) for v in pending]
+    elif len(nums) == len(titles) + 1:           # block, DIRECTORIO page only
+        entries = [('DIRECTORIO', nums[0])] + list(zip(titles, nums[1:]))
+    else:                                         # block (Serie 8)
+        entries = [(t, nums[i] if i < len(nums) else None)
+                   for i, t in enumerate(titles)]
     return entries
 
 # ---------------------------------------------------------------- segment
@@ -210,21 +240,42 @@ def find_body_start(blocks, entries):
            if norm_key(b['text']) == 'editorial']
     return occ[1] if len(occ) > 1 else (occ[0] if occ else 0)
 
+def _heading_score(title_key, block):
+    """Similarity of a body block to a TOC title, if the block looks like a
+    heading. 0 = not a heading / no match."""
+    s = collapse_spacing(block['text'])
+    if not is_title_line(s):
+        return 0.0
+    bk = norm_key(s)
+    if not bk or len(bk) < 4:
+        return 0.0
+    if bk.startswith(title_key[:15]) or title_key.startswith(bk[:15]):
+        return 0.95                              # strong prefix agreement
+    return SequenceMatcher(None, title_key, bk).ratio()
+
 def locate_headings(blocks, entries, start):
-    """For each entry title, find its heading index in body >= running cursor."""
+    """For each TOC title, find its in-body heading, fuzzily (Serie 6/7 titles
+    differ from their body headings by OCR/typos). Forward cursor keeps the
+    matches in document order; first strong hit wins, else best decent hit."""
     locs, cursor = [], start
     for title, page in entries:
-        key = norm_key(title)[:22]
-        found = None
+        if feature_type(title) == 'directorio':
+            locs.append(None); continue          # no body article; don't scan
+        key = norm_key(title)
+        best_i, best_s = None, 0.0
         for i in range(cursor, len(blocks)):
-            bk = norm_key(blocks[i]['text'])
-            if bk and (bk.startswith(key) or key.startswith(bk[:22]) and len(bk) > 6):
-                # avoid matching a tiny fragment
-                if len(bk) >= min(6, len(key)):
-                    found = i; break
-        locs.append(found)
-        if found is not None:
-            cursor = found + 1
+            sc = _heading_score(key, blocks[i])
+            if sc >= 0.72:                        # strong -> take first in order
+                best_i, best_s = i, sc; break
+            if sc > best_s:
+                best_i, best_s = i, sc
+        # 0.70 cleanly separates real (typo'd) headings (>=0.86 in practice)
+        # from spurious matches (<=0.6); image-only headings fall through to
+        # a flagged stub.
+        if best_i is not None and best_s >= 0.70:
+            locs.append(best_i); cursor = best_i + 1
+        else:
+            locs.append(None)
     return locs
 
 # ---------------------------------------------------------------- copy-edit
