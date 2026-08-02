@@ -118,6 +118,8 @@ def merge_danglers(entries):
 def apply_toc_corrections(entries):
     split = []
     for t, p in entries:
+        if norm_key(t) in SKIP_TITLES:           # whole title is a dropped
+            split.append((t, p)); continue       # section — keep it intact
         pre, sufs = split_features(t)
         if pre:
             split.append((pre, p))
