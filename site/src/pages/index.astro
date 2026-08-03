@@ -96,7 +96,23 @@ const latest = publishQueue
       ],
     });
   }
-  draw();
-  let rt;
-  addEventListener('resize', () => { clearTimeout(rt); rt = setTimeout(draw, 180); });
+  // Redraw whenever the canvas's actual rendered size changes — not just on
+  // window resize. The hero's height depends on the custom webfont's
+  // metrics (Fraunces vs. the fallback serif), so the very first draw can
+  // happen before that font swaps in, sizing the canvas to the WRONG
+  // (fallback-font) layout; the browser then stretches that stale bitmap to
+  // fit once the real layout settles, which is the blurry/thick look on
+  // first load in Safari. A ResizeObserver reacts to the real cause (the
+  // element's box actually changing size) instead of guessing when fonts
+  // are done, so it self-corrects the moment that happens.
+  const heroCanvas = document.getElementById('hero-canvas');
+  if (heroCanvas) {
+    let raf;
+    const scheduleDraw = () => {
+      cancelAnimationFrame(raf);
+      raf = requestAnimationFrame(draw);
+    };
+    new ResizeObserver(scheduleDraw).observe(heroCanvas);
+    document.fonts?.ready?.then(scheduleDraw);
+  }
 </script>
