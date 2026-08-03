@@ -19,12 +19,17 @@
 // which reads more mechanically). This is the "systematic" hook for future
 // articles: the mechanism already exists, filling it in per-article is the
 // only remaining manual step.
+//
+// `type` labels the card's green overlay tag ("ARTÍCULO" / "COLECCIÓN").
+// Everything published so far is a plain article; omit it and it defaults
+// to 'articulo'. Set it to 'coleccion' once the first collection is ready.
 
 export interface PublishEntry {
   id: string;
   publishDate: string; // YYYY-MM-DD
   locked?: boolean;
   teaser?: string;
+  type?: 'articulo' | 'coleccion';
 }
 
 export const publishQueue: PublishEntry[] = [

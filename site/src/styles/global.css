@@ -46,6 +46,18 @@ nav.site a{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing
   text-transform:uppercase;color:var(--ink-soft);text-decoration:none;margin-left:22px}
 nav.site a:hover{color:var(--green)}
 
+/* language switch: ES is live, EN is a placeholder until articles are
+   translated — swap in a real link once English routes exist */
+.lang-switch{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.14em;
+  margin-left:22px;display:inline-flex;align-items:center;gap:6px}
+.lang-switch .lang-current{color:var(--green)}
+.lang-switch .lang-sep{color:var(--line)}
+.lang-switch .lang-soon{color:var(--ink-soft);opacity:.45;cursor:not-allowed;position:relative}
+.lang-switch .lang-soon:hover::after,.lang-switch .lang-soon:focus::after{
+  content:"Próximamente en inglés";position:absolute;top:calc(100% + 8px);right:0;
+  background:var(--green);color:var(--paper-lit);padding:6px 10px;font-size:10px;
+  letter-spacing:.04em;text-transform:none;white-space:nowrap;border-radius:2px}
+
 /* ---------- hero ---------- */
 .hero{padding:64px 0 48px;position:relative;overflow:hidden}
 #hero-canvas{position:absolute;inset:0;width:100%;height:100%;opacity:.5;z-index:0;pointer-events:none}
@@ -69,31 +81,38 @@ nav.site a:hover{color:var(--green)}
   transition:opacity .3s var(--ease)}
 .share-toast.show{opacity:1}
 
-/* ---------- article cards / list ---------- */
-.article-list{display:flex;flex-direction:column}
-.card{display:flex;gap:20px;align-items:flex-start;text-decoration:none;color:inherit;
-  padding:26px 0;border-top:1px solid var(--line)}
-.card:last-child{border-bottom:1px solid var(--line)}
+/* ---------- article cards / list ----------
+   Modeled on the moodboard's "En uso" showcase block (design/moodboard.html,
+   .use): a large image with a green type-tag overlay, paired with text —
+   rather than a small thumbnail row. */
+.article-list{display:flex;flex-direction:column;gap:26px}
+.card{display:grid;grid-template-columns:1.1fr .9fr;gap:0;text-decoration:none;color:inherit;
+  border:1px solid var(--line);background:var(--paper-lit)}
 /* thumbnail: a real cover image when the article has one; otherwise a
    subtle textured placeholder (::after) shows through */
-.card .thumb{flex:0 0 104px;width:104px;height:104px;border:1px solid var(--line);
-  background:linear-gradient(150deg,var(--paper-lit),var(--paper));position:relative;overflow:hidden}
+.card .thumb{position:relative;overflow:hidden;min-height:280px;background:#0e1a14}
 .card .thumb::after{content:"";position:absolute;inset:0;z-index:0;
   background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.1 0 0 0 0 0.28 0 0 0 0 0.19 0 0 0 0.16 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E")}
-.card .thumb img{position:relative;z-index:1;width:100%;height:100%;object-fit:cover}
-.card .body{flex:1;min-width:0}
+.card .thumb img{position:relative;z-index:1;width:100%;height:100%;object-fit:cover;opacity:.92}
+/* type tag: the reusable "EXHIBICIÓN"-style convention — adjust color/opacity here */
+.card .thumb .typetag{position:absolute;top:16px;left:16px;z-index:2;
+  font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.18em;
+  color:#f4eeda;background:rgba(26,71,49,.85);padding:5px 10px;text-transform:uppercase}
+.card .body{min-width:0;padding:32px 36px;display:flex;flex-direction:column;justify-content:center}
 .card .byline{font-family:'IBM Plex Mono',monospace;font-size:10px;letter-spacing:.1em;
   text-transform:uppercase;color:var(--gold)}
 .card .meta{font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.06em;
-  color:var(--ink-soft);text-transform:uppercase;display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:5px}
+  color:var(--ink-soft);text-transform:uppercase;display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-top:16px}
 .card .lockpill{border:1px solid var(--gold);color:var(--gold);border-radius:999px;
   padding:2px 8px;font-size:9.5px;letter-spacing:.1em}
-.card h2{font-size:clamp(19px,2.6vw,24px);margin-top:6px}
+.card h2{font-family:'Fraunces',serif;font-weight:400;font-size:clamp(22px,3vw,30px);
+  line-height:1.08;margin-top:12px;letter-spacing:-.01em}
 .card:hover h2{color:var(--green)}
-.card p.dek{color:var(--ink-soft);font-size:14px;margin-top:6px;max-width:62ch}
-@media(max-width:520px){
-  .card{gap:14px}
-  .card .thumb{flex-basis:72px;width:72px;height:72px}
+.card p.dek{color:var(--ink-soft);font-size:14.5px;margin-top:14px;max-width:48ch}
+@media(max-width:720px){
+  .card{grid-template-columns:1fr}
+  .card .thumb{min-height:220px}
+  .card .body{padding:24px 24px 28px}
 }
 
 /* ---------- article page ---------- */

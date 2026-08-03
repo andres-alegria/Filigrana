@@ -8,8 +8,14 @@ interface Props {
   summary?: string;
   locked?: boolean;
   coverSrc?: string | null;
+  type?: 'articulo' | 'coleccion';
 }
-const { routeSlug, title, author, issueDate, publishDate, summary, locked, coverSrc } = Astro.props;
+const {
+  routeSlug, title, author, issueDate, publishDate, summary, locked, coverSrc,
+  type = 'articulo',
+} = Astro.props;
+
+const typeLabel = type === 'coleccion' ? 'COLECCIÓN' : 'ARTÍCULO';
 
 const onlineLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-HN', {
   year: 'numeric', month: 'long', day: 'numeric',
@@ -23,6 +29,7 @@ const originalLabel = issueDate
 <a class="card" href={`/articulos/${routeSlug}/`}>
   <div class="thumb" aria-hidden="true">
     {coverSrc && <img src={coverSrc} alt="" loading="lazy" />}
+    <span class="typetag">{typeLabel}</span>
   </div>
   <div class="body">
     <div class="byline">Por {author}</div>

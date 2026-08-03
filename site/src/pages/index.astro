@@ -28,9 +28,9 @@ const latest = publishQueue
   </section>
 
   <section class="wrap" style="padding:36px 0 60px">
-    <h2 style="font-size:22px;margin-bottom:6px">Últimos artículos</h2>
+    <h2 style="font-size:22px;margin-bottom:6px">Publicaciones recientes</h2>
     <div class="article-list">
-      {latest.map(({ entry, publishDate, locked, teaser }) => (
+      {latest.map(({ entry, publishDate, locked, teaser, type }) => (
         <ArticleCard
           routeSlug={routeSlug(entry!)}
           title={entry!.data.title_es}
@@ -39,6 +39,7 @@ const latest = publishQueue
           publishDate={publishDate}
           summary={teaser ?? entry!.data.summary_es}
           locked={locked}
+          type={type}
           coverSrc={firstImageSrc(entry!.rendered?.html ?? '')}
         />
       ))}

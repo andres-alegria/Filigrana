@@ -18,7 +18,7 @@ const list = publishQueue
     <span class="kicker">Archivo</span>
     <h1 style="font-size:clamp(28px,4vw,40px);margin-top:8px">Artículos</h1>
     <div class="article-list" style="margin-top:28px">
-      {list.map(({ entry, publishDate, locked, teaser }) => (
+      {list.map(({ entry, publishDate, locked, teaser, type }) => (
         <ArticleCard
           routeSlug={routeSlug(entry!)}
           title={entry!.data.title_es}
@@ -27,6 +27,7 @@ const list = publishQueue
           publishDate={publishDate}
           summary={teaser ?? entry!.data.summary_es}
           locked={locked}
+          type={type}
           coverSrc={firstImageSrc(entry!.rendered?.html ?? '')}
         />
       ))}

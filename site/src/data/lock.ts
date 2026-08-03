@@ -9,4 +9,4 @@
 // password when prompted, and paste the printed hash below.
 
 export const LOCK_HASH =
-  'PASTE_HASH_HERE_RUN_npm_run_hash-password';
+  '189855d591605c3d29fa48c124a7b74f8858da4a1c92ecee3a71b5115e9756b6';
