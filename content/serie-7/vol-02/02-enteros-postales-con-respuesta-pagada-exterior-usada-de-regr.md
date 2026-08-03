@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 4
 page_end: 13
-image_count: 17   # flagged; precise article-image match is a later pass
+image_count: 17   # 0 colocadas en el texto, 17 sueltas al final
 summary_es: "La era de los enteros postales llegó a Honduras como resultado de los contratos para emisiones postales suscritos entre el Gobierno y Nicolás Seebeck entre 1889 y 1895. (Caso similar ocurrió con El Salvador, Nicaragua, República Dominicana y Ecuador). Aparte"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -94,23 +94,39 @@ Un sincero agradecimiento al amigo Guillermo Gallegos por los datos aportados.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 17 en este artículo:
-  - image2.jpeg
-  - image3.png
-  - image4.png
-  - image5.png
-  - image7.png
-  - image8.png
-  - image9.png
-  - image10.png
-  - image11.png
-  - image12.png
-  - image13.png
-  - image14.png
-  - image15.jpeg
-  - image16.png
-  - image18.png
-  - image20.png
-  - image21.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image2.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image3.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image4.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image5.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image7.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image8.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image9.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image10.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image11.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image12.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image13.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image14.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image15.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image16.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image18.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image20.webp)
+
+![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image21.webp)

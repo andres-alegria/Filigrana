@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: investigacion
 page_start: 20
 page_end: 23
-image_count: 5   # flagged; precise article-image match is a later pass
+image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
 summary_es: "Fue un servicio especial de entrega de correspondencia que combinaba el transporte marítimo y el aéreo; la correspondencia, transportada por barco se transfería poco antes del arribo a un hidroavión que catapultado desde la cubierta de la embarcación, permitía que"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -52,11 +52,15 @@ Aguilar Andrade, Juan Pablo. Actualidad Filatélica. Marzo 2016.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 5 en este artículo:
-  - image21.jpeg
-  - image22.jpeg
-  - image23.png
-  - image24.png
-  - image25.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-06/05-el-correo-catapultado/image21.webp)
+
+![](/img/serie-7/vol-06/05-el-correo-catapultado/image22.webp)
+
+![](/img/serie-7/vol-06/05-el-correo-catapultado/image23.webp)
+
+![](/img/serie-7/vol-06/05-el-correo-catapultado/image24.webp)
+
+![](/img/serie-7/vol-06/05-el-correo-catapultado/image25.webp)

@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 39
 page_end: 40
-image_count: 4   # flagged; precise article-image match is a later pass
+image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
 summary_es: "SOBERANOS CABALLEROS Más de un milenio de historia tiene la Soberana Orden de los Caballeros de Malta. Una historia llena de episodios heroicos, desde que fuera fundada a fines del siglo XI por Fra Gerardo, para prestar ayuda a los"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -44,10 +44,13 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 4 en este artículo:
-  - image82.png
-  - image83.png
-  - image84.jpeg
-  - image85.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-12/07-un-sello-con-historia/image82.webp)
+
+![](/img/serie-6/vol-12/07-un-sello-con-historia/image83.webp)
+
+![](/img/serie-6/vol-12/07-un-sello-con-historia/image84.webp)
+
+![](/img/serie-6/vol-12/07-un-sello-con-historia/image85.webp)

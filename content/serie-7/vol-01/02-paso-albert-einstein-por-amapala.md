@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 4
 page_end: 13
-image_count: 8   # flagged; precise article-image match is a later pass
+image_count: 8   # 0 colocadas en el texto, 8 sueltas al final
 summary_es: "Por muchos años se ha platicado del mito urbano acerca de la presencia en la ciudad puerto de Amapala, isla de El Tigre, del renombrado físico alemán Albert Einstein (14 de marzo 1879-18 de abril 1955). Entre las diversas versiones"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -120,14 +120,21 @@ Have read
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 8 en este artículo:
-  - image3.jpeg
-  - image4.png
-  - image5.png
-  - image6.png
-  - image7.png
-  - image8.png
-  - image9.png
-  - image10.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image3.webp)
+
+![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image4.webp)
+
+![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image5.webp)
+
+![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image6.webp)
+
+![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image7.webp)
+
+![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image8.webp)
+
+![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image9.webp)
+
+![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image10.webp)

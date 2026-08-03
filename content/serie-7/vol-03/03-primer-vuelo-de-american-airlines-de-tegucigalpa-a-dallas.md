@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: investigacion
 page_start: 29
 page_end: 30
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "Imagen 1. Airbus A319 en Toncontín. (Cortesía de American Airlines). El 2 de octubre del 2018 American Airlines (AA) publica una nota de prensa en la que se anunciaban las nuevas rutas para el 2019, y por fortuna habían dos"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -40,9 +40,11 @@ Claudia Fúnez de American A.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image40.jpeg
-  - image41.jpeg
-  - image42.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-03/03-primer-vuelo-de-american-airlines-de-tegucigalpa-a-dallas/image40.webp)
+
+![](/img/serie-7/vol-03/03-primer-vuelo-de-american-airlines-de-tegucigalpa-a-dallas/image41.webp)
+
+![](/img/serie-7/vol-03/03-primer-vuelo-de-american-airlines-de-tegucigalpa-a-dallas/image42.webp)

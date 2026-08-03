@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 37
 page_end: 38
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "Recientemente tuve la grata oportunidad de asistir nuevamente como Comisario a una exposición mundial de filatelia, la primera vez en Nueva York-2016 y ahora en Brasilia-2017. Los planes de la participación de Honduras en Brasilia inician cuando se recibieron las"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -46,7 +46,7 @@ Debo reconocer la eficiencia del Comité Organizador; nos atendieron muy bien de
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image81.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-12/06-honduras-presente-en-brasilia-2017/image81.webp)

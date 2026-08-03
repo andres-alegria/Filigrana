@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 4
 page_end: 19
-image_count: 15   # flagged; precise article-image match is a later pass
+image_count: 15   # 0 colocadas en el texto, 15 sueltas al final
 summary_es: "Las Islas del Cisne, conocidas también como San Millán, Santanilla o Santillana, están ubicadas en un relativo aislamiento en el Mar Caribe occidental a una latitud de 17 grados 24’ latitud Norte y 83 grados 56’ longitud Oeste, aproximadamente a"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -160,21 +160,35 @@ Atiendo mancolistas.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 15 en este artículo:
-  - image2.jpeg
-  - image3.jpeg
-  - image4.jpeg
-  - image5.jpeg
-  - image6.jpeg
-  - image7.jpeg
-  - image8.jpeg
-  - image9.jpeg
-  - image10.jpeg
-  - image11.jpeg
-  - image12.jpeg
-  - image13.jpeg
-  - image14.jpeg
-  - image15.jpeg
-  - image16.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image2.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image3.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image4.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image5.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image6.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image7.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image8.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image9.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image10.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image11.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image12.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image13.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image14.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image15.webp)
+
+![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image16.webp)

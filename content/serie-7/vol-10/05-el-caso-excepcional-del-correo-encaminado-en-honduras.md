@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 46
 page_end: 50
-image_count: 33   # flagged; precise article-image match is a later pass
+image_count: 33   # 0 colocadas en el texto, 33 sueltas al final
 summary_es: "Recién tuve la excepcional oportunidad de adquirir un sobre “PERMITASE” circulado en 1899, con la particularidad adicional de llevar una marca de correo encaminado. La ocasión fue determinante para sondear un tema poco explorado en la filatelia, presentándose a la"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -86,39 +86,71 @@ Como colofón, no está de más señalar que al examinar los sobres habría que 
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 33 en este artículo:
-  - image31.png
-  - image32.png
-  - image33.png
-  - image34.png
-  - image35.png
-  - image36.png
-  - image37.png
-  - image38.png
-  - image39.png
-  - image40.png
-  - image41.png
-  - image42.png
-  - image43.png
-  - image44.png
-  - image45.png
-  - image46.png
-  - image47.png
-  - image48.png
-  - image49.png
-  - image50.png
-  - image51.png
-  - image52.png
-  - image53.jpeg
-  - image54.png
-  - image55.png
-  - image56.png
-  - image57.png
-  - image58.png
-  - image59.png
-  - image60.png
-  - image61.png
-  - image62.png
-  - image63.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image31.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image32.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image33.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image34.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image35.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image36.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image37.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image38.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image39.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image40.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image41.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image42.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image43.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image44.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image45.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image46.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image47.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image48.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image49.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image50.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image51.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image52.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image53.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image54.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image55.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image56.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image57.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image58.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image59.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image60.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image61.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image62.webp)
+
+![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image63.webp)

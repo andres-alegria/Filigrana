@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: sello-con-historia
 page_start: 51
 page_end: 51
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "Se ha señalado que la bandera de las Provincias Unidas del Centro de América ( de efímera existencia del 1 de julio de 1823 al 22 de noviembre de 1824, y de donde se derivan las banderas de Honduras, Nicaragua,"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -26,7 +26,7 @@ Historiadores también afirman que una bandera similar fue enarbolada por otro 
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image89.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-05/07-un-sello-con-historia/image89.webp)

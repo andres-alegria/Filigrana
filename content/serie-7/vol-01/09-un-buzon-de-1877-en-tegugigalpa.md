@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 33
 page_end: 34
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "Nos hemos encontrado con esta histórica fotografía que muestra un antiguo edifico ubicado frente al Jardín Morazán, hoy Parque Central de Tegucigalpa, donde otrora funcionó el Tribunal Superior de Cuentas y el Museo Nacional, tras lo cual fue demolido en"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -44,9 +44,11 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image47.png
-  - image49.jpeg
-  - image50.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-01/09-un-buzon-de-1877-en-tegugigalpa/image47.webp)
+
+![](/img/serie-7/vol-01/09-un-buzon-de-1877-en-tegugigalpa/image49.webp)
+
+![](/img/serie-7/vol-01/09-un-buzon-de-1877-en-tegugigalpa/image50.webp)

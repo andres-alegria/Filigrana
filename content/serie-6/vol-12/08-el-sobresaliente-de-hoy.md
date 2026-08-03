@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 41
 page_end: 41
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "Nos ha llamado la atención este sobre circulado de San Pedro Sula a los Estados Unidos el 20 de julio de 1898, con un porte correcto de 10 cts. de acuerdo a la tarifa vigente emitida en 1883 para cartas"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -24,9 +24,11 @@ Nos ha llamado la atención este sobre circulado de San Pedro Sula a los Estados
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image86.png
-  - image87.png
-  - image88.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-12/08-el-sobresaliente-de-hoy/image86.webp)
+
+![](/img/serie-6/vol-12/08-el-sobresaliente-de-hoy/image87.webp)
+
+![](/img/serie-6/vol-12/08-el-sobresaliente-de-hoy/image88.webp)

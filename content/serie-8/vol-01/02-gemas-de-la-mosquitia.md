@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 4
 page_end: 38
-image_count: 20   # flagged; precise article-image match is a later pass
+image_count: 20   # 3 colocadas en el texto, 17 sueltas al final
 summary_es: "Son cinco las piezas que se pueden considerar únicas en el mundo filatélico, vinculadas a diferentes etapas de la historia del “reino misquito”, en parte ubicado en el litoral Atlántico de Honduras. La existencia de este enclave étnico que por"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -62,7 +62,7 @@ Llegó a tejer una diversa e importante red de contactos comerciales en las áre
 
 Hodgson II poseía embarcaciones dedicadas al transporte de mercancías de contrabando para su clientela española, y sería en una de estas jornadas comerciales a inicios de 1783, cuando en las inmediaciones de Portobelo (Panamá), caería como prisionero de guerra a manos de un barco de patrulla español, siendo remitido a Cartagena. Mientras permanecía detenido en cómodas circunstancias, en los próximos años negociaría su situación con el arzobispo de Santa Fé de Bogotá y Virrey de Nueva Granada, Antonio Caballero y Góngora. Debido a su gran influencia sobre el pueblo misquito, su capacidad para hablar su dialecto y su apreciable conocimiento de la región, convencieron a Caballero y Góngora de que sería de mucha utilidad para promover un acercamiento del liderazgo misquito a los intereses españoles. En 1784 las autoridades hispánicas finalmente optaron por reclutarlo para que contribuyera con la pacificación y posterior dominación de aquellas gentes a manera de usurparle a los británicos el control de la región. Fue así como, una vez radicado en Guatemala, el ministro José Matías de Gálvez le otorgó el rango de coronel. Tras la evacuación británica de la costa de Mosquitos, especificada en el Tratado de Versalles y la posterior Convención de Londres de 1786, Hodgson II retornó a Bluefields, radicándose ahí con el rango de coronel del ejército español.
 
-(1). Espectacular carta, encomendada a William Pitt, despachada el 1 de octubre de 1766 desde Londres a Black River por Robert Hodgson II a su esposa Elizabeth mientras él permanecía en la capital europea enfrentando los cargos levantados en su contra, asunto que comenta en parte de la misma: “Ahora yo espero que en unos pocos días sea llamado por el Juzgado Ejecutor acerca de las compras de la Costa. Algún tiempo atrás el Secretario de Estado me dijo que se me debería reembolsar lo que había gastado en el representante legal, quien me ha costado cerca de £100.00”.
+![Espectacular carta, encomendada a William Pitt, despachada el 1 de octubre de 1766 desde Londres a Black River por Robert Hodgson II a su esposa Elizabeth mientras él permanecía en la capital europea enfrentando los cargos levantados en su contra, asunto que comenta en parte de la misma: “Ahora yo espero que en unos pocos días sea llamado por el Juzgado Ejecutor acerca de las compras de la Costa. Algún tiempo atrás el Secretario de Estado me dijo que se me debería reembolsar lo que había gastado en el representante legal, quien me ha costado cerca de £100.00”.](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image3.webp)
 
 La audacia de Hodgson II era tal que en cierto momento esbozó un infecundo plan de ocupación inglesa de casi toda Centroamérica, en el que la Costa de Mosquitos jugaba un importante papel debido a su ubicación geográfica estratégica y al odio tradicional de los misquitos para con los españoles, y en el cual contemplaba que: De hecho, yo no considero en absoluto romántico esperar a que nosotros podamos, a través de apoyar un poco a los indios, propagar la revuelta de una parte a otra, hasta que fuese general a través de la Indias, y echar a los españoles de aquí.
 
@@ -70,7 +70,7 @@ El Atlántico revolucionario fue una época de gran agitación para muchas famil
 
 Robert Hodgson II falleció en Ciudad Guatemala el 29 de mayo de 1791. En una carta anunciando el fallecimiento de su padre, Robert Hodgson III le aseguraba a su hermana Martha María que: …al momento de su muerte nuestro padre era Brigadier General, un Caballero de la Orden de Carlos III (el primer extranjero en haber sido galardonado con tan distinguido título español), dotado con una pensión de 30,000 dólares por año… Dado que nadie de la familia pudo atender los funerales, asimismo le informaba que además de habérsele rendido todos los homenajes del caso: …el funeral costó tres mil dólares los cuales fueron pagados por el Rey de España. Él murió como un fiel protestante. El Rey de España le ha enviado un mensaje expreso de condolencia a mi madre con su palabra real que ella y sus hijos serán considerados su protección peculiar. Sin embargo, ni la tal pensión ni la supuesta protección peculiar se concretaron, pues tras su muerte, la familia cayó en una etapa de estrechez económica, sobreviviendo gracias a la generosidad de sus buenos contactos habidos en Centro América.
 
-(2). Carta de Robert Hodgson II, durante su estadía en Guatemala, dirigida a su hijo Robert Hodgson III, en Bristol, Inglaterra, fechada el 2 de junio de 1791, cuatro días antes de su deceso.
+![Carta de Robert Hodgson II, durante su estadía en Guatemala, dirigida a su hijo Robert Hodgson III, en Bristol, Inglaterra, fechada el 2 de junio de 1791, cuatro días antes de su deceso.](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image4.webp)
 
 Querido Bob
 
@@ -96,7 +96,7 @@ Las autoridades de Guatemala continuaban sin conocer la geografía ni los habita
 
 Para las autoridades españolas y británicas los misquitos eran actores autónomos en asuntos relacionados con la Mosquitia, puesto que ellos mismos proyectaban este sentimiento. La mención de su independencia se convirtió en una especie de saludo, una marca de distinción y una afirmación jactanciosa sustentada por otras actividades. Durante su época en la Mosquitia en 1776, el ya aludido Olaudah Equiano, destacaba que los misquitos se jactaban en particular de nunca haber sido conquistados por los españoles. El superintendente Richard Jones expresaba que los misquitos eran celosos de sus libertades y no serían expulsados por nadie. A su vez, los misquitos afirmaban y reclamaban posesión de su país por derecho en virtud de que siempre lo habían habitado y nunca habían dejado de ser un pueblo libre, no conquistado. Cuando los británicos evacuaron la Mosquitia, los misquitos no podían comprender cómo alguien podía entregar a sus enemigos el país que Dios Todopoderoso les había dado. Ellos sostenían estas opiniones porque sus propias prácticas los legitimaban y la deferencia de los europeos hacia ellos así lo confirmaba.
 
-(3). Carta De Oficio fechada con el insigne año de 1787 y trece años antes de que la población fuese vilmente masacrada, dirigida desde río Tinto a Don Juan Hurtado, Escribano de Cámara del Gobierno de la Audiencia de Guatemala. Por su envío se pagó un porte de 8 reales, indicando que además de un cuerpo administrativo/judicial, también existía ahí un servicio postal formalmente conectado con el mundo exterior.
+![Carta De Oficio fechada con el insigne año de 1787 y trece años antes de que la población fuese vilmente masacrada, dirigida desde río Tinto a Don Juan Hurtado, Escribano de Cámara del Gobierno de la Audiencia de Guatemala. Por su envío se pagó un porte de 8 reales, indicando que además de un cuerpo administrativo/judicial, también existía ahí un servicio postal formalmente conectado con el mundo exterior.](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image6.webp)
 
 Cuando el almirante Dilson II condujo una delegación a León se presentó con un vestido militar, ajado, con bordadura de seda, espada y bastón. Después, en 1788, el gobernador Briton junto con su tripulación llegó a Cartagena para entablar negociaciones, siendo recibido con salvas de ordenanza. Todos los líderes tawira aparecieron vestidos con elegantes uniformes y Briton sosteniendo un bastón con empuñadura de oro. Años después, en 1804, las autoridades se reunieron con el general Thomas Lowry Robinson en Caratasca, y tanto él como la mayoría de sus acompañantes vestían trajes de regimiento británico, con charreteras, espada, fajín y demás ornamentos. Más tarde, cuando el capitán inglés George Henderson fue invitado a una cena de Estado a la que asistieron varios nativos bien vestidos, expresaba: Creo verdaderamente que podrían haber desfilado ante mi mesa todos los trajes de Europa, civiles y militares, usados durante los últimos cien años. Quizá todo lo que en algún momento se consideró llamativo y ornamental en los brillantes y refinados círculos de Londres o Versalles, se tenga hoy en igual estima en la menos refinada costa de Caratasca.
 
@@ -250,26 +250,39 @@ INSTITUTO HONDUREÑO DE CULTURA HISPÁNICA, TEGUCIGALPA
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 20 en este artículo:
-  - image3.png
-  - image4.png
-  - image5.png
-  - image6.png
-  - image7.png
-  - image8.png
-  - image9.png
-  - image10.png
-  - image11.png
-  - image12.png
-  - image13.png
-  - image14.jpeg
-  - image15.jpeg
-  - image16.png
-  - image17.png
-  - image18.png
-  - image19.png
-  - image20.png
-  - image21.png
-  - image22.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image5.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image7.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image8.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image9.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image10.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image11.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image12.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image13.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image14.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image15.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image16.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image17.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image18.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image19.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image20.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image21.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image22.webp)

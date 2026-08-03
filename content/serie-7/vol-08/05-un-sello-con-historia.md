@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 47
 page_end: 49
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "Gracias a la gentil colaboración de mi particular amigo José González, presentamos este ejemplar rescatado de la Revista Renacimiento, Año VI, Número 58, editada en Tegucigalpa el 29 de febrero de 1923, siendo su Director el periodista Mario Rivas de"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -52,9 +52,11 @@ EXFILHON 1986. izquierda a derecha: Reinaldo Baide S. (Director de Correos) Edga
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image68.png
-  - image69.png
-  - image70.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-08/05-un-sello-con-historia/image68.webp)
+
+![](/img/serie-7/vol-08/05-un-sello-con-historia/image69.webp)
+
+![](/img/serie-7/vol-08/05-un-sello-con-historia/image70.webp)

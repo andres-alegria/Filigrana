@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 37
 page_end: 37
-image_count: 2   # flagged; precise article-image match is a later pass
+image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
 summary_es: "CHRISTIAN BOSTVIRONAVOIS En enero de este año tuvimos el agrado de contar en una de nuestras reuniones de Junta Directiva con la presencia de nuestro socio y amigo Christian Bostvironavois. Aunque residente en Francia, Christian ha sido desde siempre un"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -32,8 +32,9 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 2 en este artículo:
-  - image43.jpeg
-  - image44.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-09/06-nos-visito-nuestro-socio-christian-b/image43.webp)
+
+![](/img/serie-6/vol-09/06-nos-visito-nuestro-socio-christian-b/image44.webp)

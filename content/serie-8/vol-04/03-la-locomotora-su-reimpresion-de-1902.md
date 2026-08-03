@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 32
 page_end: 42
-image_count: 17   # flagged; precise article-image match is a later pass
+image_count: 17   # 0 colocadas en el texto, 17 sueltas al final
 summary_es: "A inicios del último año de vigencia de la emisión de La Locomotora se volvió notorio que la existencia de los valores más bajos, y por ende los de mayor demanda, no bastarían para suplir las necesidades postales hasta alcanzar"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -66,23 +66,39 @@ Otro ejemplo es este bloque múltiple también imperforado verticalmente.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 17 en este artículo:
-  - image46.jpeg
-  - image47.jpeg
-  - image48.png
-  - image49.png
-  - image50.png
-  - image51.png
-  - image52.png
-  - image53.png
-  - image54.png
-  - image55.png
-  - image56.png
-  - image57.png
-  - image58.png
-  - image59.png
-  - image60.png
-  - image61.png
-  - image62.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image46.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image47.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image48.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image49.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image50.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image51.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image52.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image53.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image54.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image55.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image56.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image57.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image58.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image59.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image60.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image61.webp)
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image62.webp)

@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 48
 page_end: 51
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "El sello emitido por el correo mexicano en 1997 para conmemorar el tercer centenario de la Misión de Loreto en Baja California, encierra la historia de un compatriota que tuvo el arrojo y la perseverancia para convertirse en pionero de"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -62,7 +62,7 @@ Blog Renacentista. El Padre Juan de Ugarte. 2008. México.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image39.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-07/06-un-sello-con-historia/image39.webp)

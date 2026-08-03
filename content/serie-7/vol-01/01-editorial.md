@@ -10,7 +10,7 @@ themes: []   # GUESS — confirm/correct (5-theme vocab)
 feature_type: editorial
 page_start: 3
 page_end: 3
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "40 AÑOS DE EXPOSICIONES Este año celebramos los cuarenta años de exposiciones ininterrumpidas. Ahora, cuando dentro de dos meses marcaremos nuevamente el calendario con otra EXFILHON, nos ponemos a meditar sobre el caudal de energía y dedicación volcada para hacer"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -28,7 +28,7 @@ Ramón Ynestroza (QDDG) Asesor Tècnico de la Direcciòn General de Correos, Jon
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image2.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-01/01-editorial/image2.webp)

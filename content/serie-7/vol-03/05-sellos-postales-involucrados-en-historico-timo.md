@@ -10,7 +10,7 @@ themes: ["Intriga y escándalo"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
 page_start: 32
 page_end: 37
-image_count: 2   # flagged; precise article-image match is a later pass
+image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
 summary_es: "Tema investigado por Edgardo Alegría R. Carlo Ponzi fue un italiano, nacido en Lugo en el año 1882, que más tarde emigraría a los Estados Unidos. Él es el personaje con el cual se identifica el fraude financiero conocido como"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -96,8 +96,9 @@ RECIBA NUESTRA MAS CORDIAL BIENVENIDA
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 2 en este artículo:
-  - image44.jpeg
-  - image45.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-03/05-sellos-postales-involucrados-en-historico-timo/image44.webp)
+
+![](/img/serie-7/vol-03/05-sellos-postales-involucrados-en-historico-timo/image45.webp)

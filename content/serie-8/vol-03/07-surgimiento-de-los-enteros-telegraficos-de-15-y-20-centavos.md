@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 46
 page_end: 47
-image_count: 10   # flagged; precise article-image match is a later pass
+image_count: 10   # 2 colocadas en el texto, 8 sueltas al final
 summary_es: "Desde que el presidente Marco Aurelio Soto inaugurara el telégrafo nacional el 1 de febrero de 1877, hubo la necesidad e establecer la forma en que se cobraría por dicho servicio. Al inició el cobro se efectuó en efectivo, pero"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -62,24 +62,29 @@ Yo, Trinidad Rivera de Medina, mayor de edad, casada, de oficios domésticos y d
 
 En la parte final del documento (marcado con manchas que evidencian el haber recibido en algún momento una buena dosis de agua) se detalla la cantidad y el monto a que asciende la perdida de cada especie postal y fiscal que se encontraba en inventario, del cual extractamos lo pertinente a los enteros telegráficos:
 
-(429) Cuatrocientas veintinueve tarjetas telegráficas de a 30 cts. 128.70
+![Cuatrocientas veintinueve tarjetas telegráficas de a 30 cts. 128.70](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image47.webp)
 
-(78) Setenta y ocho tarjetas de a 15 cts. c/u 118
+![Setenta y ocho tarjetas de a 15 cts. c/u 118](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image48.webp)
 
 Aunque no se sabe la resolución final sobre esta petición ni tampoco contamos con un ejemplar de estos telegramas, si queda establecida su existencia de manera fidedigna. Por otro lado, el documento en mención, además de atestiguar la existencia de dichos enteros, nos expone también la metodología de su distribución urbana, sumándose a ello una apreciación general de la periodicidad de su vigencia, la cual perduraría hasta 1934 cuando se pusieron en uso los primeros timbres telegráficos impresos por la American Bank Note Company, específicamente para este servicio.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 10 en este artículo:
-  - image39.png
-  - image40.png
-  - image41.png
-  - image42.png
-  - image43.png
-  - image44.png
-  - image45.png
-  - image46.png
-  - image47.png
-  - image48.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image39.webp)
+
+![](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image40.webp)
+
+![](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image41.webp)
+
+![](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image42.webp)
+
+![](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image43.webp)
+
+![](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image44.webp)
+
+![](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image45.webp)
+
+![](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image46.webp)

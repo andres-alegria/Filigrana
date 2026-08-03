@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: sello-con-historia
 page_start: 26
 page_end: 30
-image_count: 2   # flagged; precise article-image match is a later pass
+image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
 summary_es: "LAS CARTAS DEL RMS TITANIC Mucho se ha dicho y escrito sobre la tragedia del transatlántico TITANIC. Su fatal primero y, a la vez, último viaje ha sido relatado en diarios y revistas, así como en programas de radio y"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -78,8 +78,9 @@ Entrada gratis
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 2 en este artículo:
-  - image43.png
-  - image44.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-01/07-un-sello-con-historia/image43.webp)
+
+![](/img/serie-7/vol-01/07-un-sello-con-historia/image44.webp)

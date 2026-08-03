@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 31
 page_end: 32
-image_count: 2   # flagged; precise article-image match is a later pass
+image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
 summary_es: "Se ha dado el caso que más de algún filatelista tratando de mejorar la importancia de una pieza postal, proceda a alterarlo agregándole alguna viñeta, estampilla, matasello o sello fechador. Para esto considero dos casos. Primero, las piezas circuladas “de"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -28,8 +28,9 @@ En conclusión, todos los filatelistas de corazón sabemos que toda pieza postal
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 2 en este artículo:
-  - image45.jpeg
-  - image46.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-01/08-como-arruinar-un-sobre/image45.webp)
+
+![](/img/serie-7/vol-01/08-como-arruinar-un-sobre/image46.webp)

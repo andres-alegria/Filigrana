@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 12
 page_end: 16
-image_count: 4   # flagged; precise article-image match is a later pass
+image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
 summary_es: "Como podrá observarse el Decreto es remitido “Al ciudadano José Velasco” indicando la inmediata aplicación de un tratamiento más republicano. Tal parece que el mandato tuvo efecto por lo menos a nivel gubernamental tal como se puede apreciar en la"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -34,10 +34,13 @@ Hoy en día el uso de don y doña es generalizado en todo el mundo hispanohablan
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 4 en este artículo:
-  - image5.jpeg
-  - image6.jpeg
-  - image7.jpeg
-  - image8.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-02/03-quedan-abolidos-los-titulo-de-distincio-en-las-provincias-un/image5.webp)
+
+![](/img/serie-6/vol-02/03-quedan-abolidos-los-titulo-de-distincio-en-las-provincias-un/image6.webp)
+
+![](/img/serie-6/vol-02/03-quedan-abolidos-los-titulo-de-distincio-en-las-provincias-un/image7.webp)
+
+![](/img/serie-6/vol-02/03-quedan-abolidos-los-titulo-de-distincio-en-las-provincias-un/image8.webp)

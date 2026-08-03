@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: investigacion
 page_start: 30
 page_end: 33
-image_count: 7   # flagged; precise article-image match is a later pass
+image_count: 7   # 0 colocadas en el texto, 7 sueltas al final
 summary_es: "El transporte del correo, desde tiempos coloniales constituyó un dolor de cabeza para las autoridades postales. Los impedimentos para un servicio eficiente tenían mucho que ver con los aspectos naturales del país, por decir La falta de caminos adecuados y"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -48,13 +48,19 @@ Aguilar Flores, Juan Manuel. (2021). Correo Terrestre en Honduras 1525-1821. Hon
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 7 en este artículo:
-  - image20.png
-  - image21.png
-  - image22.png
-  - image23.png
-  - image24.png
-  - image25.png
-  - image26.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-09/03-se-aprueba-una-contrata-para-el-transporte-de-correo-a-cholu/image20.webp)
+
+![](/img/serie-7/vol-09/03-se-aprueba-una-contrata-para-el-transporte-de-correo-a-cholu/image21.webp)
+
+![](/img/serie-7/vol-09/03-se-aprueba-una-contrata-para-el-transporte-de-correo-a-cholu/image22.webp)
+
+![](/img/serie-7/vol-09/03-se-aprueba-una-contrata-para-el-transporte-de-correo-a-cholu/image23.webp)
+
+![](/img/serie-7/vol-09/03-se-aprueba-una-contrata-para-el-transporte-de-correo-a-cholu/image24.webp)
+
+![](/img/serie-7/vol-09/03-se-aprueba-una-contrata-para-el-transporte-de-correo-a-cholu/image25.webp)
+
+![](/img/serie-7/vol-09/03-se-aprueba-una-contrata-para-el-transporte-de-correo-a-cholu/image26.webp)

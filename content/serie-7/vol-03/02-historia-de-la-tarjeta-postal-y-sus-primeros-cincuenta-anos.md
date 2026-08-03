@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 4
 page_end: 28
-image_count: 38   # flagged; precise article-image match is a later pass
+image_count: 38   # 0 colocadas en el texto, 38 sueltas al final
 summary_es: "Recopilaciòn por Edgardo Alegría R. La tarjeta postal es un medio de comunicación escrito que surge como un medio de correspondencia más económico que las cartas para el envío de mensajes cortos, y ser remitida al descubierto, sin sobre. Son"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -250,44 +250,81 @@ San Pedro Sula
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 38 en este artículo:
-  - image2.jpeg
-  - image3.jpeg
-  - image4.png
-  - image5.png
-  - image6.png
-  - image7.png
-  - image8.png
-  - image9.png
-  - image10.jpeg
-  - image11.jpeg
-  - image12.png
-  - image13.jpeg
-  - image14.jpeg
-  - image15.png
-  - image16.jpeg
-  - image17.jpeg
-  - image18.png
-  - image19.jpeg
-  - image20.jpeg
-  - image21.jpeg
-  - image22.png
-  - image23.png
-  - image24.png
-  - image25.png
-  - image26.jpeg
-  - image27.jpeg
-  - image28.png
-  - image29.png
-  - image30.jpeg
-  - image31.jpeg
-  - image32.png
-  - image33.png
-  - image34.png
-  - image35.jpeg
-  - image36.png
-  - image37.png
-  - image38.jpeg
-  - image39.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image2.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image3.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image4.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image5.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image6.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image7.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image8.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image9.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image10.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image11.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image12.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image13.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image14.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image15.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image16.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image17.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image18.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image19.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image20.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image21.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image22.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image23.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image24.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image25.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image26.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image27.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image28.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image29.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image30.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image31.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image32.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image33.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image34.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image35.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image36.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image37.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image38.webp)
+
+![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image39.webp)

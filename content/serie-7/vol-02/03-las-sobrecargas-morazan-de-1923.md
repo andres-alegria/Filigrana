@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 14
 page_end: 20
-image_count: 5   # flagged; precise article-image match is a later pass
+image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
 summary_es: "ANTIGUO ROMANO Estos sellos fueron estudiados meticulosamente por Irving Green hace más de sesenta años. Richard Washburn resumió aspectos de esta emisión en 1996. Fueron producidos en una época de convulsión militar en el país. La escasez de sellos era"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -156,11 +156,15 @@ MEDALLA DE PLATA GRANDE
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 5 en este artículo:
-  - image22.png
-  - image23.jpeg
-  - image24.jpeg
-  - image25.jpeg
-  - image26.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-02/03-las-sobrecargas-morazan-de-1923/image22.webp)
+
+![](/img/serie-7/vol-02/03-las-sobrecargas-morazan-de-1923/image23.webp)
+
+![](/img/serie-7/vol-02/03-las-sobrecargas-morazan-de-1923/image24.webp)
+
+![](/img/serie-7/vol-02/03-las-sobrecargas-morazan-de-1923/image25.webp)
+
+![](/img/serie-7/vol-02/03-las-sobrecargas-morazan-de-1923/image26.webp)

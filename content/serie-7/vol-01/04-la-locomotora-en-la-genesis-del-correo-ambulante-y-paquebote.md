@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 19
 page_end: 20
-image_count: 4   # flagged; precise article-image match is a later pass
+image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
 summary_es: "CORREO AMBULANTE Y CORREO PAQUEBOTE Han salido a la luz nuevos datos que establecen de manera precisa la fecha y condiciones bajo las cuales inició el correo ambulante del tren en el país. Ya en 1896 había quedado prevista la"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -56,10 +56,13 @@ También han surgido sellos matasellados como paquebotes, como los presentados a
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 4 en este artículo:
-  - image19.jpeg
-  - image20.jpeg
-  - image22.png
-  - image24.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-01/04-la-locomotora-en-la-genesis-del-correo-ambulante-y-paquebote/image19.webp)
+
+![](/img/serie-7/vol-01/04-la-locomotora-en-la-genesis-del-correo-ambulante-y-paquebote/image20.webp)
+
+![](/img/serie-7/vol-01/04-la-locomotora-en-la-genesis-del-correo-ambulante-y-paquebote/image22.webp)
+
+![](/img/serie-7/vol-01/04-la-locomotora-en-la-genesis-del-correo-ambulante-y-paquebote/image24.webp)

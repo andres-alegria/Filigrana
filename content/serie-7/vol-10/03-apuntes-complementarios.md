@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 26
 page_end: 29
-image_count: 5   # flagged; precise article-image match is a later pass
+image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
 summary_es: "En el número anterior de Honduras Filatélica publiqué un artículo referente a la emisión de Céleo Arias, en el cual abordaba las incidencias en torno a la reimpresión de la misma. Posteriormente me encontré con un dato que aclara con"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -60,11 +60,15 @@ Fue oportuno que entre ambos eventos transcurrieran más de tres años, dando lu
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 5 en este artículo:
-  - image16.png
-  - image17.png
-  - image18.png
-  - image19.png
-  - image20.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-10/03-apuntes-complementarios/image16.webp)
+
+![](/img/serie-7/vol-10/03-apuntes-complementarios/image17.webp)
+
+![](/img/serie-7/vol-10/03-apuntes-complementarios/image18.webp)
+
+![](/img/serie-7/vol-10/03-apuntes-complementarios/image19.webp)
+
+![](/img/serie-7/vol-10/03-apuntes-complementarios/image20.webp)

@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: sobresaliente
 page_start: 50
 page_end: 51
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "Esta excepcional carta paquebote (sin contrato: SHIP 6), única en su clase, con franqueo a cobrar de 6 centavos (Due 6 a mano) fue enviada Per Lilly of the Valley a finales de enero/principios de febrero de 1870, desde algún"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -30,7 +30,7 @@ Dejando a un lado las imperfecciones observadas, ésta sigue siendo una pieza fa
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image64.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-04/05-el-sobresaliente-de-hoy/image64.webp)

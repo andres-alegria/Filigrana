@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 21
 page_end: 23
-image_count: 6   # flagged; precise article-image match is a later pass
+image_count: 6   # 0 colocadas en el texto, 6 sueltas al final
 summary_es: "Hace unos días que recibí un grupo de sellos en el correo. Encontré en la colección unos sellos de 1931, un C20a y un C20b. El C20a estaba en un grupo de seis y sin usar. Un sello que me"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -38,12 +38,17 @@ Se nota que cabe muy bien. Y estoy muy contento. Después de una búsqueda agrad
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 6 en este artículo:
-  - image27.jpeg
-  - image28.jpeg
-  - image29.jpeg
-  - image30.jpeg
-  - image31.jpeg
-  - image32.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-02/04-el-caso-del-scott-c20b-usado/image27.webp)
+
+![](/img/serie-7/vol-02/04-el-caso-del-scott-c20b-usado/image28.webp)
+
+![](/img/serie-7/vol-02/04-el-caso-del-scott-c20b-usado/image29.webp)
+
+![](/img/serie-7/vol-02/04-el-caso-del-scott-c20b-usado/image30.webp)
+
+![](/img/serie-7/vol-02/04-el-caso-del-scott-c20b-usado/image31.webp)
+
+![](/img/serie-7/vol-02/04-el-caso-del-scott-c20b-usado/image32.webp)

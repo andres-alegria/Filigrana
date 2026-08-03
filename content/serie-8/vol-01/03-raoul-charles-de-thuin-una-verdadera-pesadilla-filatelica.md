@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 39
 page_end: 60
-image_count: 13   # flagged; precise article-image match is a later pass
+image_count: 13   # 0 colocadas en el texto, 13 sueltas al final
 summary_es: "Raoul Charles de Thuin Knapenn, nacido en Bruselas, Bélgica en 1890 del matrimonio formado por Charles de Thuin y Marie Louise Knapenn, fue un prolífico falsificador y comerciante de sellos, quien en su mejor etapa operó desde Mérida, Yucatán, México,"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -286,19 +286,31 @@ The Yucatan Affair, The Work of Raul Ch. de Thuin, Philatelic Counterfeiter. Ame
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 13 en este artículo:
-  - image23.png
-  - image24.png
-  - image25.png
-  - image26.png
-  - image27.png
-  - image28.png
-  - image29.png
-  - image30.png
-  - image31.png
-  - image32.png
-  - image33.png
-  - image34.png
-  - image35.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image23.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image24.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image25.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image26.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image27.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image28.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image29.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image30.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image31.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image32.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image33.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image34.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image35.webp)

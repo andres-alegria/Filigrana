@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: sobresaliente
 page_start: 68
 page_end: 68
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "Este sobre circulado el 3 de septiembre de 1958 contiene en el texto del sello fechador la palabra “ESTAFETAS”. De manera genérica encontramos que este término se aplica o aplicaba a las oficinas en el servicio postal destinadas a realizar"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -26,7 +26,7 @@ Específicamente hablando de nuestra marca, en el servicio postal de Honduras, h
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image43.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-01/05-el-sobresaliente-de-hoy/image43.webp)

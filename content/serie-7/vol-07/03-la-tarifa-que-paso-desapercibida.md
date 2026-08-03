@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 43
 page_end: 45
-image_count: 2   # flagged; precise article-image match is a later pass
+image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
 summary_es: "Figura 1. De Puerto Cortés para Alemania 22 de febrero de 1900. Figura 2. De Puerto Cortés para Alemania 28 de septiembre de 1898. Recientemente llegó a mis manos un grupo de enteros postales de 2 cts. (para circulación interior)"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -66,8 +66,9 @@ Washburn, Richard. The Honduras Corner. The Oxcart, No. 268, diciembre
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 2 en este artículo:
-  - image35.jpeg
-  - image36.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-07/03-la-tarifa-que-paso-desapercibida/image35.webp)
+
+![](/img/serie-7/vol-07/03-la-tarifa-que-paso-desapercibida/image36.webp)

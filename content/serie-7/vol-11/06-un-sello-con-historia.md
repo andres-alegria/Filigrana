@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 50
 page_end: 54
-image_count: 9   # flagged; precise article-image match is a later pass
+image_count: 9   # 0 colocadas en el texto, 9 sueltas al final
 summary_es: "El Dr. Marco Aurelio Soto fue presidente de Honduras en dos períodos, entre 1876 y 1883. Propulsó grandes cambios en el país bajo lo que luego se conocería como la “Gran Reforma Liberal”, pero por otro lado también se le"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -94,15 +94,23 @@ Se agradece a los señores Marcio Carías, Ricardo de Jesús Calderón y Christi
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 9 en este artículo:
-  - image76.png
-  - image77.png
-  - image78.png
-  - image79.png
-  - image80.png
-  - image81.png
-  - image82.png
-  - image83.png
-  - image84.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-11/06-un-sello-con-historia/image76.webp)
+
+![](/img/serie-7/vol-11/06-un-sello-con-historia/image77.webp)
+
+![](/img/serie-7/vol-11/06-un-sello-con-historia/image78.webp)
+
+![](/img/serie-7/vol-11/06-un-sello-con-historia/image79.webp)
+
+![](/img/serie-7/vol-11/06-un-sello-con-historia/image80.webp)
+
+![](/img/serie-7/vol-11/06-un-sello-con-historia/image81.webp)
+
+![](/img/serie-7/vol-11/06-un-sello-con-historia/image82.webp)
+
+![](/img/serie-7/vol-11/06-un-sello-con-historia/image83.webp)
+
+![](/img/serie-7/vol-11/06-un-sello-con-historia/image84.webp)

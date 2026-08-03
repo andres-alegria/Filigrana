@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 4
 page_end: 36
-image_count: 65   # flagged; precise article-image match is a later pass
+image_count: 61   # 0 colocadas en el texto, 61 sueltas al final
 summary_es: "Antaño, ocasionalmente un empleado de correos detectaba una carta franqueada incorrectamente, frente a lo cual tenía dos opciones: primero, devolverla al remitente, siempre y cuando hubiese una dirección de éste, o, segundo, darle trámite de manera que el destinatario fuese"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -426,71 +426,127 @@ Reglamento de Correos. 1963. Tipografía Nacional. Tegucigalpa, Honduras.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 65 en este artículo:
-  - image3.jpeg
-  - image4.jpeg
-  - image5.png
-  - image6.png
-  - image7.png
-  - image8.png
-  - image9.png
-  - image10.png
-  - image11.png
-  - image12.png
-  - image13.png
-  - image14.png
-  - image15.png
-  - image16.png
-  - image17.png
-  - image18.png
-  - image19.png
-  - image20.png
-  - image21.png
-  - image22.png
-  - image23.png
-  - image24.png
-  - image25.png
-  - image27.png
-  - image28.png
-  - image29.png
-  - image31.png
-  - image32.png
-  - image33.png
-  - image34.png
-  - image35.png
-  - image36.png
-  - image37.png
-  - image38.png
-  - image39.png
-  - image40.png
-  - image41.png
-  - image42.png
-  - image43.png
-  - image44.png
-  - image45.png
-  - image46.png
-  - image47.png
-  - image48.png
-  - image49.png
-  - image50.png
-  - image51.png
-  - image52.png
-  - image53.png
-  - image54.png
-  - image55.png
-  - image56.png
-  - image57.jpeg
-  - image58.png
-  - image56.png
-  - image59.jpeg
-  - image60.png
-  - image56.png
-  - image61.png
-  - image62.png
-  - image56.png
-  - image63.jpeg
-  - image64.png
-  - image56.png
-  - image65.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image3.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image4.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image5.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image6.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image7.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image8.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image9.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image10.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image11.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image12.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image13.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image14.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image15.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image16.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image17.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image18.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image19.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image20.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image21.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image22.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image23.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image24.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image25.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image27.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image28.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image29.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image31.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image32.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image33.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image34.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image35.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image36.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image37.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image38.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image39.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image40.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image41.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image42.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image43.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image44.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image45.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image46.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image47.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image48.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image49.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image50.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image51.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image52.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image53.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image54.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image55.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image56.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image57.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image58.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image59.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image60.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image61.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image62.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image63.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image64.webp)
+
+![](/img/serie-7/vol-12/02-correspondencia-multada/image65.webp)

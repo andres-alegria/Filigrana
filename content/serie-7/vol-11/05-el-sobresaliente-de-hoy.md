@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: sobresaliente
 page_start: 48
 page_end: 49
-image_count: 2   # flagged; precise article-image match is a later pass
+image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
 summary_es: "El sobre de esta ocasión es uno que atestigua la presencia de un grupo expedicionario en la Mosquitia de 1933. En efecto, en esa época, de esta región del territorio hondureño emanaban las más excitantes historias sobre ciudades perdidas, tribus"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -32,8 +32,9 @@ En lo concerniente a su vida académica, en 1909 Witten se había graduado de la
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 2 en este artículo:
-  - image74.png
-  - image75.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-11/05-el-sobresaliente-de-hoy/image74.webp)
+
+![](/img/serie-7/vol-11/05-el-sobresaliente-de-hoy/image75.webp)

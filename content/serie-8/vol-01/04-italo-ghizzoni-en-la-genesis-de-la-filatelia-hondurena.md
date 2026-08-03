@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 61
 page_end: 67
-image_count: 6   # flagged; precise article-image match is a later pass
+image_count: 6   # 0 colocadas en el texto, 6 sueltas al final
 summary_es: "El tema se basa en este precioso sobre dirigido el 30 de mayo de 1896 a Miguel Gálvez Jiménez, Calle de La Cruz No. 1, Madrid, que más allá de insertarse en los primerísimos días de vida de la Litografía"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -68,12 +68,17 @@ García, Miguel Ángel. La Imprenta en Honduras 1828–1975. Editorial Universit
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 6 en este artículo:
-  - image36.jpeg
-  - image37.png
-  - image38.png
-  - image39.png
-  - image40.png
-  - image41.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image36.webp)
+
+![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image37.webp)
+
+![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image38.webp)
+
+![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image39.webp)
+
+![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image40.webp)
+
+![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image41.webp)

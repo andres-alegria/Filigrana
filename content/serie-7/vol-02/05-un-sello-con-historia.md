@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 24
 page_end: 27
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "EL DIFÌCIL CAMINO AL TRONO Los Reyes Católicos, Fernando II de Aragón e Isabel I de Castilla, eran primos en segundo grado, pues ambos eran bisnietos del rey Juan I de Castilla, por lo que fue necesario obtener previamente una"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -76,9 +76,11 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image33.png
-  - image34.jpeg
-  - image35.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-02/05-un-sello-con-historia/image33.webp)
+
+![](/img/serie-7/vol-02/05-un-sello-con-historia/image34.webp)
+
+![](/img/serie-7/vol-02/05-un-sello-con-historia/image35.webp)

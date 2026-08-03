@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 19
 page_end: 23
-image_count: 4   # flagged; precise article-image match is a later pass
+image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
 summary_es: "(Segunda parte) Parte 2A - Matasellos tipo “BARRAS” Código Descripción BH: . . .. . . . . barras horizontales con “HONDURAS” BH5: . . . . . . .con cinco barras BH7 . . .. . . . .con"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -164,10 +164,13 @@ Su actual propietario, y a la vez propietario de la casa Mystic Stamp Company, e
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 4 en este artículo:
-  - image17.jpeg
-  - image18.jpeg
-  - image26.png
-  - image27.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-09/03-honduras-guia-de-los-matasellos-segunda-parte/image17.webp)
+
+![](/img/serie-6/vol-09/03-honduras-guia-de-los-matasellos-segunda-parte/image18.webp)
+
+![](/img/serie-6/vol-09/03-honduras-guia-de-los-matasellos-segunda-parte/image26.webp)
+
+![](/img/serie-6/vol-09/03-honduras-guia-de-los-matasellos-segunda-parte/image27.webp)

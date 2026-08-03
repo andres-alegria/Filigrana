@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: investigacion
 page_start: 4
 page_end: 53
-image_count: 38   # flagged; precise article-image match is a later pass
+image_count: 38   # 0 colocadas en el texto, 38 sueltas al final
 summary_es: "En 1979 fue subastado por US$1,100.00, calificado como una rareza nunca antes vista, un lote de cinco sobres paquebote conteniendo sus respectivas cartas, remitidos entre 1857 y 1858 desde Honduras a los Estados Unidos de América, con el atractivo adicional"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -386,44 +386,81 @@ Ante la escasez de profesores universitarios, el presidente Marco Aurelio Soto, 
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 38 en este artículo:
-  - image2.jpeg
-  - image4.jpeg
-  - image5.png
-  - image6.jpeg
-  - image7.png
-  - image8.png
-  - image9.png
-  - image10.jpeg
-  - image11.png
-  - image12.png
-  - image13.png
-  - image14.png
-  - image15.png
-  - image16.jpeg
-  - image17.jpeg
-  - image18.jpeg
-  - image19.jpeg
-  - image20.jpeg
-  - image21.png
-  - image22.png
-  - image23.png
-  - image24.png
-  - image25.png
-  - image26.png
-  - image27.jpeg
-  - image28.jpeg
-  - image29.jpeg
-  - image30.jpeg
-  - image31.jpeg
-  - image32.jpeg
-  - image33.jpeg
-  - image34.png
-  - image35.jpeg
-  - image36.png
-  - image37.jpeg
-  - image38.png
-  - image39.jpeg
-  - image40.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image2.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image4.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image5.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image6.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image7.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image8.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image9.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image10.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image11.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image12.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image13.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image14.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image15.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image16.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image17.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image18.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image19.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image20.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image21.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image22.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image23.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image24.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image25.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image26.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image27.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image28.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image29.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image30.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image31.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image32.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image33.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image34.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image35.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image36.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image37.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image38.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image39.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image40.webp)

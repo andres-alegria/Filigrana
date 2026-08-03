@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 46
 page_end: 46
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "El 12 de septiembre del presente la Empresa Correos de Honduras (HONDUCOR) inauguró en el salón de exposiciones del Centro Cultural del Banco Central de Honduras, su primera muestra de sellos postales. La muestra, titulada “Evolución de las Estampillas de"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -26,7 +26,7 @@ La Lic. Alvarado posando junto a una parte de lo que fue su proyecto hecho reali
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image77.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-02/08-la-empresa-correos-de-honduras-inaugura-su-primera-muestra-f/image77.webp)

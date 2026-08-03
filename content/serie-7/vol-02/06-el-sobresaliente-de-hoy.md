@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 28
 page_end: 30
-image_count: 5   # flagged; precise article-image match is a later pass
+image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
 summary_es: "En esta oportunidad presentamos una tarjeta postal paquebote circulada a través del buque Hannibal de la Marina de los USA a su paso por los Cayos Vivorillos el 14 de febrero de 1914. (En el matasello el nombre se deletreó"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -84,11 +84,15 @@ Loading...
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 5 en este artículo:
-  - image36.png
-  - image38.png
-  - image39.jpeg
-  - image40.png
-  - image41.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-02/06-el-sobresaliente-de-hoy/image36.webp)
+
+![](/img/serie-7/vol-02/06-el-sobresaliente-de-hoy/image38.webp)
+
+![](/img/serie-7/vol-02/06-el-sobresaliente-de-hoy/image39.webp)
+
+![](/img/serie-7/vol-02/06-el-sobresaliente-de-hoy/image40.webp)
+
+![](/img/serie-7/vol-02/06-el-sobresaliente-de-hoy/image41.webp)

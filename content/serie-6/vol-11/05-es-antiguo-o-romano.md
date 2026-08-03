@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 34
 page_end: 34
-image_count: 5   # flagged; precise article-image match is a later pass
+image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
 summary_es: "Una autoridad editora de catálogos reduce los sellos provisionales de 1922-1923 a cuatro ejemplos sin variedades; otra, a cinco ejemplos más cinco variedades. La autoridad que parece ser la más aceptada entre coleccionistas hondureños describe aún más ejemplos (Scott 202"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -32,11 +32,15 @@ ROMANO:
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 5 en este artículo:
-  - image19.jpeg
-  - image20.jpeg
-  - image24.jpeg
-  - image25.png
-  - image26.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-11/05-es-antiguo-o-romano/image19.webp)
+
+![](/img/serie-6/vol-11/05-es-antiguo-o-romano/image20.webp)
+
+![](/img/serie-6/vol-11/05-es-antiguo-o-romano/image24.webp)
+
+![](/img/serie-6/vol-11/05-es-antiguo-o-romano/image25.webp)
+
+![](/img/serie-6/vol-11/05-es-antiguo-o-romano/image26.webp)

@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 37
 page_end: 44
-image_count: 12   # flagged; precise article-image match is a later pass
+image_count: 12   # 0 colocadas en el texto, 12 sueltas al final
 summary_es: "Nos ha llamado la atención un hecho recurrente vinculado a la agencia postal de Iriona, cuando poco a poco se van detectando piezas circuladas durante la última década del Siglo XIX con evidentes fallas en el manejo de las especies"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -76,18 +76,29 @@ Entero de 3 cts. circulado el 7 de marzo de 1904 cuando esta emisión de La Loco
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 12 en este artículo:
-  - image66.png
-  - image67.png
-  - image68.png
-  - image69.png
-  - image70.png
-  - image71.png
-  - image72.png
-  - image73.png
-  - image74.jpeg
-  - image75.png
-  - image76.jpeg
-  - image77.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image66.webp)
+
+![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image67.webp)
+
+![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image68.webp)
+
+![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image69.webp)
+
+![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image70.webp)
+
+![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image71.webp)
+
+![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image72.webp)
+
+![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image73.webp)
+
+![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image74.webp)
+
+![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image75.webp)
+
+![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image76.webp)
+
+![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image77.webp)

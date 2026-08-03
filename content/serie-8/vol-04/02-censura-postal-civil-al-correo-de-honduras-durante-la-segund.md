@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 4
 page_end: 31
-image_count: 43   # flagged; precise article-image match is a later pass
+image_count: 43   # 0 colocadas en el texto, 43 sueltas al final
 summary_es: "Durante la Segunda Guerra Mundial, tanto los Aliados como el Eje (Alemania, Italia, Japón) instituyeron la censura postal del correo civil. Las organizaciones más grandes eran las de los Estados Unidos, aunque el Reino Unido empleaba a unos 10,000 censores,"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -434,49 +434,91 @@ En Honduras la censura se levantó el 1 de noviembre de 1945, mediante el Decret
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 43 en este artículo:
-  - image3.png
-  - image4.png
-  - image5.png
-  - image6.png
-  - image7.png
-  - image8.png
-  - image9.png
-  - image10.png
-  - image11.png
-  - image12.png
-  - image13.png
-  - image14.png
-  - image15.png
-  - image16.png
-  - image17.png
-  - image18.png
-  - image19.png
-  - image20.png
-  - image21.png
-  - image22.png
-  - image23.png
-  - image24.png
-  - image25.png
-  - image26.png
-  - image27.png
-  - image28.png
-  - image29.png
-  - image30.png
-  - image31.png
-  - image32.png
-  - image33.png
-  - image34.png
-  - image35.png
-  - image36.png
-  - image37.png
-  - image38.png
-  - image39.png
-  - image40.png
-  - image41.png
-  - image42.png
-  - image43.png
-  - image44.png
-  - image45.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image3.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image4.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image5.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image6.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image7.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image8.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image9.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image10.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image11.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image12.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image13.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image14.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image15.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image16.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image17.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image18.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image19.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image20.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image21.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image22.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image23.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image24.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image25.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image26.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image27.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image28.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image29.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image30.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image31.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image32.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image33.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image34.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image35.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image36.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image37.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image38.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image39.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image40.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image41.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image42.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image43.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image44.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image45.webp)

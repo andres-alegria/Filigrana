@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 4
 page_end: 18
-image_count: 9   # flagged; precise article-image match is a later pass
+image_count: 9   # 0 colocadas en el texto, 9 sueltas al final
 summary_es: "Investigación histórica por Edgardo Alegría Reichmann Edward Austin Burke nació el 13 septiembre 1839 y falleció el 24 septiembre de 1928. De 1878 a 1888 fungió como Tesorero Estatal de Louisiana. Fue el primer demócrata en ocupar este cargo tras"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -112,15 +112,23 @@ Pero el más notorio de estos fugitivos fue el mayor Edward A. Burke, quien en 1
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 9 en este artículo:
-  - image2.jpeg
-  - image3.jpeg
-  - image4.jpeg
-  - image5.jpeg
-  - image6.jpeg
-  - image7.jpeg
-  - image8.jpeg
-  - image9.jpeg
-  - image10.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image2.webp)
+
+![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image3.webp)
+
+![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image4.webp)
+
+![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image5.webp)
+
+![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image6.webp)
+
+![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image7.webp)
+
+![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image8.webp)
+
+![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image9.webp)
+
+![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image10.webp)

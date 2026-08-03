@@ -10,7 +10,7 @@ themes: ["Intriga y escándalo"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: investigacion
 page_start: 4
 page_end: 20
-image_count: 8   # flagged; precise article-image match is a later pass
+image_count: 8   # 0 colocadas en el texto, 8 sueltas al final
 summary_es: "Habiendo sido participante activo y testigo presencial de todo lo acontecido en lo que hoy podríamos dar en llamar el mayor escándalo filatélico del país, me parece interesante hacer un recuento de los hechos que dieron lugar a este infame"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -158,14 +158,21 @@ Boletín Panorama: enero-febrero de 1982. San José, Costa Rica.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 8 en este artículo:
-  - image2.jpeg
-  - image3.jpeg
-  - image4.jpeg
-  - image5.jpeg
-  - image6.jpeg
-  - image7.jpeg
-  - image8.jpeg
-  - image9.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image2.webp)
+
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image3.webp)
+
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image4.webp)
+
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image5.webp)
+
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image6.webp)
+
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image7.webp)
+
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image8.webp)
+
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image9.webp)

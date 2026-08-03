@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: investigacion
 page_start: 53
 page_end: 53
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "Durante la Segunda Guerra Mundial, el Ekkai Maru era parte de un convoy, hundido mientras estaba atracado en la bahía de Coron, Filipinas. Fue el ataque de mayor distancia realizado en la guerra del Pacifico ya que los aviones estadounidenses"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -28,7 +28,7 @@ El buque, que al momento de su captura navegaba bajo bandera hondureña con el n
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image67.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-04/07-gotas-del-saber/image67.webp)

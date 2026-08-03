@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: investigacion
 page_start: 23
 page_end: 27
-image_count: 4   # flagged; precise article-image match is a later pass
+image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
 summary_es: "Para los coleccionistas de filatelia clásica no es raro toparse de cuando en cuando con piezas marcadas con “SHIP”, “STEAMSHIP” o “STEAMBOAT”, conceptos de tratamiento postal que a veces resultan confusos, especialmente para los iniciados en el mundo filatélico. Así"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -64,10 +64,13 @@ Epting, Charles. Of Ships, Steamships, and Steamboats. The American Philatelist,
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 4 en este artículo:
-  - image45.png
-  - image46.jpeg
-  - image47.jpeg
-  - image48.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat/image45.webp)
+
+![](/img/serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat/image46.webp)
+
+![](/img/serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat/image47.webp)
+
+![](/img/serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat/image48.webp)

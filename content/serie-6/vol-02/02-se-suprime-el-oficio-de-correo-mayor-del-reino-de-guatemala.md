@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 4
 page_end: 11
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "CORREO MAYOR DE GUATEMALA por Edgardo Alegría Reichmann Se presenta el siguiente documento colonial como una pieza de alto interés filatélico en virtud de la importancia que en su momento jugó la actividad postal del Correo Mayor de Guatemala, el"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -92,9 +92,11 @@ Mallol”.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image2.jpeg
-  - image3.jpeg
-  - image4.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-02/02-se-suprime-el-oficio-de-correo-mayor-del-reino-de-guatemala/image2.webp)
+
+![](/img/serie-6/vol-02/02-se-suprime-el-oficio-de-correo-mayor-del-reino-de-guatemala/image3.webp)
+
+![](/img/serie-6/vol-02/02-se-suprime-el-oficio-de-correo-mayor-del-reino-de-guatemala/image4.webp)

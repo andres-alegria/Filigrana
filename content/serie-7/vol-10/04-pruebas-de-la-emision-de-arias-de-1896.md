@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 30
 page_end: 45
-image_count: 10   # flagged; precise article-image match is a later pass
+image_count: 10   # 0 colocadas en el texto, 10 sueltas al final
 summary_es: "Entre 1890 y 1895 Honduras había sido un país Seebeck pero en algún momento de este último año el contrato con la Hamilton Bank Note Company fue anulado y se decidió que la producción de futuras emisiones se haría en"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -42,16 +42,25 @@ Estas estampillas fueron distribuidas por la UPU libres de la contramarca, a las
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 10 en este artículo:
-  - image21.png
-  - image22.png
-  - image23.png
-  - image24.png
-  - image25.png
-  - image26.png
-  - image27.png
-  - image28.png
-  - image29.png
-  - image30.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-10/04-pruebas-de-la-emision-de-arias-de-1896/image21.webp)
+
+![](/img/serie-7/vol-10/04-pruebas-de-la-emision-de-arias-de-1896/image22.webp)
+
+![](/img/serie-7/vol-10/04-pruebas-de-la-emision-de-arias-de-1896/image23.webp)
+
+![](/img/serie-7/vol-10/04-pruebas-de-la-emision-de-arias-de-1896/image24.webp)
+
+![](/img/serie-7/vol-10/04-pruebas-de-la-emision-de-arias-de-1896/image25.webp)
+
+![](/img/serie-7/vol-10/04-pruebas-de-la-emision-de-arias-de-1896/image26.webp)
+
+![](/img/serie-7/vol-10/04-pruebas-de-la-emision-de-arias-de-1896/image27.webp)
+
+![](/img/serie-7/vol-10/04-pruebas-de-la-emision-de-arias-de-1896/image28.webp)
+
+![](/img/serie-7/vol-10/04-pruebas-de-la-emision-de-arias-de-1896/image29.webp)
+
+![](/img/serie-7/vol-10/04-pruebas-de-la-emision-de-arias-de-1896/image30.webp)

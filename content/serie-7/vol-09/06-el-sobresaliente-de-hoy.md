@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: sobresaliente
 page_start: 50
 page_end: 50
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "El sobre que nos ocupa hoy fue enviado de Yuscarán a los Estados Unidos el 24 de diciembre de 1904. Se distingue entre muchos otros por la particularidad del sello de la oficina de correos de esa localidad que ostenta"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -24,7 +24,7 @@ El sobre que nos ocupa hoy fue enviado de Yuscarán a los Estados Unidos el 24 d
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image48.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-09/06-el-sobresaliente-de-hoy/image48.webp)

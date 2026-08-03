@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 51
 page_end: 51
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "Después de la I Guerra Mundial las grandes potencias aliadas tomaron la decisión de que Guillermo II de Hohenzollern, ex emperador de Alemania, fuese extraditado de Holanda, en donde había encontrado refugio, para que fuese juzgado por sus responsabilidades en"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -26,7 +26,7 @@ Frente a esa posición, el Dr. Bonilla sustentó una tesis contraria: La legisla
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image3.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-09/07-un-sello-con-historia/image3.webp)

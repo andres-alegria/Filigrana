@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 42
 page_end: 42
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "El 22 de febrero de 2014 falleció el connotado filatelista boliviano don Eugenio Von Boeck. La filatelia boliviana e internacional causa baja de uno de sus más sólidos pilares. Cabe destacar que como jurado, el señor Von Boeck no dudó"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -30,9 +30,11 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image28.jpeg
-  - image29.jpeg
-  - image30.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-05/05-fallecion-don-eugenio-von-boeck/image28.webp)
+
+![](/img/serie-6/vol-05/05-fallecion-don-eugenio-von-boeck/image29.webp)
+
+![](/img/serie-6/vol-05/05-fallecion-don-eugenio-von-boeck/image30.webp)

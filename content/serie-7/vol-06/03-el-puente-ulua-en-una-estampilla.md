@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 16
 page_end: 18
-image_count: 6   # flagged; precise article-image match is a later pass
+image_count: 6   # 0 colocadas en el texto, 6 sueltas al final
 summary_es: "En 1915 el gobierno del presidente Francisco Bertrand B. (1915-1919) inauguró el entonces majestuoso puente sobre el río Ulúa que daría continuidad por 5 kms. adicionales entre Pimienta y Potrerillos a la ruta del ferrocarril trans-oceánico en un esfuerzo más"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -50,12 +50,17 @@ Un detalle particular eran las gradas incorporadas en el costado derecho.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 6 en este artículo:
-  - image14.png
-  - image16.jpeg
-  - image17.png
-  - image18.png
-  - image19.png
-  - image20.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-06/03-el-puente-ulua-en-una-estampilla/image14.webp)
+
+![](/img/serie-7/vol-06/03-el-puente-ulua-en-una-estampilla/image16.webp)
+
+![](/img/serie-7/vol-06/03-el-puente-ulua-en-una-estampilla/image17.webp)
+
+![](/img/serie-7/vol-06/03-el-puente-ulua-en-una-estampilla/image18.webp)
+
+![](/img/serie-7/vol-06/03-el-puente-ulua-en-una-estampilla/image19.webp)
+
+![](/img/serie-7/vol-06/03-el-puente-ulua-en-una-estampilla/image20.webp)

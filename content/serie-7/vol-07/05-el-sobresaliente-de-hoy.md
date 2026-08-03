@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: sobresaliente
 page_start: 47
 page_end: 47
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "Este entero de la emisión “La Locomotora” de 1898, fue circulado de Amapala para Hamburgo el 19 de mayo de 1900. Es uno de tipo simple (sin el segmento para la respuesta) que ostenta la indicia impresa de 3 centavos"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -26,7 +26,7 @@ Hasta ahora es el único ejemplar que conozco con este franqueo de 5 centavos, p
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image38.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-07/05-el-sobresaliente-de-hoy/image38.webp)

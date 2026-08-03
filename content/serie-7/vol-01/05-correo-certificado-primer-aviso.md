@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 21
 page_end: 22
-image_count: 5   # flagged; precise article-image match is a later pass
+image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
 summary_es: "Habremos escuchado repetidamente sobre exposiciones filatélicas, ¿Pero alguna vez han escuchado sobre una exhibición inspirada en arte postal? Bueno, este es el caso de la exhibición con motivos postales surgida del genio de la artista española radicada en Honduras Pilar"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -44,11 +44,15 @@ Con esta muestra Pilar nos invita a adentrarnos en la esencia del Correo, abiert
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 5 en este artículo:
-  - image25.png
-  - image26.png
-  - image27.png
-  - image28.png
-  - image29.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-01/05-correo-certificado-primer-aviso/image25.webp)
+
+![](/img/serie-7/vol-01/05-correo-certificado-primer-aviso/image26.webp)
+
+![](/img/serie-7/vol-01/05-correo-certificado-primer-aviso/image27.webp)
+
+![](/img/serie-7/vol-01/05-correo-certificado-primer-aviso/image28.webp)
+
+![](/img/serie-7/vol-01/05-correo-certificado-primer-aviso/image29.webp)

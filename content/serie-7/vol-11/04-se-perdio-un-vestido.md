@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 46
 page_end: 47
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "La seriedad y el celo profesional que las autoridades postales del Siglo XIX denotaban en el desempeño de sus funciones, se evidencian en el suceso que se dio a inicios de 1896 en relación a la pérdida de un vestido"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -32,9 +32,11 @@ La Gaceta 23 de abril de 1896 No. 1333
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image70.png
-  - image71.png
-  - image72.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-11/04-se-perdio-un-vestido/image70.webp)
+
+![](/img/serie-7/vol-11/04-se-perdio-un-vestido/image71.webp)
+
+![](/img/serie-7/vol-11/04-se-perdio-un-vestido/image72.webp)

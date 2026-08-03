@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 48
 page_end: 49
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "La pieza que hoy nos llama la atención es este entero postal nicaragüense despachado el 18 de junio de 1898 de Granada a Tegucigalpa, con una rarísima etiqueta de AUSENTE, colocada en Tegucigalpa y cuyo revelador contenido dice así: Sr."
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -38,9 +38,11 @@ Desde el punto de vista filatélico, resulta también interesante el raro sello 
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image50.png
-  - image51.png
-  - image52.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-03/08-el-sobresaliente-de-hoy/image50.webp)
+
+![](/img/serie-8/vol-03/08-el-sobresaliente-de-hoy/image51.webp)
+
+![](/img/serie-8/vol-03/08-el-sobresaliente-de-hoy/image52.webp)

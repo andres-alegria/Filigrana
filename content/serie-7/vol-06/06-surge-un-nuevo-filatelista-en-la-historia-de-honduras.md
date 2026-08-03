@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 24
 page_end: 26
-image_count: 5   # flagged; precise article-image match is a later pass
+image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
 summary_es: "Recientemente estuvo en venta el siguiente entero postal de Honduras de la serie “La Locomotora” circulado de Tegucigalpa a San José, Costa Rica, el 3 de diciembre de 1902. Desde el punto de vista postal podemos decir que no muestra"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -54,11 +54,15 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 5 en este artículo:
-  - image26.jpeg
-  - image27.jpeg
-  - image28.png
-  - image29.jpeg
-  - image30.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-06/06-surge-un-nuevo-filatelista-en-la-historia-de-honduras/image26.webp)
+
+![](/img/serie-7/vol-06/06-surge-un-nuevo-filatelista-en-la-historia-de-honduras/image27.webp)
+
+![](/img/serie-7/vol-06/06-surge-un-nuevo-filatelista-en-la-historia-de-honduras/image28.webp)
+
+![](/img/serie-7/vol-06/06-surge-un-nuevo-filatelista-en-la-historia-de-honduras/image29.webp)
+
+![](/img/serie-7/vol-06/06-surge-un-nuevo-filatelista-en-la-historia-de-honduras/image30.webp)

@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 4
 page_end: 15
-image_count: 12   # flagged; precise article-image match is a later pass
+image_count: 12   # 0 colocadas en el texto, 12 sueltas al final
 summary_es: "En la primera mitad del Siglo XIX los puertos de Omoa y Trujillo constituyeron los puntos principales de entrada y salida de productos y mercadería para Europa y los Estados Unidos de América. Esta coyuntura se volvió atractiva para una"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -590,18 +590,29 @@ Tegucigalpa, Honduras.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 12 en este artículo:
-  - image2.png
-  - image3.png
-  - image4.jpeg
-  - image5.png
-  - image6.png
-  - image7.png
-  - image8.jpeg
-  - image9.jpeg
-  - image10.png
-  - image11.png
-  - image12.jpeg
-  - image13.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image2.webp)
+
+![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image3.webp)
+
+![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image4.webp)
+
+![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image5.webp)
+
+![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image6.webp)
+
+![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image7.webp)
+
+![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image8.webp)
+
+![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image9.webp)
+
+![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image10.webp)
+
+![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image11.webp)
+
+![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image12.webp)
+
+![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image13.webp)

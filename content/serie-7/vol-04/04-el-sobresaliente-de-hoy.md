@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 60
 page_end: 62
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "Sobrecito con tarjeta de felicitación de Año Nuevo circulado localmente de Tegucigalpa a Comayagüela el 1 de enero de 1899. El hecho de ser una rara pieza de “La Locomotora” de circulación urbana con porte de 1 ct. se agranda"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -62,9 +62,11 @@ Rector de la Universidad Nacional de Honduras.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image50.jpeg
-  - image51.jpeg
-  - image52.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-04/04-el-sobresaliente-de-hoy/image50.webp)
+
+![](/img/serie-7/vol-04/04-el-sobresaliente-de-hoy/image51.webp)
+
+![](/img/serie-7/vol-04/04-el-sobresaliente-de-hoy/image52.webp)

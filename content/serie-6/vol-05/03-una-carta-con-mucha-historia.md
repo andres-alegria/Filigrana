@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 21
 page_end: 33
-image_count: 10   # flagged; precise article-image match is a later pass
+image_count: 10   # 0 colocadas en el texto, 10 sueltas al final
 summary_es: "Además de atestiguar una de las épocas más insignes y turbulentas de la historia patria, esta misiva enviada de Trujillo a Omoa el 27 de marzo de 1832, está vinculada de manera indirecta a mis antepasados en la persona de"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -86,16 +86,25 @@ El editor agradece la colaboración del historiador hondureño Lic. Ismael Zeped
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 10 en este artículo:
-  - image10.jpeg
-  - image11.jpeg
-  - image12.jpeg
-  - image13.jpeg
-  - image14.jpeg
-  - image15.jpeg
-  - image16.jpeg
-  - image17.jpeg
-  - image18.jpeg
-  - image19.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image10.webp)
+
+![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image11.webp)
+
+![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image12.webp)
+
+![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image13.webp)
+
+![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image14.webp)
+
+![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image15.webp)
+
+![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image16.webp)
+
+![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image17.webp)
+
+![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image18.webp)
+
+![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image19.webp)

@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 34
 page_end: 45
-image_count: 49   # flagged; precise article-image match is a later pass
+image_count: 48   # 0 colocadas en el texto, 48 sueltas al final
 summary_es: "En casi todas las ocasiones en que las autoridades tomaron la decisión de implementar medidas de control a fin de contrarrestar el robo o perdida de especies postales, las ordenanzas emitidas por igual también abarcaban los timbres; esto, debido a"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -184,55 +184,101 @@ En 1987 se detectó la comercialización y circulación de timbres falsos de con
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 49 en este artículo:
-  - image22.png
-  - image23.png
-  - image24.png
-  - image25.png
-  - image26.png
-  - image27.png
-  - image28.png
-  - image29.png
-  - image30.png
-  - image31.png
-  - image32.jpeg
-  - image33.png
-  - image34.png
-  - image35.png
-  - image36.png
-  - image37.png
-  - image36.png
-  - image38.png
-  - image39.png
-  - image40.png
-  - image41.png
-  - image42.png
-  - image43.png
-  - image44.png
-  - image45.png
-  - image46.png
-  - image47.png
-  - image48.png
-  - image49.png
-  - image50.png
-  - image51.png
-  - image52.png
-  - image53.png
-  - image54.png
-  - image55.png
-  - image56.png
-  - image57.png
-  - image58.png
-  - image59.png
-  - image60.png
-  - image61.png
-  - image62.png
-  - image63.png
-  - image64.png
-  - image65.png
-  - image66.png
-  - image67.png
-  - image68.png
-  - image69.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image22.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image23.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image24.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image25.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image26.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image27.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image28.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image29.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image30.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image31.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image32.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image33.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image34.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image35.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image36.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image37.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image38.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image39.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image40.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image41.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image42.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image43.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image44.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image45.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image46.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image47.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image48.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image49.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image50.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image51.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image52.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image53.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image54.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image55.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image56.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image57.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image58.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image59.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image60.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image61.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image62.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image63.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image64.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image65.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image66.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image67.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image68.webp)
+
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image69.webp)

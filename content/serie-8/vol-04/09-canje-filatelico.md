@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 54
 page_end: 54
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "Shao Bo 3-4-1 No. 422-2, Da Nan Jie Shen He Qu Shen Yang City 110013 Liao Ning Pr China Correo electrónico: shaoebay2010@aliyun.com Solicita: canje a valor facial de sellos nuevos de Honduras, 10 series de cada emisión u hojas completas."
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -56,7 +56,7 @@ Australia, etc.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image68.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-04/09-canje-filatelico/image68.webp)

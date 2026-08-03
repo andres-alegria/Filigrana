@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: sello-con-historia
 page_start: 52
 page_end: 52
-image_count: 2   # flagged; precise article-image match is a later pass
+image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
 summary_es: "En un primer momento me tomó por sorpresa este timbre municipal de 50 céntimos pro Hospital de Puerto Cortés, pues era la primera vez que lo tenía a la vista, al grado que pensé incluirlo en mi Catálogo de Timbres"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -30,8 +30,9 @@ república León Cortés Castro (1936-1940).
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 2 en este artículo:
-  - image65.png
-  - image66.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-04/06-un-sello-con-historia/image65.webp)
+
+![](/img/serie-8/vol-04/06-un-sello-con-historia/image66.webp)

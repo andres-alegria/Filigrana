@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 10
 page_end: 30
-image_count: 5   # flagged; precise article-image match is a later pass
+image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
 summary_es: "Una conexión olvidada entre el legado, el comercio y la historia postal de Nicaragua. Francisco Morazán Moncada Esta extraordinaria pieza surgió durante una búsqueda entre varios álbumes con sobres y tarjetas postales, donde había permanecido sin ser reconocida durante décadas."
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -94,11 +94,15 @@ DR. ÁNGEL RAÚL DURÓN MEMBREÑO,
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 5 en este artículo:
-  - image12.png
-  - image13.png
-  - image14.png
-  - image15.png
-  - image16.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image12.webp)
+
+![](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image13.webp)
+
+![](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image14.webp)
+
+![](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image15.webp)
+
+![](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image16.webp)

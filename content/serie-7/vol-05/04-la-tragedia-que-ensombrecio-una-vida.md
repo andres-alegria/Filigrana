@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 13
 page_end: 34
-image_count: 16   # flagged; precise article-image match is a later pass
+image_count: 16   # 0 colocadas en el texto, 16 sueltas al final
 summary_es: "Ricardo R. Streber Mertens Nació en 1846 en la ciudad de Usedum, actual Alemania, fruto del matrimonio del prusiano Fernando Streber y María Luisa Mertens. Doña María Luisa se casó en segundas nupcias con el alemán Carlos Ernesto Bernhard, quien"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -298,22 +298,37 @@ Un agradecimiento muy especial a mi amigo el poeta/historiador José González P
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 16 en este artículo:
-  - image26.png
-  - image27.png
-  - image28.png
-  - image29.png
-  - image30.png
-  - image31.jpeg
-  - image32.jpeg
-  - image33.png
-  - image35.jpeg
-  - image36.png
-  - image37.png
-  - image38.png
-  - image39.png
-  - image40.png
-  - image41.png
-  - image42.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image26.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image27.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image28.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image29.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image30.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image31.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image32.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image33.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image35.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image36.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image37.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image38.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image39.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image40.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image41.webp)
+
+![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image42.webp)

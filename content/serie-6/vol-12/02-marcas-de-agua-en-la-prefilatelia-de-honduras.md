@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 4
 page_end: 25
-image_count: 40   # flagged; precise article-image match is a later pass
+image_count: 40   # 0 colocadas en el texto, 40 sueltas al final
 summary_es: "La prefilatelia de Honduras abarca todo el periodo colonial y el republicano hasta 1865, año en que se emite el primer sello postal. El presente estudio contempla un grupo incipiente de marcas de agua detectadas en piezas de correspondencia del"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -678,46 +678,85 @@ El autor le expresa un agradecimiento especial al Sr. Eric Schwimmer por los imp
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 40 en este artículo:
-  - image2.png
-  - image3.jpeg
-  - image4.jpeg
-  - image5.jpeg
-  - image6.jpeg
-  - image7.jpeg
-  - image8.jpeg
-  - image9.jpeg
-  - image11.jpeg
-  - image12.jpeg
-  - image13.png
-  - image14.jpeg
-  - image15.jpeg
-  - image16.jpeg
-  - image17.jpeg
-  - image18.jpeg
-  - image19.jpeg
-  - image20.jpeg
-  - image23.jpeg
-  - image24.jpeg
-  - image25.jpeg
-  - image26.jpeg
-  - image30.jpeg
-  - image33.png
-  - image36.jpeg
-  - image37.jpeg
-  - image38.png
-  - image39.png
-  - image40.jpeg
-  - image41.jpeg
-  - image42.png
-  - image43.png
-  - image44.jpeg
-  - image45.png
-  - image46.jpeg
-  - image47.jpeg
-  - image48.jpeg
-  - image49.jpeg
-  - image50.jpeg
-  - image52.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image2.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image3.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image4.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image5.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image6.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image7.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image8.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image9.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image11.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image12.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image13.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image14.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image15.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image16.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image17.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image18.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image19.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image20.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image23.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image24.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image25.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image26.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image30.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image33.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image36.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image37.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image38.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image39.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image40.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image41.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image42.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image43.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image44.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image45.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image46.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image47.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image48.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image49.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image50.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image52.webp)

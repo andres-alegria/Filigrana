@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 31
 page_end: 37
-image_count: 17   # flagged; precise article-image match is a later pass
+image_count: 17   # 0 colocadas en el texto, 17 sueltas al final
 summary_es: "Al remontarnos a la historia de figuras como Jean Sperati, Francois Fournier o Charles R. Dethuin, protagonistas de hartas irregularidades de la filatelia hondureña, nos encontramos inevitablemente con uno más de estos emprendedores cuyo accionar aún hoy perjudica la manera"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -96,23 +96,39 @@ Si hubiese algo rescatable del nefasto episodio de Durón Membreño, sería la p
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 17 en este artículo:
-  - image17.png
-  - image18.png
-  - image19.png
-  - image20.png
-  - image21.png
-  - image22.png
-  - image23.png
-  - image24.png
-  - image25.png
-  - image26.png
-  - image28.png
-  - image29.png
-  - image30.png
-  - image31.png
-  - image32.png
-  - image33.png
-  - image34.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image17.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image18.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image19.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image20.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image21.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image22.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image23.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image24.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image25.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image26.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image28.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image29.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image30.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image31.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image32.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image33.webp)
+
+![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image34.webp)

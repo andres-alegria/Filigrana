@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 4
 page_end: 25
-image_count: 13   # flagged; precise article-image match is a later pass
+image_count: 13   # 0 colocadas en el texto, 13 sueltas al final
 summary_es: "Por lo extenso que podría resultar, este artículo lo circunscribo a la introducción del papel sellado en la entonces Capitanía General de Guatemala en base a los antecedentes establecidos por la Corona española en tierras peninsulares. Tampoco es mi propósito"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -176,19 +176,31 @@ Leiva, Héctor M. (1991). Documentos Coloniales de Honduras. Imprenta del Centro
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 13 en este artículo:
-  - image3.png
-  - image4.png
-  - image5.png
-  - image6.png
-  - image7.png
-  - image8.png
-  - image9.png
-  - image10.png
-  - image11.png
-  - image12.png
-  - image13.png
-  - image14.png
-  - image15.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image3.webp)
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image4.webp)
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image5.webp)
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image6.webp)
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image7.webp)
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image8.webp)
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image9.webp)
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image10.webp)
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image11.webp)
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image12.webp)
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image13.webp)
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image14.webp)
+
+![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image15.webp)

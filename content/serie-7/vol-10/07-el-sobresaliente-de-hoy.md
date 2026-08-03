@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 53
 page_end: 53
-image_count: 2   # flagged; precise article-image match is a later pass
+image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
 summary_es: "Hoy tenemos este entero postal circulado el 11 de diciembre de 1899 desde Amapala para Alemania, con la particularidad que la sección para la respuesta fue utilizada para adherir una fotografía familiar, justificando así el uso de ambas secciones para"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -28,8 +28,9 @@ Lo que pudo suceder es que cuando la Ley se emitió en algún momento de ese añ
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 2 en este artículo:
-  - image68.png
-  - image69.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-10/07-el-sobresaliente-de-hoy/image68.webp)
+
+![](/img/serie-7/vol-10/07-el-sobresaliente-de-hoy/image69.webp)

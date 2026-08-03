@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 44
 page_end: null
-image_count: 4   # flagged; precise article-image match is a later pass
+image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
 summary_es: "Recientemente el autor adquirió esta bonita pieza fechada 27 de mayo de 1896, con la particularidad que está matasellada en x con un rarísimo “Tegucigalpa”. Posiblemente la rareza de este matasello se deba a que la misiva procedía de Casa"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -62,10 +62,13 @@ Loading...
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 4 en este artículo:
-  - image50.png
-  - image51.png
-  - image52.png
-  - image53.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-03/07-el-sobresaliente-de-hoy/image50.webp)
+
+![](/img/serie-7/vol-03/07-el-sobresaliente-de-hoy/image51.webp)
+
+![](/img/serie-7/vol-03/07-el-sobresaliente-de-hoy/image52.webp)
+
+![](/img/serie-7/vol-03/07-el-sobresaliente-de-hoy/image53.webp)

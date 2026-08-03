@@ -30,7 +30,8 @@ export function formatBibliography(html: string): string {
     const letters = plain.replace(/[^A-Za-zÀ-ÿ]/g, '');
     const looksLikeNewHeading = letters.length > 3 && letters === letters.toUpperCase()
       && plain.trim().split(/\s+/).length <= 6;
-    if (looksLikeNewHeading) break;
+    const isImage = /^<img\b/.test(raw);
+    if (looksLikeNewHeading || isImage) break;
     items.push(raw);
     consumedEnd = pRe.lastIndex;
   }
@@ -43,41 +44,52 @@ export function formatBibliography(html: string): string {
   return before + heading + list + rest;
 }
 
-function escapeHtml(s: string): string {
-  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-}
+// Images now live directly in the article's Markdown as plain
+// ![caption](path) syntax — placed inline where they belong, or as a bare
+// ![](path) block at the end for ones nobody's positioned yet (see
+// pipeline/build_images.py). Astro's own Markdown rendering already turns
+// those into <p><img alt="..." src="..."></p>; this just gives each one its
+// final on-page shape:
+//   - an image WITH alt text becomes a <figure> with that text as its
+//     caption, exactly where it sits in the prose.
+//   - a run of consecutive alt-less images (the "loose" block) is grouped
+//     into a single gallery grid.
+const IMG_P_RE = /<p><img src="([^"]*)" alt="([^"]*)"[^>]*>\s*<\/p>/g;
 
-export interface ArticleImages {
-  captions: { text: string; file: string | null }[];
-  gallery: string[];
-  cover: string | null;
-}
+export function wrapImages(html: string): string {
+  let out = '';
+  let lastEnd = 0;
+  let galleryBuf: string[] = [];
 
-// Turns each "(N) ..." caption paragraph the image pipeline recognized into
-// an inline <figure> with its matched photo (see pipeline/build_images.py
-// for how the match is made — document proximity, not list order). Walks
-// the SAME paragraphs in the SAME order the pipeline found them in, so the
-// zip with `images.captions` never misaligns. A caption the pipeline
-// couldn't match to a free image is left as plain text, untouched. Any
-// image the pipeline couldn't attach to a caption is appended as an
-// unlabeled gallery at the end.
-export function injectFigures(html: string, cid: string, images?: ArticleImages | null): string {
-  if (!images || (!images.captions.length && !images.gallery.length)) return html;
+  const flushGallery = () => {
+    if (galleryBuf.length) {
+      out += `<div class="article-gallery">${galleryBuf.join('')}</div>`;
+      galleryBuf = [];
+    }
+  };
 
-  let i = 0;
-  let out = html.replace(/<p>\(\d+\)\.?\s[\s\S]*?<\/p>/g, (match) => {
-    const c = images.captions[i++];
-    if (!c || !c.file) return match;
-    const src = `/img/${cid}/${c.file}`;
-    return `<figure class="article-figure"><img src="${src}" alt="" loading="lazy" />`
-      + `<figcaption>${escapeHtml(c.text)}</figcaption></figure>`;
-  });
-
-  if (images.gallery.length) {
-    const items = images.gallery
-      .map((f) => `<img src="/img/${cid}/${f}" alt="" loading="lazy" />`)
-      .join('');
-    out += `<div class="article-gallery">${items}</div>`;
+  let m: RegExpExecArray | null;
+  while ((m = IMG_P_RE.exec(html)) !== null) {
+    out += html.slice(lastEnd, m.index);
+    const [, src, alt] = m;
+    if (alt) {
+      flushGallery();
+      out += `<figure class="article-figure"><img src="${src}" alt="" loading="lazy" />`
+        + `<figcaption>${alt}</figcaption></figure>`;
+    } else {
+      galleryBuf.push(`<img src="${src}" alt="" loading="lazy" />`);
+    }
+    lastEnd = IMG_P_RE.lastIndex;
   }
+  flushGallery();
+  out += html.slice(lastEnd);
   return out;
+}
+
+// First image in the (already-rendered) article body — used as the card
+// listing's thumbnail. Works whether that image ended up captioned inline
+// or in the loose end-of-article block; no separate manifest needed.
+export function firstImageSrc(html: string): string | null {
+  const m = /<img src="([^"]*)"/.exec(html);
+  return m ? m[1] : null;
 }

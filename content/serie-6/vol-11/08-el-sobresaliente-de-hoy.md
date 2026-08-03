@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 41
 page_end: 42
-image_count: 4   # flagged; precise article-image match is a later pass
+image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
 summary_es: "Los Juegos Olímpicos de 1940, oficialmente conocidos como Juegos de la XII Olimpiada, fueron cancelados a raíz del estallido de la II Guerra Mundial. Después de la renuncia de su sede inicial en Tokio, se programaron para ser celebrados en"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -32,10 +32,13 @@ El sobre que presentamos a continuación tiene la rareza de haber sido cancelado
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 4 en este artículo:
-  - image30.jpeg
-  - image31.jpeg
-  - image32.jpeg
-  - image33.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-11/08-el-sobresaliente-de-hoy/image30.webp)
+
+![](/img/serie-6/vol-11/08-el-sobresaliente-de-hoy/image31.webp)
+
+![](/img/serie-6/vol-11/08-el-sobresaliente-de-hoy/image32.webp)
+
+![](/img/serie-6/vol-11/08-el-sobresaliente-de-hoy/image33.webp)

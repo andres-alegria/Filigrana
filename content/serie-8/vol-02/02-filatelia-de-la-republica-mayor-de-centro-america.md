@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 4
 page_end: 22
-image_count: 41   # flagged; precise article-image match is a later pass
+image_count: 41   # 0 colocadas en el texto, 41 sueltas al final
 summary_es: "A finales de 1894, el Dr. Policarpo Bonilla fue electo Presidente de Honduras, iniciando su mandato el 1 de febrero de 1895. El Dr. Bonilla era un ávido creyente de la Unión de Centro América, de manera que invitó a"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -162,47 +162,87 @@ Serie 7: Volumen 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 41 en este artículo:
-  - image3.png
-  - image4.png
-  - image6.png
-  - image7.png
-  - image8.png
-  - image9.jpeg
-  - image10.png
-  - image11.png
-  - image12.png
-  - image13.png
-  - image14.png
-  - image15.png
-  - image16.png
-  - image17.jpeg
-  - image18.jpeg
-  - image19.png
-  - image20.jpeg
-  - image21.png
-  - image22.png
-  - image23.png
-  - image24.png
-  - image25.png
-  - image26.png
-  - image27.png
-  - image28.png
-  - image29.png
-  - image30.png
-  - image31.png
-  - image32.png
-  - image33.png
-  - image34.png
-  - image35.png
-  - image36.png
-  - image37.png
-  - image38.png
-  - image39.png
-  - image40.png
-  - image41.png
-  - image42.png
-  - image43.png
-  - image44.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image3.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image4.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image6.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image7.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image8.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image9.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image10.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image11.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image12.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image13.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image14.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image15.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image16.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image17.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image18.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image19.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image20.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image21.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image22.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image23.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image24.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image25.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image26.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image27.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image28.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image29.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image30.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image31.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image32.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image33.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image34.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image35.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image36.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image37.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image38.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image39.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image40.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image41.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image42.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image43.webp)
+
+![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image44.webp)

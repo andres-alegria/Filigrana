@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 40
 page_end: 42
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "El ejemplar laureado en esta ocasión viene a enaltecer una vez más la rica herencia postal de Amapala, importante ciudad puerto de nuestra costa Pacífica en la Isla de El Tigre. En 1844 se declaró el puerto de Amapala puerto"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -52,9 +52,11 @@ Grabado del Siglo XIX mostrando el antiguo Puerto Franco de Amapala.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image69.jpeg
-  - image70.jpeg
-  - image71.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-02/05-el-sobresaliente-de-hoy/image69.webp)
+
+![](/img/serie-8/vol-02/05-el-sobresaliente-de-hoy/image70.webp)
+
+![](/img/serie-8/vol-02/05-el-sobresaliente-de-hoy/image71.webp)

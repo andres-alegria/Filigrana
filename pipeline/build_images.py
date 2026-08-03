@@ -1,39 +1,43 @@
 #!/usr/bin/env python3
 """
 Filigrana image pipeline — links each article's extracted images to its
-content, matching them to numbered captions in the prose by *document
-proximity*, not list order.
+content and writes the result directly into the article's Markdown, as
+plain image syntax, so it's visible and editable in the same file as the
+text: ![caption](path). No separate manifest to keep in sync.
 
-Why proximity, not just pairing caption N with image N in order: articles
-routinely mix a few specifically-cited artifacts (each with its own
-"(1) ..." caption paragraph) among many uncaptioned illustrative images, so
-the two counts almost never match — an exact-count-match strategy found
-zero positional pairs across the whole corpus. Instead, for each caption
-paragraph found in an article's ORIGINAL block stream (re-derived from the
-source .docx, same slice the content pipeline used to emit that article),
-this looks at a small window of nearby blocks and takes the closest image,
-preferring: same block > nearest preceding block > nearest following block
-(verified against real examples: a caption's image is consistently placed
-just before it in the document flow, occasionally in the same paragraph).
+Matching strategy: numbered "(N) ..." caption paragraphs are matched to the
+nearest image by *document proximity* — re-deriving the article's raw block
+range from its source .docx (the same slice the content pipeline used to
+emit it) and preferring same block > nearest preceding block > nearest
+following block. An exact-count-match strategy (pair caption N with image N
+in list order) was tried first and found zero matches across the whole
+corpus — articles mix a few specifically-cited artifacts with many
+uncaptioned illustrative images, so the counts almost never agree.
+Proximity matching is a strong heuristic, not a guarantee — this is a
+first-pass suggestion, not a final answer; open the .md file and move,
+fix, or delete an image line wherever the match looks wrong.
 
-For every article (content/serie-*/vol-*/NN-*.md):
-  1. Re-derive its raw block range from the source .docx (same slice the
-     content pipeline used to emit it) and collect its images in document
-     order.
-  2. Proximity-match each numbered caption paragraph to the nearest image.
-     Matched pairs become inline <figure>s on the article page; every
-     other image becomes an uncaptioned end-of-article gallery item.
-  3. Resize (max 1400px) and re-encode each image as WebP, writing it to
+For every article (content/serie-*/vol-*/NN-*.md) with at least one image:
+  1. Re-derive its block range and proximity-match numbered captions.
+  2. Resize (max 1400px) and re-encode each image as WebP, writing it to
      site/public/img/<content-id>/<name>.webp — a small, git-tracked,
      deployable copy. The raw originals in content/_assets/ stay put,
      local-only and regenerable, same as Filatelia/ is to content/.
+  3. Edit the article's .md IN PLACE:
+       - a matched "(N) ..." paragraph is replaced with
+         "![caption text](/img/<content-id>/<name>.webp)" at that exact
+         spot in the prose.
+       - the old "<!-- IMÁGENES ... -->" listing is removed.
+       - every image NOT matched to a caption is appended as a block of
+         bare "![](/img/.../name.webp)" lines at the end — cut one of
+         those lines and paste it wherever it actually belongs, adding
+         alt text in the [] if you want it captioned.
 
-Writes content/_images.json (the manifest the site reads) and prints a
-summary. Nothing here is asserted as certain — proximity matches are a
-strong heuristic, not a guarantee; spot-check a sample before trusting it
-blindly across all 157 articles.
+This is a first-pass conversion: running it again on an article you've
+since hand-edited will re-derive the same suggestions and may not respect
+your edits. Safe to re-run on articles you haven't touched yet.
 """
-import os, re, sys, glob, json
+import os, re, sys, glob
 from PIL import Image
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -41,7 +45,6 @@ CONTENT = os.path.join(ROOT, 'content')
 ASSETS = os.path.join(CONTENT, '_assets')
 FILATELIA = os.path.join(ROOT, 'Filatelia')
 OUT_IMG = os.path.join(ROOT, 'site', 'public', 'img')
-MANIFEST = os.path.join(CONTENT, '_images.json')
 
 sys.path.insert(0, os.path.join(ROOT, 'pipeline'))
 import build_content as bc
@@ -56,6 +59,8 @@ WINDOW = 3  # blocks to search on either side of a caption
 # list", not "sparse figure captions"; skip matching for that whole article
 # so a genealogy entry doesn't get glued onto an unrelated nearby image.
 MAX_CAPTIONS_PER_ARTICLE = 8
+
+IMG_COMMENT_RE = re.compile(r'\n*<!-- IMÁGENES.*?-->\n*', re.S)
 
 
 def optimize_image(src_path, dst_path):
@@ -75,19 +80,12 @@ def media_filename(media_path):
 
 
 def match_captions(article_blocks):
-    """Return (caption_entries, gallery_files).
-
-    caption_entries is EVERY "(N) ..." paragraph found, in document order,
-    as (caption_text, image_filename_or_None) — None means no free image was
-    found nearby, so the site leaves that paragraph as plain text rather
-    than guessing. This 1:1, order-preserving list is what makes site-side
-    rendering safe: it can walk the same paragraphs in the same order with
-    no ambiguity about which caption is which, even for a future article
-    where some captions match and others don't.
-
-    gallery_files is every image not claimed by a caption, in document order.
-    """
-    all_images = []          # (block_index, filename) in document order
+    """Return (caption_entries, gallery_files): caption_entries is every
+    "(N) ..." paragraph found, in document order, as
+    (caption_text, image_filename_or_None); gallery_files is every image
+    not claimed by a caption, in document order. See module docstring for
+    the proximity-matching rationale."""
+    all_images = []
     for i, b in enumerate(article_blocks):
         for m in b['images']:
             all_images.append((i, media_filename(m)))
@@ -102,7 +100,6 @@ def match_captions(article_blocks):
     caption_entries = []
     for ci, ctext in captions:
         caption_text = re.sub(r'^\(\d+\)\.?\s*', '', ctext).strip()
-        # search priority: same block, then nearest preceding, then nearest following
         order = [ci] + [ci - d for d in range(1, WINDOW + 1)] + [ci + d for d in range(1, WINDOW + 1)]
         found = None
         for bi in order:
@@ -121,6 +118,48 @@ def match_captions(article_blocks):
             gallery.append(f)
             seen.add(f)
     return caption_entries, gallery
+
+
+def apply_to_markdown(md_path, cid, caption_entries, gallery_files, optimize_fn):
+    text = open(md_path, encoding='utf-8').read()
+    text = IMG_COMMENT_RE.sub('\n', text)
+
+    n_placed = 0
+    for caption_text, fname in caption_entries:
+        if not fname:
+            continue
+        webp = optimize_fn(fname)
+        if not webp:
+            continue
+        key = caption_text[:80]
+        pattern = re.compile(r'\(\d+\)\.?\s*' + re.escape(key) + r'[^\n]*')
+        img_line = f'![{caption_text}](/img/{cid}/{webp})'
+        new_text, n = pattern.subn(lambda m: img_line, text, count=1)
+        if n:
+            text = new_text
+            n_placed += 1
+
+    gallery_webps = [w for w in (optimize_fn(fn) for fn in gallery_files) if w]
+    if gallery_webps:
+        block = ('\n\n<!-- Imágenes sin posición asignada — mueve cada línea al '
+                 'lugar del texto que le corresponda, o bórrala si no aplica. -->\n\n')
+        # blank line between each — Markdown merges same-line images without
+        # one into a single paragraph, which breaks the per-image gallery
+        # rendering (and is harder to edit as separate lines anyway)
+        block += '\n\n'.join(f'![](/img/{cid}/{w})' for w in gallery_webps)
+        text = text.rstrip('\n') + '\n' + block + '\n'
+
+    total = n_placed + len(gallery_webps)
+    if total:
+        text = re.sub(
+            r'image_count:\s*\d+\s*(#.*)?',
+            f'image_count: {total}   # {n_placed} colocadas en el texto, '
+            f'{len(gallery_webps)} sueltas al final',
+            text, count=1,
+        )
+
+    open(md_path, 'w', encoding='utf-8').write(text)
+    return n_placed, len(gallery_webps)
 
 
 def process_issue(issue_dir):
@@ -158,19 +197,20 @@ def process_issue(issue_dir):
         article_blocks = blocks[lo + 1:hi]
         caption_entries, gallery = match_captions(article_blocks)
         cid = os.path.relpath(md_path, CONTENT)[:-3]
-        results[cid] = {'series': meta['serie'], 'volume': meta['volume'],
+        results[cid] = {'series': meta['serie'], 'volume': meta['volume'], 'md_path': md_path,
                         'captions': caption_entries, 'gallery': gallery}
     return results
 
 
 def main():
     issue_dirs = sorted(glob.glob(f'{CONTENT}/serie-*/vol-*'))
-    manifest = {}
-    n_figures = n_gallery = n_articles_with_figures = 0
+    n_placed_total = n_gallery_total = n_articles_with_figures = n_articles = 0
 
     for d in issue_dirs:
         res = process_issue(d)
         for cid, data in res.items():
+            if not data['captions'] and not data['gallery']:
+                continue
             src_dir = os.path.join(ASSETS, f"s{data['series']}v{int(data['volume']):02d}")
 
             def optimize(fname):
@@ -182,32 +222,16 @@ def main():
                 optimize_image(src, dst)
                 return f'{stem}.webp'
 
-            captions_out = []
-            n_matched = 0
-            for caption_text, fname in data['captions']:
-                webp = optimize(fname) if fname else None
-                captions_out.append({'text': caption_text, 'file': webp})
-                if webp:
-                    n_matched += 1
-
-            gallery_out = [f for f in (optimize(fn) for fn in data['gallery']) if f]
-
-            if not captions_out and not gallery_out:
-                continue
-            first_fig = next((c['file'] for c in captions_out if c['file']), None)
-            cover = first_fig or (gallery_out[0] if gallery_out else None)
-            manifest[cid] = {'captions': captions_out, 'gallery': gallery_out, 'cover': cover}
-            n_figures += n_matched
-            n_gallery += len(gallery_out)
-            if n_matched:
+            n_placed, n_gallery = apply_to_markdown(
+                data['md_path'], cid, data['captions'], data['gallery'], optimize)
+            n_articles += 1
+            n_placed_total += n_placed
+            n_gallery_total += n_gallery
+            if n_placed:
                 n_articles_with_figures += 1
 
-    with open(MANIFEST, 'w', encoding='utf-8') as f:
-        json.dump(manifest, f, ensure_ascii=False, indent=1)
-
-    print(f"\nWrote {MANIFEST}")
-    print(f"Articles with images: {len(manifest)}  |  articles with matched figures: {n_articles_with_figures}")
-    print(f"Total: {n_figures} captioned figures, {n_gallery} gallery images")
+    print(f"Articles with images: {n_articles}  |  articles with placed captions: {n_articles_with_figures}")
+    print(f"Total: {n_placed_total} images placed inline, {n_gallery_total} in loose end-of-article blocks")
 
 
 if __name__ == '__main__':

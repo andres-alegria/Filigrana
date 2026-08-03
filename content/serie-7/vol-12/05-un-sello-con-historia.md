@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 46
 page_end: 48
-image_count: 2   # flagged; precise article-image match is a later pass
+image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
 summary_es: "Yuri Valentinovich Knórozov, el ruso que logró descifrar la escritura maya. El legado de su gran hazaña consistió en descifrar por primera vez lo jeroglíficos mayas. Antes de él nadie lo había conseguido. El primero en intentarlo fue el misionero"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -54,8 +54,9 @@ En 1991, Knórozov visitó Guatemala, donde fue condecorado con la Orden del Qu
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 2 en este artículo:
-  - image80.jpeg
-  - image81.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-12/05-un-sello-con-historia/image80.webp)
+
+![](/img/serie-7/vol-12/05-un-sello-con-historia/image81.webp)

@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 4
 page_end: 10
-image_count: 21   # flagged; precise article-image match is a later pass
+image_count: 21   # 0 colocadas en el texto, 21 sueltas al final
 summary_es: "En filatelia las cancelaciones postales falsas o falsificadas se refiere a marcas postales que no se originaron en una oficina de correos legítima ni en un uso adecuado a través del sistema de correos, a menudo creadas para engañar a"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -104,27 +104,47 @@ Parejita “Tegucigalpa” de un real en rojo con matasello y fechador falsos.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 21 en este artículo:
-  - image3.png
-  - image4.png
-  - image5.png
-  - image6.png
-  - image7.png
-  - image8.png
-  - image9.png
-  - image10.png
-  - image11.png
-  - image12.png
-  - image13.png
-  - image14.png
-  - image15.png
-  - image16.png
-  - image17.png
-  - image18.png
-  - image20.png
-  - image21.png
-  - image22.png
-  - image23.png
-  - image24.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image3.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image4.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image5.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image6.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image7.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image8.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image9.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image10.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image11.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image12.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image13.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image14.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image15.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image16.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image17.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image18.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image20.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image21.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image22.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image23.webp)
+
+![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image24.webp)

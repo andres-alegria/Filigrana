@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 31
 page_end: 45
-image_count: 26   # flagged; precise article-image match is a later pass
+image_count: 26   # 0 colocadas en el texto, 26 sueltas al final
 summary_es: "El servicio público de correos ha sido tradicionalmente una actividad muy reglamentada, dadas las responsabilidades implícitas en recibir y entregar la correspondencia. Sin embargo, el propósito de este artículo, además de tocar el aspecto histórico de manera general, es estudiar"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -508,32 +508,57 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 26 en este artículo:
-  - image40.jpeg
-  - image41.jpeg
-  - image42.png
-  - image43.png
-  - image44.png
-  - image45.jpeg
-  - image46.png
-  - image47.jpeg
-  - image48.jpeg
-  - image49.jpeg
-  - image50.png
-  - image51.jpeg
-  - image52.png
-  - image53.jpeg
-  - image54.png
-  - image55.jpeg
-  - image56.png
-  - image57.jpeg
-  - image58.png
-  - image59.png
-  - image60.png
-  - image61.jpeg
-  - image62.png
-  - image63.jpeg
-  - image64.png
-  - image65.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image40.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image41.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image42.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image43.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image44.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image45.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image46.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image47.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image48.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image49.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image50.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image51.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image52.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image53.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image54.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image55.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image56.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image57.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image58.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image59.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image60.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image61.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image62.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image63.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image64.webp)
+
+![](/img/serie-7/vol-08/03-honduras-los-carteros-y-sus-marcas/image65.webp)

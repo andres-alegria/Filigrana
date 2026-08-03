@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: investigacion
 page_start: 4
 page_end: 33
-image_count: 20   # flagged; precise article-image match is a later pass
+image_count: 20   # 0 colocadas en el texto, 20 sueltas al final
 summary_es: "En muchas ocasiones anteriores hemos abordado el tema del transporte del correo vía terrestre, marítimo, lacustre, ferroviario o aéreo; pero hasta ahora había permanecido oculto el hecho histórico de que brevemente existió en nuestro país el correo transportado por diligencia."
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -306,26 +306,45 @@ ENTRADA GRATIS
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 20 en este artículo:
-  - image2.png
-  - image3.png
-  - image4.png
-  - image5.png
-  - image6.png
-  - image7.png
-  - image8.png
-  - image9.png
-  - image10.png
-  - image11.png
-  - image12.png
-  - image13.png
-  - image14.png
-  - image15.png
-  - image16.png
-  - image17.png
-  - image18.png
-  - image19.png
-  - image20.png
-  - image21.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image2.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image3.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image4.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image5.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image6.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image7.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image8.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image9.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image10.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image11.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image12.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image13.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image14.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image15.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image16.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image17.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image18.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image19.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image20.webp)
+
+![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image21.webp)

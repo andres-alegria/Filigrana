@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 29
 page_end: 30
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "Nos hemos encontrado con el siguiente Decreto, ordenando en 1856 el traslado temporal de la capital, de Comayagua a Tegucigalpa: “Ministerio de Relaciones del Supremo Gobierno del Estado de Honduras. Comayagua julio 19 de 1856. El Supremo Poder Ejecutivo del"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -50,7 +50,7 @@ Carta enviada en 1845 “con propio” de León, Nicaragua, a Comayagua, al “S
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image15.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-11/03-hara-salir-con-propio/image15.webp)

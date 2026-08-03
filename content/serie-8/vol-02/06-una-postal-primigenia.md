@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 43
 page_end: 43
-image_count: 2   # flagged; precise article-image match is a later pass
+image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
 summary_es: "Nuestro amigo y socio Yuri V. Montes nos ha facilitado de su colección esta postal que ostenta el título de ser la más antigua conocida producida en Honduras. Fue impresa por la casa J. Rossner & Co., establecida en el"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -24,8 +24,9 @@ Nuestro amigo y socio Yuri V. Montes nos ha facilitado de su colección esta pos
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 2 en este artículo:
-  - image72.png
-  - image73.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-02/06-una-postal-primigenia/image72.webp)
+
+![](/img/serie-8/vol-02/06-una-postal-primigenia/image73.webp)

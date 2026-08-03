@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: sello-con-historia
 page_start: 38
 page_end: 43
-image_count: 4   # flagged; precise article-image match is a later pass
+image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
 summary_es: "ANTONIE de SAINT EXUPÈRY La Compañía General Aeropostal generalmente conocida como \"La Aeropostal\" o “l'Aéropostale”, es una compañía aérea francesa con base en Toulouse, Montaudran. Su origen se debió a la idea soñada por Pierre-Georges Latécoère de una línea aérea"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -70,10 +70,13 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 4 en este artículo:
-  - image46.jpeg
-  - image47.jpeg
-  - image48.jpeg
-  - image49.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-03/06-un-sello-con-historia/image46.webp)
+
+![](/img/serie-7/vol-03/06-un-sello-con-historia/image47.webp)
+
+![](/img/serie-7/vol-03/06-un-sello-con-historia/image48.webp)
+
+![](/img/serie-7/vol-03/06-un-sello-con-historia/image49.webp)

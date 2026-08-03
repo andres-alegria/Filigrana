@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 4
 page_end: 11
-image_count: 23   # flagged; precise article-image match is a later pass
+image_count: 23   # 0 colocadas en el texto, 23 sueltas al final
 summary_es: "MATASELLOS DE FANTASÍA DE LOS USA Al estudiar el correo paquebote circulado a los Estados Unidos, he encontrado algunas piezas mataselladas con unas peculiares marcas de llegada, especialmente el correo con entrada por el puerto de Mobile, Alabama, en las"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -100,29 +100,51 @@ Skinner, Hubert y Eno, Amos: United States Cancellations 1845-1869. USA.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 23 en este artículo:
-  - image2.png
-  - image3.png
-  - image4.png
-  - image5.jpeg
-  - image6.png
-  - image7.png
-  - image8.png
-  - image9.png
-  - image10.jpeg
-  - image11.png
-  - image12.png
-  - image14.png
-  - image15.png
-  - image16.jpeg
-  - image17.jpeg
-  - image18.png
-  - image19.png
-  - image20.png
-  - image21.jpeg
-  - image22.png
-  - image23.jpeg
-  - image24.png
-  - image25.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image2.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image3.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image4.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image5.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image6.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image7.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image8.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image9.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image10.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image11.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image12.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image14.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image15.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image16.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image17.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image18.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image19.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image20.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image21.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image22.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image23.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image24.webp)
+
+![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image25.webp)

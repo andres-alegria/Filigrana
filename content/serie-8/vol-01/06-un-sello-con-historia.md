@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 69
 page_end: 70
-image_count: 5   # flagged; precise article-image match is a later pass
+image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
 summary_es: "1916 RECUERDO DEL DE FEBRERO FRANCISCO BERTRAND PRESIDENTE DE LA REPÚBLICA La estampilla de 1 centavo (Scott 182) conmemorativa a la toma de posesión del segundo período del presidente constitucional Dr. Francisco Bertrand Barahona el día domingo 1 de febrero"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -42,11 +42,15 @@ En lo concerniente al Dr. Bertrand, ascendió al Poder Ejecutivo en tres oport
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 5 en este artículo:
-  - image44.png
-  - image45.png
-  - image46.png
-  - image47.png
-  - image48.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-01/06-un-sello-con-historia/image44.webp)
+
+![](/img/serie-8/vol-01/06-un-sello-con-historia/image45.webp)
+
+![](/img/serie-8/vol-01/06-un-sello-con-historia/image46.webp)
+
+![](/img/serie-8/vol-01/06-un-sello-con-historia/image47.webp)
+
+![](/img/serie-8/vol-01/06-un-sello-con-historia/image48.webp)

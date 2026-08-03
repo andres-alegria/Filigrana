@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 27
 page_end: 31
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "Sobre con membrete de la Honduras Railroad Company* dirigido por Charles Jeffs a su madre el 14 de agosto de 1895. Charles Frederick Jeffs nació en Murray, Ontario, el 13 de junio de 1858 como hijo de Thomas Jeffs y"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -64,9 +64,11 @@ Harding Davis, Richard. Three Gringos in Venezuela and Central America. Harper &
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image31.jpeg
-  - image32.jpeg
-  - image33.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-06/07-el-sobresaliente-de-hoy/image31.webp)
+
+![](/img/serie-7/vol-06/07-el-sobresaliente-de-hoy/image32.webp)
+
+![](/img/serie-7/vol-06/07-el-sobresaliente-de-hoy/image33.webp)

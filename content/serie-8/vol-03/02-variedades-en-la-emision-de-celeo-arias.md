@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 4
 page_end: 9
-image_count: 9   # flagged; precise article-image match is a later pass
+image_count: 9   # 0 colocadas en el texto, 9 sueltas al final
 summary_es: "Con la idea de ser autosuficiente y producir sellos postales a menor costo, el Gobierno hondureño contrató en 1889 al tipógrafo italiano Italo Ghizzoni a fin de hacerse cargo de la recién fundada Tipografía Nacional, donde se realizarían todos los"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -166,15 +166,23 @@ Hoja completa mostrando la ubicación del bloque anterior. Entre paréntesis se 
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 9 en este artículo:
-  - image3.jpeg
-  - image4.png
-  - image5.jpeg
-  - image6.png
-  - image7.png
-  - image8.png
-  - image9.png
-  - image10.png
-  - image11.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image3.webp)
+
+![](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image4.webp)
+
+![](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image5.webp)
+
+![](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image6.webp)
+
+![](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image7.webp)
+
+![](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image8.webp)
+
+![](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image9.webp)
+
+![](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image10.webp)
+
+![](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image11.webp)

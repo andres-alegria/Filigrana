@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 38
 page_end: 38
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "INAUGURACION DE LA OFICINA POSTAL DE AGUA AZUL, CORTÉS Sobre preparado para atestiguar la apertura de la nueva oficina postal en la aldea de Agua Azul el 21 de noviembre de 1946 a la 1:30 p. m. Fue circulado desde"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -30,7 +30,7 @@ Este sobre es uno de los raros ejemplares que ha dejado plasmado en detalle un e
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image45.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-09/07-el-sobresaliente-de-hoy/image45.webp)

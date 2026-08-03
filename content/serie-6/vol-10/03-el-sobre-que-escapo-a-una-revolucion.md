@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 20
 page_end: 44
-image_count: 16   # flagged; precise article-image match is a later pass
+image_count: 16   # 0 colocadas en el texto, 16 sueltas al final
 summary_es: "Soberbia pieza con membrete de Roque J. Muñoz, despachada desde el puerto de Trujillo, destinada a N. F. Seebeck en la ciudad de Nueva York y recibida en tránsito por Nueva Orleans el 18 de junio de 1892. (Colección de"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -332,22 +332,37 @@ NOTA DEL EDITOR: Todas las imágenes de sellos postales publicadas en los artíc
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 16 en este artículo:
-  - image17.jpeg
-  - image18.jpeg
-  - image19.jpeg
-  - image20.jpeg
-  - image21.jpeg
-  - image22.jpeg
-  - image23.jpeg
-  - image24.jpeg
-  - image25.jpeg
-  - image26.jpeg
-  - image27.jpeg
-  - image28.jpeg
-  - image29.jpeg
-  - image30.jpeg
-  - image31.jpeg
-  - image32.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image17.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image18.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image19.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image20.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image21.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image22.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image23.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image24.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image25.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image26.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image27.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image28.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image29.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image30.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image31.webp)
+
+![](/img/serie-6/vol-10/03-el-sobre-que-escapo-a-una-revolucion/image32.webp)

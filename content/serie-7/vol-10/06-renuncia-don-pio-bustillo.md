@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 51
 page_end: 52
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "En recientes pesquisas documentales en el Archivo Nacional me crucé con una llamativa y bien conservada carta procedente del Administrador de Correos de Tegucigalpa al Ministro General del Gobierno, exponiéndole los motivos por los cuales interpone su renuncia al cargo."
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -54,9 +54,11 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image64.png
-  - image65.png
-  - image66.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-10/06-renuncia-don-pio-bustillo/image64.webp)
+
+![](/img/serie-7/vol-10/06-renuncia-don-pio-bustillo/image65.webp)
+
+![](/img/serie-7/vol-10/06-renuncia-don-pio-bustillo/image66.webp)

@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 11
 page_end: 40
-image_count: 50   # flagged; precise article-image match is a later pass
+image_count: 50   # 0 colocadas en el texto, 50 sueltas al final
 summary_es: "El Dr. Marco Aurelio Soto se proclamó en Amapala presidente de facto el 26 de agosto de 1876. Posteriormente, el 1 de febrero de 1881, tomó las riendas del Gobierno de manera constitucional. La inestabilidad política de los años previos"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -220,56 +220,105 @@ Si bien hemos tratado de que este estudio sea lo más inclusivo en cuanto a las 
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 50 en este artículo:
-  - image25.png
-  - image26.png
-  - image27.png
-  - image28.png
-  - image29.png
-  - image30.png
-  - image31.png
-  - image32.png
-  - image33.png
-  - image34.png
-  - image35.png
-  - image36.png
-  - image37.png
-  - image38.png
-  - image39.png
-  - image40.png
-  - image41.png
-  - image42.jpeg
-  - image43.png
-  - image44.png
-  - image45.png
-  - image46.png
-  - image47.png
-  - image48.png
-  - image49.png
-  - image50.png
-  - image51.png
-  - image52.jpeg
-  - image53.png
-  - image54.png
-  - image55.png
-  - image56.png
-  - image57.png
-  - image58.jpeg
-  - image59.png
-  - image60.png
-  - image61.png
-  - image62.png
-  - image63.png
-  - image64.png
-  - image65.png
-  - image66.png
-  - image67.png
-  - image68.png
-  - image69.png
-  - image70.png
-  - image72.png
-  - image73.png
-  - image74.png
-  - image75.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image25.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image26.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image27.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image28.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image29.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image30.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image31.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image32.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image33.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image34.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image35.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image36.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image37.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image38.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image39.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image40.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image41.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image42.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image43.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image44.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image45.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image46.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image47.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image48.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image49.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image50.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image51.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image52.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image53.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image54.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image55.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image56.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image57.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image58.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image59.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image60.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image61.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image62.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image63.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image64.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image65.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image66.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image67.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image68.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image69.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image70.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image72.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image73.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image74.webp)
+
+![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image75.webp)

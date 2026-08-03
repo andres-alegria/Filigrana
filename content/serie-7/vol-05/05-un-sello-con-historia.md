@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: sello-con-historia
 page_start: 35
 page_end: 47
-image_count: 10   # flagged; precise article-image match is a later pass
+image_count: 10   # 0 colocadas en el texto, 10 sueltas al final
 summary_es: "EL BRISTOL Y SU PILOTO DEAN IVAN LAMB El primer avión adquirido por el gobierno hondureño, entonces bajo la presidencia del general Rafael López Gutiérrez, fue un Bristol F-2B Fighter biplano de dos plazas, fabricado por la compañía inglesa British"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -172,16 +172,25 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 10 en este artículo:
-  - image43.jpeg
-  - image44.png
-  - image45.jpeg
-  - image46.jpeg
-  - image47.jpeg
-  - image48.png
-  - image50.jpeg
-  - image51.png
-  - image53.png
-  - image54.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-05/05-un-sello-con-historia/image43.webp)
+
+![](/img/serie-7/vol-05/05-un-sello-con-historia/image44.webp)
+
+![](/img/serie-7/vol-05/05-un-sello-con-historia/image45.webp)
+
+![](/img/serie-7/vol-05/05-un-sello-con-historia/image46.webp)
+
+![](/img/serie-7/vol-05/05-un-sello-con-historia/image47.webp)
+
+![](/img/serie-7/vol-05/05-un-sello-con-historia/image48.webp)
+
+![](/img/serie-7/vol-05/05-un-sello-con-historia/image50.webp)
+
+![](/img/serie-7/vol-05/05-un-sello-con-historia/image51.webp)
+
+![](/img/serie-7/vol-05/05-un-sello-con-historia/image53.webp)
+
+![](/img/serie-7/vol-05/05-un-sello-con-historia/image54.webp)

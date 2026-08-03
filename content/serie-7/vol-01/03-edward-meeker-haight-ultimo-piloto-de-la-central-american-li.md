@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: investigacion
 page_start: 14
 page_end: 18
-image_count: 8   # flagged; precise article-image match is a later pass
+image_count: 8   # 0 colocadas en el texto, 8 sueltas al final
 summary_es: "Nació en Astoria, condado de Queens, Nueva York, el 30 de mayo de 1896. A los veinte años se alistó en la Guardia Nacional de Nueva York el 21 de junio de 1916, siendo asignado al servicio de la frontera"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -136,14 +136,21 @@ LO EXTRAÑAREMOS ING. PRATS
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 8 en este artículo:
-  - image11.jpeg
-  - image12.jpeg
-  - image13.jpeg
-  - image14.jpeg
-  - image15.jpeg
-  - image16.png
-  - image17.png
-  - image18.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image11.webp)
+
+![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image12.webp)
+
+![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image13.webp)
+
+![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image14.webp)
+
+![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image15.webp)
+
+![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image16.webp)
+
+![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image17.webp)
+
+![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image18.webp)

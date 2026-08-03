@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 30
 page_end: 36
-image_count: 11   # flagged; precise article-image match is a later pass
+image_count: 11   # 0 colocadas en el texto, 11 sueltas al final
 summary_es: "y “CRUZ ROJA HONDUREÑA” Estas dos sobretasas postales a la fecha son las únicas autorizadas de manera explicita por el gobierno de Honduras. Al respecto, el 17 de abril de 1973 se emitió la serie conmemorativa al poeta Juan Ramón"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -214,17 +214,27 @@ Sobre de primer día del primer sello de la Cruz Roja Hondureña.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 11 en este artículo:
-  - image32.jpeg
-  - image33.jpeg
-  - image34.jpeg
-  - image35.jpeg
-  - image36.jpeg
-  - image37.jpeg
-  - image38.jpeg
-  - image39.jpeg
-  - image40.jpeg
-  - image41.jpeg
-  - image42.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image32.webp)
+
+![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image33.webp)
+
+![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image34.webp)
+
+![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image35.webp)
+
+![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image36.webp)
+
+![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image37.webp)
+
+![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image38.webp)
+
+![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image39.webp)
+
+![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image40.webp)
+
+![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image41.webp)
+
+![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image42.webp)

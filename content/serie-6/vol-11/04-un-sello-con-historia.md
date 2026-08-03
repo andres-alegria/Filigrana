@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 31
 page_end: 33
-image_count: 2   # flagged; precise article-image match is a later pass
+image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
 summary_es: "Sello (Scott C130) impreso por la Security Banknote Company, de Filadelfia, emitido el 14 de septiembre de 1943 como parte de una serie de 15 sellos dando a conocer la riqueza agrícola y ganadera del país. En relación a esto"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -76,8 +76,9 @@ Atiendo mancolistas.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 2 en este artículo:
-  - image16.jpeg
-  - image18.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-11/04-un-sello-con-historia/image16.webp)
+
+![](/img/serie-6/vol-11/04-un-sello-con-historia/image18.webp)

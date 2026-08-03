@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 45
 page_end: 47
-image_count: 7   # flagged; precise article-image match is a later pass
+image_count: 7   # 0 colocadas en el texto, 7 sueltas al final
 summary_es: "En 1903, la Oficina de correos de los Estados Unidos produjo un nuevo tipo de matasello de hule para el uso de las oficinas más pequeñas de cuarta clase en un intento por mejorar la legibilidad de sus marcas postales."
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -42,13 +42,19 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 7 en este artículo:
-  - image33.jpeg
-  - image34.jpeg
-  - image35.png
-  - image36.jpeg
-  - image37.jpeg
-  - image38.jpeg
-  - image39.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-10/04-los-matasellos-doane/image33.webp)
+
+![](/img/serie-6/vol-10/04-los-matasellos-doane/image34.webp)
+
+![](/img/serie-6/vol-10/04-los-matasellos-doane/image35.webp)
+
+![](/img/serie-6/vol-10/04-los-matasellos-doane/image36.webp)
+
+![](/img/serie-6/vol-10/04-los-matasellos-doane/image37.webp)
+
+![](/img/serie-6/vol-10/04-los-matasellos-doane/image38.webp)
+
+![](/img/serie-6/vol-10/04-los-matasellos-doane/image39.webp)

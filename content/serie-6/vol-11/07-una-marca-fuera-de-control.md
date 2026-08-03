@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 40
 page_end: 40
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "Nuestro acucioso socio Craig Anderson nos hizo llegar el presente ejemplar (Sc. 340) emitido el 1 de marzo de 1939. Está contramarcado con la firma facsímil de Jesús María López, Administrador de Rentas de Tegucigalpa; lo cual no sería una"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -28,9 +28,11 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image27.png
-  - image28.jpeg
-  - image29.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-11/07-una-marca-fuera-de-control/image27.webp)
+
+![](/img/serie-6/vol-11/07-una-marca-fuera-de-control/image28.webp)
+
+![](/img/serie-6/vol-11/07-una-marca-fuera-de-control/image29.webp)

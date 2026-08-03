@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 17
 page_end: 24
-image_count: 17   # flagged; precise article-image match is a later pass
+image_count: 17   # 0 colocadas en el texto, 17 sueltas al final
 summary_es: "En Honduras se han levantado diferentes tipos de censos dentro de los cuales los de mayor relevancia son los de Población y Vivienda pero también se han realizado censos de otro tipo como los de Agricultura, Ganadería, Avícola y de"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -150,23 +150,39 @@ Colección de Edgardo Alegría R.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 17 en este artículo:
-  - image9.jpeg
-  - image10.jpeg
-  - image11.jpeg
-  - image12.jpeg
-  - image13.jpeg
-  - image14.jpeg
-  - image15.jpeg
-  - image16.jpeg
-  - image17.jpeg
-  - image18.jpeg
-  - image19.jpeg
-  - image20.jpeg
-  - image21.jpeg
-  - image22.jpeg
-  - image23.jpeg
-  - image24.jpeg
-  - image25.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image9.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image10.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image11.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image12.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image13.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image14.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image15.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image16.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image17.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image18.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image19.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image20.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image21.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image22.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image23.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image24.webp)
+
+![](/img/serie-6/vol-02/04-los-censos-en-honduras/image25.webp)

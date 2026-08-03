@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 4
 page_end: 28
-image_count: 11   # flagged; precise article-image match is a later pass
+image_count: 11   # 0 colocadas en el texto, 11 sueltas al final
 summary_es: "“Estimado Señor. Tengo el honor de enviar a V. E. una copia de las propuestas que estoy encargado de hacer al gobierno español y que he comunicado ya a S. E. el Ministro de Ultramar; sabiendo que a las Cortes"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -278,17 +278,27 @@ HUMOR FILATÉLICO
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 11 en este artículo:
-  - image2.png
-  - image5.jpeg
-  - image6.png
-  - image7.jpeg
-  - image8.jpeg
-  - image9.jpeg
-  - image10.jpeg
-  - image11.jpeg
-  - image12.png
-  - image13.jpeg
-  - image14.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-11/02-una-carta-de-poyais/image2.webp)
+
+![](/img/serie-6/vol-11/02-una-carta-de-poyais/image5.webp)
+
+![](/img/serie-6/vol-11/02-una-carta-de-poyais/image6.webp)
+
+![](/img/serie-6/vol-11/02-una-carta-de-poyais/image7.webp)
+
+![](/img/serie-6/vol-11/02-una-carta-de-poyais/image8.webp)
+
+![](/img/serie-6/vol-11/02-una-carta-de-poyais/image9.webp)
+
+![](/img/serie-6/vol-11/02-una-carta-de-poyais/image10.webp)
+
+![](/img/serie-6/vol-11/02-una-carta-de-poyais/image11.webp)
+
+![](/img/serie-6/vol-11/02-una-carta-de-poyais/image12.webp)
+
+![](/img/serie-6/vol-11/02-una-carta-de-poyais/image13.webp)
+
+![](/img/serie-6/vol-11/02-una-carta-de-poyais/image14.webp)

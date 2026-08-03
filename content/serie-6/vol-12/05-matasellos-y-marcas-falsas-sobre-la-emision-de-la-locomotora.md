@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 31
 page_end: 36
-image_count: 17   # flagged; precise article-image match is a later pass
+image_count: 17   # 0 colocadas en el texto, 17 sueltas al final
 summary_es: "Entusiasmado por el progreso que el ferrocarril traería a la nación y para reflejar esta aspiración, el Gobierno hondureño por Acuerdo del 30 de abril de 1898 (La Gaceta No. 1673) ordenó la impresión en la Litografía Nacional de una"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -170,23 +170,39 @@ Alegría R., Edgardo. Colección “La Locomotora”. Honduras.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 17 en este artículo:
-  - image55.jpeg
-  - image56.jpeg
-  - image57.jpeg
-  - image59.png
-  - image62.png
-  - image63.png
-  - image65.png
-  - image67.png
-  - image69.jpeg
-  - image70.png
-  - image72.jpeg
-  - image73.jpeg
-  - image75.png
-  - image76.png
-  - image78.png
-  - image79.png
-  - image80.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image55.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image56.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image57.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image59.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image62.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image63.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image65.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image67.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image69.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image70.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image72.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image73.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image75.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image76.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image78.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image79.webp)
+
+![](/img/serie-6/vol-12/05-matasellos-y-marcas-falsas-sobre-la-emision-de-la-locomotora/image80.webp)

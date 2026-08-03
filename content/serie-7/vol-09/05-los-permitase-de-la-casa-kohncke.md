@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 35
 page_end: 49
-image_count: 18   # flagged; precise article-image match is a later pass
+image_count: 18   # 0 colocadas en el texto, 18 sueltas al final
 summary_es: "¿Qué sería de la filatelia sin el aporte de la correspondencia comercial? Cualquier filatelista de inmediato respondería que sería una carencia que afectaría la conformación de cualquier colección seria. En efecto, el flujo epistolar local e internacional ejercido por el"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -124,24 +124,41 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 18 en este artículo:
-  - image28.png
-  - image29.png
-  - image30.png
-  - image31.png
-  - image32.png
-  - image33.jpeg
-  - image34.png
-  - image35.png
-  - image36.png
-  - image37.png
-  - image38.png
-  - image39.png
-  - image40.png
-  - image41.png
-  - image42.png
-  - image43.png
-  - image44.png
-  - image46.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image28.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image29.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image30.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image31.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image32.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image33.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image34.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image35.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image36.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image37.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image38.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image39.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image40.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image41.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image42.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image43.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image44.webp)
+
+![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image46.webp)

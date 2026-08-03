@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 23
 page_end: 25
-image_count: 9   # flagged; precise article-image match is a later pass
+image_count: 9   # 0 colocadas en el texto, 9 sueltas al final
 summary_es: "A pesar de la considerable existencia de remanentes de la emisión de “José Santos Guardiola” (1903), el 1 de enero de 1907, consecuentes con el Artículo No. 62 de la Ley Orgánica de Correos que estipulaba una nueva emisión cada"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -110,15 +110,23 @@ Bibliografía: Johnson, Kathryn J. Colección “A Traditional Exibit of the Gua
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 9 en este artículo:
-  - image30.png
-  - image31.jpeg
-  - image32.jpeg
-  - image33.jpeg
-  - image36.png
-  - image38.png
-  - image40.png
-  - image41.png
-  - image42.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image30.webp)
+
+![](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image31.webp)
+
+![](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image32.webp)
+
+![](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image33.webp)
+
+![](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image36.webp)
+
+![](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image38.webp)
+
+![](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image40.webp)
+
+![](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image41.webp)
+
+![](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image42.webp)

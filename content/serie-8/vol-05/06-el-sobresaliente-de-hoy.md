@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 49
 page_end: 50
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "UN SELLO DE DIFUSIÓN DE CUIDADO LOS EBRIOS SE CONVIERTEN, FRE- CUENTEMENTE EN LADRONES, ASE- SINOS E INCENDIARIOS. LA EMBRIAGUEZ CONDUCE RAPIDA- MENTE, AL CEMENTERIO, O LO QUE ES PEOR, AL PRESIDIO O AL MANI- COMIO. Este bonito sobre circulado"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -52,7 +52,7 @@ En su momento, el empuje de esta campaña, tuvo más fuerza en áreas urbanas, v
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image88.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-05/06-el-sobresaliente-de-hoy/image88.webp)

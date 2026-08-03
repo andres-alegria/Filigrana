@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 38
 page_end: 38
-image_count: 4   # flagged; precise article-image match is a later pass
+image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
 summary_es: "Carlos Humberto Daniel Cano Romero fue un virtuoso violinista y compositor, nacido en Tegucigalpa el 12 de febrero de 1906, siendo sus padres Hipólito Cano y María del Carmen Romero Johanin. Fueron sus padrinos de bautismo el expresidente Policarpo Bonilla"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -72,10 +72,13 @@ González Paredes, José D. Camino Real, Crónicas de Honduras. 2023. Tegucigalp
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 4 en este artículo:
-  - image35.png
-  - image36.png
-  - image37.png
-  - image38.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image35.webp)
+
+![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image36.webp)
+
+![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image37.webp)
+
+![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image38.webp)

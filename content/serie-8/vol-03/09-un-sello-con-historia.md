@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 50
 page_end: 50
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "La compra de Luisiana fue una transacción comercial en el año 1803 mediante la cual Napoleón Bonaparte, entonces primer cónsul francés, faltando al acuerdo de retroventa a España, vendió a los Estados Unidos 2,144,476 km² de posesiones francesas en América"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -30,7 +30,7 @@ Esta negociación abrió a los Estados Unidos el acceso al océano Pacífico e
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image53.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-03/09-un-sello-con-historia/image53.webp)

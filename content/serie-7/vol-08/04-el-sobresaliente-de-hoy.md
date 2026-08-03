@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: sobresaliente
 page_start: 46
 page_end: 46
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "Un sobre muy especial, pues refleja el celo profesional del agente postal de la agencia de Balfate (Colón) al no admitir la carta por estar franqueada con sellos de la emisión de 1915 que recién había quedado obsoleta, por lo"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -30,7 +30,7 @@ Art. 90.-No se dará curso a la correspondencia franqueada con sellos postales d
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image67.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-08/04-el-sobresaliente-de-hoy/image67.webp)

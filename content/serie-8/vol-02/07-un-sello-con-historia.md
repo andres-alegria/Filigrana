@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 44
 page_end: 45
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "El general Rafael López Gutiérrez, quien había asumido la Presidencia de Honduras como candidato por el Partido Liberal y figura central de la Primera Guerra Civil de Honduras de 1919, pretendió perpetuarse en el Poder. Las elecciones generales para Presidente"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -28,9 +28,11 @@ Tropas revolucionarias en San Pedro Sula a punto de partir, acompañadas de su b
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image74.png
-  - image75.jpeg
-  - image76.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-02/07-un-sello-con-historia/image74.webp)
+
+![](/img/serie-8/vol-02/07-un-sello-con-historia/image75.webp)
+
+![](/img/serie-8/vol-02/07-un-sello-con-historia/image76.webp)

@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 41
 page_end: 47
-image_count: 11   # flagged; precise article-image match is a later pass
+image_count: 11   # 0 colocadas en el texto, 11 sueltas al final
 summary_es: "El tema se refiere a la eliminación de las charnelas (bisagras, fijasellos) ​ adheridas a los sellos, tomando en consideración los peligros asociados al hacerlo y algunas técnicas para determinar si es posible o no separar una charnela de forma"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -106,17 +106,27 @@ Tal como se muestra en este ejemplo, era habitual usar como charnela una porció
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 11 en este artículo:
-  - image76.png
-  - image77.png
-  - image78.png
-  - image79.png
-  - image80.png
-  - image81.png
-  - image82.png
-  - image83.png
-  - image84.png
-  - image85.png
-  - image86.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image76.webp)
+
+![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image77.webp)
+
+![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image78.webp)
+
+![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image79.webp)
+
+![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image80.webp)
+
+![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image81.webp)
+
+![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image82.webp)
+
+![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image83.webp)
+
+![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image84.webp)
+
+![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image85.webp)
+
+![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image86.webp)

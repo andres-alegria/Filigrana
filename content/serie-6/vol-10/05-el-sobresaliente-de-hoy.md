@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: sobresaliente
 page_start: 48
 page_end: 48
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "Excelente pieza con membrete de la casa comercial Maier & Cia., circulada para Alemania el 1 de diciem-bre de 1894, porteada con 10 cts. de la serie Seebeck “Grl. José Trinidad Cabañas” (Sc. 79), cancelada en violeta con un inusitado"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -26,9 +26,11 @@ Almacén de la Casa Maier en San Pedro Sula, en una postal emitida por ellos.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image40.jpeg
-  - image41.jpeg
-  - image42.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-10/05-el-sobresaliente-de-hoy/image40.webp)
+
+![](/img/serie-6/vol-10/05-el-sobresaliente-de-hoy/image41.webp)
+
+![](/img/serie-6/vol-10/05-el-sobresaliente-de-hoy/image42.webp)

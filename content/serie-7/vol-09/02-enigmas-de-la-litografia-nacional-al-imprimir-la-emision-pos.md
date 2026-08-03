@@ -10,7 +10,7 @@ themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-t
 feature_type: investigacion
 page_start: 4
 page_end: 29
-image_count: 17   # flagged; precise article-image match is a later pass
+image_count: 17   # 0 colocadas en el texto, 17 sueltas al final
 summary_es: "El 1 de enero de 1896 fue puesta en circulación la serie postal “Céleo Arias” (Scott 87-94), la primera impresa en Honduras. Previamente, la historia postal vernácula sólo contaba en su haber con siete emisiones. La primera de 1865 supuestamente"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -456,23 +456,39 @@ Sanso, Aro. (1997). Policarpo Bonilla. Apuntes Biográficos. Tegucigalpa, Hondur
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 17 en este artículo:
-  - image3.png
-  - image4.jpeg
-  - image5.jpeg
-  - image6.png
-  - image7.jpeg
-  - image8.png
-  - image9.jpeg
-  - image10.png
-  - image11.png
-  - image12.png
-  - image13.jpeg
-  - image14.png
-  - image15.png
-  - image16.png
-  - image17.png
-  - image18.png
-  - image19.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image3.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image4.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image5.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image6.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image7.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image8.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image9.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image10.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image11.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image12.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image13.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image14.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image15.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image16.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image17.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image18.webp)
+
+![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image19.webp)

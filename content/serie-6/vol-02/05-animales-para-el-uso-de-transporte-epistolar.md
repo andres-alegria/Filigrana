@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: investigacion
 page_start: 25
 page_end: 29
-image_count: 6   # flagged; precise article-image match is a later pass
+image_count: 6   # 0 colocadas en el texto, 6 sueltas al final
 summary_es: "Artículo recopilado por Edgardo Alegría R. La ayuda de animales para el transporte de cartas y mensajes ha sido usada en muchos países a través de la historia. Por mucho tiempo fue el medio más rápido de transportar grandes paquetes"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -76,12 +76,17 @@ Alrededor de 1899 los renos eran usados por el sistema postal de USA para las en
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 6 en este artículo:
-  - image26.jpeg
-  - image27.jpeg
-  - image28.jpeg
-  - image29.jpeg
-  - image30.png
-  - image31.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-02/05-animales-para-el-uso-de-transporte-epistolar/image26.webp)
+
+![](/img/serie-6/vol-02/05-animales-para-el-uso-de-transporte-epistolar/image27.webp)
+
+![](/img/serie-6/vol-02/05-animales-para-el-uso-de-transporte-epistolar/image28.webp)
+
+![](/img/serie-6/vol-02/05-animales-para-el-uso-de-transporte-epistolar/image29.webp)
+
+![](/img/serie-6/vol-02/05-animales-para-el-uso-de-transporte-epistolar/image30.webp)
+
+![](/img/serie-6/vol-02/05-animales-para-el-uso-de-transporte-epistolar/image31.webp)

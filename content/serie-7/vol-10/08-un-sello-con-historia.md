@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 54
 page_end: 54
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "¿Estuvo José Julián Martí Pérez en Honduras? Nuevas revelaciones históricas así lo confirman. El prócer José Martí había regresado a México en diciembre de 1877 para contraer matrimonio con Carmen Zayas Bazán, cubana perteneciente a una familia aristocrática, económicamente poderosa"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -36,7 +36,7 @@ En La Ceiba varios cubanos residentes en ese puerto agasajaron a la joven pare
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image70.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-10/08-un-sello-con-historia/image70.webp)

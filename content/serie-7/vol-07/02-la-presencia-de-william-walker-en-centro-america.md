@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 4
 page_end: 42
-image_count: 32   # flagged; precise article-image match is a later pass
+image_count: 32   # 0 colocadas en el texto, 32 sueltas al final
 summary_es: "Desde nuestros años de secundaria empezamos a escuchar acerca de la historia de William Walker tratando de conquistar el territorio centroamericano con propósitos anexionistas a la Federación Norteamericana. En menor o mayor detalle se conocía de la generalidad de esta"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -260,38 +260,69 @@ Scroggs, William O. Filibusteros y Financieros. La Historia de William Walker y 
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 32 en este artículo:
-  - image2.png
-  - image3.png
-  - image4.png
-  - image5.jpeg
-  - image6.png
-  - image7.jpeg
-  - image8.png
-  - image9.jpeg
-  - image10.png
-  - image11.jpeg
-  - image12.png
-  - image13.png
-  - image14.png
-  - image15.png
-  - image16.png
-  - image17.png
-  - image18.png
-  - image19.png
-  - image20.png
-  - image21.png
-  - image22.png
-  - image23.png
-  - image25.png
-  - image26.png
-  - image27.png
-  - image28.png
-  - image29.png
-  - image30.png
-  - image31.png
-  - image32.png
-  - image33.png
-  - image34.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image2.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image3.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image4.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image5.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image6.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image7.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image8.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image9.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image10.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image11.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image12.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image13.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image14.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image15.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image16.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image17.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image18.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image19.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image20.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image21.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image22.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image23.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image25.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image26.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image27.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image28.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image29.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image30.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image31.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image32.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image33.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image34.webp)

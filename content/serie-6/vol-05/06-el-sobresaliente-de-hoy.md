@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 43
 page_end: 46
-image_count: 3   # flagged; precise article-image match is a later pass
+image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
 summary_es: "CORREO POR HIDROPLANO DESDE PILOTTOWN Pilottown se construyó y se estableció después de septiembre de 1860 en su ubicación actual. Que sustituyó a la anterior aldea de La Balize, que se había fundado hacía más de 160 años atrás, después"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -62,9 +62,11 @@ NUESTRA MÁS CORDIAL BIENVENIDA
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 3 en este artículo:
-  - image31.jpeg
-  - image32.jpeg
-  - image33.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-05/06-el-sobresaliente-de-hoy/image31.webp)
+
+![](/img/serie-6/vol-05/06-el-sobresaliente-de-hoy/image32.webp)
+
+![](/img/serie-6/vol-05/06-el-sobresaliente-de-hoy/image33.webp)

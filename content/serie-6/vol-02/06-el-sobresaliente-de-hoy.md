@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sobresaliente
 page_start: 30
 page_end: 31
-image_count: 1   # flagged; precise article-image match is a later pass
+image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
 summary_es: "El sobre que nos ocupa en esta ocasión fue despachado de la ciudad de San Pedro Sula (Puerto Cortés) a Filadelfia en los Estados Unidos de América el 7 de diciembre de 1918 pasando por la censura impuesta a raíz"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -38,7 +38,7 @@ ffrh@hotmail.com
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 1 en este artículo:
-  - image33.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-02/06-el-sobresaliente-de-hoy/image33.webp)

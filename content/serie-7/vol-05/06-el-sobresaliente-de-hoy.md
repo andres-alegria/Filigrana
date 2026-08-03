@@ -10,7 +10,7 @@ themes: ["Curiosidades"]   # GUESS — confirm/correct (5-theme vocab)
 feature_type: sobresaliente
 page_start: 48
 page_end: null
-image_count: 2   # flagged; precise article-image match is a later pass
+image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
 summary_es: "Aunque no es un sobre, tiene todos los atributos para sobresalir; así es este precioso entero postal doble, interior, de 2 cts. de la serie de Morazán emitida en 1878, impresa por la Hamilton Bank Note Co. Su extrema rareza"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -58,8 +58,9 @@ Loading...
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 2 en este artículo:
-  - image55.jpeg
-  - image56.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-05/06-el-sobresaliente-de-hoy/image55.webp)
+
+![](/img/serie-7/vol-05/06-el-sobresaliente-de-hoy/image56.webp)

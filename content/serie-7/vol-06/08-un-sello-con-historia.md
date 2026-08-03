@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: sello-con-historia
 page_start: 32
 page_end: 39
-image_count: 5   # flagged; precise article-image match is a later pass
+image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
 summary_es: "Leyenda y Mito Sobre la Muerte del Cacique Lempira Lempira fue un aguerrido capitán del pueblo lenca que luchó contra los conquistadores españoles durante la década de 1530. El nombre Lempira, según sostienen Jorge Lardé y Larín, proviene de la"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -74,11 +74,15 @@ Martínez Castillo, Mario Felipe. Los Últimos Días de Lempira. Editorial Unive
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 5 en este artículo:
-  - image34.png
-  - image35.jpeg
-  - image36.png
-  - image37.jpeg
-  - image38.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-06/08-un-sello-con-historia/image34.webp)
+
+![](/img/serie-7/vol-06/08-un-sello-con-historia/image35.webp)
+
+![](/img/serie-7/vol-06/08-un-sello-con-historia/image36.webp)
+
+![](/img/serie-7/vol-06/08-un-sello-con-historia/image37.webp)
+
+![](/img/serie-7/vol-06/08-un-sello-con-historia/image38.webp)

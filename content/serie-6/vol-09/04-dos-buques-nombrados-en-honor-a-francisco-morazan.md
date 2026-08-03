@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: investigacion
 page_start: 24
 page_end: 29
-image_count: 4   # flagged; precise article-image match is a later pass
+image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
 summary_es: "Recopilación por Edgardo Alegría Reichmann El SS Morazan fue un Buque de 2,984 toneladas, construido en 1908. En 1922 fue comprado a la Booth Line por la Vaccaro Brothers Steamship Company, que se había constituido legalmente en 1923 en Honduras"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -66,10 +66,13 @@ Estado actual de los restos del SS Francisco Morazán
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 4 en este artículo:
-  - image28.jpeg
-  - image29.jpeg
-  - image30.jpeg
-  - image31.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image28.webp)
+
+![](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image29.webp)
+
+![](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image30.webp)
+
+![](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image31.webp)

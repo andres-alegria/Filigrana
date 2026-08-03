@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 54
 page_end: 59
-image_count: 9   # flagged; precise article-image match is a later pass
+image_count: 9   # 0 colocadas en el texto, 9 sueltas al final
 summary_es: "Del 15 al 19 de octubre recién pasado se realizó la primera Bi-Nacional Filatélica (BINAFIL) organizada por el Club Filatélico Querétaro con auspicio de la Federación Mexicana de Filatelia. En la Federación Filatélica de la República de Honduras (FFRH) nos"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -124,15 +124,23 @@ EL
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 9 en este artículo:
-  - image41.jpeg
-  - image42.jpeg
-  - image43.jpeg
-  - image44.jpeg
-  - image45.jpeg
-  - image46.png
-  - image47.jpeg
-  - image48.jpeg
-  - image49.jpeg
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image41.webp)
+
+![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image42.webp)
+
+![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image43.webp)
+
+![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image44.webp)
+
+![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image45.webp)
+
+![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image46.webp)
+
+![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image47.webp)
+
+![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image48.webp)
+
+![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image49.webp)

@@ -10,7 +10,7 @@ themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab
 feature_type: investigacion
 page_start: 34
 page_end: 41
-image_count: 8   # flagged; precise article-image match is a later pass
+image_count: 8   # 0 colocadas en el texto, 8 sueltas al final
 summary_es: "Está ubicado 6 km al suroeste del centro de Tegucigalpa, en medio de una zona residencial. Está encerrado por una cadena de montañas y colinas que dificultan la navegación de los aviones, especialmente durante las maniobras de aproximación y aterrizaje."
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -118,14 +118,21 @@ FRENTE AL PARQUE LA LIBERTAD, COMAYAGUELA M. D. C.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 8 en este artículo:
-  - image20.jpeg
-  - image21.jpeg
-  - image22.jpeg
-  - image23.jpeg
-  - image24.jpeg
-  - image25.jpeg
-  - image26.jpeg
-  - image27.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image20.webp)
+
+![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image21.webp)
+
+![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image22.webp)
+
+![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image23.webp)
+
+![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image24.webp)
+
+![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image25.webp)
+
+![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image26.webp)
+
+![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image27.webp)

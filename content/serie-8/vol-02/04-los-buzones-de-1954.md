@@ -10,7 +10,7 @@ themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme
 feature_type: investigacion
 page_start: 28
 page_end: 39
-image_count: 19   # flagged; precise article-image match is a later pass
+image_count: 19   # 0 colocadas en el texto, 19 sueltas al final
 summary_es: "En 1954 el Dr. Raúl Agüero Vega fue nombrado Director General de Correos, puesto que desempeñaría con particular entusiasmo y dinamismo orientados a dar pasos transformadores en el quehacer postal. En su afán de proyectar una imagen fresca de la"
 is_featured: false     # EDITORIAL DECISION
 has_exhibition: false  # EDITORIAL DECISION
@@ -324,25 +324,43 @@ Sábado 25 de enero de 1969. De Santa Fe (depositada en Trujillo) a EUA.
 
 ---
 
-<!-- IMÁGENES (extraídas, sin emparejar aún) 19 en este artículo:
-  - image49.png
-  - image50.png
-  - image51.png
-  - image52.png
-  - image53.png
-  - image54.png
-  - image55.png
-  - image56.png
-  - image57.png
-  - image58.png
-  - image59.png
-  - image60.jpeg
-  - image61.jpeg
-  - image62.png
-  - image63.jpeg
-  - image64.png
-  - image65.jpeg
-  - image66.jpeg
-  - image67.png
--->
 
+<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image49.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image50.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image51.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image52.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image53.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image54.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image55.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image56.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image57.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image58.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image59.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image60.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image61.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image62.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image63.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image64.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image65.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image66.webp)
+
+![](/img/serie-8/vol-02/04-los-buzones-de-1954/image67.webp)
