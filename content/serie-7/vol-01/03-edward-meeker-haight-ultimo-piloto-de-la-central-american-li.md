@@ -153,4 +153,3 @@ LO EXTRAÑAREMOS ING. PRATS
 
 ![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image17.webp)
 
-![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image18.webp)

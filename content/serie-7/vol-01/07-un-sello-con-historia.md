@@ -83,4 +83,3 @@ Entrada gratis
 
 ![](/img/serie-7/vol-01/07-un-sello-con-historia/image43.webp)
 
-![](/img/serie-7/vol-01/07-un-sello-con-historia/image44.webp)

@@ -65,4 +65,3 @@ EL
 
 ![](/img/serie-7/vol-06/06-surge-un-nuevo-filatelista-en-la-historia-de-honduras/image29.webp)
 
-![](/img/serie-7/vol-06/06-surge-un-nuevo-filatelista-en-la-historia-de-honduras/image30.webp)

@@ -43,4 +43,3 @@ Hoy en día el uso de don y doña es generalizado en todo el mundo hispanohablan
 
 ![](/img/serie-6/vol-02/03-quedan-abolidos-los-titulo-de-distincio-en-las-provincias-un/image7.webp)
 
-![](/img/serie-6/vol-02/03-quedan-abolidos-los-titulo-de-distincio-en-las-provincias-un/image8.webp)

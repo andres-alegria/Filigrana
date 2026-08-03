@@ -57,4 +57,3 @@ EL
 
 ![](/img/serie-6/vol-10/04-los-matasellos-doane/image38.webp)
 
-![](/img/serie-6/vol-10/04-los-matasellos-doane/image39.webp)

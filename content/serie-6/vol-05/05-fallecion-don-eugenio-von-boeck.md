@@ -37,4 +37,3 @@ EL
 
 ![](/img/serie-6/vol-05/05-fallecion-don-eugenio-von-boeck/image29.webp)
 
-![](/img/serie-6/vol-05/05-fallecion-don-eugenio-von-boeck/image30.webp)

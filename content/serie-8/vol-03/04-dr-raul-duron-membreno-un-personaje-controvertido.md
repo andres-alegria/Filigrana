@@ -131,4 +131,3 @@ Si hubiese algo rescatable del nefasto episodio de Durón Membreño, sería la p
 
 ![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image33.webp)
 
-![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image34.webp)

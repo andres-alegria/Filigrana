@@ -107,4 +107,3 @@ El editor agradece la colaboración del historiador hondureño Lic. Ismael Zeped
 
 ![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image18.webp)
 
-![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image19.webp)

@@ -51,4 +51,3 @@ EL
 
 ![](/img/serie-7/vol-01/09-un-buzon-de-1877-en-tegugigalpa/image49.webp)
 
-![](/img/serie-7/vol-01/09-un-buzon-de-1877-en-tegugigalpa/image50.webp)

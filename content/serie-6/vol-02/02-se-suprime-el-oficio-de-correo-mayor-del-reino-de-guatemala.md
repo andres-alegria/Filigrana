@@ -99,4 +99,3 @@ Mallol”.
 
 ![](/img/serie-6/vol-02/02-se-suprime-el-oficio-de-correo-mayor-del-reino-de-guatemala/image3.webp)
 
-![](/img/serie-6/vol-02/02-se-suprime-el-oficio-de-correo-mayor-del-reino-de-guatemala/image4.webp)

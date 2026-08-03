@@ -31,4 +31,3 @@ Nos ha llamado la atención este sobre circulado de San Pedro Sula a los Estados
 
 ![](/img/serie-6/vol-12/08-el-sobresaliente-de-hoy/image87.webp)
 
-![](/img/serie-6/vol-12/08-el-sobresaliente-de-hoy/image88.webp)

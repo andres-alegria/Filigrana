@@ -549,4 +549,3 @@ Reglamento de Correos. 1963. Tipografía Nacional. Tegucigalpa, Honduras.
 
 ![](/img/serie-7/vol-12/02-correspondencia-multada/image64.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image65.webp)

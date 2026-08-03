@@ -143,4 +143,3 @@ EL
 
 ![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image48.webp)
 
-![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image49.webp)

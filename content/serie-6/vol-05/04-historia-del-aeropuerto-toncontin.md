@@ -135,4 +135,3 @@ FRENTE AL PARQUE LA LIBERTAD, COMAYAGUELA M. D. C.
 
 ![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image26.webp)
 
-![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image27.webp)

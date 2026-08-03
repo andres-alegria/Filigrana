@@ -83,4 +83,3 @@ EL
 
 ![](/img/serie-7/vol-02/05-un-sello-con-historia/image34.webp)
 
-![](/img/serie-7/vol-02/05-un-sello-con-historia/image35.webp)

@@ -193,4 +193,3 @@ EL
 
 ![](/img/serie-7/vol-05/05-un-sello-con-historia/image53.webp)
 
-![](/img/serie-7/vol-05/05-un-sello-con-historia/image54.webp)

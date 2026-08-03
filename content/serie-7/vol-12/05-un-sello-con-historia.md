@@ -59,4 +59,3 @@ En 1991, Knórozov visitó Guatemala, donde fue condecorado con la Orden del Qu
 
 ![](/img/serie-7/vol-12/05-un-sello-con-historia/image80.webp)
 
-![](/img/serie-7/vol-12/05-un-sello-con-historia/image81.webp)

@@ -59,4 +59,3 @@ Australia, etc.
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-8/vol-04/09-canje-filatelico/image68.webp)

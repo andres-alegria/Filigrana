@@ -171,6 +171,4 @@ Su actual propietario, y a la vez propietario de la casa Mystic Stamp Company, e
 
 ![](/img/serie-6/vol-09/03-honduras-guia-de-los-matasellos-segunda-parte/image18.webp)
 
-![](/img/serie-6/vol-09/03-honduras-guia-de-los-matasellos-segunda-parte/image26.webp)
-
 ![](/img/serie-6/vol-09/03-honduras-guia-de-los-matasellos-segunda-parte/image27.webp)

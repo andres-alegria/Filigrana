@@ -37,4 +37,3 @@ EL
 
 ![](/img/serie-6/vol-09/06-nos-visito-nuestro-socio-christian-b/image43.webp)
 
-![](/img/serie-6/vol-09/06-nos-visito-nuestro-socio-christian-b/image44.webp)

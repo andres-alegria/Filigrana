@@ -347,4 +347,3 @@ ENTRADA GRATIS
 
 ![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image20.webp)
 
-![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image21.webp)

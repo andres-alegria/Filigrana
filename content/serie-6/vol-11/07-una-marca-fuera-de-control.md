@@ -35,4 +35,3 @@ EL
 
 ![](/img/serie-6/vol-11/07-una-marca-fuera-de-control/image28.webp)
 
-![](/img/serie-6/vol-11/07-una-marca-fuera-de-control/image29.webp)

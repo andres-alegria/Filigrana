@@ -129,4 +129,3 @@ Tal como se muestra en este ejemplo, era habitual usar como charnela una porció
 
 ![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image85.webp)
 
-![](/img/serie-8/vol-05/04-retirando-charnelas-de-manera-segura/image86.webp)

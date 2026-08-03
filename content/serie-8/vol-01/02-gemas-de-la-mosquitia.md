@@ -285,4 +285,3 @@ INSTITUTO HONDUREÑO DE CULTURA HISPÁNICA, TEGUCIGALPA
 
 ![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image21.webp)
 
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image22.webp)
