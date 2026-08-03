@@ -9,10 +9,11 @@ interface Props {
   locked?: boolean;
   coverSrc?: string | null;
   type?: 'articulo' | 'coleccion';
+  coverAlign?: 'center' | 'top';
 }
 const {
   routeSlug, title, author, issueDate, publishDate, summary, locked, coverSrc,
-  type = 'articulo',
+  type = 'articulo', coverAlign = 'center',
 } = Astro.props;
 
 const typeLabel = type === 'coleccion' ? 'COLECCIÓN' : 'ARTÍCULO';
@@ -28,7 +29,9 @@ const originalLabel = issueDate
 ---
 <a class="card" href={`/articulos/${routeSlug}/`}>
   <div class="thumb" aria-hidden="true">
-    {coverSrc && <img src={coverSrc} alt="" loading="lazy" />}
+    {coverSrc && (
+      <img src={coverSrc} alt="" loading="lazy" style={coverAlign === 'top' ? 'object-position:top center' : undefined} />
+    )}
     <span class="typetag">{typeLabel}</span>
   </div>
   <div class="body">

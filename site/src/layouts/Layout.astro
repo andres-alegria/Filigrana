@@ -27,11 +27,12 @@ const { title, description = 'Filigrana — el sello como puerta a la historia.'
   <header class="site">
     <div class="wrap row">
       <a href="/" style="text-decoration:none">
-        <span class="wordmark"><span class="fil">Filigra</span>na<span class="dot">.</span></span>
+        <span class="wordmark"><span class="fil">Filigrana</span><span class="dot">.</span></span>
       </a>
       <nav class="site">
         <a href="/">Inicio</a>
         <a href="/articulos/">Artículos</a>
+        <a href="/colecciones/">Colecciones</a>
         <a href="/sobre/">Sobre</a>
         <span class="lang-switch" aria-label="Idioma">
           <span class="lang-current" aria-current="true">ES</span>
@@ -48,12 +49,33 @@ const { title, description = 'Filigrana — el sello como puerta a la historia.'
 
   <footer class="site">
     <div class="wrap colophon">
-      <span>FILIGRANA</span>
       <a class="fed-mark" href="/sobre/" aria-label="Federación Filatélica de la República de Honduras">
         <img src="/logo-ffrh.svg" alt="Federación Filatélica de la República de Honduras" width="120" height="36" loading="lazy" />
       </a>
+      <canvas id="footer-canvas" class="footer-motif" aria-hidden="true"></canvas>
       <span>filigrana.hn</span>
     </div>
   </footer>
+
+  <script>
+    import { guilloche, watchAndDraw } from '../lib/guilloche.js';
+
+    function drawFooterMotif() {
+      const c = document.getElementById('footer-canvas');
+      if (!c) return;
+      const cs = getComputedStyle(document.documentElement);
+      const G = cs.getPropertyValue('--green').trim();
+      const Au = cs.getPropertyValue('--gold').trim();
+      guilloche(c, {
+        lw: 0.6, scale: 0.92,
+        layers: [
+          { R: 1, r: 0.34, d: 0.68, color: G, alpha: 0.5, turns: 50 },
+          { R: 1, r: 0.233, d: 0.5, color: Au, alpha: 0.4, turns: 80 },
+        ],
+      });
+    }
+    const footerCanvas = document.getElementById('footer-canvas');
+    if (footerCanvas) watchAndDraw(footerCanvas, drawFooterMotif);
+  </script>
 </body>
 </html>

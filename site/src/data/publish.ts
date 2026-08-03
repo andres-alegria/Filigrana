@@ -23,6 +23,10 @@
 // `type` labels the card's green overlay tag ("ARTÍCULO" / "COLECCIÓN").
 // Everything published so far is a plain article; omit it and it defaults
 // to 'articulo'. Set it to 'coleccion' once the first collection is ready.
+//
+// `coverAlign` controls how the card thumbnail crops its cover image
+// (object-position) — 'center' (default) or 'top', for a cover portrait
+// whose subject sits near the top of the frame.
 
 export interface PublishEntry {
   id: string;
@@ -30,6 +34,7 @@ export interface PublishEntry {
   locked?: boolean;
   teaser?: string;
   type?: 'articulo' | 'coleccion';
+  coverAlign?: 'center' | 'top';
 }
 
 export const publishQueue: PublishEntry[] = [
@@ -42,6 +47,7 @@ export const publishQueue: PublishEntry[] = [
   {
     id: 'serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal',
     publishDate: '2026-08-02',
+    coverAlign: 'top',
     teaser: 'Tocó bajo la batuta de Toscanini, heredó un Stradivarius y deslumbró a la crítica en Milán, París y Berlín. Carlos Humberto Cano fue, sin discusión, el mejor violinista de Centroamérica — y aun así nunca recibió el sello postal que su historia merecía.',
   },
   // TODO(Andrés): add the rest of your launch slate here.

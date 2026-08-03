@@ -75,10 +75,10 @@ González Paredes, José D. Camino Real, Crónicas de Honduras. 2023. Tegucigalp
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
+![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image37-engraved.webp)
+
 ![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image35.webp)
 
 ![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image36.webp)
-
-![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image37.webp)
 
 ![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image38.webp)

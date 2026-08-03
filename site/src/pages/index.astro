@@ -21,16 +21,16 @@ const latest = publishQueue
     <div class="wrap">
       <span class="kicker">Honduras Filatélica · digital</span>
       <h1 class="wordmark hero-mark"><span class="fil">Filigrana</span><span class="dot">.</span></h1>
-      <p class="tag">La marca oculta en el papel, revelada a contraluz.</p>
-      <p class="subtag">El sello como puerta a la historia — 60 años de filatelia hondureña, en artículos.</p>
+      <p class="tag">Historia hondureña, revelada por sellos postales.</p>
       <ShareBar url="https://filigrana.hn/" title="Filigrana — el sello como puerta a la historia" />
+      <div class="hairline"></div>
     </div>
   </section>
 
   <section class="wrap" style="padding:36px 0 60px">
     <h2 style="font-size:22px;margin-bottom:6px">Publicaciones recientes</h2>
     <div class="article-list">
-      {latest.map(({ entry, publishDate, locked, teaser, type }) => (
+      {latest.map(({ entry, publishDate, locked, teaser, type, coverAlign }) => (
         <ArticleCard
           routeSlug={routeSlug(entry!)}
           title={entry!.data.title_es}
@@ -40,6 +40,7 @@ const latest = publishQueue
           summary={teaser ?? entry!.data.summary_es}
           locked={locked}
           type={type}
+          coverAlign={coverAlign}
           coverSrc={firstImageSrc(entry!.rendered?.html ?? '')}
         />
       ))}
@@ -52,35 +53,8 @@ const latest = publishQueue
 </Layout>
 
 <script>
-  function guilloche(canvas, opts) {
-    const dpr = Math.min(window.devicePixelRatio || 1, 2);
-    const rect = canvas.getBoundingClientRect();
-    const w = (canvas.width = rect.width * dpr), h = (canvas.height = rect.height * dpr);
-    const ctx = canvas.getContext('2d');
-    ctx.clearRect(0, 0, w, h);
-    const lw = (opts.lw || 0.6) * dpr;
-    const cx = w / 2, cy = h / 2;
-    const scale = (Math.min(w, h) / 2) * (opts.scale || 0.86);
-    opts.layers.forEach((L) => {
-      const off = document.createElement('canvas');
-      off.width = w; off.height = h;
-      const octx = off.getContext('2d');
-      octx.lineWidth = lw; octx.strokeStyle = L.color;
-      octx.beginPath();
-      const { R, r, d, turns = 60 } = L, step = 0.02;
-      for (let t = 0; t <= Math.PI * 2 * turns; t += step) {
-        const k = (R - r) / r;
-        const x = (R - r) * Math.cos(t) + d * Math.cos(k * t);
-        const y = (R - r) * Math.sin(t) - d * Math.sin(k * t);
-        const px = cx + x * scale, py = cy + y * scale;
-        t === 0 ? octx.moveTo(px, py) : octx.lineTo(px, py);
-      }
-      octx.stroke();
-      ctx.globalAlpha = L.alpha ?? 0.5;
-      ctx.drawImage(off, 0, 0);
-    });
-    ctx.globalAlpha = 1;
-  }
+  import { guilloche, watchAndDraw } from '../lib/guilloche.js';
+
   function draw() {
     const c = document.getElementById('hero-canvas');
     if (!c) return;
@@ -97,23 +71,6 @@ const latest = publishQueue
       ],
     });
   }
-  // Redraw whenever the canvas's actual rendered size changes — not just on
-  // window resize. The hero's height depends on the custom webfont's
-  // metrics (Fraunces vs. the fallback serif), so the very first draw can
-  // happen before that font swaps in, sizing the canvas to the WRONG
-  // (fallback-font) layout; the browser then stretches that stale bitmap to
-  // fit once the real layout settles, which is the blurry/thick look on
-  // first load in Safari. A ResizeObserver reacts to the real cause (the
-  // element's box actually changing size) instead of guessing when fonts
-  // are done, so it self-corrects the moment that happens.
   const heroCanvas = document.getElementById('hero-canvas');
-  if (heroCanvas) {
-    let raf;
-    const scheduleDraw = () => {
-      cancelAnimationFrame(raf);
-      raf = requestAnimationFrame(draw);
-    };
-    new ResizeObserver(scheduleDraw).observe(heroCanvas);
-    document.fonts?.ready?.then(scheduleDraw);
-  }
+  if (heroCanvas) watchAndDraw(heroCanvas, draw);
 </script>

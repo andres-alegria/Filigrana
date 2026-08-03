@@ -59,13 +59,19 @@ nav.site a:hover{color:var(--green)}
   letter-spacing:.04em;text-transform:none;white-space:nowrap;border-radius:2px}
 
 /* ---------- hero ---------- */
-.hero{padding:64px 0 48px;position:relative;overflow:hidden}
+.hero{padding:64px 0 48px;position:relative;overflow:hidden;
+  border-bottom:1px solid var(--line)}
 #hero-canvas{position:absolute;inset:0;width:100%;height:100%;opacity:.5;z-index:0;pointer-events:none}
-.hero .wrap{position:relative;z-index:1}
-.hero-mark{font-size:clamp(44px,9vw,104px);margin-top:14px;line-height:.95}
+.hero .wrap{position:relative;z-index:1;text-align:center;display:flex;
+  flex-direction:column;align-items:center}
+.hero-mark{font-size:clamp(56px,13vw,160px);margin-top:14px;line-height:.95}
 .hero p.tag{font-family:'Fraunces',serif;font-style:italic;font-weight:300;
   font-size:clamp(19px,2.4vw,24px);color:var(--ink-soft);margin-top:16px;max-width:36ch}
 .hero p.subtag{font-size:14.5px;color:var(--ink-soft);margin-top:14px;max-width:52ch;line-height:1.6}
+/* fading center line, echoing the moodboard's section divider */
+.hero .hairline{height:1px;width:100%;max-width:420px;margin-top:40px;
+  background:linear-gradient(90deg,transparent,var(--green) 12%,var(--gold) 50%,var(--green) 88%,transparent);
+  opacity:.55}
 
 /* ---------- share ---------- */
 .share{display:flex;align-items:center;gap:10px;margin-top:20px;position:relative}
@@ -161,6 +167,8 @@ footer.site{padding:40px 0 56px;border-top:1px solid var(--line);margin-top:40px
 .colophon .fed-mark{display:flex;align-items:center;opacity:.5;transition:opacity .3s var(--ease)}
 .colophon .fed-mark:hover{opacity:.85}
 .colophon .fed-mark img{height:40px;width:auto;display:block}
+/* small centered rosette echoing the hero background — adjust size here */
+.colophon .footer-motif{width:34px;height:34px;opacity:.7}
 
 @media(max-width:640px){
   .wrap{padding:0 20px}
