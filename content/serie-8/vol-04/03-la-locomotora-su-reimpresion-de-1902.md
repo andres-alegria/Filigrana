@@ -69,6 +69,8 @@ Otro ejemplo es este bloque múltiple también imperforado verticalmente.
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image52.webp)
+
 ![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image46.webp)
 
 ![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image47.webp)
@@ -80,8 +82,6 @@ Otro ejemplo es este bloque múltiple también imperforado verticalmente.
 ![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image50.webp)
 
 ![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image51.webp)
-
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image52.webp)
 
 ![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image53.webp)
 

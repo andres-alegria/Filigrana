@@ -187,6 +187,8 @@ En 1987 se detectó la comercialización y circulación de timbres falsos de con
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
+![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image27.webp)
+
 ![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image22.webp)
 
 ![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image23.webp)
@@ -196,8 +198,6 @@ En 1987 se detectó la comercialización y circulación de timbres falsos de con
 ![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image25.webp)
 
 ![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image26.webp)
-
-![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image27.webp)
 
 ![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image28.webp)
 

@@ -681,11 +681,11 @@ El autor le expresa un agradecimiento especial al Sr. Eric Schwimmer por los imp
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image4.webp)
+
 ![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image2.webp)
 
 ![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image3.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image4.webp)
 
 ![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image5.webp)
 
