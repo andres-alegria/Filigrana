@@ -121,6 +121,21 @@ nav.site a:hover{color:var(--green)}
   .card .body{padding:24px 24px 28px}
 }
 
+/* compact variant: half-height thumbnail, for long listings (e.g. the
+   full Archivo page) where density matters more than a big showcase image */
+.article-list--compact{gap:14px}
+.article-list--compact .card{display:flex;align-items:flex-start;gap:20px;padding:18px 20px}
+.article-list--compact .card .thumb{flex:0 0 160px;width:160px;height:160px;min-height:0}
+.article-list--compact .card .thumb .typetag{font-size:9px;padding:4px 7px;top:10px;left:10px}
+.article-list--compact .card .body{padding:0}
+.article-list--compact .card h2{font-size:19px;margin-top:6px}
+.article-list--compact .card p.dek{font-size:13.5px;margin-top:8px}
+.article-list--compact .card .meta{margin-top:10px}
+@media(max-width:520px){
+  .article-list--compact .card{gap:14px}
+  .article-list--compact .card .thumb{flex-basis:96px;width:96px;height:96px}
+}
+
 /* ---------- article page ---------- */
 .article-head{padding:44px 0 24px;border-bottom:1px solid var(--line)}
 .article-head .meta{font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.12em;

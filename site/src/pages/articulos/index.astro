@@ -17,7 +17,7 @@ const list = publishQueue
   <section class="wrap" style="padding:48px 0 60px">
     <span class="kicker">Archivo</span>
     <h1 style="font-size:clamp(28px,4vw,40px);margin-top:8px">Artículos</h1>
-    <div class="article-list" style="margin-top:28px">
+    <div class="article-list article-list--compact" style="margin-top:28px">
       {list.map(({ entry, publishDate, locked, teaser, type, coverAlign }) => (
         <ArticleCard
           routeSlug={routeSlug(entry!)}
