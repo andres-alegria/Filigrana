@@ -60,20 +60,15 @@ import { LOCK_HASH } from '../data/lock';
       unlock();
     }
 
-    // Belt-and-suspenders: Enter-to-submit should already work natively on
-    // a form with one text input and a submit button, but some browser
-    // password-manager UIs (and some in-app/embedded browsers) swallow the
-    // Enter keydown before it triggers implicit submission.
-    form.querySelector('input')?.addEventListener('keydown', (e) => {
-      if (e.key === 'Enter') {
-        e.preventDefault();
-        form.requestSubmit();
-      }
-    });
+    const input = form.querySelector('input[type=password]');
+    let checking = false;
 
-    form.addEventListener('submit', async (e) => {
-      e.preventDefault();
-      const input = form.querySelector('input[type=password]');
+    // The single place the password is actually checked. Every entry point
+    // below calls this directly, so unlocking never depends on form
+    // submission mechanics working a particular way.
+    async function attemptUnlock() {
+      if (checking) return;
+      checking = true;
       try {
         const attempt = await sha256Hex(input.value.trim());
         if (attempt === lockHash) {
@@ -86,7 +81,40 @@ import { LOCK_HASH } from '../data/lock';
       } catch (err) {
         console.error('Filigrana site gate: could not verify password', err);
         box?.classList.add('err');
+      } finally {
+        checking = false;
       }
+    }
+
+    // Three independent ways in, because relying on any single one has
+    // already bitten us:
+    //   1. form submit  — the normal path (button click, native Enter)
+    //   2. Enter keydown — some browsers/password managers swallow the
+    //      native implicit submission
+    //   3. button click — last resort if submission is blocked entirely
+    //
+    // Crucially, none of these call form.requestSubmit(): that only exists
+    // in Safari 16+, and calling it after preventDefault() means an older
+    // browser cancels the native submit and then throws, so Enter silently
+    // does nothing while the button still works.
+    form.addEventListener('submit', (e) => {
+      e.preventDefault();
+      attemptUnlock();
+    });
+
+    input?.addEventListener('keydown', (e) => {
+      // key/keyCode/code all checked: older browsers and some IME or
+      // password-manager layers report Enter differently (or not at all).
+      const isEnter = e.key === 'Enter' || e.keyCode === 13
+        || e.code === 'Enter' || e.code === 'NumpadEnter';
+      if (!isEnter) return;
+      e.preventDefault();
+      attemptUnlock();
+    });
+
+    form.querySelector('button')?.addEventListener('click', (e) => {
+      e.preventDefault();
+      attemptUnlock();
     });
   }
 </script>
