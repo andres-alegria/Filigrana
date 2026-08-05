@@ -1,5 +1,5 @@
 ---
-title_es: "¿pasó Albert Einstein por amapala?"
+title_es: "¿Pasó Albert Einstein por Amapala?"
 title_en: ""
 slug: paso-albert-einstein-por-amapala
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# ¿pasó Albert Einstein por amapala?
+# ¿Pasó Albert Einstein por Amapala?
 Por muchos años se ha platicado del mito urbano acerca de la presencia en la ciudad puerto de Amapala, isla de El Tigre, del renombrado físico alemán Albert Einstein (14 de marzo 1879-18 de abril 1955). Entre las diversas versiones manejadas se ha afirmado que en los años 1940´s había permanecido en la isla como huésped del comerciante local Pablo Uhler, o que había sido trasladado por los norteamericanos a este lugar para librarlo de persecución enemiga. Incluso, un amigo personal me aseguraba poseer en la familia una foto de su abuela amapalina acompañada del célebre personaje. En fin, una serie de especulaciones que el tiempo se ha encargado de arropar con una buena dosis de fantasía. En aras de desvelar tan llamativo hecho, resolví tomar ventaja de las fabulosas herramientas que la informática pone a nuestro alcance, por lo que de manera cronológica presento una relación sucinta de las ocasiones en que Einstein pisó tierras americanas, especialmente las del Centro y Sur del continente.
 
 En noviembre de 1923, Einstein había aceptado la invitación que le hiciera la Sociedad Hebraica Argentina, solicitando ser incluida también la Universidad de Buenos Aires debido a anteriores declinaciones y de la cual había recibido el título de Doctor Honoris Causa.
