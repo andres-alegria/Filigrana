@@ -44,7 +44,7 @@ La imprenta llega a España hacia 1472, es decir pocos años después de haberse
 
 La Corona Española Proveedora de Papel en Hispanoamérica.
 
-Los españoles que se desplazaron a América para la conquista, evangeliza-ción y gobierno de los nuevos territorios muy pronto sintieron la necesidad de tener libros, ya sea los misioneros como instrumento de trabajo para la conversión de los indios o los funcionarios para el buen orden administrativo y todos ellos para su uso personal; por ello la fecha de la introducción de la imprenta en Hispanoamérica es muy temprana, anterior a muchos países europeos y casi dos siglos antes que en los Estados Unidos de América.
+Los españoles que se desplazaron a América para la conquista, evangelización y gobierno de los nuevos territorios muy pronto sintieron la necesidad de tener libros, ya sea los misioneros como instrumento de trabajo para la conversión de los indios o los funcionarios para el buen orden administrativo y todos ellos para su uso personal; por ello la fecha de la introducción de la imprenta en Hispanoamérica es muy temprana, anterior a muchos países europeos y casi dos siglos antes que en los Estados Unidos de América.
 
 El Descubrimiento abrió espacios al comercio mundial, revolucionando la imagen medieval del mundo. A su vez la imprenta y su principal vehículo el papel serán la esencia misma de la civilización. La imprenta permitió el ascenso de las religiones basadas en la lectura de la Biblia, y que éstas introdujeron a campesinos y burgueses en las letras. Aparecerán los impresos para trasmitir ideologías y política; manifiestos, panfletos, libelos, canciones, llegando al papel diario para comunicar al pueblo noticias inspiradas en la actualidad. También las estampaciones sueltas, o sea, las imágenes impresas en papel, se repartían entre los aborígenes americanos sometidos. En este humilde soporte florece una literatura funcional y de escasa calidad literaria como alegatos jurídicos, memoriales y peticiones, relaciones de fiestas, sermones, panegíricos, cartas con noticias, gacetas, órdenes, recibos, etc., que consumían miles de resmas de papel. Si bien España había desempeñado un importante puesto en la Edad Media con la producción y distribución del papel hispanoárabe, ante la irrupción del papel italiano fruto de sus nuevos aportes técnicos y la capacidad de producción, España fue perdiendo gradualmente su capacidad de abastecer su extenso Imperio con lo producido en sus propios molinos papeleros.
 
@@ -76,15 +76,11 @@ La fábrica Cremada, la de Martí, el Molí del Toscà, la de Taraganya, la de N
 
 Pescia.
 
-El papel Pescia lleva el homónimo de la ciudad que se encuentra en la región Toscana, centro de uno de los muchos papeles artísticos producidos en la fábrica de papel Cartiere Magnani propiedad de Giorgio Magnani, cuyos orígenes se remontan al siglo XV cuando los primeros pobladores construyeron un molino a orillas del río Pescia, famoso por sus aguas cristalinas, requisito esencial para fabricar papel. Con el paso de los años los molinos Magnani supieron mantenerse activos a pesar de los turbulentos vaivenes de la Nación, al grado que para el siglo XVIII ya exportaban papel por todo el mundo, contando entre sus clientes a muchas de las familias europeas reinantes, entre ellas a Napoleón Bonaparte, quien escogió este molino para producir una filigrana especial para anunciar su boda con María Luisa de Austria. Para inicios del siglo XIX Magnani contaba con más de 150
-
-“tinas” para el refinamiento de la pulpa. Actualmente, el papel Pescia es un favorito entre los que hacen intaglio, aguatinta, aguafuerte, relieve, y grabado.
+El papel Pescia lleva el homónimo de la ciudad que se encuentra en la región Toscana, centro de uno de los muchos papeles artísticos producidos en la fábrica de papel Cartiere Magnani propiedad de Giorgio Magnani, cuyos orígenes se remontan al siglo XV cuando los primeros pobladores construyeron un molino a orillas del río Pescia, famoso por sus aguas cristalinas, requisito esencial para fabricar papel. Con el paso de los años los molinos Magnani supieron mantenerse activos a pesar de los turbulentos vaivenes de la Nación, al grado que para el siglo XVIII ya exportaban papel por todo el mundo, contando entre sus clientes a muchas de las familias europeas reinantes, entre ellas a Napoleón Bonaparte, quien escogió este molino para producir una filigrana especial para anunciar su boda con María Luisa de Austria. Para inicios del siglo XIX Magnani contaba con más de 150 "tinas" para el refinamiento de la pulpa. Actualmente, el papel Pescia es un favorito entre los que hacen intaglio, aguatinta, aguafuerte, relieve, y grabado.
 
 Fabriano.
 
-Es un pueblo muy antiguo localizado en los Apeninos en la localidad de Ancona, Italia, que data de la época romana. Aquí, la familia Fabriano se volvió fabricante de papel en el siglo XVIII. Pietro Miliani fue contratado como fabricante de papel en un molino propiedad de la aristocrática familia Vallemani. Pietro se convirtió en una persona capaz para el anciano conde Vallemani, quien estaba más involucrado en sus haciendas que en su molino. Dada la inteligencia e interés de Pietro en la producción de papel, en 1782 el conde le concedió la responsabilidad total del molino. Para 1785 Pietro era ya propietario del molino, el cual fue ampliado y fortalecido. Poco a poco Miliani adquirió otros molinos cercanos a Fabriano, convirtiéndose así en cabeza de un pequeño imperio del papel, heredado en 1817 por sus hijos
-
-Nicolo (+1835), Tommaso (+1842) y Rinaldo (+1862), y más tarde por su sobrino Giuseppe (+1887) y el hijo de este, Giovanbattista. Tras la II Guerra Mundial el Grupo Miliani se convirtió en una corporación, siendo su propietario actual el Poligráfico de la República Italiana.
+Es un pueblo muy antiguo localizado en los Apeninos en la localidad de Ancona, Italia, que data de la época romana. Aquí, la familia Fabriano se volvió fabricante de papel en el siglo XVIII. Pietro Miliani fue contratado como fabricante de papel en un molino propiedad de la aristocrática familia Vallemani. Pietro se convirtió en una persona capaz para el anciano conde Vallemani, quien estaba más involucrado en sus haciendas que en su molino. Dada la inteligencia e interés de Pietro en la producción de papel, en 1782 el conde le concedió la responsabilidad total del molino. Para 1785 Pietro era ya propietario del molino, el cual fue ampliado y fortalecido. Poco a poco Miliani adquirió otros molinos cercanos a Fabriano, convirtiéndose así en cabeza de un pequeño imperio del papel, heredado en 1817 por sus hijos Nicolo (+1835), Tommaso (+1842) y Rinaldo (+1862), y más tarde por su sobrino Giuseppe (+1887) y el hijo de este, Giovanbattista. Tras la II Guerra Mundial el Grupo Miliani se convirtió en una corporación, siendo su propietario actual el Poligráfico de la República Italiana.
 
 Pucara.
 
@@ -100,23 +96,23 @@ Fellows era el apellido de tres fabricantes ingleses de papel llamados James, Jo
 
 En las primeras décadas del siglo XIX después de las independencias americanas se interrumpió la llegada del papel español, permitiendo libremente la introducción al de otros proveedores. Algunos productores en su mayoría catalanes abrieron sucursales o representaciones de sus empresas en las principales ciudades hispanoamericanas, volviéndose proveedores del papel de uso oficial y de valores de varios países. Por su parte, la industria papelera americana tuvo débiles intentos de fabricación de papel en el siglo XVI. El primer molino papelero americano se fundó, hacia 1575, en Culiacán, Méjico. Su producción fue muy pequeña y de uso local, hasta que esta industria ya en el siglo XIX comienza lentamente a desarrollarse con desiguales resultados hasta consolidarse junto a otros países como Brasil y Argentina a partir del siglo XX.
 
-En la Honduras republicana, hasta 1865, el papel era importado vía La Habana por casas comerciales establecidas en Omoa y Trujillo.; sin embargo, no es raro encontrar documentos de esta época redactados en papel corriente con la anotación “escrito en papel corriente porque no tenemos papel sellado”. El Reglamento para la Imprenta del Estado de 1852, establecía en su Artículo 7º. inciso 7: “Las obligaciones del Administrador en cuanto a lo económico son: Pedir a la Tesorería Jeneral (sic) el surtido de papel suficiente para todas las impresiones que ocurran; en las de particulares lo cargará según se venda en el comercio”. En este sentido, así queda establecido en un oficio dirigido en 1852 al Administrador General de Rentas en Comayagua, encargándole la compra de 20 resmas de papel para la impresión del periódico oficial La Gaceta. El limitado volumen de esta orden nos da una clara idea de la escala para el uso del papel, habida cuenta del reducido número de lectores. Esta situación era consistente con la disponibilidad de papel sellado, al grado que muchos documentos legales continuaron escribiéndose en papel corriente.
+En la Honduras republicana, hasta 1865, el papel era importado vía La Habana por casas comerciales establecidas en Omoa y Trujillo.; sin embargo, no es raro encontrar documentos de esta época redactados en papel corriente con la anotación “escrito en papel corriente porque no tenemos papel sellado”.
+
+> > "Escrito en papel corriente porque no tenemos papel sellado." El Reglamento para la Imprenta del Estado de 1852, establecía en su Artículo 7º. inciso 7: “Las obligaciones del Administrador en cuanto a lo económico son: Pedir a la Tesorería Jeneral (sic) el surtido de papel suficiente para todas las impresiones que ocurran; en las de particulares lo cargará según se venda en el comercio”. En este sentido, así queda establecido en un oficio dirigido en 1852 al Administrador General de Rentas en Comayagua, encargándole la compra de 20 resmas de papel para la impresión del periódico oficial La Gaceta. El limitado volumen de esta orden nos da una clara idea de la escala para el uso del papel, habida cuenta del reducido número de lectores. Esta situación era consistente con la disponibilidad de papel sellado, al grado que muchos documentos legales continuaron escribiéndose en papel corriente.
 
 Aunque data de tres años posteriores a la prefilatelia, pero considerando la aguda escasez de datos relevantes al papel, citaremos la reveladora nota enviada en 1868 por el Administrador de Aduanas de Trujillo al Ministro de Hacienda, que textualmente reza:
 
-“25 diciembre 1868
-
-Sr. Ministro de Hacienda del
-
-Supremo Gobierno de la República
-
-Aunque por mi comunicación del 8 del corriente aseguré a
-
-Ud. que había contratado las dos cargas que órden Suprema me pedia que fueran de buena calidad lo mismo que modico el precio, condiciones que precisamente le fijé al comerciante vendedor; mas al tiempo de ir a recibir el citado papel me encuentro con que no solo no era ni siquiera regular sino del muy comun que se encuentra en esta plaza; y queriendo llevar a efecto su orden referida, pasé inmediatamente á las demas casas de comercio para ver si lograba que no sufriera demora el envio de dicho papel, mas no pudiendome mejorar la calidad ni encontrarse una cantidad semejante he tomado ocurrir al medio a pedirlo a Belize que por no estar muy distante aquel punto aseguro á Ud. que muy pronto llegará a este puerto y lo remitiré a esa Capital.
-
-Soy de Ud. muy atto. Servidor
-
-Alvino C. Cruz”
+> 25 diciembre 1868
+>
+> Sr. Ministro de Hacienda del
+>
+> Supremo Gobierno de la República
+>
+> Aunque por mi comunicación del 8 del corriente aseguré a Ud. que había contratado las dos cargas que órden Suprema me pedia que fueran de buena calidad lo mismo que modico el precio, condiciones que precisamente le fijé al comerciante vendedor; mas al tiempo de ir a recibir el citado papel me encuentro con que no solo no era ni siquiera regular sino del muy comun que se encuentra en esta plaza; y queriendo llevar a efecto su orden referida, pasé inmediatamente á las demas casas de comercio para ver si lograba que no sufriera demora el envio de dicho papel, mas no pudiendome mejorar la calidad ni encontrarse una cantidad semejante he tomado ocurrir al medio a pedirlo a Belize que por no estar muy distante aquel punto aseguro á Ud. que muy pronto llegará a este puerto y lo remitiré a esa Capital.
+>
+> Soy de Ud. muy atto. Servidor
+>
+> Alvino C. Cruz
 
 Nota del editor: Se ha respetado la ortografía del texto original.
 

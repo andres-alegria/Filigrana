@@ -66,6 +66,8 @@ Hodgson II poseía embarcaciones dedicadas al transporte de mercancías de contr
 
 La audacia de Hodgson II era tal que en cierto momento esbozó un infecundo plan de ocupación inglesa de casi toda Centroamérica, en el que la Costa de Mosquitos jugaba un importante papel debido a su ubicación geográfica estratégica y al odio tradicional de los misquitos para con los españoles, y en el cual contemplaba que: De hecho, yo no considero en absoluto romántico esperar a que nosotros podamos, a través de apoyar un poco a los indios, propagar la revuelta de una parte a otra, hasta que fuese general a través de la Indias, y echar a los españoles de aquí.
 
+> > "Yo no considero en absoluto romántico esperar a que nosotros podamos, a través de apoyar un poco a los indios, propagar la revuelta de una parte a otra, hasta que fuese general a través de las Indias, y echar a los españoles de aquí."
+
 El Atlántico revolucionario fue una época de gran agitación para muchas familias y los Hodgson no fueron la excepción. Muchos miembros de la familia estaban separados físicamente por grandes distancias, y para mantenerse en contacto necesitaban cooperar con las autoridades españolas, especialmente después de la evacuación británica de la Costa de Mosquitos en 1787. Cuando las complejas tensiones de la Costa llegaron a un punto crítico en 1790, una facción de misquitos atacó y destruyó la propiedad de los Hodgson en Bluefields. Robert y Elizabeth con sus hijos Billy y Ari se las arreglaron para huir a Panamá y luego a Nicaragua. Más tarde, los sobrevivientes partirían a Corn Islands (Islas del Maíz) para reencontrarse con el resto de la familia, para de ahí emigrar a Kingston (Jamaica) en busca de refugio, residiendo en este lugar hasta el final de sus días. Elizabeth Ariadne, quien era fluida en castellano e inglés, había fallecido un año antes durante su estadía en León, Nicaragua.
 
 Robert Hodgson II falleció en Ciudad Guatemala el 29 de mayo de 1791. En una carta anunciando el fallecimiento de su padre, Robert Hodgson III le aseguraba a su hermana Martha María que: …al momento de su muerte nuestro padre era Brigadier General, un Caballero de la Orden de Carlos III (el primer extranjero en haber sido galardonado con tan distinguido título español), dotado con una pensión de 30,000 dólares por año… Dado que nadie de la familia pudo atender los funerales, asimismo le informaba que además de habérsele rendido todos los homenajes del caso: …el funeral costó tres mil dólares los cuales fueron pagados por el Rey de España. Él murió como un fiel protestante. El Rey de España le ha enviado un mensaje expreso de condolencia a mi madre con su palabra real que ella y sus hijos serán considerados su protección peculiar. Sin embargo, ni la tal pensión ni la supuesta protección peculiar se concretaron, pues tras su muerte, la familia cayó en una etapa de estrechez económica, sobreviviendo gracias a la generosidad de sus buenos contactos habidos en Centro América.
@@ -94,9 +96,13 @@ El próspero movimiento comercial de Black River se refleja en un censo realizad
 
 Las autoridades de Guatemala continuaban sin conocer la geografía ni los habitantes de la Costa de Mosquitos. De lo que sí tenían conocimiento es que en ese lugar residían aquellos inveterados y aguerridos enemigos (como se nombraba a los misquitos en los documentos españoles de la época) y lo sabían porque su efecto devastador se hacía sentir desde Honduras hasta Panamá. Los misquitos destruían los poblados, robaban las cosechas y los animales domésticos y tomaban prisioneros que vendían como esclavos a los ingleses o los conservaban para sí en sus poblados. La imagen que el reino de España se fue haciendo de este pueblo (especialmente durante el siglo XVII y las primeras décadas del XVIII) es similar a la de otros territorios no conquistados del Nuevo Mundo. Era ésta un área no civilizada, poblada por tribus salvajes, indómitas y paganas.
 
-Para las autoridades españolas y británicas los misquitos eran actores autónomos en asuntos relacionados con la Mosquitia, puesto que ellos mismos proyectaban este sentimiento. La mención de su independencia se convirtió en una especie de saludo, una marca de distinción y una afirmación jactanciosa sustentada por otras actividades. Durante su época en la Mosquitia en 1776, el ya aludido Olaudah Equiano, destacaba que los misquitos se jactaban en particular de nunca haber sido conquistados por los españoles. El superintendente Richard Jones expresaba que los misquitos eran celosos de sus libertades y no serían expulsados por nadie. A su vez, los misquitos afirmaban y reclamaban posesión de su país por derecho en virtud de que siempre lo habían habitado y nunca habían dejado de ser un pueblo libre, no conquistado. Cuando los británicos evacuaron la Mosquitia, los misquitos no podían comprender cómo alguien podía entregar a sus enemigos el país que Dios Todopoderoso les había dado. Ellos sostenían estas opiniones porque sus propias prácticas los legitimaban y la deferencia de los europeos hacia ellos así lo confirmaba.
+Para las autoridades españolas y británicas los misquitos eran actores autónomos en asuntos relacionados con la Mosquitia, puesto que ellos mismos proyectaban este sentimiento. La mención de su independencia se convirtió en una especie de saludo, una marca de distinción y una afirmación jactanciosa sustentada por otras actividades. Durante su época en la Mosquitia en 1776, el ya aludido Olaudah Equiano, destacaba que los misquitos se jactaban en particular de nunca haber sido conquistados por los españoles. El superintendente Richard Jones expresaba que los misquitos eran celosos de sus libertades y no serían expulsados por nadie. A su vez, los misquitos afirmaban y reclamaban posesión de su país por derecho en virtud de que siempre lo habían habitado y nunca habían dejado de ser un pueblo libre, no conquistado. Cuando los británicos evacuaron la Mosquitia, los misquitos no podían comprender cómo alguien podía entregar a sus enemigos el país que Dios Todopoderoso les había dado.
 
-![Carta De Oficio fechada con el insigne año de 1787 y trece años antes de que la población fuese vilmente masacrada, dirigida desde río Tinto a Don Juan Hurtado, Escribano de Cámara del Gobierno de la Audiencia de Guatemala. Por su envío se pagó un porte de 8 reales, indicando que además de un cuerpo administrativo/judicial, también existía ahí un servicio postal formalmente conectado con el mundo exterior.](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image6.webp)
+> > "¿Cómo alguien podía entregar a sus enemigos el país que Dios Todopoderoso les había dado?"
+
+Ellos sostenían estas opiniones porque sus propias prácticas los legitimaban y la deferencia de los europeos hacia ellos así lo confirmaba.
+
+![Carta de Oficio fechada con el insigne año de 1787 y trece años antes de que la población fuese vilmente masacrada, dirigida desde río Tinto a Don Juan Hurtado, Escribano de Cámara del Gobierno de la Audiencia de Guatemala. Por su envío se pagó un porte de 8 reales, indicando que además de un cuerpo administrativo/judicial, también existía ahí un servicio postal formalmente conectado con el mundo exterior.](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image6.webp)
 
 Cuando el almirante Dilson II condujo una delegación a León se presentó con un vestido militar, ajado, con bordadura de seda, espada y bastón. Después, en 1788, el gobernador Briton junto con su tripulación llegó a Cartagena para entablar negociaciones, siendo recibido con salvas de ordenanza. Todos los líderes tawira aparecieron vestidos con elegantes uniformes y Briton sosteniendo un bastón con empuñadura de oro. Años después, en 1804, las autoridades se reunieron con el general Thomas Lowry Robinson en Caratasca, y tanto él como la mayoría de sus acompañantes vestían trajes de regimiento británico, con charreteras, espada, fajín y demás ornamentos. Más tarde, cuando el capitán inglés George Henderson fue invitado a una cena de Estado a la que asistieron varios nativos bien vestidos, expresaba: Creo verdaderamente que podrían haber desfilado ante mi mesa todos los trajes de Europa, civiles y militares, usados durante los últimos cien años. Quizá todo lo que en algún momento se consideró llamativo y ornamental en los brillantes y refinados círculos de Londres o Versalles, se tenga hoy en igual estima en la menos refinada costa de Caratasca.
 
@@ -150,39 +156,39 @@ Es notable el escudo de armas que la adorna, circundado por la leyenda: GOBIERNO
 
 A continuación la transcripción del texto y la respuesta del Gobierno. Se aclara que se ha respetado la ortografía del original:
 
-D. U. L.
-
-Señor Teniente Coronel
-
-Jn. Bta. ************
-
-Plantin River 15 de agosto 1844
-
-Ha llegado a mi casa el sor. Secretario Lamothe, lo cual este sor. me ha dado a entender sus instrucciones; y en virtud de hella digo a usted que por ahora no puedo ajustar la fuerza que me pide el sor. Presidente del Estado por varias circunstancias que le presento de por medio. 1º. La mayor parte de mis súbditos se hallan todavía concentrados en el establecimiento de Belize. 2º. La situación de alvoroto en que se hallan algunos pueblos de mi mando por causa de algunos Estranjeros que se quieren agregar en las imediaciones de la Laguna de Caratasca y que por causa de esto me hallo obligado de dejar el centro de mi familia en un estado de enfermedades para ir yo a averiguar este destorrento.
-
-Hoi hace quatro días que han llegado a mi casa diez súbditos (Tauirande Tuas Tara) de los mas ancianos a darme sentimientos también del destorrento que se ha cometido nuevamente por aquellos pueblos, se han nombrado dos particulares como gobernadores y estos dos se han retirado conveniente a un paso prudente a no querer obligar a que marchen las gentes que pertenecen a esos pueblos porque todavía no han reconocido los Tratados de Alianza que tengo con el Gobierno de este Estado, hasta ahora tengo honor de darles a estas gentes que están en mi casa a conocer dicho tratado para que estos riegan la noticia después que estos lleguen a sus casas y para que se desengañen de lo antes dicho de la noticia falza que se había regado que yo había ido al interior a vender aquellos pueblos. Esto lo hago presente a Ud. Para que se digne elevarlo al conocimiento del Señor Presidente del Estado; y que también recibí los duplicados fechados del 15 del pp.
-
-Tengo el gusto de ofrecerle mi amistad y al Señor Presidente mis atenciones quedando su atto. affmo. S. Q. V. S. M.
-
-Thomas Lowry Robinson
-
-Ad.
-
-También hago presente a Ud. que las armas que me nota la del Sor. Presidente asta que no vuelva de la Costa no mandaré por ellas.
-
-Vale
+> D. U. L.
+>
+> Señor Teniente Coronel
+>
+> Jn. Bta. ************
+>
+> Plantin River 15 de agosto 1844
+>
+> Ha llegado a mi casa el sor. Secretario Lamothe, lo cual este sor. me ha dado a entender sus instrucciones; y en virtud de hella digo a usted que por ahora no puedo ajustar la fuerza que me pide el sor. Presidente del Estado por varias circunstancias que le presento de por medio. 1º. La mayor parte de mis súbditos se hallan todavía concentrados en el establecimiento de Belize. 2º. La situación de alvoroto en que se hallan algunos pueblos de mi mando por causa de algunos Estranjeros que se quieren agregar en las imediaciones de la Laguna de Caratasca y que por causa de esto me hallo obligado de dejar el centro de mi familia en un estado de enfermedades para ir yo a averiguar este destorrento.
+>
+> Hoi hace quatro días que han llegado a mi casa diez súbditos (Tauirande Tuas Tara) de los mas ancianos a darme sentimientos también del destorrento que se ha cometido nuevamente por aquellos pueblos, se han nombrado dos particulares como gobernadores y estos dos se han retirado conveniente a un paso prudente a no querer obligar a que marchen las gentes que pertenecen a esos pueblos porque todavía no han reconocido los Tratados de Alianza que tengo con el Gobierno de este Estado, hasta ahora tengo honor de darles a estas gentes que están en mi casa a conocer dicho tratado para que estos riegan la noticia después que estos lleguen a sus casas y para que se desengañen de lo antes dicho de la noticia falza que se había regado que yo había ido al interior a vender aquellos pueblos. Esto lo hago presente a Ud. Para que se digne elevarlo al conocimiento del Señor Presidente del Estado; y que también recibí los duplicados fechados del 15 del pp.
+>
+> Tengo el gusto de ofrecerle mi amistad y al Señor Presidente mis atenciones quedando su atto. affmo. S. Q. V. S. M.
+>
+> Thomas Lowry Robinson
+>
+> Ad.
+>
+> También hago presente a Ud. que las armas que me nota la del Sor. Presidente asta que no vuelva de la Costa no mandaré por ellas.
+>
+> Vale
 
 Borrador de la respuesta enviada por el Gobierno:
 
-Gobierno S. del Estado
-
-Comayagua Set. 3 de 1844
-
-Contestará que el Presidente se ha impuesto de las noticias que tiene el General Lowry que no mandará la tropa que se deseaba por el río del Coco pero que es bastante la disposición que ha tomado según la noticia del Srio. de mandar el ****** por el mismo punto según se había dispuesto.
-
-Que así mismo cree el Presidente muy justas y prudentes las razones que manifiesta para permanecer en la Costa porque seguramente solo su presencia puede cortar las desavenencias de aquellos habitantes y frustrar las maquinaciones de los estranjeros. Y que al señor Lamothe se le ha nombrado subteniente de las milicias del Estado con el goce del sueldo correspondiente con el objeto de que le sirva de Secretario desentendiéndose de otras ocupaciones que le pudieran embarasar para ocurrir cuando de ello haya menester en los negocios que ocurran.
-
-Ferrera
+> Gobierno S. del Estado
+>
+> Comayagua Set. 3 de 1844
+>
+> Contestará que el Presidente se ha impuesto de las noticias que tiene el General Lowry que no mandará la tropa que se deseaba por el río del Coco pero que es bastante la disposición que ha tomado según la noticia del Srio. de mandar el ****** por el mismo punto según se había dispuesto.
+>
+> Que así mismo cree el Presidente muy justas y prudentes las razones que manifiesta para permanecer en la Costa porque seguramente solo su presencia puede cortar las desavenencias de aquellos habitantes y frustrar las maquinaciones de los estranjeros. Y que al señor Lamothe se le ha nombrado subteniente de las milicias del Estado con el goce del sueldo correspondiente con el objeto de que le sirva de Secretario desentendiéndose de otras ocupaciones que le pudieran embarasar para ocurrir cuando de ello haya menester en los negocios que ocurran.
+>
+> Ferrera
 
 De lo anterior podemos inferir que se había establecido un puesto militar de avanzada en el poblado de río Plátano, a manera de enfatizar la inclusión de esta región a la geografía nacional, a resultas de lo cual también se accedía al nombramiento del Sr. Lamothe como adjunto del general Robinson. Este último se encontraba en el proceso de convencer a sus súbditos sobre el Tratado que recién había firmado con el Gobierno hondureño, teniendo que sortear los obstáculos que se desprendían de la renuencia de los ingleses a reconocer la soberanía de Honduras. No sería extraño que las tropas solicitadas por el presidente Ferrera fuesen para reforzar las del río Plátano, dado que ya se encontraban en la zona.
 

@@ -60,6 +60,8 @@ La tarifa ordinaria básica exterior de 15 cts. recién había entrado en efecto
 
 Aunque no existen timbres falsificados, si se han encontrado timbres matasellados con marcas de correo fraudulentas; esto a raíz de la rareza originada por este inusual y esporádico uso, una oportunidad que no pasó desapercibida para el antiguo Director General de Correos Eusebio Toledo, a quien en 1911, se le ocurrió esta idea con miras a timar coleccionistas.
 
+> > "Al antiguo Director General de Correos se le ocurrió esta idea con miras a timar coleccionistas."
+
 El matasello usado, tal como figura seguidamente, es muy fácil de detectar, pues es el único configurado por siete barras con la obvia diferencia de que las barras continuas superiores (2) no corresponden en número con las inferiores (3), tal como sucede con todos los demás canceladores de este tipo legalmente usados.
 
 Timbres cancelados con matasello toledano falso de siete barras (2-2-3).

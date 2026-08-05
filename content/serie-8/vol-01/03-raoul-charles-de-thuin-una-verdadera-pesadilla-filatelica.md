@@ -168,6 +168,8 @@ El prestigioso coleccionista inglés y comerciante de sellos Robson Lowe, compar
 
 No tengo ninguna conciencia por haber engañado a toda esa gente tonta. Son sólo fanáticos que descuidan a sus familias por su pasión.
 
+> > "No tengo ninguna conciencia por haber engañado a toda esa gente tonta. Son sólo fanáticos que descuidan a sus familias por su pasión."
+
 También se hablaba abiertamente en los círculos filatélicos sobre la afirmación de de Thuin que, aunque sólo había tenido tres esposas, tuvo cuatrocientas amantes que le habían dado veinticinco hijos.
 
 El método usual de venta utilizado por de Thuin consistía en emplear uno de sus alias para enviar lotes de aprobación a coleccionistas, en especial de Estados Unidos, mezclando sellos comunes genuinos con ejemplares falsos, más raros. Muchos coleccionistas fueron timados de esta manera. Es de hacer notar que de Thuin se cuidaba de no comerciar abiertamente en los países donde residía, sino con el exterior, especialmente con coleccionistas de los EUA; todo esto, a manera de evitar confrontaciones directas con los compradores y/o la justicia local. En este mismo sentido, se puede apreciar que la mayoría de su correspondencia comercial la despachaba como Impreso, por dos razones: 1. Un ahorro en el porte y, 2. Evitar plasmar su firma en un papel que a futuro pudiera ser usado como prueba documental.
@@ -176,25 +178,25 @@ El pináculo de su carrea se dio entre 1958 y 1964, pues ya para 1965 los efecto
 
 La agonía de su pernicioso emprendimiento se desprende de la correspondencia circulada en esta última etapa, entre la cual figura la siguiente carta de 1973 relacionada con la oferta de ejemplares falsos hondureños a un coleccionista. (Debido a que no era su lengua natal, la gramática de su inglés es bastante defectuosa, por lo que al traducirla nos hemos apegado lo más posible a la redacción original):
 
-Raoul de Thuin Nov. 23th-73
-
-Sucursal de Correos URDESA Guayaquil
-
-Guayaquil – Ecuador
-
-Recién estoy recibiendo su amable carta del 13 de noviembre. Hace una semana (16 de noviembre) les envié, por aire y registrado, una linda aprobación de Salvador, espero que les interese. En la carta que acaba de recibir, usted habla de un amigo que colecciona Honduras y envía una lista de deseos, en su mayoría de sellos baratos, y no puedo suministrar sellos de bajo precio en la lista. Al celebrar un tratado con A.P.S. permanece en alrededor de 20 colecciones (en parte genuinas y en parte falsificadas) no pudimos ponernos de acuerdo sobre el precio y ellos me autorizaron a venderlas en cualquier parte, lo que por motivos de salud no me fue posible hacer antes, y ahora quiero liquidar rápido y retirarme por completo cultivando mis plantas floridas que es mi pasatiempo.
-
-En Honduras existen tantas reimpresiones que estoy juntando estas y enviando dos grupos para escoger: uno de genuinas y otro de reimpresiones y falsificaciones. Para envíos realizados.
-
-Hasta ahora no estoy interesado en compras pequeñas y solo vendo $20 o más a la vez.
-
-Respecto a la primera emisión, tengo falsificaciones (igual que las genuinas) que ofrezco a $5 cada una, o $10 en sobre (Scott 3 a 10a) y unidades 11 a 29 a $1 cada una.
-
-En cuanto a sellos aéreos raros, tengo algunos genuinos y casi todas en reproducciones maravillosas. No conozco a su amigo, supongo que es un caballero como usted. No necesito referencias, estoy seguro de que usted es un caballero correcto y agradable.
-
-Con los mejores saludos, de usted sinceramente,
-
-Raoul de Thuin
+> Raoul de Thuin Nov. 23th-73
+>
+> Sucursal de Correos URDESA Guayaquil
+>
+> Guayaquil – Ecuador
+>
+> Recién estoy recibiendo su amable carta del 13 de noviembre. Hace una semana (16 de noviembre) les envié, por aire y registrado, una linda aprobación de Salvador, espero que les interese. En la carta que acaba de recibir, usted habla de un amigo que colecciona Honduras y envía una lista de deseos, en su mayoría de sellos baratos, y no puedo suministrar sellos de bajo precio en la lista. Al celebrar un tratado con A.P.S. permanece en alrededor de 20 colecciones (en parte genuinas y en parte falsificadas) no pudimos ponernos de acuerdo sobre el precio y ellos me autorizaron a venderlas en cualquier parte, lo que por motivos de salud no me fue posible hacer antes, y ahora quiero liquidar rápido y retirarme por completo cultivando mis plantas floridas que es mi pasatiempo.
+>
+> En Honduras existen tantas reimpresiones que estoy juntando estas y enviando dos grupos para escoger: uno de genuinas y otro de reimpresiones y falsificaciones. Para envíos realizados.
+>
+> Hasta ahora no estoy interesado en compras pequeñas y solo vendo $20 o más a la vez.
+>
+> Respecto a la primera emisión, tengo falsificaciones (igual que las genuinas) que ofrezco a $5 cada una, o $10 en sobre (Scott 3 a 10a) y unidades 11 a 29 a $1 cada una.
+>
+> En cuanto a sellos aéreos raros, tengo algunos genuinos y casi todas en reproducciones maravillosas. No conozco a su amigo, supongo que es un caballero como usted. No necesito referencias, estoy seguro de que usted es un caballero correcto y agradable.
+>
+> Con los mejores saludos, de usted sinceramente,
+>
+> Raoul de Thuin
 
 A la edad de 84 años, y con una salud bastante quebrantada, de Thuin comunicó a muchos comerciantes de sellos su retirada del “negocio de la filatelia”, situación que plasmó en una de sus últimas misivas en que manifiesta el ocaso de su carrera y el precario estado de su salud. Aquí el texto fiel de la misma, marcando con asteriscos las partes ininteligibles:
 

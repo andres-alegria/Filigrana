@@ -36,7 +36,9 @@ Las precipitaciones medias son alrededor de 50 pulgadas por año, pero es bastan
 
 Las islas adquirieron su nombre después de que el capitán Swan, a cargo de la embarcación Cygnet, fuese enviado al Caribe por comerciantes londinenses a vender un cargamento de mercadería. Según parece, en 1680 su barco fue atacado por piratas viéndose obligado a unirse a ellos. Se cree que el capitán Swan posteriormente se convirtió en uno de los bucaneros predominantes en la zona.
 
-En 1863 el área fue certificada como islas pertenecientes a los Estados Unidos de América bajo la Ley de las Islas Guaneras (Guano Island Act del 18 de agosto de 1856, Código de los USA, Título 48, Capítulo 8, secciones 1411-19), que en su parte medular establecía que: “Cuando cualquier ciudadano de los Estados Unidos descubra un depósito de guano sobre cualquier isla, roca, o cayo, no dentro de la jurisdicción legal de cualquier otro gobierno, y no ocupada por ciudadanos de cualquier otro gobierno, y tome posesión pacifica-mente, y ocupe, ya sea, isla, roca o cayo, puede, según la discreción del Presidente, ser considerado perteneciente a los Estados Unidos.”
+En 1863 el área fue certificada como islas pertenecientes a los Estados Unidos de América bajo la Ley de las Islas Guaneras (Guano Island Act del 18 de agosto de 1856, Código de los USA, Título 48, Capítulo 8, secciones 1411-19), que en su parte medular establecía que:
+
+> "Cuando cualquier ciudadano de los Estados Unidos descubra un depósito de guano sobre cualquier isla, roca, o cayo, no dentro de la jurisdicción legal de cualquier otro gobierno, y no ocupada por ciudadanos de cualquier otro gobierno, y tome posesión pacíficamente, y ocupe, ya sea, isla, roca o cayo, puede, según la discreción del Presidente, ser considerado perteneciente a los Estados Unidos."
 
 En base al predicho, por muchos años se ejecutaron allí operaciones de recolección de guano. Intereses posteriores de los Estados Unidos involucraron plantaciones de palma de coco y ayudas a la navegación y a las comunicaciones marítimas, resultando en una ocupación continua.
 
@@ -68,11 +70,15 @@ Poco después de esto, el gobierno del presidente John F. Kennedy comenzó las n
 
 Sobre enviado vía aérea en el “Northeast Special Airline Jet” desde Islas del Cisne el 16 de marzo de 1961, dirigido a la exposición fila-télica INTERPEX, organizada ese año en la ciudad de Nueva York, con viñeta y sello publicitario de Radio Swan, Indias Occidentales.
 
-La alegación de Honduras para la recuperación de las Islas del Cisne echó mano, entre otros datos, del relato que el hijo de Cristóbal Colón, Hernando Colón, hiciese en la página 272 de su obra “Vida del Almirante don Cristóbal Colón” donde apunta: “De aquí (puerto del Brasil que los indios llamaban Yaquimo) partió después a 14 de julio, con tanta bonanza que no pudiendo seguir el camino que quería, lo echaron las muchas corrientes a ciertas islas muy pequeñas y arenosas que están cerca de Jamaica, a las cuales llamó Las Pozas, porque no hallando agua en ellas, se hicieron muchas pozas en la arena, de las que nos abastecimos para el servicio de los navíos. Luego navegando hacia tierra firme por la ruta del Mediodía, llegamos a ciertas islas donde no tocamos tierra sino en la mayor, que se llamaba Guanaja.”.
+La alegación de Honduras para la recuperación de las Islas del Cisne echó mano, entre otros datos, del relato que el hijo de Cristóbal Colón, Hernando Colón, hiciese en la página 272 de su obra “Vida del Almirante don Cristóbal Colón” donde apunta:
+
+> "De aquí (puerto del Brasil que los indios llamaban Yaquimo) partió después a 14 de julio, con tanta bonanza que no pudiendo seguir el camino que quería, lo echaron las muchas corrientes a ciertas islas muy pequeñas y arenosas que están cerca de Jamaica, a las cuales llamó Las Pozas, porque no hallando agua en ellas, se hicieron muchas pozas en la arena, de las que nos abastecimos para el servicio de los navíos. Luego navegando hacia tierra firme por la ruta del Mediodía, llegamos a ciertas islas donde no tocamos tierra sino en la mayor, que se llamaba Guanaja."
 
 El 3 de diciembre de 1971, durante el proceso de la devolución insular una misión del gobierno hondureño visitó vía aérea la isla Cisne Grande, entre los cuales figuraba el coronel José de la Cruz Hernández a la sazón Jefe del Estado Mayor de las FF.AA. y quien tuvo a bien plasmar por escrito sus impresiones:
 
-“El viaje vía aérea Tegucigalpa-Isla Grande en avión tipo C-47 dura aproximadamente hora y media, dependiendo del estado del tiempo. La pista de aterrizaje tiene una extensión aproximada de 4,048 pies y esta en buen estado. Existe en ella una estación de control de vuelos. Las instalaciones son en base de cemento, estructura de madera y lámina. Algunas están abandonadas. Existe un pequeño muelle para naves de superficie de cerca de cien pies. La bahía es mediana. Cuentan con energía eléctrica (2 motores) y el agua potable se obtiene de la lluvia, almacenada en cisterna. Cuenta con una población de cerca de 35 personas entre guanajeños, norteamericanos y oriundos de la isla Gran Caimán. La Estación forma parte de una red para control de huracanes y cada tres horas envía datos metereológicos a la Central de Miami, USA. La operan un técnico norteamericano, cuatro observadores meteorológicos y seis hondureños. Las islas son de configuración plana, con vegetación (baja) tropical y, entre ellas, tienen una separación como de unos cien metros. La fauna la componen bovinos, iguanas y gaviotas. No hay garrapatas.”
+> "El viaje vía aérea Tegucigalpa-Isla Grande en avión tipo C-47 dura aproximadamente hora y media, dependiendo del estado del tiempo. La pista de aterrizaje tiene una extensión aproximada de 4,048 pies y esta en buen estado. Existe en ella una estación de control de vuelos. Las instalaciones son en base de cemento, estructura de madera y lámina. Algunas están abandonadas. Existe un pequeño muelle para naves de superficie de cerca de cien pies. La bahía es mediana. Cuentan con energía eléctrica (2 motores) y el agua potable se obtiene de la lluvia, almacenada en cisterna. Cuenta con una población de cerca de 35 personas entre guanajeños, norteamericanos y oriundos de la isla Gran Caimán. La Estación forma parte de una red para control de huracanes y cada tres horas envía datos metereológicos a la Central de Miami, USA. La operan un técnico norteamericano, cuatro observadores meteorológicos y seis hondureños. Las islas son de configuración plana, con vegetación (baja) tropical y, entre ellas, tienen una separación como de unos cien metros. La fauna la componen bovinos, iguanas y gaviotas. No hay garrapatas."
+
+> > "No hay garrapatas."
 
 Mapa mostrando la ubicación de Radio Américas en Islas del Cisne.
 
@@ -115,48 +121,6 @@ Una estación que se identificó como Radio Swan brevemente reanudó emisiones e
 En 1980, la CIA y otras agencias gubernamentales encubiertas, con la anuencia del gobierno hondureño, usaron las Islas del Cisne como base secreta para el entrenamiento militar de contras nicaragüenses.
 
 En la actualidad, el gobierno hondureño mantiene en Cisne Grande un pequeño contingente de su Fuerza Naval.
-
-SABÍA USTED QUE…
-
-La colección más grande de sobres de primer día, hasta el 6 de abril de 2013, es de 7,215 unidades, llevada a cabo por George Vavvas, de Ionnina, Grecia. Vavvas inició su colección en el 2005. Sus sobres proceden de 119 países y actualmente ha batido el récord mundial de
-
-Guinness.
-
-HUMBERTO PRATS
-
-FILATELISTA
-
-627 zona La Alhambra, Tegucigalpa, Honduras, C. A.
-
-E-mail: humberto.prats@gmail.com
-
-COMPRO y VENDO HONDURAS
-
-COLECCIONES
-
-ACUMULACIONES
-
-TARJETAS POSTALES
-
-AEROGRAMAS
-
-HISTORIA POSTAL
-
-ESTAMPILLAS
-
-SOBRES DE PRIMER DÍA
-
-TIMBRES
-
-TELEGRAMAS
-
-ENTEROS POSTALES
-
-Vendo paquetería de Honduras de 25 a 1,000 estampillas, todas genuinas, usadas.
-
-Intercambio estampillas.
-
-Atiendo mancolistas.
 
 ---
 

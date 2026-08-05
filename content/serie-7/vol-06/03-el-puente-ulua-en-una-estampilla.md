@@ -26,15 +26,17 @@ Tras desafiar por 105 años las furiosas correntadas provocadas por múltiples h
 
 Momento en que la ferrovía era arrastrada por la desmesurada corriente.
 
-El colapso del puente y la atención pública hacia su estampilla fue todo en uno. Los medios escritos y televisados daban cada cual rienda suelta a las más disparatadas versiones sobre su historia, confundidos en el hecho de que las estampillas base de 1915 (Scott 174, 175, 178 y 179), con la misma viñeta del puente, fueron las utilizadas para la famosassobrecargas en 1925 del primer correo aéreo del país, entre ellas la destacada “Honduras Negra” (Scott C12).
+El colapso del puente y la atención pública hacia su estampilla fue todo en uno. Los medios escritos y televisados daban cada cual rienda suelta a las más disparatadas versiones sobre su historia, confundidos en el hecho de que las estampillas base de 1915 (Scott 174, 175, 178 y 179), con la misma viñeta del puente, fueron las utilizadas para las famosas sobrecargas en 1925 del primer correo aéreo del país, entre ellas la destacada “Honduras Negra” (Scott C12).
 
-Al resurgir la novedad del puente, me interesé por examinar con detenimiento la viñeta de la estampilla que nos ocupa, descubriendo que la cantidad de torres mostradas en élla no correspondía a las del puente real, pues el puente real constaba de 13 torres mientras que el de la estampilla sólo mostraba 6.
+Al resurgir la novedad del puente, me interesé por examinar con detenimiento la viñeta de la estampilla que nos ocupa, descubriendo que la cantidad de torres mostradas en ella no correspondía a las del puente real, pues el puente real constaba de 13 torres mientras que el de la estampilla sólo mostraba 6.
 
 1 2 3 4 5 6 7 8 9 10 11 12 13
 
 1 2 3 4 5 6
 
 ¿Qué sucedió? La conclusión es que por ser el tamaño de la estampilla menor al resto de las emisiones corrientes, el poco espacio disponible para la viñeta le planteó un problema al diseñador, quien al final optó por eliminar unas cuantas torres y asunto resuelto; al fin y al cabo quién lo iba a notar. Le sobraba razón, pues tendría que pasar más de un Siglo para que un catastrófico huracán viniera a poner al descubierto su atrevida decisión.
+
+> > "Tendría que pasar más de un siglo para que un catastrófico huracán viniera a poner al descubierto su atrevida decisión."
 
 ¿Entonces? Lo cierto es que hasta ahora caímos en la cuenta que el Puente de
 

@@ -120,6 +120,8 @@ El 20 de octubre de 1856 salió a luz el semanario filibustero impreso en inglé
 
 Mientras tanto, Henningsen libraba en Granada una lucha titánica. Al abandonar la ciudad, Walker pensó que dejarla intacta sería regalar a los aliados una poderosa fortaleza y perder todo el prestigio ganado al apoderarse de la capital legitimista. En consecuencia, resolvió arrasarla, confiando esa misión a Henningsen. Después de enviar a los enfermos y heridos a la isla de Ometepe dejó atrás unos trescientos hombres para cumplir la orden. Walker se marchó con el resto de sus fuerzas a La Virgen, en donde esperaba que Henningsen se le uniera pronto con los pertrechos. La orden fue cumplida entre el 23 de noviembre y el 13 de diciembre. Concluida su labor nerónica, antes de partir, Henningsen clavó entre las ruinas humeantes una lanza con un pedazo de cuero en la punta que decía: "Aquí fue Granada".
 
+> > "Aquí fue Granada."
+
 Los costarricenses recientemente habían artillado un bergantín rebautizándolo con el nombre de Once de Abril en honor a su victoria en la segunda batalla de Rivas, capitaneado por el marino peruano Antonio Valle Riestra (casado con una sobrina del presidente Mora). En él pensaban llevar tropas y pertrechos de Punta Arenas a San Juan del Sur y también interceptar los movimientos de la goleta filibustera Granada, al mando del veterano de la armada texana teniente Callender Irving Fayssoux. Tenía el Once de Abril cuatro cañones y una dotación de 114 hombres. El Granada llevaba dos cañones y veintiocho hombres de dotación. El 23 de noviembre de 1856 se encontraba el Granada en la bahía de San Juan del Sur cuando a eso de las cuatro de la tarde se divisó una vela en alta mar; Fayssoux levó anclas para salirle al encuentro. Cuando se encontraba a una distancia de 400 metros del Granada, el Once de Abril abrió fuego, pero el Granada, más ligero y versátil, lograba resistirlo presentando al combate únicamente la proa o la popa. Luego de seis horas de combate, cerca de la medianoche, un impacto causó el incendio de la santabárbara del Once de Abril, haciendo explotar al navío, hundiéndolo y matando gran cantidad de hombres. Setenta y nueve costarricenses murieron en el combate o se ahogaron, mientras que los filibusteros perdieron sólo dieciocho. Los sobrevivientes del Once de Abril, muchos con severas quemaduras, fueron rescatados por los botes del Granada. El capitán Valle-Riestra, que había resultado gravemente herido, fue atendido por los médicos filibusteros con gran esmero, permaneciendo prisionero hasta que se negoció su liberación y regreso a Costa Rica en 1857.
 
 Hundimiento del 11 de Abril.
@@ -248,7 +250,7 @@ Todos los hombres de Walker, salvo Rudler, quedaron bajo custodia de los inglese
 
 Telegrama de John Henley para Fayssoux el 19 de septiembre de 1860 notificando la ejecución de William Walker:
 
-“El barco Cahamba procedente de La Habana reporta que el grl. Walker y su segundo al mando fueron ejecutados el 11 de este mes por las autoridades hondure-ñas. Yo no creo que la autoridad sea buena”.
+> "El barco Cahamba procedente de La Habana reporta que el grl. Walker y su segundo al mando fueron ejecutados el 11 de este mes por las autoridades hondureñas. Yo no creo que la autoridad sea buena."
 
 Bibliografía:
 

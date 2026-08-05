@@ -22,9 +22,9 @@ review: []
 # El músico que sí merecía un sello postal
 Carlos Humberto Daniel Cano Romero fue un virtuoso violinista y compositor, nacido en Tegucigalpa el 12 de febrero de 1906, siendo sus padres Hipólito Cano y María del Carmen Romero Johanin. Fueron sus padrinos de bautismo el expresidente Policarpo Bonilla y su esposa.
 
-En la iglesia parroquial de san Miguel de Tegucigalpa el día dos de mayo de mil novecientos seis, yo el cura encargado de esta Parroquia, bauticé solemnemente a un niño que nació el doce de febrero del presente año, poniéndole el nombre de Carlos Humberto Daniel, es hijo legítimo de Hipólito Cano y María del Carmen Romero. Fueron padrinos Policarpo Bonilla y Emma Bonilla. Santiago Zelaya.
+> En la iglesia parroquial de san Miguel de Tegucigalpa el día dos de mayo de mil novecientos seis, yo el cura encargado de esta Parroquia, bauticé solemnemente a un niño que nació el doce de febrero del presente año, poniéndole el nombre de Carlos Humberto Daniel, es hijo legítimo de Hipólito Cano y María del Carmen Romero. Fueron padrinos Policarpo Bonilla y Emma Bonilla. Santiago Zelaya.
 
-Carlos Humberto Daniel Cano. En Tegucigalpa, a las tres de la tarde del jueves veintidós de febrero de mil novecientos seis, ante mi Simón Padilla M., Secretario Municipal y ante los testigos… compareció Hipólito Cano, hondureño, de veintisiete años de edad, casado, litógrafo…que el lunes 12 del mes en curso…nació un varón….
+> Carlos Humberto Daniel Cano. En Tegucigalpa, a las tres de la tarde del jueves veintidós de febrero de mil novecientos seis, ante mi Simón Padilla M., Secretario Municipal y ante los testigos… compareció Hipólito Cano, hondureño, de veintisiete años de edad, casado, litógrafo…que el lunes 12 del mes en curso…nació un varón….
 
 Siendo un adolescente su padre (el aprendiz de litógrafo que sustituyó a don Italo Ghizzoni) lo envió a Italia a estudiar música porque los maestros de violín en Centroamérica ya no tenían más que enseñarle.
 
@@ -53,6 +53,8 @@ Con motivo de la guerra de Etiopia y cuando Honduras se adhirió a las sanciones
 De Francia pasó a Alemania a ejecutar su violín como el “Concertino“ de la más distinguida orquesta del orbe, La Filarmónica de Berlín. En un concierto en Hamburgo, durante uno de sus solos interpretando a Wagner, acomodado en el lucido palco presidencial, el Fuhrer Adolfo Hitler preguntó a su secretario ¿Quién es el primer violín? de Honduras ¿Dónde queda Honduras? Al finalizar el concierto, Cano fue presentado al premier, quien brindó por su futuro, lamentando que Honduras, siendo aliado de los Estados Unidos e Inglaterra no compartiera su visión del mundo.
 
 Producto de lo anterior, el diario Hamburger Tageblatt consignó en su edición del 13 de octubre de 1936, lo siguiente: Como ejecutante y compositor a la vez Humberto Cano va del brazo de Pablo de Sarasate y el Maestro Granados.
+
+> > "Como ejecutante y compositor a la vez, Humberto Cano va del brazo de Pablo de Sarasate y el Maestro Granados." — Hamburger Tageblatt, 1936
 
 La opinión del resto de la prensa hamburguesa en esa ocasión fue más o menos unánime y el Cónsul de Honduras en Hamburgo, Dr. Magín Herrera, envió a Honduras los recortes de opiniones que fueron traducidas y publicadas en la prensa de Centroamérica. Después de una ejecución en conjunto con otros artistas de Berlín, la prensa local declaró casi únicamente que el punto culminante del concierto había sido la ejecución del violinista hondureño Humberto Cano.
 

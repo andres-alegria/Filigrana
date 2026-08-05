@@ -72,6 +72,8 @@ Según el estudio la vía interoceánica iniciaría en Puerto Caballos (actual P
 
 John Cresson Trautwine (1810-1883), ingeniero consultor de varios proyectos ferrocarrileros, formó parte del equipo de Squier en 1857, y se le recuerda por su más memorable declaración expresada en 1852: “Un canal a través de Panamá sería imposible”.
 
+> > "Un canal a través de Panamá sería imposible." — John C. Trautwine, ingeniero, 1852
+
 Ruta del ferrocarril propuesta por Squire en 1854.
 
 Sucesos políticos como el golpe de estado perpetrado por el general Juan F. López Aguirre contra el presidente José Trinidad Cabañas, la guerra de Italia, la Guerra Civil de USA y la invasión de Francia a México causaron terrible mella en los ánimos de los inversionistas, haciendo que las acciones cayeran estrepitosamente.
@@ -118,19 +120,21 @@ No. 6
 
 Las Piedras, Honduras, Octubre 8, 1857
 
-Querida hermana.
+> Querida hermana.
+>
+> Tu carta de septiembre 3 la acabo de recibir hoy y me place mucho haberla recibido. Te escribí una carta desde Yojoa hace como tres semanas y ahora que estoy lejos en el interior y haber visto considerablemente mucho del país te escribiré unas pocas líneas a la luz de una miserable candela metida en un hueco hecho en un molde de pan rancio a manera de candelero. Pero ya que un correo saldrá para Omoa mañana temprano, pensé que lo mejor sería escribirte. Estoy todavía bien, y lo he estado desde la última vez que te escribí; desde entonces he cabalgado una vieja mula gris 4 días seguidos a través de las montañas más escabrosas y agrestes que te puedas imaginar. Me pregunto cómo pude llegar ileso hasta acá; pero lo hice y lo hice en un tiempo razonable en la mayor parte de este trecho. Me tocó una montura nativa hecha de cuero crudo al estilo más primitivo con mi poncho y hamaca amarrados atrás. El camino de herradura baja a los no muy largos pero profundos valles, continuando por las montañas de manera zigzagueante hasta descender por la orilla de profundos abismos. En muchas partes el sendero no es lo suficiente ancho como para que pasen dos mulas, teniendo a un lado el paredón de la cuesta y al otro un abrupto precipicio. Tu habrás visto la imagen en la clase de geografía de la escuela, de "viajeros cruzando los Andes", pues no es ninguna exageración decirte que he pasado por lo mismo por todo el lugar y he llegado a la conclusión que a donde una mula no puede llegar no hay manera de continuar.
+>
+> Bien, después de muchas aventuras en el camino al fin he llegado a Comayagua, la sede del Gobierno de Honduras. Esta es una antigua ciudad española construida por los "antiguos" en el extremo Norte de la gran planicie de Comayagua. La ciudad tiene una espléndida catedral cuyo estilo arquitectónico es definitivamente español, algo tan distintivo que no se da en ningún otro lugar del mundo. Los aspectos físicos interiores son grandiosos y magníficos. Asistí a una ceremonia allí un domingo por la mañana y quedé bastante impresionado por la música, etc. Tienen suficientes violines, guitarras y música coral; además hay un órgano viejo que fue traído de España y que ahora se encuentra en una manera de lo más calamitosa, se le han caído todos los tubos y allí permanecen justo tal como cayeron.
+>
+> Es la costumbre universal en este país, nunca preocuparse por nada pero si buscar la manera de como zafarse por otro lado dejando que todo permanezca igual sin que les cause molestia. Las casas, la mayoría de ellas bastante grandes, son todas de una planta, con techo de teja, la mayoría pintadas en blanco, lo que causa un colorido aspecto. La ciudad llegó a tener 34,400 habitantes aunque ahora ronda en los 20,000. Mucho de la ciudad está en ruinas así como algunas de las otras iglesias. Un espléndido acueducto y una fuente en medio de la Gran Plaza se encuentran ahora en ruinas. Un proyecto ha sido estudiado para rehabilitar el acueducto y la fuente, pero no se ha logrado nada, y tendré que diferir los resultados para más tarde.
+>
+> De veras me duele mucho que le hayas facilitado mis cartas a Sten. Ahora estoy preparando una larga carta, y así lo he estado haciendo por algún tiempo, con la intención de publicarla. Tú no debes permitirlo pues esto deberá ser conocido hasta que yo las publique. Consigue que te envíen una copia de los periódicos. Trataré de conseguirte una copia del libro de Squier.
+>
+> Atentamente,
+>
+> John Godown
 
-Tu carta de septiembre 3 la acabo de recibir hoy y me place mucho haberla recibido. Te escribí una carta desde Yojoa hace como tres semanas y ahora que estoy lejos en el interior y haber visto considerablemente mucho del país te escribiré unas pocas líneas a la luz de una miserable candela metida en un hueco hecho en un molde de pan rancio a manera de candelero. Pero ya que un correo saldrá para Omoa mañana temprano, pensé que lo mejor sería escribirte. Estoy todavía bien, y lo he estado desde la última vez que te escribí; desde entonces he cabalgado una vieja mula gris 4 días seguidos a través de las montañas más escabrosas y agrestes que te puedas imaginar. Me pregunto cómo pude llegar ileso hasta acá; pero lo hice y lo hice en un tiempo razonable en la mayor parte de este trecho. Me tocó una montura nativa hecha de cuero crudo al estilo más primitivo con mi poncho y hamaca amarrados atrás. El camino de herradura baja a los no muy largos pero profundos valles, continuando por las montañas de manera zigzagueante hasta descender por la orilla de profundos abismos. En muchas partes el sendero no es lo suficiente ancho como para que pasen dos mulas, teniendo a un lado el paredón de la cuesta y al otro un abrupto precipicio. Tu habrás visto la imagen en la clase de geografía de la escuela, de “viajeros cruzando los Andes”, pues no es ninguna exageración decirte que he pasado por lo mismo por todo el lugar y he llegado a la conclusión que a donde una mula no puede llegar no hay manera de continuar.
-
-Bien, después de muchas aventuras en el camino al fin he llegado a Comayagua, la sede del Gobierno de Honduras. Esta es una antigua ciudad española construida por los “antiguos” en el extremo Norte de la gran planicie de Comayagua. La ciudad tiene una espléndida catedral cuyo estilo arquitectónico es definitivamente español, algo tan distintivo que no se da en ningún otro lugar del mundo. Los aspectos físicos interiores son grandiosos y magníficos. Asistí a una ceremonia allí un domingo por la mañana y quedé bastante impre-sionado por la música, etc. Tienen suficientes violines, guitarras y música coral; además hay un órgano viejo que fue traído de España y que ahora se encuentra en una manera de lo más calamitosa, se le han caído todos los tubos y allí permanecen justo tal como cayeron.
-
-Es la costumbre universal en este país, nunca preocuparse por nada pero si buscar la manera de como zafarse por otro lado dejando que todo permanezca igual sin que les cause molestia. Las casas, la mayoría de ellas bastante grandes, son todas de una planta, con techo de teja, la mayoría pintadas en blanco, lo que causa un colorido aspecto. La ciudad llegó a tener 34,400 habitantes aunque ahora ronda en los 20,000. Mucho de la ciudad está en ruinas así como algunas de las otras iglesias. Un espléndido acueducto y una fuente en medio de la Gran Plaza se encuentran ahora en ruinas. Un proyecto ha sido estudiado para rehabilitar el acueducto y la fuente, pero no se ha logrado nada, y tendré que diferir los resultados para más tarde.
-
-De veras me duele mucho que le hayas facilitado mis cartas a Sten. Ahora estoy preparando una larga carta, y así lo he estado haciendo por algún tiempo, con la intención de publicarla. Tú no debes permitirlo pues esto deberá ser conocido hasta que yo las publique. Consigue que te envíen una copia de los periódicos. Trataré de conseguirte una copia del libro de Squier.
-
-Atentamente,
-
-John Godown
+> > "He llegado a la conclusión que a donde una mula no puede llegar no hay manera de continuar."
 
 Carta No. 3:
 
@@ -138,23 +142,23 @@ Marcada como la No. 8. Remitida desde Campo Naranja el 26 de noviembre de 1857. 
 
 Campo Naranja, Honduras, Jueves Nov. 26th/57
 
-Querida hermana.
-
-Son ahora las 10:00 p. m. y estaba a punto de meterme a dormir en mi hamaca cuando llegó un correo a nuestro campamento con la correspondencia de los Estados trayendo consigo tu carta del 2 de octubre. El correo parte mañana a primera hora por lo que debo contestarte esta noche o perdería esta oportunidad del Vapor Pacífico. Estoy sorprendido al escucharte decir haber recibido sólo una de mis cartas desde que partí de casa ya que he escrito varias. La primera te la escribí antes de desembarcar en Omoa, y te la despaché vía el vapor New Orleans. Nuevamente te escribí unos días después desde Omoa; de nuevo desde Puerto Caballos; una desde Choloma, aunque no recuerdo, pero escribí dos desde este lugar (Choloma); de nuevo desde Potrerillos; de nuevo desde Yojoa; una desde Las Piedras; una desde Rancho Chiquito; una desde Campo Volcán; y ahora estoy escribiendo otra desde Campo Naranja; por todo diez cartas ¡y tu me escribes que tan sólo una has recibido! Estoy sorprendido, por ahora no recuerdo las fechas pues he extraviado mi diario en el cual las tenía apuntadas. Me temo que dos de esas cartas estaban a bordo del George Law y se perdieron cuando naufragó. A propósito, nosotros todavía no hemos sabido sobre los detalles de ese accidente pues nuestros periódicos todavía no han llegado al interior ya que sólo nos enviaron nuestras cartas dejando los periódicos en la costa. Yo te envío esta por medio del Vapor Pacífico por Panamá y a través del istmo hasta Nueva York y deberías recibirla en un mes a partir de hoy si todo sale bien.
-
-Por este correo recibí también una carta del teniente Harmmany, ahora destacado en Panamá, quien también me remitió una copia de la revista Harper´s y un atado de periódicos de Nueva York, pero no he tenido tiempo ni siquiera de abrirlos y debo contestar tu carta antes de dormirme.
-
-Tus noticias del Gran Pánico en la bolsa de valores fue también noticia en las cartas a los otros muchachos en esta división. Los padres de dos de ellos han sido afectados y realmente se sienten mal y yo no puedo más que consolarlos en su tristeza mientras derraman lágrimas. Llueve un poco ahora, como si la estación llu-viosa se estuviese despidiendo; realmente estamos de mal humor.
-
-Uno de nuestro equipo, un Agente del Orden, un inglés, quien ha sufrido mucho a consecuencia del clima, se encontraba camino a casa y por tomar una sobredosis de Láudano murió hace unas semanas en Panamá. Su nombre era George N. Gliddon*, conocido como el hombre momia.
-
-Durante toda mi estadía y por el momento me encuentro bien y animado. Estamos tratando de avanzar hacia el Pacífico tanto como nos es posible y pienso que llegaremos allí en dos o tres meses como máximo y luego iniciaremos nuestro viaje a casa tratando de hacerlo en un mes más. No sé cómo ni por cuál ruta lo haremos. Esto todavía no ha sido decidido. Podríamos hacerlo a través del Istmo o tomar un barco en Omoa; por mi parte prefiero hacerlo por Panamá pero esto le costaría a la Compañía más, por lo que temo no nos enviarán por esta ruta.
-
-He escuchado que quebró el banco Balviders y que John J. Blair se tambalea, no son pérdidas de importancia. Dame un poco más de detalles en tu próxima.
-
-Mi amor a papá y mamá, espero pronto verlos a ambos y a ti.
-
-Atentamente tu hermano John
+> Querida hermana.
+>
+> Son ahora las 10:00 p. m. y estaba a punto de meterme a dormir en mi hamaca cuando llegó un correo a nuestro campamento con la correspondencia de los Estados trayendo consigo tu carta del 2 de octubre. El correo parte mañana a primera hora por lo que debo contestarte esta noche o perdería esta oportunidad del Vapor Pacífico. Estoy sorprendido al escucharte decir haber recibido sólo una de mis cartas desde que partí de casa ya que he escrito varias. La primera te la escribí antes de desembarcar en Omoa, y te la despaché vía el vapor New Orleans. Nuevamente te escribí unos días después desde Omoa; de nuevo desde Puerto Caballos; una desde Choloma, aunque no recuerdo, pero escribí dos desde este lugar (Choloma); de nuevo desde Potrerillos; de nuevo desde Yojoa; una desde Las Piedras; una desde Rancho Chiquito; una desde Campo Volcán; y ahora estoy escribiendo otra desde Campo Naranja; por todo diez cartas ¡y tu me escribes que tan sólo una has recibido! Estoy sorprendido, por ahora no recuerdo las fechas pues he extraviado mi diario en el cual las tenía apuntadas. Me temo que dos de esas cartas estaban a bordo del George Law y se perdieron cuando naufragó. A propósito, nosotros todavía no hemos sabido sobre los detalles de ese accidente pues nuestros periódicos todavía no han llegado al interior ya que sólo nos enviaron nuestras cartas dejando los periódicos en la costa. Yo te envío esta por medio del Vapor Pacífico por Panamá y a través del istmo hasta Nueva York y deberías recibirla en un mes a partir de hoy si todo sale bien.
+>
+> Por este correo recibí también una carta del teniente Harmmany, ahora destacado en Panamá, quien también me remitió una copia de la revista Harper´s y un atado de periódicos de Nueva York, pero no he tenido tiempo ni siquiera de abrirlos y debo contestar tu carta antes de dormirme.
+>
+> Tus noticias del Gran Pánico en la bolsa de valores fue también noticia en las cartas a los otros muchachos en esta división. Los padres de dos de ellos han sido afectados y realmente se sienten mal y yo no puedo más que consolarlos en su tristeza mientras derraman lágrimas. Llueve un poco ahora, como si la estación lluviosa se estuviese despidiendo; realmente estamos de mal humor.
+>
+> Uno de nuestro equipo, un Agente del Orden, un inglés, quien ha sufrido mucho a consecuencia del clima, se encontraba camino a casa y por tomar una sobredosis de Láudano murió hace unas semanas en Panamá. Su nombre era George N. Gliddon*, conocido como el hombre momia.
+>
+> Durante toda mi estadía y por el momento me encuentro bien y animado. Estamos tratando de avanzar hacia el Pacífico tanto como nos es posible y pienso que llegaremos allí en dos o tres meses como máximo y luego iniciaremos nuestro viaje a casa tratando de hacerlo en un mes más. No sé cómo ni por cuál ruta lo haremos. Esto todavía no ha sido decidido. Podríamos hacerlo a través del Istmo o tomar un barco en Omoa; por mi parte prefiero hacerlo por Panamá pero esto le costaría a la Compañía más, por lo que temo no nos enviarán por esta ruta.
+>
+> He escuchado que quebró el banco Balviders y que John J. Blair se tambalea, no son pérdidas de importancia. Dame un poco más de detalles en tu próxima.
+>
+> Mi amor a papá y mamá, espero pronto verlos a ambos y a ti.
+>
+> Atentamente tu hermano John
 
 La Catedral de Comayagua tal como la encontró J. Godown
 
@@ -172,17 +176,17 @@ Aguanqueterique, Hond.
 
 Domingo, Enero 17, 1858
 
-Querida hermana
-
-Tu tan esperada carta llegó a mis manos justo dos días después de Navidad. Qué provocador es que una invitación para una cena de Navidad haya llegado dos días después de haber pasado. Como tú puedes ver tienes una idea bastante equivocada del momento de nuestro retorno. Me temo que al Sr. Squier no se le puede creer todo lo que dice; él escribe cualquier cosa para satisfacer tus ansiedades, de cualquier manera diciembre ha pasado y hasta ahora no hemos hecho ningún plan para regresar a casa, pero si tenemos 6 semanas mas de trabajo por delante, y luego nos tomará un mes más para regresar a casa, lo que nos llevará hasta el 18 de abril antes de que posiblemente esté en Easton. No esperes verme antes de esta fecha.
-
-Estoy trabajando duro. Soy el topógrafo de uno de los equipos y me ha tocado medir una parte difícil de campo. Nuestro trabajo se extiende desde un punto llamado Naranja (alrededor de 4 millas del punto más elevado) hasta el pueblo de Caridad. Cuando hayamos terminado partiremos a casa. Los tiempos duros han afectado a nuestra Compañía así como a otros y el dinero escasea desde algún tiempo aunque por el momento lo tenemos a manos llenas. Han habido considerables problemas en esta expedición, mucha discusión y mal ambiente entre los jefes de la empresa y el equipo de los ingleses. Se han dado muchos cambios y a veces los asuntos se ven muy turbulentos; pero por ahora las cosas parecen felizmente ajustadas.
-
-Dave Harmmany me escribe a través de cada vapor desde Panamá y me envía muchos periódicos. No he tenido noticias de Jim Nevins & punk.
-
-Hermana, quiero que cuando escribas uses tinta negra pues tengo muchísima dificultad para leer lo que has escrito pues está todo muy pálido. Talvez el clima afecta la tinta, no sé lo que pasa ¿Tienes alguna dificultad para leer mis cartas? También no uses esos pequeños sobres blancos ya que se pegan a las cartas y tengo que romperlos para sacarlas del sobre. No recibo ninguno de los periódicos y revistas que me mandas. Me temo que alguien se está quedando con ellos.
-
-Dile a mamá que mis ropas se encuentran en la última etapa de dilapidación y tendré que adoptar la costumbre en este país de no usar mucho de nada. Pero como el tiempo que nos queda aquí es tan corto creo que me las arreglaré hasta que vuelva a casa.
+> Querida hermana
+>
+> Tu tan esperada carta llegó a mis manos justo dos días después de Navidad. Qué provocador es que una invitación para una cena de Navidad haya llegado dos días después de haber pasado. Como tú puedes ver tienes una idea bastante equivocada del momento de nuestro retorno. Me temo que al Sr. Squier no se le puede creer todo lo que dice; él escribe cualquier cosa para satisfacer tus ansiedades, de cualquier manera diciembre ha pasado y hasta ahora no hemos hecho ningún plan para regresar a casa, pero si tenemos 6 semanas mas de trabajo por delante, y luego nos tomará un mes más para regresar a casa, lo que nos llevará hasta el 18 de abril antes de que posiblemente esté en Easton. No esperes verme antes de esta fecha.
+>
+> Estoy trabajando duro. Soy el topógrafo de uno de los equipos y me ha tocado medir una parte difícil de campo. Nuestro trabajo se extiende desde un punto llamado Naranja (alrededor de 4 millas del punto más elevado) hasta el pueblo de Caridad. Cuando hayamos terminado partiremos a casa. Los tiempos duros han afectado a nuestra Compañía así como a otros y el dinero escasea desde algún tiempo aunque por el momento lo tenemos a manos llenas. Han habido considerables problemas en esta expedición, mucha discusión y mal ambiente entre los jefes de la empresa y el equipo de los ingleses. Se han dado muchos cambios y a veces los asuntos se ven muy turbulentos; pero por ahora las cosas parecen felizmente ajustadas.
+>
+> Dave Harmmany me escribe a través de cada vapor desde Panamá y me envía muchos periódicos. No he tenido noticias de Jim Nevins & punk.
+>
+> Hermana, quiero que cuando escribas uses tinta negra pues tengo muchísima dificultad para leer lo que has escrito pues está todo muy pálido. Talvez el clima afecta la tinta, no sé lo que pasa ¿Tienes alguna dificultad para leer mis cartas? También no uses esos pequeños sobres blancos ya que se pegan a las cartas y tengo que romperlos para sacarlas del sobre. No recibo ninguno de los periódicos y revistas que me mandas. Me temo que alguien se está quedando con ellos.
+>
+> Dile a mamá que mis ropas se encuentran en la última etapa de dilapidación y tendré que adoptar la costumbre en este país de no usar mucho de nada. Pero como el tiempo que nos queda aquí es tan corto creo que me las arreglaré hasta que vuelva a casa.
 
 Carta No. 5:
 
@@ -194,25 +198,25 @@ Considerando la numeración de las últimas dos páginas (7y8) contenidas en est
 
 Con todo y todo, la narración de los segmentos rescatados no deja de impresionarnos por la consabida abundancia de los detalles apuntados.
 
-Tuve que escribir esta carta en varios pedacitos de papel ya que es un artículo escaso por aquí. La semana pasada llegó el primer correo procedente de los Estados Unidos. Cada uno de los del equipo recibió cartas excepto yo. Qué mal me sentí. Escriban todos ustedes y envíen periódicos, díganle a todas mis amistades que escriban ya que aquí una carta es bastante apreciada, de veras. Veo en los periódicos que la srita. Cumminghan & Eckel han sido absueltos. Por mi parte estoy progresando con mi aprendizaje de español y ya puedo hablar un poco. Me han asignado dos nativos como leñadores quienes conmigo constituyen el equipo topográfico, caminando siempre atrás del equipo de tránsito y nivelación. Por ahora debo terminar y despedirme.
-
-Mamá y hermana escríbanme una larga carta.
-
-Con cariño. John M. Godown
-
-…uno teniendo una pierna larga cubriendo hasta la rodilla y el otro un pequeño y corto agujero abierto hasta los dedos del pie. Pero no importa, intentaré vestir buenas ropas una vez que regrese ¿Se casó Mark Narone? ¿Acaso Jim Shoemaker le seguirá? ¿Quedan todavía chicas en Easton? ¡O acaso ya se acabaron todas!
-
-Dave Harmmany me escribió y me envió algunos periódicos desde Panamá y le contesté pero he tenido la carta conmigo un mes esperando la oportunidad de despacharla antes de que nos veamos nuevamente algún día de estos. Tenemos muchos compañeros extraños y raros en el campamento. Uno es de Buenos Aires, quien teniendo padres norteamericanos ha estado en Oregon y a través de Nicaragua, así como buscando oro en Olancho (Honduras). Nuestro médico participó a lo largo la guerra contra México, de manera que puedes ver que no carecemos de conversación cuando estamos alrededor de la fogata. Uno de nosotros estuvo empleado en el ferrocarril de Panamá y otro anduvo recogiendo hule en Nueva Granada. A propósito, me he topado con varios árboles de hule y he cortado la corteza para ver fluir la leche la cual usamos para cubrir nuestros sombreros de paja. Los árboles de caoba abundan a lo largo de la costa. Vi la planta de maguey que los mexicanos cultivan para producir un licor que llaman “pulque”. Hay todo tipo de plantas para teñir. Por kilómetros existe una abundancia de cactus de todo tipo donde se encuentra la cochinilla. Los he examinado cuidadosamente muchas veces tratando de encontrar los pequeños insectos que dan tan espléndido color, pero no he sido capaz de encontrarlos. Presumo no haberme equivocado acerca de esta planta especial.
-
-Agatas y jaspe son muy abundantes, también semi-ópalos. Tengo algunos especímenes conmigo junto con obsidiana, que fue produ-cida en el corazón de algunos volcanes en vez de en fábricas de vidrio. Por el momento no nos encontramos cerca de ningún volcán, aunque Amapala y Conchagua están a la vista, justo ahora están muy callados, aunque ocasionalmente son causa de terremotos.
-
-Una de las peores molestias en esta parte del país es la moneda de cobre. Durante una de las revoluciones algún tiempo atrás, el Gobierno acuño una gran cantidad de cobre para pagarle a los soldados. Ellos hicieron que la pobre gente cambiara una moneda grande de cobre* por un dólar de plata. Aunque ahora ellos pagan 25 por un dólar esto sólo viene a ser 4 cts. de nuestra moneda. Por ahora es el único circulante que se maneja, y cuando tú escuchas de un desayuno que cuesta $30.00 se refieren sólo a dólares de cobre. La semana pasada cabalgué en una mula 80 kilómetros a Comayagua con un par de alforjas llenas de ellas. Compramos todas nuestras provisiones con esta moneda y frecuentemente tenemos a la mano dos o tres mil dólares lo que en realidad no resulta ser mucho dinero; sin embargo resulta muy apropiado para huevos y pollos.
-
-Debo dejar de escribir ahora ya que es muy tarde y mi hamaca luce muy invitadora después de un duro día de trabajo. Escribe pronto y envía periódicos. Mi amor para todos.
-
-Tu afectísimo hermano
-
-John Godown
+> Tuve que escribir esta carta en varios pedacitos de papel ya que es un artículo escaso por aquí. La semana pasada llegó el primer correo procedente de los Estados Unidos. Cada uno de los del equipo recibió cartas excepto yo. Qué mal me sentí. Escriban todos ustedes y envíen periódicos, díganle a todas mis amistades que escriban ya que aquí una carta es bastante apreciada, de veras. Veo en los periódicos que la srita. Cumminghan & Eckel han sido absueltos. Por mi parte estoy progresando con mi aprendizaje de español y ya puedo hablar un poco. Me han asignado dos nativos como leñadores quienes conmigo constituyen el equipo topográfico, caminando siempre atrás del equipo de tránsito y nivelación. Por ahora debo terminar y despedirme.
+>
+> Mamá y hermana escríbanme una larga carta.
+>
+> Con cariño. John M. Godown
+>
+> …uno teniendo una pierna larga cubriendo hasta la rodilla y el otro un pequeño y corto agujero abierto hasta los dedos del pie. Pero no importa, intentaré vestir buenas ropas una vez que regrese ¿Se casó Mark Narone? ¿Acaso Jim Shoemaker le seguirá? ¿Quedan todavía chicas en Easton? ¡O acaso ya se acabaron todas!
+>
+> Dave Harmmany me escribió y me envió algunos periódicos desde Panamá y le contesté pero he tenido la carta conmigo un mes esperando la oportunidad de despacharla antes de que nos veamos nuevamente algún día de estos. Tenemos muchos compañeros extraños y raros en el campamento. Uno es de Buenos Aires, quien teniendo padres norteamericanos ha estado en Oregon y a través de Nicaragua, así como buscando oro en Olancho (Honduras). Nuestro médico participó a lo largo la guerra contra México, de manera que puedes ver que no carecemos de conversación cuando estamos alrededor de la fogata. Uno de nosotros estuvo empleado en el ferrocarril de Panamá y otro anduvo recogiendo hule en Nueva Granada. A propósito, me he topado con varios árboles de hule y he cortado la corteza para ver fluir la leche la cual usamos para cubrir nuestros sombreros de paja. Los árboles de caoba abundan a lo largo de la costa. Vi la planta de maguey que los mexicanos cultivan para producir un licor que llaman "pulque". Hay todo tipo de plantas para teñir. Por kilómetros existe una abundancia de cactus de todo tipo donde se encuentra la cochinilla. Los he examinado cuidadosamente muchas veces tratando de encontrar los pequeños insectos que dan tan espléndido color, pero no he sido capaz de encontrarlos. Presumo no haberme equivocado acerca de esta planta especial.
+>
+> Agatas y jaspe son muy abundantes, también semi-ópalos. Tengo algunos especímenes conmigo junto con obsidiana, que fue producida en el corazón de algunos volcanes en vez de en fábricas de vidrio. Por el momento no nos encontramos cerca de ningún volcán, aunque Amapala y Conchagua están a la vista, justo ahora están muy callados, aunque ocasionalmente son causa de terremotos.
+>
+> Una de las peores molestias en esta parte del país es la moneda de cobre. Durante una de las revoluciones algún tiempo atrás, el Gobierno acuño una gran cantidad de cobre para pagarle a los soldados. Ellos hicieron que la pobre gente cambiara una moneda grande de cobre* por un dólar de plata. Aunque ahora ellos pagan 25 por un dólar esto sólo viene a ser 4 cts. de nuestra moneda. Por ahora es el único circulante que se maneja, y cuando tú escuchas de un desayuno que cuesta $30.00 se refieren sólo a dólares de cobre. La semana pasada cabalgué en una mula 80 kilómetros a Comayagua con un par de alforjas llenas de ellas. Compramos todas nuestras provisiones con esta moneda y frecuentemente tenemos a la mano dos o tres mil dólares lo que en realidad no resulta ser mucho dinero; sin embargo resulta muy apropiado para huevos y pollos.
+>
+> Debo dejar de escribir ahora ya que es muy tarde y mi hamaca luce muy invitadora después de un duro día de trabajo. Escribe pronto y envía periódicos. Mi amor para todos.
+>
+> Tu afectísimo hermano
+>
+> John Godown
 
 Culminada su experiencia en Honduras, Godown participa en la Guerra de Secesión con el rango de Teniente 2do. en el 12vo. Regimiento de Indiana. El 17 de agosto de 1862 es transferido a la Compañía K como Teniente 1º, eventualmente ascendido a Capitán. El 22 de julio de 1864 es capturado en la batalla de Atlanta y puesto en prisión en Georgia de donde fue liberado a cambio de un oficial sureño. Se le dio de baja el 8 de junio de 1865. En su vida militar participó en no menos de veinte batallas, incluyendo Chattanooga,
 
@@ -365,24 +369,6 @@ The Fort Wayne Sentinel. 21 de diciembre de 1911, página 1. Fort Wayne, Indiana
 United States Postal Service. Correo Terrestre a California en los 1850s. USA. Agosto 2010.
 
 Vallejo, Antonio Ramón. Anuario Estadístico de Honduras. Litografía Nacional, Tegucigalpa, Honduras. 1889.
-
-NUESTRO NUEVO SOCIO
-
-(No. 20-210)
-
-JERÓNIMO FERNÁNDEZ SÁNCHEZ
-
-Dirección: Calle San Cristóbal No. 6 – 2do. F
-
-18830 Huescar, Granada, España
-
-Colecciona: Honduras y España
-
-NUESTRA MÁS CORDIAL BIENVENIDA
-
-SABÌA USTED QUE…
-
-Ante la escasez de profesores universitarios, el presidente Marco Aurelio Soto, y después Luis Bográn, tuvieron que traer personal especializado de los Estados Unidos y Europa. El presidente Bográn firmó en 1890 un Convenio Cultural con España por el que un buen número de profesores españoles ejercieron la docencia en Honduras por un periodo de cinco años. Antes del convenio habían llegado el Dr. Fernández Fontecha, que creó y organizó la Facultad de Medicina, y el Dr. Antonio Abad Ramírez, la de Farmacia. También mediante este convenio llegaron los ingenieros Francisco Cañizares Moyano y Juan Guillén Ruiz como instructores militares. Como profesores de Litografía llegaron Manuel Fatuarte e Italo Ghizzoni, este último fundador de la Litografía Nacional, donde en 1896 y 1898 se imprimirían bajo su dirección los primeros sellos en el país, respectivamente las series “Céleo Arias” y “La Locomotora”.
 
 ---
 

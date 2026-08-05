@@ -28,19 +28,19 @@ Marca de la Oficina General de Cuentas.
 
 Esta primera marca de control, fue autorizada a través del Decreto del 30 de Septiembre de 1896, que textualmente rezaba:
 
-Considerando: que es un deber del Gobierno garantizar la emisión de sellos postales, de modo que la Litografía Nacional, que hace su grabado, no pueda distraerlas.
-
-Considerando: que el Tribunal Superior de Cuentas, a quien la ley ha confiado especialmente la atribución de intervenir en toda emisión de especies timbradas, ha reclamado el uso de este derecho respecto de los sellos postales.
-
-Considerando: que los sellos postales, conforme al uso general, no admiten timbre exterior; y que por este motivo la garantía debe tener por objeto la seguridad de que la Litografía Nacional no pueda grabar mayor cantidad de sellos de la que se le asigne.
-
-Por tanto: el Presidente de la República Acuerda:
-
-1º. – El Ministerio de Fomento, de quien depende la Litografía Nacional, y a quien corresponde la emisión de sellos, al acordar éstos, deberá remitir a dicha oficina el número de pliegos de papel equivalentes al número de sellos.
-
-2º. – Estos pliegos deberán llevar el sello del Tribunal Superior de Cuentas, en el centro de cada uno, en la parte posterior; y
-
-3º. – La litografía Nacional devolverá los mismos pliegos, grabados o inutilizados. – Comuníquese. Bonilla.
+> Considerando: que es un deber del Gobierno garantizar la emisión de sellos postales, de modo que la Litografía Nacional, que hace su grabado, no pueda distraerlas.
+>
+> Considerando: que el Tribunal Superior de Cuentas, a quien la ley ha confiado especialmente la atribución de intervenir en toda emisión de especies timbradas, ha reclamado el uso de este derecho respecto de los sellos postales.
+>
+> Considerando: que los sellos postales, conforme al uso general, no admiten timbre exterior; y que por este motivo la garantía debe tener por objeto la seguridad de que la Litografía Nacional no pueda grabar mayor cantidad de sellos de la que se le asigne.
+>
+> Por tanto: el Presidente de la República Acuerda:
+>
+> 1º. – El Ministerio de Fomento, de quien depende la Litografía Nacional, y a quien corresponde la emisión de sellos, al acordar éstos, deberá remitir a dicha oficina el número de pliegos de papel equivalentes al número de sellos.
+>
+> 2º. – Estos pliegos deberán llevar el sello del Tribunal Superior de Cuentas, en el centro de cada uno, en la parte posterior; y
+>
+> 3º. – La litografía Nacional devolverá los mismos pliegos, grabados o inutilizados. – Comuníquese. Bonilla.
 
 Aunque el precitado alude específicamente a sellos postales, tácitamente se entiende aplicable a la impresión de cualquier especie fiscal, siendo que todas estaban expuestas a una posible manipulación dolosa al momento de su impresión, especialmente los timbres por ser portadores de valores faciales hasta 50 veces mayores al de los sellos postales.
 
@@ -78,7 +78,9 @@ Al fracasar los intentos entre los partidos en contienda por alcanzar un acuerdo
 
 Contramarca del Tribunal Superior de Cuentas.
 
-Seis meses después de haber sido puesta en circulación la nueva emisión de sellos postales del 2 de enero de 1931 (Scott 298-306), el Tribunal Superior de Cuentas, con sede en Tegucigalpa, descubrió que una buena cantidad de sellos había sido sustraída ilegalmente del inventario bajo su custodia. La investigación fue entorpecida tras encontrar al Contador General muerto de un balazo en el pecho. Al final, el T. S. de C. resolvió se contramarcase el remanente de los sellos, incluyendo los fiscales, con sus siglas, a fin de diferenciarlos de los hurtados, control que se implementó a partir del 4 de julio de 1931 sobre la emisión de Renta del Timbre de 1928 impresa por la American Bank Note Co. para licores fuertes, esencias y perfumes, en valores de: ½, 1, 2, 4, 6, 12, 30, 50, 75 centavos y 1 peso.
+Seis meses después de haber sido puesta en circulación la nueva emisión de sellos postales del 2 de enero de 1931 (Scott 298-306), el Tribunal Superior de Cuentas, con sede en Tegucigalpa, descubrió que una buena cantidad de sellos había sido sustraída ilegalmente del inventario bajo su custodia. La investigación fue entorpecida tras encontrar al Contador General muerto de un balazo en el pecho.
+
+> > "La investigación fue entorpecida tras encontrar al Contador General muerto de un balazo en el pecho." Al final, el T. S. de C. resolvió se contramarcase el remanente de los sellos, incluyendo los fiscales, con sus siglas, a fin de diferenciarlos de los hurtados, control que se implementó a partir del 4 de julio de 1931 sobre la emisión de Renta del Timbre de 1928 impresa por la American Bank Note Co. para licores fuertes, esencias y perfumes, en valores de: ½, 1, 2, 4, 6, 12, 30, 50, 75 centavos y 1 peso.
 
 Asimismo, se contramarcaron los valores de 2y3 cts. de la Renta del Timbre de la ABN, de 1928, en rojo y negro respectivamente, cada uno con la contramarca en dos posiciones: lectura hacia arriba y hacia abajo.
 
@@ -92,23 +94,23 @@ Tegucigalpa, 5 de mayo de 1933.
 
 El Presidente de la República
 
-Considerando: que con motivo de la conmoción civil última, fueron saqueados varios depósitos de especies fiscales en la República y están siendo éstas aprovechadas o vendidas por los detentadores, con perjuicio de la , que ha disminuido considerablemente;
-
-Considerando: que varias personas tienen en su poder cantidades de dichas especies; pero que, no siendo Agentes Fiscales, les está prohibido expenderlas, y por consiguiente es de conveniencia para el Estado recoger esas especies que los tenedores deben entregar a las autoridades respectivas de Hacienda, obteniendo de éstas el respectivo recibo para comprobar la entrega y que se les considere como acreedores del Estado, cuando la especie sea de procedencia legítima;
-
-Por tanto: Acuerda
-
-1º. Toda persona que conserve en su poder especies timbradas fiscales, debe presentarlas a la Administración de Rentas o de Aduana, de la jurisdicción a que pertenezca, en el improrrogable término de treinta días contados del diez del presente mes, debiendo comprobar la procedencia legítima de las especies.
-
-2º. El Administrador de Rentas, al recibirlas y establecida que sea la legitimidad, extenderá por triplicado una constancia con detalle completo de la clase y valor de las especies…
-
-3º. Las especies timbradas fiscales que no sean presentadas en el término señalado en el número primero, quedarán fuera de circulación, y la posesión o tenencia de ellas por particulares se tendrá como detentación de artículos estancados, conforme a lo que prescribe la Ley de Contrabando y Defraudaciones Fiscales.
-
-4º. Desde el día diez del mes de junio próximo se usarán solamente las especies timbradas contramarcadas.
-
-5º La Dirección General de Rentas dispondrá contramarcar en la forma conveniente las especies que se encuentren en los depósitos fiscales y las demás que le sean entregadas.
-
-6º. El Poder Ejecutivo reglamentará oportunamente el pago de las especies recibidas. Comuníquese.
+> Considerando: que con motivo de la conmoción civil última, fueron saqueados varios depósitos de especies fiscales en la República y están siendo éstas aprovechadas o vendidas por los detentadores, con perjuicio de la renta, que ha disminuido considerablemente;
+>
+> Considerando: que varias personas tienen en su poder cantidades de dichas especies; pero que, no siendo Agentes Fiscales, les está prohibido expenderlas, y por consiguiente es de conveniencia para el Estado recoger esas especies que los tenedores deben entregar a las autoridades respectivas de Hacienda, obteniendo de éstas el respectivo recibo para comprobar la entrega y que se les considere como acreedores del Estado, cuando la especie sea de procedencia legítima;
+>
+> Por tanto: Acuerda
+>
+> 1º. Toda persona que conserve en su poder especies timbradas fiscales, debe presentarlas a la Administración de Rentas o de Aduana, de la jurisdicción a que pertenezca, en el improrrogable término de treinta días contados del diez del presente mes, debiendo comprobar la procedencia legítima de las especies.
+>
+> 2º. El Administrador de Rentas, al recibirlas y establecida que sea la legitimidad, extenderá por triplicado una constancia con detalle completo de la clase y valor de las especies…
+>
+> 3º. Las especies timbradas fiscales que no sean presentadas en el término señalado en el número primero, quedarán fuera de circulación, y la posesión o tenencia de ellas por particulares se tendrá como detentación de artículos estancados, conforme a lo que prescribe la Ley de Contrabando y Defraudaciones Fiscales.
+>
+> 4º. Desde el día diez del mes de junio próximo se usarán solamente las especies timbradas contramarcadas.
+>
+> 5º La Dirección General de Rentas dispondrá contramarcar en la forma conveniente las especies que se encuentren en los depósitos fiscales y las demás que le sean entregadas.
+>
+> 6º. El Poder Ejecutivo reglamentará oportunamente el pago de las especies recibidas. Comuníquese.
 
 En 1932 el país estaba dividido en 17 departamentos, cada uno con un Administrador de Rentas establecido en la cabecera departamental y uno de Aduanas en cada puerto mayor de la República. Algunos administradores sólo fungieron durante los primeros meses del Gobierno del presidente Tiburcio Carías Andino, por lo que encontramos que existan hasta cuatro firmas distintas aplicadas en un sólo departamento, ya que cada nuevo Administrador iba contramarcando las remesas según llegaban a su administración. En total se conocen treinta y cuatro firmas distintas, de las cuales unas pocas fueron aplicadas a los timbres, especialmente sobre los valores de la emisión de la Renta del Timbre de 1928 y los Timbres de Contratación de 1932. Seguidamente se muestran las firmas identificadas hasta hoy, acompañadas del nombre del firmante, localidad y el periodo en que fungió:
 

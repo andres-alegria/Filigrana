@@ -44,7 +44,7 @@ Al llegar a Pasadena fueron recibidos por el científico Edwin Hubble, Director 
 
 Pocas personas del público en general comprendían la naturaleza de sus visitas, pero de igual manera lo idolatraban. Desde el mismo momento en que su barco atracó en San Diego el 31 de diciembre de 1931, la bienvenida que le dispensaron los californianos era parte publicidad, parte admiración y parte afecto sincero.
 
-El 4 de marzo de 1931 la pareja Einstein regresa a Nueva York por tren, y parte para su casa el mismo día a bordo del SS Deutschland, atracando en Hamburgo el 15 de marzo. Eisntein parte de Hamburgo para Inglaterra el 30 de abril en el SS Albert Ballin llegando a Southampton el 1 de mayo. Durante su estadía, la Universidad de Oxford le otorga un Doctorado Honorario en Ciencias. Permanece cuatro semanas en Oxford, retornando a su casa el 28 de mayo en el SS Hamburgo.
+El 4 de marzo de 1931 la pareja Einstein regresa a Nueva York por tren, y parte para su casa el mismo día a bordo del SS Deutschland, atracando en Hamburgo el 15 de marzo. Einstein parte de Hamburgo para Inglaterra el 30 de abril en el SS Albert Ballin llegando a Southampton el 1 de mayo. Durante su estadía, la Universidad de Oxford le otorga un Doctorado Honorario en Ciencias. Permanece cuatro semanas en Oxford, retornando a su casa el 28 de mayo en el SS Hamburgo.
 
 Einstein y Elsa una vez más zarpan de Amberes en un viaje directo a Los Ángeles el 2 de diciembre de 1931 a bordo del MS Portland, con paradas en Panamá, Honduras y El Salvador, llegando a Pasadena el 31 de diciembre. En esta ocasión obvió pasar por Nueva York evitando las molestias de la multitud
 
@@ -52,13 +52,15 @@ El 22 de diciembre de 1931 el barco recala brevemente en Amapala, tal como lo ev
 
 "Amapala, ¡en Honduras! Por eso es que no habían recibido mensajes nuestros".
 
+> > "Amapala, ¡en Honduras! Por eso es que no habían recibido mensajes nuestros."
+
 Excelsa pieza tanto en el orden filatélico como en el histórico.
 
 Respecto a esta visita, el genial científico detalla en su diario personal de viaje las siguientes entradas:
 
-"22 de diciembre. 8 de la mañana llegamos a la bahía de Honduras. Anclamos en la 'Isla del Tigre'. Impresionante bahía de aguas azules en medio de muchas islas volcánicas, verdes sobre marrón”.
-
-"Nos quedamos hasta mediodía, porque había que descargar. Un francés y una mujer de Bremen nos visitaron a bordo. Los nativos tienen todos sífilis, pero algunos malaria. 36 ½ grados a la sombra. Gran volcán con una nube de ceniza eterna visible por un buen rato a la partida. Escena indescriptiblemente pintoresca".
+> "22 de diciembre. 8 de la mañana llegamos a la bahía de Honduras. Anclamos en la 'Isla del Tigre'. Impresionante bahía de aguas azules en medio de muchas islas volcánicas, verdes sobre marrón."
+>
+> "Nos quedamos hasta mediodía, porque había que descargar. Un francés y una mujer de Bremen nos visitaron a bordo. Los nativos tienen todos sífilis, pero algunos malaria. 36 ½ grados a la sombra. Gran volcán con una nube de ceniza eterna visible por un buen rato a la partida. Escena indescriptiblemente pintoresca."
 
 Nota de editor: En realidad el cono volcánico de la isla suele estar cubierto de nubes corrientes ya que desde hace cientos de años es un volcán extinto.
 
@@ -78,17 +80,7 @@ Para su tranquilidad, las visitas a CalTech de 1932 y 1933 atrajeron menos atenc
 
 Como colofón sólo resta decir que de esta forma hemos aportado la luz necesaria para establecer con certeza que Albert Einstein, aunque no puso los pies en suelo hondureño (posiblemente por razones fito-sanitarias o el sofocante calor) si estuvo en aguas hondureñas, de las cuales se llevó una grata impresión, así como de sus tropicales paisajes.
 
-Bibliografía: Archivo 008-0279.21-001.tif de los Archivos de Albert Einstein 1929-1934. Universidad Hebraica de Jerusalén. Israel. 2017.Amazon.com
-
-Casa del Libro
-
-All sellers »
-
-Loading...
-
-Loading...
-
-My Books on Google Play
+Bibliografía: Archivo 008-0279.21-001.tif de los Archivos de Albert Einstein 1929-1934. Universidad Hebraica de Jerusalén. Israel. 2017.
 
 APÉNDICE
 
@@ -109,14 +101,6 @@ Hamburg American Packet.
 La Hamburg Amerikanische Packetfahrt Actien Gesellschaft (HAPAG), a veces denominada en inglés como Hamburg American Line, fue una empresa establecida en la ciudad alemana de Hamburgo el 27 de mayo de 1847 cuyo objeto era el transporte de personas y productos a través del océano Atlántico.[] El tráfico que generó a comienzos del siglo XX hizo de la HAPAG una de las compañías navieras más grandes del mundo, haciendo que la gran mayoría de los inmigrantes alemanes que pisaban suelo americano lo hicieran en uno de sus barcos. La compañía operaba principalmente desde el puerto de Hamburgo, haciendo viajes semanales a Nueva York, Indias Occidentales, México, Sur y Centro América, China Japón y Australia. Cada uno de los barcos tenía capacidad para 1,000 pasajeros en cabina, turista y tercera clase. Entre sus servicios se contaba con un espacioso comedor con mesas pequeñas, un salón de belleza, salón para fumadores, una atractiva cubierta para paseo parcialmente protegida con ventanales de vidrio en caso de mal tiempo y una piscina exterior. Cada barco llevaba un médico, un barbero y camareros que además de alemán e inglés también hablaban otros idiomas.
 
 La II Guerra Mundial resultó en la perdida de casi toda su flota, pero el esfuerzo y tenacidad de sus propietarios hizo que la compañía volviese a ocupar una de las posiciones líderes del transporte marítimo mundial.
-
-Favorites
-
-Reading now
-
-To read
-
-Have read
 
 ---
 

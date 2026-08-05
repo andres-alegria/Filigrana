@@ -120,6 +120,8 @@ De acuerdo a la banda en el reverso fue
 
 “Abierta por el Alto Mando de las Fuerzas Armadas”.
 
+> > "Abierta por el Alto Mando de las Fuerzas Armadas."
+
 El ejemplar de censura alemana que a continuación se presenta, se caracteriza por tener en la banda una “X” ubicada bajo el águila nazi. Esta correspondencia fue manejada en la zona de Vichy, en la Francia ocupada, aplicada desde septiembre de 1940 hasta agosto de 1944. Aquí se procesaban cartas de la Cruz Roja Internacional, Bélgica y Países Bajos.
 
 13 de noviembre de 1942. Sobre enviado por la Cruz Roja hondureña en Tegucigalpa a la Cruz Roja Internacional en Ginebra, pasando por la censura norteamericana, con cinta adhesiva a la izquierda, y la alemana, con banda de papel en la parte superior.

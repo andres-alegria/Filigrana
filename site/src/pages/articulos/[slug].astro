@@ -22,8 +22,16 @@ export async function getStaticPaths() {
 }
 
 const { entry, locked, publishDate } = Astro.props;
-const { title_es, author, themes, page_start, page_end, series, volume } = entry.data;
-const dateLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-HN', {
+const { title_es, author, themes, page_start, page_end, series, volume, issue_date } = entry.data;
+// The original print date (issue_date) is the one that belongs in the
+// article's own byline/meta — publishDate is only the site's own debut
+// date for that piece and belongs on cards, not here.
+const originalLabel = issue_date
+  ? new Date(issue_date + '-01T00:00:00').toLocaleDateString('es-HN', {
+      year: 'numeric', month: 'long',
+    })
+  : null;
+const onlineLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-HN', {
   year: 'numeric', month: 'long', day: 'numeric',
 });
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
@@ -33,13 +41,14 @@ const bodyHtml = wrapImages(formatBibliography(stripLeadingTitle(entry.rendered?
   <article>
     <header class="article-head wrap">
       <div class="meta">
-        <span>{dateLabel}</span>
+        {originalLabel && <span>{originalLabel}</span>}
         {themes[0] && <span>· {themes[0]}</span>}
         <span>· Serie {series}, Vol. {volume}</span>
         {page_start && <span>· pág. {page_start}{page_end && page_end !== page_start ? `–${page_end}` : ''}</span>}
       </div>
       <h1>{title_es}</h1>
       <div class="byline">POR {author.toUpperCase()}</div>
+      <p class="repro-note">Transcripción digital con edición ligera. En línea desde el {onlineLabel}.</p>
       <ShareBar url={canonicalUrl} title={title_es} />
     </header>
 
