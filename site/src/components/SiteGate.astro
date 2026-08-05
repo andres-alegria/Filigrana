@@ -16,6 +16,9 @@ import { LOCK_HASH } from '../data/lock';
       <button type="submit">Entrar</button>
     </form>
     <p class="err">Contraseña incorrecta. Intenta de nuevo.</p>
+    <!-- Lets a visitor confirm what actually landed in the field — useful
+         when a password manager autofills something unexpected. -->
+    <button type="button" id="site-gate-peek" class="peek">Ver contraseña</button>
   </div>
 </div>
 
@@ -115,6 +118,14 @@ import { LOCK_HASH } from '../data/lock';
     form.querySelector('button')?.addEventListener('click', (e) => {
       e.preventDefault();
       attemptUnlock();
+    });
+
+    const peek = document.getElementById('site-gate-peek');
+    peek?.addEventListener('click', () => {
+      const showing = input.type === 'text';
+      input.type = showing ? 'password' : 'text';
+      peek.textContent = showing ? 'Ver contraseña' : 'Ocultar contraseña';
+      input.focus();
     });
   }
 </script>
