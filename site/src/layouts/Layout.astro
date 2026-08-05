@@ -1,6 +1,5 @@
 ---
 import '../styles/global.css';
-import SiteGate from '../components/SiteGate.astro';
 
 interface Props {
   title: string;
@@ -27,8 +26,6 @@ const { title, description = 'Filigrana — el sello como puerta a la historia.'
   <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "533b56c3e659457c928b97c04b013405"}'></script>
 </head>
 <body>
-  <SiteGate />
-  <div id="site-body" hidden>
   <header class="site">
     <div class="wrap row">
       <a href="/" style="text-decoration:none">
@@ -82,6 +79,5 @@ const { title, description = 'Filigrana — el sello como puerta a la historia.'
     const footerCanvas = document.getElementById('footer-canvas');
     if (footerCanvas) watchAndDraw(footerCanvas, drawFooterMotif);
   </script>
-  </div>
 </body>
 </html>

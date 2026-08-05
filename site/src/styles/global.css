@@ -194,21 +194,6 @@ nav.site a:hover{color:var(--green)}
 .gate .err{color:#8a3324;font-size:12.5px;margin-top:10px;display:none}
 .gate.err .err{display:block}
 
-/* ---------- site-wide gate ---------- */
-/* Full-screen overlay used while the whole site is still being built —
-   remove <SiteGate /> from Layout.astro to lift it once ready to launch. */
-.site-gate{position:fixed;inset:0;z-index:999;display:flex;align-items:center;
-  justify-content:center;padding:24px;background-color:var(--paper);
-  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.35 0 0 0 0 0.31 0 0 0 0 0.22 0 0 0 0.06 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E")}
-.site-gate-box{margin:0;max-width:40ch;width:100%;text-align:center}
-.site-gate-box .wordmark{font-size:32px;display:block;margin-bottom:18px}
-.site-gate-box form{justify-content:center}
-/* reveal toggle — subtle, text-only */
-.site-gate-box .peek{background:none;border:none;padding:0;margin-top:14px;cursor:pointer;
-  font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.12em;
-  text-transform:uppercase;color:var(--ink-soft);border-bottom:1px solid var(--line)}
-.site-gate-box .peek:hover{color:var(--green);border-bottom-color:var(--green)}
-
 /* ---------- footer ---------- */
 footer.site{padding:40px 0 56px;border-top:1px solid var(--line);margin-top:40px}
 .colophon{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px;
