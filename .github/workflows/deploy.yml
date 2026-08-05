@@ -1,12 +1,39 @@
+# ---------------------------------------------------------------------------
+# CURRENT MODE: PLACEHOLDER ONLY
+#
+# While the site is being built, filigrana.hn serves the static
+# "under construction" page in placeholder/ — the real Astro site in site/
+# is NOT published. Develop it locally instead:
+#
+#     cd site && npm run dev        # http://localhost:4321
+#
+# localhost counts as a secure context, so everything behaves exactly as it
+# will in production (this is what the password gate needs, and why it
+# failed on the plain-http:// deploy).
+#
+# ---------------------------------------------------------------------------
+# TO GO LIVE with the real site, make these three changes:
+#
+#   1. paths:  re-enable "site/**" and "content/**" below
+#   2. steps:  uncomment the "Set up Node" / "Install dependencies" /
+#              "Build" block
+#   3. upload: change `path: placeholder` back to `path: site/dist`
+#
+# site/public/CNAME and placeholder/CNAME both hold the domain, so the
+# custom domain keeps working in either mode — keep the two in sync if the
+# domain ever changes.
+# ---------------------------------------------------------------------------
+
 name: Deploy site to GitHub Pages
 
 on:
   push:
     branches: [main]
     paths:
-      - "site/**"
-      - "content/**"
+      - "placeholder/**"
       - ".github/workflows/deploy.yml"
+      # - "site/**"      # re-enable when publishing the real site
+      # - "content/**"   # re-enable when publishing the real site
   workflow_dispatch:
 
 permissions:
@@ -25,20 +52,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Node
-        uses: actions/setup-node@v4
-        with:
-          node-version-file: site/.nvmrc
-          cache: npm
-          cache-dependency-path: site/package-lock.json
-
-      - name: Install dependencies
-        working-directory: site
-        run: npm ci
-
-      - name: Build
-        working-directory: site
-        run: npm run build
+      # --- uncomment this block to build and publish the real site ---
+      # - name: Set up Node
+      #   uses: actions/setup-node@v4
+      #   with:
+      #     node-version-file: site/.nvmrc
+      #     cache: npm
+      #     cache-dependency-path: site/package-lock.json
+      #
+      # - name: Install dependencies
+      #   working-directory: site
+      #   run: npm ci
+      #
+      # - name: Build
+      #   working-directory: site
+      #   run: npm run build
+      # ---------------------------------------------------------------
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
@@ -46,7 +75,7 @@ jobs:
       - name: Upload build
         uses: actions/upload-pages-artifact@v3
         with:
-          path: site/dist
+          path: placeholder # change to site/dist when publishing the real site
 
   deploy:
     needs: build

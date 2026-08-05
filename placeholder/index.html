@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Filigrana · Próximamente</title>
+  <meta name="description" content="Filigrana — el hogar digital de Honduras Filatélica, la revista de la Federación Filatélica de la República de Honduras. Próximamente." />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <meta name="theme-color" content="#1a4731" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;1,9..144,300&family=Archivo:wght@300;400&family=IBM+Plex+Mono:wght@400&display=swap"
+    rel="stylesheet"
+  />
+  <style>
+    /* palette — mirrors design/moodboard.html; adjust brand colors here */
+    :root{
+      --paper:#e9dfc7;
+      --paper-lit:#f4eeda;
+      --ink:#1c1a15;
+      --ink-soft:#544c3d;
+      --green:#1a4731;
+      --blue:#264458;
+      --gold:#b0863f;
+      --line:rgba(28,26,21,.16);
+    }
+    *{box-sizing:border-box;margin:0;padding:0}
+    html,body{height:100%}
+    body{
+      font-family:'Archivo',system-ui,sans-serif;
+      color:var(--ink);
+      background-color:var(--paper);
+      /* paper grain — adjust alpha in feColorMatrix to taste */
+      background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.35 0 0 0 0 0.31 0 0 0 0 0.22 0 0 0 0.06 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+      line-height:1.65;
+      -webkit-font-smoothing:antialiased;
+      text-rendering:optimizeLegibility;
+      display:flex;
+      flex-direction:column;
+      min-height:100%;
+    }
+
+    .stage{
+      flex:1;
+      position:relative;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding:40px 24px;
+      overflow:hidden;
+    }
+    /* generative guilloché — the signature Filigrana motif */
+    #motif{
+      position:absolute;inset:0;width:100%;height:100%;
+      opacity:.5;z-index:0;pointer-events:none;
+    }
+    .inner{position:relative;z-index:1;text-align:center;max-width:52ch}
+
+    .kicker{
+      font-family:'IBM Plex Mono',monospace;font-size:11px;letter-spacing:.24em;
+      text-transform:uppercase;color:var(--green);
+    }
+    .wordmark{
+      font-family:'Fraunces',serif;font-weight:400;
+      font-size:clamp(52px,12vw,132px);line-height:.95;letter-spacing:-.02em;
+      margin-top:14px;color:var(--green);
+    }
+    .wordmark .dot{color:var(--gold)}
+    .tag{
+      font-family:'Fraunces',serif;font-style:italic;font-weight:300;
+      font-size:clamp(18px,2.6vw,26px);color:var(--ink-soft);
+      margin-top:14px;
+    }
+    /* fading center rule, echoing the moodboard divider */
+    .hairline{
+      height:1px;width:100%;max-width:420px;margin:34px auto 0;
+      background:linear-gradient(90deg,transparent,var(--green) 12%,var(--gold) 50%,var(--green) 88%,transparent);
+      opacity:.55;
+    }
+    .note{
+      font-size:15px;color:var(--ink-soft);margin-top:30px;line-height:1.7;
+    }
+    .note strong{color:var(--ink);font-weight:500}
+    .contact{
+      font-family:'IBM Plex Mono',monospace;font-size:12px;letter-spacing:.06em;
+      margin-top:22px;color:var(--ink-soft);
+    }
+    .contact a{color:var(--green);text-decoration:none;border-bottom:1px solid var(--line)}
+    .contact a:hover{border-bottom-color:var(--green)}
+
+    footer{
+      border-top:1px solid var(--line);
+      padding:26px 24px 34px;
+    }
+    .colophon{
+      max-width:900px;margin:0 auto;
+      display:flex;align-items:center;justify-content:space-between;
+      flex-wrap:wrap;gap:16px;
+      font-family:'IBM Plex Mono',monospace;font-size:10.5px;
+      letter-spacing:.08em;color:var(--ink-soft);
+    }
+    .fed-mark img{height:40px;width:auto;display:block;opacity:.5}
+    @media(max-width:520px){
+      .colophon{justify-content:center;text-align:center}
+    }
+  </style>
+</head>
+<body>
+  <main class="stage">
+    <canvas id="motif" aria-hidden="true"></canvas>
+    <div class="inner">
+      <span class="kicker">Honduras Filatélica · digital</span>
+      <h1 class="wordmark">Filigrana<span class="dot">.</span></h1>
+      <p class="tag">Historia hondureña, revelada por sellos postales.</p>
+
+      <div class="hairline"></div>
+
+      <p class="note">
+        Estamos construyendo el hogar digital de <strong>Honduras Filatélica</strong>,
+        la revista de la Federación Filatélica de la República de Honduras.
+        Vuelve pronto.
+      </p>
+
+      <p class="contact">
+        ¿Consultas? <a href="mailto:ffrh@hotmail.com">ffrh@hotmail.com</a>
+      </p>
+    </div>
+  </main>
+
+  <footer>
+    <div class="colophon">
+      <span class="fed-mark">
+        <img src="/logo-ffrh.svg" alt="Federación Filatélica de la República de Honduras" width="120" height="40" />
+      </span>
+      <span>filigrana.hn</span>
+    </div>
+  </footer>
+
+  <script>
+    /* Guilloché generator (hypotrochoid interference) — same motif as the
+       main site. Kept inline so this page stays fully self-contained. */
+    function guilloche(canvas, opts) {
+      const dpr = Math.min(window.devicePixelRatio || 1, 2);
+      const rect = canvas.getBoundingClientRect();
+      const w = (canvas.width = rect.width * dpr), h = (canvas.height = rect.height * dpr);
+      const ctx = canvas.getContext('2d');
+      ctx.clearRect(0, 0, w, h);
+      const lw = (opts.lw || 0.6) * dpr;
+      const cx = w / 2, cy = h / 2;
+      const scale = (Math.min(w, h) / 2) * (opts.scale || 0.86);
+      opts.layers.forEach((L) => {
+        // Draw each layer opaque offscreen, then composite once at the
+        // intended alpha — self-overlapping strokes otherwise render
+        // inconsistently between browsers (notably Safari).
+        const off = document.createElement('canvas');
+        off.width = w; off.height = h;
+        const octx = off.getContext('2d');
+        octx.lineWidth = lw; octx.strokeStyle = L.color;
+        octx.beginPath();
+        const { R, r, d, turns = 60 } = L, step = 0.02;
+        for (let t = 0; t <= Math.PI * 2 * turns; t += step) {
+          const k = (R - r) / r;
+          const x = (R - r) * Math.cos(t) + d * Math.cos(k * t);
+          const y = (R - r) * Math.sin(t) - d * Math.sin(k * t);
+          const px = cx + x * scale, py = cy + y * scale;
+          t === 0 ? octx.moveTo(px, py) : octx.lineTo(px, py);
+        }
+        octx.stroke();
+        ctx.globalAlpha = L.alpha ?? 0.5;
+        ctx.drawImage(off, 0, 0);
+      });
+      ctx.globalAlpha = 1;
+    }
+
+    function draw() {
+      const c = document.getElementById('motif');
+      if (!c) return;
+      const cs = getComputedStyle(document.documentElement);
+      const G = cs.getPropertyValue('--green').trim();
+      const B = cs.getPropertyValue('--blue').trim();
+      const Au = cs.getPropertyValue('--gold').trim();
+      guilloche(c, {
+        lw: 0.5, scale: 1.15,
+        layers: [
+          { R: 1, r: 0.34, d: 0.68, color: G, alpha: 0.24, turns: 50 },
+          { R: 1, r: 0.30, d: 0.62, color: B, alpha: 0.16, turns: 50 },
+          { R: 1, r: 0.233, d: 0.50, color: Au, alpha: 0.18, turns: 80 },
+        ],
+      });
+    }
+
+    // Redraw on real size changes (not just window resize): the webfont
+    // swapping in reflows the layout after first paint, which would
+    // otherwise leave a stretched, stale bitmap.
+    const canvas = document.getElementById('motif');
+    if (canvas) {
+      let raf;
+      const schedule = () => { cancelAnimationFrame(raf); raf = requestAnimationFrame(draw); };
+      new ResizeObserver(schedule).observe(canvas);
+      document.fonts?.ready?.then(schedule);
+    }
+  </script>
+</body>
+</html>
