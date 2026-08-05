@@ -34,6 +34,7 @@ import { LOCK_HASH } from '../data/lock';
     const STORAGE_KEY = 'filigrana-site-unlocked';
     const gate = document.getElementById('site-gate');
     const siteBody = document.getElementById('site-body');
+    const form = document.getElementById('site-gate-form');
 
     function unlock() {
       gate.hidden = true;
@@ -44,7 +45,19 @@ import { LOCK_HASH } from '../data/lock';
       unlock();
     }
 
-    document.getElementById('site-gate-form')?.addEventListener('submit', async (e) => {
+    // Belt-and-suspenders: Enter-to-submit should already work natively on
+    // a form with one text input and a submit button, but some browser
+    // password-manager UIs (and some in-app/embedded browsers) swallow the
+    // Enter keydown before it triggers implicit submission. Submitting
+    // explicitly here costs nothing when native submission already fired.
+    form?.querySelector('input')?.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        form.requestSubmit();
+      }
+    });
+
+    form?.addEventListener('submit', async (e) => {
       e.preventDefault();
       const input = e.currentTarget.querySelector('input[type=password]');
       const attempt = await sha256Hex(input.value.trim());
