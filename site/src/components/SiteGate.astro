@@ -1,0 +1,60 @@
+---
+// Soft, site-wide gate — same shared password as individual locked
+// articles (src/data/lock.ts). Not real security: the page HTML is still
+// delivered to any HTTP client (crawlers, curl, view-source), this just
+// hides it from casual browser visitors until they enter the password.
+// Meant for the "site is still being built" phase — remove this component
+// from Layout.astro (and the <SiteGate /> call) once ready to go fully public.
+import { LOCK_HASH } from '../data/lock';
+---
+<div id="site-gate" class="site-gate">
+  <div class="gate site-gate-box">
+    <span class="wordmark"><span class="fil">Filigrana</span><span class="dot">.</span></span>
+    <p>Este sitio está en construcción. El acceso es exclusivo para socios de la FFRH.</p>
+    <form id="site-gate-form">
+      <input type="password" placeholder="Contraseña" autocomplete="current-password" required />
+      <button type="submit">Entrar</button>
+    </form>
+    <p class="err">Contraseña incorrecta. Intenta de nuevo.</p>
+  </div>
+</div>
+
+<script define:vars={{ lockHash: LOCK_HASH }}>
+  // define:vars forces this to run as a classic, non-deferred inline
+  // script — i.e. immediately, before the rest of the document (including
+  // #site-body, which comes later in Layout.astro) has been parsed. Defer
+  // the actual work until the DOM is ready so those lookups succeed.
+  document.addEventListener('DOMContentLoaded', () => {
+    async function sha256Hex(text) {
+      const enc = new TextEncoder().encode(text);
+      const buf = await crypto.subtle.digest('SHA-256', enc);
+      return [...new Uint8Array(buf)].map((b) => b.toString(16).padStart(2, '0')).join('');
+    }
+
+    const STORAGE_KEY = 'filigrana-site-unlocked';
+    const gate = document.getElementById('site-gate');
+    const siteBody = document.getElementById('site-body');
+
+    function unlock() {
+      gate.hidden = true;
+      siteBody.hidden = false;
+    }
+
+    if (localStorage.getItem(STORAGE_KEY) === '1') {
+      unlock();
+    }
+
+    document.getElementById('site-gate-form')?.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const input = e.currentTarget.querySelector('input[type=password]');
+      const attempt = await sha256Hex(input.value.trim());
+      if (attempt === lockHash) {
+        localStorage.setItem(STORAGE_KEY, '1');
+        gate.classList.remove('err');
+        unlock();
+      } else {
+        gate.classList.add('err');
+      }
+    });
+  });
+</script>
