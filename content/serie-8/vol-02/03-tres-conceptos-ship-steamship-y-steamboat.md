@@ -1,5 +1,5 @@
 ---
-title_es: "Tres conceptos: ship, Steamship y Steamboat"
+title_es: "Tres conceptos: Ship, Steamship y Steamboat"
 title_en: ""
 slug: tres-conceptos-ship-steamship-y-steamboat
 series: 8
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Tres conceptos: ship, Steamship y Steamboat
+# Tres conceptos: Ship, Steamship y Steamboat
 Para los coleccionistas de filatelia clásica no es raro toparse de cuando en cuando con piezas marcadas con “SHIP”, “STEAMSHIP” o “STEAMBOAT”, conceptos de tratamiento postal que a veces resultan confusos, especialmente para los iniciados en el mundo filatélico. Así que en esta ocasión trataremos de aclarar dichos términos lo mejor posible.
 
 Empezaremos con “Ship” mail, que comprende las cartas que arribaban a las costas norteamericanas en barcos que no contaban con un contrato para transportar correspondencia. Remontándonos a épocas coloniales, el capitán de un barco a menudo llevaba correspondencia en sus viajes. Esta costumbre evolucionó hasta volverse un sistema formalizado a través del cual el capitán entregaba las cartas en la oficina postal del puerto de entrada, donde éstas ingresaban al flujo postal. Por este servicio el capitán recibía un pequeño estipendio, generalmente de 2 centavos por carta.

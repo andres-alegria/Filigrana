@@ -1,5 +1,5 @@
 ---
-title_es: "¿es antiguo o romano?"
+title_es: "¿Es antiguo o romano?"
 title_en: ""
 slug: es-antiguo-o-romano
 series: 6
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# ¿es antiguo o romano?
+# ¿Es antiguo o romano?
 Una autoridad editora de catálogos reduce los sellos provisionales de 1922-1923 a cuatro ejemplos sin variedades; otra, a cinco ejemplos más cinco variedades. La autoridad que parece ser la más aceptada entre coleccionistas hondureños describe aún más ejemplos (Scott 202 al 210C) y añade dos tipos de impresión. En vista de la investigación del connotado estudioso filatélico Irving Green (QDDG), nos quedamos con la autoridad más aceptada.
 
 Los dos tipos de impresión son: ANTIGUO y ROMANO. ¿Pero cuál es la diferencia y cuál su historia? ¿Por qué desaparecen?

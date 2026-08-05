@@ -1,5 +1,5 @@
 ---
-title_es: "Variedades en la emisión de celéo arias"
+title_es: "Variedades en la emisión de Céleo Arias"
 title_en: ""
 slug: variedades-en-la-emision-de-celeo-arias
 series: 8
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Variedades en la emisión de celéo arias
+# Variedades en la emisión de Céleo Arias
 Con la idea de ser autosuficiente y producir sellos postales a menor costo, el Gobierno hondureño contrató en 1889 al tipógrafo italiano Italo Ghizzoni a fin de hacerse cargo de la recién fundada Tipografía Nacional, donde se realizarían todos los trabajos impresos, tanto nacionales como de particulares. Con esta idea en mente, cuatro años después, en 1893, se decidió rescindir el contrato que se tenía con la empresa neoyorquina Hamilton Bank Note Engraving and Printing Company, suscrito también en 1889, para la producción de sellos postales por un periodo de diez años, y que sobre el particular Ghizzoni garantizaba que él los podía producir más baratos, con la misma calidad.
 
 Ghizzoni arribó a Tegucigalpa el 28 de marzo de 1890 y el 14 de abril siguiente ya había puesto manos a la obra. Su primer cometido postal fue la emisión conmemorativa al Dr. Céleo Arias, una serie conformada por ocho valores distintos, compartiendo como viñeta común el retrato del citado expresidente de Honduras. Esta emisión se había programado para ser puesta en circulación el 1 de enero de 1895, pero al aproximarse la fecha y sopesar que nunca estaría lista para entonces, tragando orgullo se tomó la decisión de solicitarle a la ABN que los sacara del apuro imprimiendo una serie más.

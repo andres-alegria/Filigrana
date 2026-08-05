@@ -1,5 +1,5 @@
 ---
-title_es: "La controversial presencia de Edward a. Burke en Honduras y su relación con la Lotería de Louisiana"
+title_es: "La controversial presencia de Edward A. Burke en Honduras y su relación con la Lotería de Louisiana"
 title_en: ""
 slug: la-controversial-presencia-de-edward-a-burke-en-honduras-y-s
 series: 6
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# La controversial presencia de Edward a. Burke en Honduras y su relación con la Lotería de Louisiana
+# La controversial presencia de Edward A. Burke en Honduras y su relación con la Lotería de Louisiana
 Investigación histórica por Edgardo Alegría Reichmann
 
 Edward Austin Burke nació el 13 septiembre 1839 y falleció el 24 septiembre de 1928. De 1878 a 1888 fungió como Tesorero Estatal de Louisiana. Fue el primer demócrata en ocupar este cargo tras la Reconstrucción. Más tarde huyó a Honduras al descubrirse que durante su gestión hubo malversación de los fondos de esta entidad. En Honduras Burke se convirtió en un terrateniente importante y ocupó cargos de gobierno dentro del sistema ferroviario. Aquí permaneció exiliado hasta su muerte, casi cuatro décadas después.

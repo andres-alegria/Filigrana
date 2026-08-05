@@ -1,5 +1,5 @@
 ---
-title_es: "Falleción don eugenio Von Boeck"
+title_es: "Falleció don Eugenio Von Boeck"
 title_en: ""
 slug: fallecion-don-eugenio-von-boeck
 series: 6
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Falleción don eugenio Von Boeck
+# Falleció don Eugenio Von Boeck
 El 22 de febrero de 2014 falleció el connotado filatelista boliviano don Eugenio Von Boeck. La filatelia boliviana e internacional causa baja de uno de sus más sólidos pilares. Cabe destacar que como jurado, el señor Von Boeck no dudó ninguna vez en apoyarnos como jurado y consejero en varias de nuestras exposiciones.
 
 Nos solidarizamos con el luto de la Federación Filatélica Boliviana, al tiempo de expresarles que el legado de tales personajes en cualquiera de nuestras sociedades debe permanecer en vigor a través de los filatelistas de relevo.

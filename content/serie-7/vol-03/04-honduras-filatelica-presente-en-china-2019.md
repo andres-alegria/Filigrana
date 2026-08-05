@@ -1,5 +1,5 @@
 ---
-title_es: "Honduras filatèlica presente en china 2019"
+title_es: "Honduras Filatélica presente en China 2019"
 title_en: ""
 slug: honduras-filatelica-presente-en-china-2019
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Honduras filatèlica presente en china 2019
+# Honduras Filatélica presente en China 2019
 “Honduras Filatélica” estuvo presente en China 2019, Wuhan, 6 al 17 de junio, obteniendo Medalla de Plata. Este logro nos anima a perseverar en esta labor. Un sincero agradecimiento a nuestro socio Alfonso Molina por su gentil apoyo en este evento.
 
 ---

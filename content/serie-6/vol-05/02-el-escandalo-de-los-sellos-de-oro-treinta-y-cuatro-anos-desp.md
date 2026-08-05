@@ -1,5 +1,5 @@
 ---
-title_es: "El escándalo de los sellos de oro treinta y cuatro años despues"
+title_es: "El escándalo de los sellos de oro treinta y cuatro años después"
 title_en: ""
 slug: el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp
 series: 6
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# El escándalo de los sellos de oro treinta y cuatro años despues
+# El escándalo de los sellos de oro treinta y cuatro años después
 Habiendo sido participante activo y testigo presencial de todo lo acontecido en lo que hoy podríamos dar en llamar el mayor escándalo filatélico del país, me parece interesante hacer un recuento de los hechos que dieron lugar a este infame episodio siete lustros atrás, bajo una óptica serena y el aporte de información surgida de situaciones similares en otros países.
 
 Todo comenzó el 23 de diciembre de 1970 con la visita de la empresa Italcambio C. A. a nuestro país para negociar con el gobierno, a través de la entonces Secretaría de Comunicaciones, Obras Públicas y Transporte (SECOPT), la masiva producción de sellos postales laminados en oro. Las negociaciones tomaron su tiempo hasta que se concluyó con la emisión del Acuerdo Ejecutivo No. 0797 del 28 de diciembre de 1979 (publicado en La Gaceta No. 22,996 el sábado 5 de enero de 1980) que a su vez dio lugar a la firma de un contrato el 9 de enero de 1980 entre el titular de SECOPT coronel Mario Flores Theresin y el presidente de Italcambio Alec P. Florentino, y que a la letra dice:

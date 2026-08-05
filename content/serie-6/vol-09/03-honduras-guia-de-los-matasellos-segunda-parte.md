@@ -1,5 +1,5 @@
 ---
-title_es: "Honduras-guía de los matasellos (segunda parte)"
+title_es: "Honduras – guía de los matasellos (segunda parte)"
 title_en: ""
 slug: honduras-guia-de-los-matasellos-segunda-parte
 series: 6
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Honduras-guía de los matasellos (segunda parte)
+# Honduras – guía de los matasellos (segunda parte)
 (Segunda parte)
 
 Parte 2A - Matasellos tipo “BARRAS”

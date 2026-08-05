@@ -1,5 +1,5 @@
 ---
-title_es: "Binafil 2019 México - Honduras"
+title_es: "Binafil 2019 México – Honduras"
 title_en: ""
 slug: binafil-2019-mexico-honduras
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Binafil 2019 México - Honduras
+# Binafil 2019 México – Honduras
 Del 15 al 19 de octubre recién pasado se realizó la primera Bi-Nacional Filatélica (BINAFIL) organizada por el Club Filatélico Querétaro con auspicio de la Federación Mexicana de Filatelia. En la Federación Filatélica de la República de Honduras (FFRH) nos sentimos honrados por haber sido los primeros en participar en esta importante exposición que ha motivado a varios filatelistas tanto en Honduras como en México.
 
 La idea de BINAFIL surgió durante una de las ya famosas reuniones del grupo de “Mi Oficina” (una especia de club social que se reúne en casi todas las exposiciones filatélicas auspiciadas por FIAF o FIP) de Alfonso Molina durante la exposición Brasilia 2017 en donde el matrimonio mexicano de Mónica Santana y Mario Bahena me manifestó esta idea, la que me pareció muy interesante pues sería otra manera de promover la filatelia hondureña. Ya en Tegucigalpa esto fue planteado a los miembros de la FFRH y la idea empezó a tomar forma.

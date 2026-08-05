@@ -1,5 +1,5 @@
 ---
-title_es: "Nos visitó nuestro socio Christian b"
+title_es: "Nos visitó nuestro socio Christian B."
 title_en: ""
 slug: nos-visito-nuestro-socio-christian-b
 series: 6
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Nos visitó nuestro socio Christian b
+# Nos visitó nuestro socio Christian B.
 CHRISTIAN BOSTVIRONAVOIS
 
 En enero de este año tuvimos el agrado de contar en una de nuestras reuniones de Junta Directiva con la presencia de nuestro socio y amigo Christian Bostvironavois. Aunque residente en Francia, Christian ha sido desde siempre un significativo colaborador de esta Federación.

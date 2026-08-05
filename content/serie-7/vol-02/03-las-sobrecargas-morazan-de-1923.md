@@ -1,5 +1,5 @@
 ---
-title_es: "Las sobrecargas “morazán” de 1923"
+title_es: "Las sobrecargas “Morazán” de 1923"
 title_en: ""
 slug: las-sobrecargas-morazan-de-1923
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Las sobrecargas “morazán” de 1923
+# Las sobrecargas “Morazán” de 1923
 ANTIGUO
 
 ROMANO

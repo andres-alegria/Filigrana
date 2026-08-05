@@ -1,5 +1,5 @@
 ---
-title_es: "¿tiene alguien un scott 106b?"
+title_es: "¿Tiene alguien un Scott 106b?"
 title_en: ""
 slug: tiene-alguien-un-scott-106b
 series: 6
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# ¿tiene alguien un scott 106b?
+# ¿Tiene alguien un Scott 106b?
 En la serie hondureña de La Locomotora (Scott 103-110), el valor de 6 cts. (106) se describe en color rojo-violeta. Seguidamente se incluye el error (106b) color rosado opaco. A pesar de indagar en los diferentes escritos respecto a esta emisión y las consultas a varios avezados coleccionistas, no he podido dar con un ejemplar que corresponda con certeza a dicho error. En este sentido, el valor normal de 5 cts. (105) color azul pálido de la misma serie, también tiene catalogado un error (105b) color rojo-violeta, muy diferente. Sin embargo, en este segundo caso el error es fácil de identificar y de relativo acceso en el mercado filatélico. Acaso, el 106b, ¿más qué un error de color pudo ser más bien una ligera variedad de color? Hay que recordar que en aquellos tiempos (1898) muchas veces los tirajes en la Tipografía Nacional no se completaban el mismo día. Incluso en ocasiones se desmontaba el trabajo en curso para darle prioridad a otras impresiones, causando al retomar la impresión, alteraciones de posicionamiento o en los colores aplicados.
 
 Si alguien tiene un 106b claramente identificado, se apreciará mucho el compartir dicha información.

@@ -1,5 +1,5 @@
 ---
-title_es: "La locomotora en la génesis del correo ambulante y paquebote"
+title_es: "La Locomotora en la génesis del correo ambulante y paquebote"
 title_en: ""
 slug: la-locomotora-en-la-genesis-del-correo-ambulante-y-paquebote
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# La locomotora en la génesis del correo ambulante y paquebote
+# La Locomotora en la génesis del correo ambulante y paquebote
 CORREO AMBULANTE Y CORREO PAQUEBOTE
 
 Han salido a la luz nuevos datos que establecen de manera precisa la fecha y condiciones bajo las cuales inició el correo ambulante del tren en el país.

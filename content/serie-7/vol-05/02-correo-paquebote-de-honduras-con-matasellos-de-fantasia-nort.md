@@ -1,5 +1,5 @@
 ---
-title_es: "Correo paquebote de Honduras con matasellos de fantasia norteamericanos"
+title_es: "Correo paquebote de Honduras con matasellos de fantasía norteamericanos"
 title_en: ""
 slug: correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Correo paquebote de Honduras con matasellos de fantasia norteamericanos
+# Correo paquebote de Honduras con matasellos de fantasía norteamericanos
 MATASELLOS DE FANTASÍA DE LOS USA
 
 Al estudiar el correo paquebote circulado a los Estados Unidos, he encontrado algunas piezas mataselladas con unas peculiares marcas de llegada, especialmente el correo con entrada por el puerto de Mobile, Alabama, en las primeras dos décadas del siglo XX.

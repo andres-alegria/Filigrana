@@ -1,5 +1,5 @@
 ---
-title_es: "Iriona ¿una agencia postal descuidada?"
+title_es: "Iriona, ¿una agencia postal descuidada?"
 title_en: ""
 slug: iriona-una-agencia-postal-descuidada
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Iriona ¿una agencia postal descuidada?
+# Iriona, ¿una agencia postal descuidada?
 Nos ha llamado la atención un hecho recurrente vinculado a la agencia postal de Iriona, cuando poco a poco se van detectando piezas circuladas durante la última década del Siglo XIX con evidentes fallas en el manejo de las especies postales y los portes aplicados. Esto no significa que el resto del sistema postal estaba libre de tales descuidos, pero considerando el minúsculo movimiento que pudo darse en este tipo de agencias, estos errores se magnifican estadísticamente en proporción a las de mayor tamaño. Por lo general estas agencias eran atendidas por un agente y un cartero, lo que conlleva a que la calidad del desempeño quedaba sujeta a una sola persona, y siendo esta localidad una de las más remotas al Este del país, colindando con la vasta jungla de la Mosquitia, no habrán sido muchos los personajes idóneos disponibles en los alrededores o los dispuestos a trasladarse a esa recóndita región, amén de las dificultades para hacer llegar oportunamente las especies e implementos postales.
 
 En este punto es necesario remontarse a la historia del municipio de Iriona, cuando en los años 1780´s los negros garífunas procedentes de San Vicente llegaron a Roatán. De aquí un grupo se desplazó a la zona costera, volviéndose Iriona una aldea de la ciudad de Trujillo conformada por las etnias garífuna, misquita y paya. En 1892 Iriona recibió la declaratoria de municipio como Iriona Viejo. El origen de su nombre surgió de la lengua misquita “iri” que significa espina y “ona” una, traduciéndose como “una espina”.

@@ -1,5 +1,5 @@
 ---
-title_es: "Los permitase de la Casa Kohncke"
+title_es: "Los permítase de la Casa Kohncke"
 title_en: ""
 slug: los-permitase-de-la-casa-kohncke
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Los permitase de la Casa Kohncke
+# Los permítase de la Casa Kohncke
 ¿Qué sería de la filatelia sin el aporte de la correspondencia comercial? Cualquier filatelista de inmediato respondería que sería una carencia que afectaría la conformación de cualquier colección seria. En efecto, el flujo epistolar local e internacional ejercido por el comercio, ha aportado material de estudio que de otra manera sería muy difícil de encontrar. Tal es el uso de portes más elevados, de marcas especiales y de destinos inusuales. Estas particularidades se han puesto de manifiesto al analizar el material producto del desarrollo comercial de la colonia alemana establecida a partir del siglo XIX en la ciudad puerto de Amapala en la isla de El Tigre, en el Pacífico hondureño; especialmente en lo concerniente a la marca de control PERMITASE, aplicada exclusivamente en esta localidad.
 
 Este artículo se centra en la aplicación de la marca PERMITASE sobre los sellos de La Locomotora (Scott 103-110) en 1898 y la de Santos Guardiola (Scott 111-118) en 1903. La serie de Céleo Arias (Scott 95-102) alcanzaría el término de su vigencia el 1 de agosto de 1898, cuando entraría en circulación La Locomotora, pero ésta no llegó a Amapala sino tres semanas después. Ante el atraso, las autoridades locales idearon contramarcar los sellos por Ley ya obsoletos a manera de validar su circulación hasta el arribo de la nueva emisión. Los sellos nuevos llegaron alrededor del 20 de agosto, los cuales, sin razón aparente, también recibieron la contramarca en mención. El autor ha llegado a la conclusión que dicha marca fue aplicada a la nueva serie por principio de simpleza emanado de la orden impartida de manera general. Podríamos imaginar que el jefe ordenó ¡contramarquen los sellos!, y el subalterno, muy sumiso y diligente, lo hizo con los obsoletos y luego con los entrantes; acción que también incluyó a los timbres fiscales. Sin importar las causas de este hecho, lo esencial es el valioso aporte filatélico surgido a raíz de esta muy codiciada contramarca.

@@ -1,5 +1,5 @@
 ---
-title_es: "Se suprime el oficio de correo Mayor del Reino de Guatemala"
+title_es: "Se suprime el oficio de Correo Mayor del Reino de Guatemala"
 title_en: ""
 slug: se-suprime-el-oficio-de-correo-mayor-del-reino-de-guatemala
 series: 6
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Se suprime el oficio de correo Mayor del Reino de Guatemala
+# Se suprime el oficio de Correo Mayor del Reino de Guatemala
 CORREO MAYOR DE GUATEMALA por Edgardo Alegría Reichmann
 
 Se presenta el siguiente documento colonial como una pieza de alto interés filatélico en virtud de la importancia que en su momento jugó la actividad postal del Correo Mayor de Guatemala, el cual por última vez estuvo a cargo de Don Pedro Ortiz de Letona, de quien se ha recopilado información en relación a su entorno familiar para que nos ubiquemos en la perspectiva correcta de cómo se manejaban las actividades comerciales de entonces. Sin embargo es oportuno enterarnos un poco de cómo inició y se desarrolló el sistema de correos en el Reino de Guatemala.

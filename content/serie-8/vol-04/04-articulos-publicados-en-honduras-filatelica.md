@@ -1,5 +1,5 @@
 ---
-title_es: "Artículos publicados en Honduras filatélica"
+title_es: "Artículos publicados en Honduras Filatélica"
 title_en: ""
 slug: articulos-publicados-en-honduras-filatelica
 series: 8
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Artículos publicados en Honduras filatélica
+# Artículos publicados en Honduras Filatélica
 A continuación se presenta en orden cronológico la lista de todos los artículos publicados hasta hoy en Honduras Filatélica, partiendo del volumen 4, serie 1 de 1977. Se aclara que se excluyen los tres primeros números por contener únicamente los reportes de los miembros de la Junta Directiva de aquel entonces.
 
 Si alguno de los lectores está interesado en obtener copias en físico blanco y negro de alguno de estos artículos, se le pueden suministrar a un costo de L2.00 por hoja o su equivalente en dólares al cambio del momento, más el costo de envío por correo certificado. Es necesario contactar previamente a esta Federación a fin de conocer de cuántas hojas consiste el material solicitado, lo cual se puede realizar vía el correo electrónico publicado en este Directorio. Para cualquier solicitud, además del nombre, por favor mencionar el número correlativo, el año, el volumen y la serie respectiva. En caso de interés, los tres primeros ejemplares están también disponibles.

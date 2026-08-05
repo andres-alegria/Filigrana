@@ -1,5 +1,5 @@
 ---
-title_es: "El caso del Scott c20b, usado"
+title_es: "El caso del Scott C20b, usado"
 title_en: ""
 slug: el-caso-del-scott-c20b-usado
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# El caso del Scott c20b, usado
+# El caso del Scott C20b, usado
 Hace unos días que recibí un grupo de sellos en el correo. Encontré en la colección unos sellos de 1931, un C20a y un C20b. El C20a estaba en un grupo de seis y sin usar. Un sello que me faltaba. ¡Muy bien! No necesitaba el C20b pero era interesante por dos razones: Por ser este sello vendido en el Ebay en marzo de 2016 por más de cincuenta dólares; y por llevar un matasello en una forma interesante, muy mezclada y confusa. Una ilustración del sello sigue:
 
 A primera vista el matasello me parecía falso. Dado que en la condición usada en este sello es mucho más raro. Los matasellos falsos usualmente son muy simples o débiles. Por eso puse una foto del sello en la computadora y lo hice mucho más grande. En un programa gráfico pinté todas las huellas del matasello en blanco. El resultado es mostrado a continuación:

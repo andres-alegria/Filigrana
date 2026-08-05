@@ -1,5 +1,5 @@
 ---
-title_es: "Los sellos sobretasa “centenario de la muerte del General Francisco morazán” y “cruz Roja hondureña”"
+title_es: "Los sellos sobretasa “Centenario de la muerte del General Francisco Morazán” y “Cruz Roja Hondureña”"
 title_en: ""
 slug: los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra
 series: 6
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Los sellos sobretasa “centenario de la muerte del General Francisco morazán” y “cruz Roja hondureña”
+# Los sellos sobretasa “Centenario de la muerte del General Francisco Morazán” y “Cruz Roja Hondureña”
 y “CRUZ ROJA HONDUREÑA”
 
 Estas dos sobretasas postales a la fecha son las únicas autorizadas de manera explicita por el gobierno de Honduras. Al respecto, el 17 de abril de 1973 se emitió la serie conmemorativa al poeta Juan Ramón Molina (Scott C527-30) de cuya venta se suponía una parte estaría destinada para la Academia Hondureña de la Lengua, intención que se malogró por no haber quedado establecido este extremo en el acuerdo de emisión.

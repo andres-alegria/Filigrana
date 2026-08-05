@@ -1,5 +1,5 @@
 ---
-title_es: "Enigmas de la Litografía nacional al imprimir la emisión postal de 1896"
+title_es: "Enigmas de la Litografía Nacional al imprimir la emisión postal de 1896"
 title_en: ""
 slug: enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Enigmas de la Litografía nacional al imprimir la emisión postal de 1896
+# Enigmas de la Litografía Nacional al imprimir la emisión postal de 1896
 El 1 de enero de 1896 fue puesta en circulación la serie postal “Céleo Arias” (Scott 87-94), la primera impresa en Honduras. Previamente, la historia postal vernácula sólo contaba en su haber con siete emisiones. La primera de 1865 supuestamente elaborada en Bélgica y las subsiguientes seis producto del acuerdo para la elaboración gratuita de sellos que el empresario germano norteamericano Nicolás Frederick Seebeck firmó con este país. En 1896, tras sufrir una y otra revolución armada, el país continuaba sumergido en un catastrófico déficit fiscal que ahogaba cualquier intento de salir a flote. Apenas emergía un Gobierno constitucional o de facto, los derrotados no perdían tiempo en exiliarse o enmontañarse para regresar belicosos, con razón o no, a derrocar al gobernante de turno. Los deprimidos ingresos de la Hacienda pública, en gran medida se presupuestaban para aupar a un empobrecido y desgarbado ejército con la esperanza de asegurarse un periodo regular en el poder. Lo demás se resolvía pagando un poco por aquí y otro por allá; retrasando el pago a los empleados públicos, muchas veces con especies postales, al tiempo de enjaranarse con deuda interna y externa a como diese lugar, como si los gobernantes tuviesen como objetivo común crear pobreza y caos.
 
 Algunos detalles fuera de lo común, implícitos en esta octava emisión, van mucho más allá de lo que aparentan a primera vista sus ocho valores y sus cuatro enteros postales. Las circunstancias en que éstos vieron la luz y su posterior manejo nos han llevado a indagar hasta donde ha sido posible acerca del por qué de tales elementos a fin de poder concluir con las posibles respuestas. Sin embargo, para abordar el tema, antes considero necesario enmarcar esta emisión en el contexto histórico en que se debatía en esos días la nación hondureña.

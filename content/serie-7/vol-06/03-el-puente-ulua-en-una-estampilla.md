@@ -1,5 +1,5 @@
 ---
-title_es: "¿el puente Ulúa en una estampilla?"
+title_es: "¿El puente Ulúa en una estampilla?"
 title_en: ""
 slug: el-puente-ulua-en-una-estampilla
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# ¿el puente Ulúa en una estampilla?
+# ¿El puente Ulúa en una estampilla?
 En 1915 el gobierno del presidente Francisco Bertrand B. (1915-1919) inauguró el entonces majestuoso puente sobre el río Ulúa que daría continuidad por 5 kms. adicionales entre Pimienta y Potrerillos a la ruta del ferrocarril trans-oceánico en un esfuerzo más por alcanzar la costa del Pacífico. La importancia del suceso fue tal como para quedar plasmado en cuatro valores de la emisión postal de ese mismo año.
 
 Tras desafiar por 105 años las furiosas correntadas provocadas por múltiples huracanes, la estoica mole al fin sucumbió el pasado 5 de noviembre ante el embate del huracán Eta y, aún más dañino, ante el indolente abandono gubernamental.

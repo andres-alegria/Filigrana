@@ -1,5 +1,5 @@
 ---
-title_es: "Censura postal CIVIL al correo de Honduras durante la Segunda guerra Mundial"
+title_es: "Censura postal civil al correo de Honduras durante la Segunda Guerra Mundial"
 title_en: ""
 slug: censura-postal-civil-al-correo-de-honduras-durante-la-segund
 series: 8
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Censura postal CIVIL al correo de Honduras durante la Segunda guerra Mundial
+# Censura postal civil al correo de Honduras durante la Segunda Guerra Mundial
 Durante la Segunda Guerra Mundial, tanto los Aliados como el Eje (Alemania, Italia, Japón) instituyeron la censura postal del correo civil. Las organizaciones más grandes eran las de los Estados Unidos, aunque el Reino Unido empleaba a unos 10,000 censores, mientras que Irlanda, un pequeño país neutral, sólo empleaba unos 160. La censura era aplicada tanto al correo en su destino como al de tránsito. La primera categoría se refería al correo de salida a ser entregado en el extranjero, o del extranjero para ser entregado localmente. El segundo tipo de correo lo conformaba el que pasaba de camino de un país a otro.
 
 La censura comenzó extrayendo una muestra de cartas del flujo postal. Éstas eran entregadas a los "examinadores" en paquetes de doce. Cada carta era revisada por turno. El examinador comprobaba la dirección, utilizaba un cortapapeles para abrir el sobre para comprobar si había alguna escritura oculta, leía la carta y decidía qué hacer a continuación. Si la carta no contenía nada de interés, se clasificaba como correspondencia inofensiva y se regresaba para que siguiese su curso. Pero si contenía información con valor de seguridad o inteligencia, se pasaba a un "Asistente de Censor de Servicio". Era su trabajo decidir si la carta contravenía el Reglamento de Censura y si se podía proteger eliminando el texto infractor. En casos más preocupantes, el censor tenía derecho a “condenar” la carta o a pasarla a los servicios de seguridad.

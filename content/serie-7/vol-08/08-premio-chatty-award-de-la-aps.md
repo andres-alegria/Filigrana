@@ -1,5 +1,5 @@
 ---
-title_es: "Premio \"chatty award\" de la aps"
+title_es: "Premio “Chatty Award” de la APS"
 title_en: ""
 slug: premio-chatty-award-de-la-aps
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Premio "chatty award" de la aps
+# Premio “Chatty Award” de la APS
 El 4 de febrero de 2021 la American Philatelic Society (APS) entregó sus premios "Chatty Awards" a las mejores presentaciones virtuales de sus charlas Stamp Chat realizadas en el 2020.
 
 Se juzgó dentro de siete categorías: 1) Conectando la filatelia con el mundo profesional 2) Las estampillas enseñan 3) Filatelia creativa 4) Filatelia digital 5) Filatelia Cultural 6) Destino filatélico y 7) Narración filatélica.

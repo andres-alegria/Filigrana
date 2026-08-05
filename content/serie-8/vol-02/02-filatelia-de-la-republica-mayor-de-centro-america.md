@@ -1,5 +1,5 @@
 ---
-title_es: "Filatelia de la república Mayor de Centro América"
+title_es: "Filatelia de la República Mayor de Centro América"
 title_en: ""
 slug: filatelia-de-la-republica-mayor-de-centro-america
 series: 8
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Filatelia de la república Mayor de Centro América
+# Filatelia de la República Mayor de Centro América
 A finales de 1894, el Dr. Policarpo Bonilla fue electo Presidente de Honduras, iniciando su mandato el 1 de febrero de 1895. El Dr. Bonilla era un ávido creyente de la Unión de Centro América, de manera que invitó a todos los presidentes centroamericanos a una conferencia para discutir el proyecto.
 
 El 20 de junio de 1895 en la ciudad puerto de Amapala, además del presidente Bonilla, concurrieron a este primer encuentro los presidentes José Santos Zelaya de Nicaragua y Rafael Antonio Gutiérrez de El Salvador, A pesar del hecho que los gobernantes de Costa Rica y Guatemala no asistieron, los jefes de estado de los tres países presentes firmaron el pacto que le dio vida a la República Mayor de Centroamérica, el cual que pasó a llamarse Pacto de Amapala. A fin de evitar incomodidades y sospechas maliciosas, el Tratado contemplaba la unión voluntaria de Guatemala y Costa Rica. En realidad, era un proyecto confederal ya que los Estados miembros conservarían su autonomía e independencia política y la vigencia de sus propias constituciones.

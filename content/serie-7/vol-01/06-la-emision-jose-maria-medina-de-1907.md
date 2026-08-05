@@ -1,5 +1,5 @@
 ---
-title_es: "La emisión José maría Medina de 1907"
+title_es: "La emisión José María Medina de 1907"
 title_en: ""
 slug: la-emision-jose-maria-medina-de-1907
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# La emisión José maría Medina de 1907
+# La emisión José María Medina de 1907
 A pesar de la considerable existencia de remanentes de la emisión de “José Santos Guardiola” (1903), el 1 de enero de 1907, consecuentes con el Artículo No. 62 de la Ley Orgánica de Correos que estipulaba una nueva emisión cada cuatro años, se puso en circulación la serie diseñada con la imagen del general y expresidente José María Medina.
 
 El 8 de febrero de 1906 el periódico oficial La Gaceta anunciaba la autorización de esta emisión de cuatro millones de sellos postales de ocho denominaciones distintas que serían puestos en circulación en la fecha ya citada bajo las siguientes especificaciones:

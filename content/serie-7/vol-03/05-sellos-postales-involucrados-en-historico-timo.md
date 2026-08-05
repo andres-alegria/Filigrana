@@ -1,5 +1,5 @@
 ---
-title_es: "Sellos postales involucrados en històrico timo"
+title_es: "Sellos postales involucrados en histórico timo"
 title_en: ""
 slug: sellos-postales-involucrados-en-historico-timo
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Sellos postales involucrados en històrico timo
+# Sellos postales involucrados en histórico timo
 Tema investigado por Edgardo Alegría R.
 
 Carlo Ponzi fue un italiano, nacido en Lugo en el año 1882, que más tarde emigraría a los Estados Unidos. Él es el personaje con el cual se identifica el fraude financiero conocido como “esquema Ponzi” o mas comúnmente como “pirámide”, por el cual llegó a recolectar 9.8 millones de dólares procedentes de 10,550 personas para luego pagar sólo 7.8 millones en apenas ocho meses cuando corría el año 1920.

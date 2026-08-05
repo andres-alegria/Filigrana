@@ -1,5 +1,5 @@
 ---
-title_es: "Quedan abolidos los titulo de distincio en las provincias Unidas del centro de america"
+title_es: "Quedan abolidos los títulos de distinción en las Provincias Unidas del Centro de América"
 title_en: ""
 slug: quedan-abolidos-los-titulo-de-distincio-en-las-provincias-un
 series: 6
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Quedan abolidos los titulo de distincio en las provincias Unidas del centro de america
+# Quedan abolidos los títulos de distinción en las Provincias Unidas del Centro de América
 Como podrá observarse el Decreto es remitido “Al ciudadano José Velasco” indicando la inmediata aplicación de un tratamiento más republicano.
 
 Tal parece que el mandato tuvo efecto por lo menos a nivel gubernamental tal como se puede apreciar en la carta anterior despachada en 1832 de Guatemala a Comayagua y dirigida al Cno. (Ciudadano) Coronel José Antonio Márquez, Jefe del Estado de Honduras. En este sentido se estableció una diferencia entre las tendencias liberales y las conservadoras de aquel entonces, lo que quedó plasmado en la correspondencia como una evolución del protocolo epistolar y que filatélicamente y gracias al Decreto en mención ahora puede quedar enmarcado en una época determinada partiendo del 30 de julio de 1823.

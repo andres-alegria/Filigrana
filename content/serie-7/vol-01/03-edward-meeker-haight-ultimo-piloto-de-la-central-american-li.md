@@ -1,5 +1,5 @@
 ---
-title_es: "Edward meeker haight, último piloto de la Central American Line"
+title_es: "Edward Meeker Haight, último piloto de la Central American Line"
 title_en: ""
 slug: edward-meeker-haight-ultimo-piloto-de-la-central-american-li
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Edward meeker haight, último piloto de la Central American Line
+# Edward Meeker Haight, último piloto de la Central American Line
 Nació en Astoria, condado de Queens, Nueva York, el 30 de mayo de 1896. A los veinte años se alistó en la Guardia Nacional de Nueva York el 21 de junio de 1916, siendo asignado al servicio de la frontera mexicana del 27 de octubre de 1916 al 21 de junio de 1917.
 
 Seguidamente, el 23 de agosto de 1917, fue transferido a la Sección Aérea del Cuerpo de Señales del Ejército de los Estados Unidos, para entrenamiento de piloto, dado de alta como Teniente Primero y obteniendo sus alas de piloto el 13 de abril de 1918.

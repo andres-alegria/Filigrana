@@ -1,5 +1,5 @@
 ---
-title_es: "Dr. Raúl Durón membreño, un personaje controvertido"
+title_es: "Dr. Raúl Durón Membreño, un personaje controvertido"
 title_en: ""
 slug: dr-raul-duron-membreno-un-personaje-controvertido
 series: 8
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# Dr. Raúl Durón membreño, un personaje controvertido
+# Dr. Raúl Durón Membreño, un personaje controvertido
 Al remontarnos a la historia de figuras como Jean Sperati, Francois Fournier o Charles R. Dethuin, protagonistas de hartas irregularidades de la filatelia hondureña, nos encontramos inevitablemente con uno más de estos emprendedores cuyo accionar aún hoy perjudica la manera de coleccionar nuestros sellos. Nos referimos a Ángel Raúl Durón Membreño, mejor conocido como Dr. Raúl Durón Membreño, personaje procedente de una respetable familia capitalina, nacido en Pespire en 1894, hijo de Julio César Durón Gamero y Juana María de los Ángeles Membreño Rosa, graduado de odontólogo en los Estados Unidos de América y establecido en Tegucigalpa en el barrio La Ronda, avenida Cervantes, casa no. 104.
 
 Posteriormente a algunos deslices amorosos, contrajo nupcias con Leticia Zúniga, con quien procreó a José Alberto Durón Z. (Pespire 4 septiembre 1926), Raúl Lempira Durón Z. (Tegucigalpa 6 mayo 1929) y a Rómulo César Durón Z. (Tegucigalpa 28 diciembre 1930).

@@ -1,5 +1,5 @@
 ---
-title_es: "El sueño del ferrocarril interoceànico trasciende a la filatelia"
+title_es: "El sueño del ferrocarril interoceánico trasciende a la filatelia"
 title_en: ""
 slug: el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat
 series: 7
@@ -19,7 +19,7 @@ lang_available: [es]
 review: []
 ---
 
-# El sueño del ferrocarril interoceànico trasciende a la filatelia
+# El sueño del ferrocarril interoceánico trasciende a la filatelia
 En 1979 fue subastado por US$1,100.00, calificado como una rareza nunca antes vista, un lote de cinco sobres paquebote conteniendo sus respectivas cartas, remitidos entre 1857 y 1858 desde Honduras a los Estados Unidos de América, con el atractivo adicional de contener dos de ellas viñetas de multa. Tras haber sido rematadas, vuelven en el 2010 a surgir en otra subasta, rematadas esta vez por 2,200.00 euros. Tuvieron que pasar 10 años para que tres de ellas nuevamente salieran al mercado en el 2019, siendo subastadas de manera individual. Afortunadamente del total inicial de cinco, tres ya se encuentran en manos de filatelistas hondureños.
 
 Las cartas fueron remitidas por uno de los ingenieros que conformaba el equipo contratado para levantar el estudio de la ruta del ferrocarril que cruzaría el país de la costa del Atlántico a la del Pacífico. Al tener hoy la oportunidad de leerlas, me percato que además del alto valor filatélico son asimismo contentivas de un significativo valor histórico/geográfico que se desparrama a través de la pintoresca narrativa que fluye a lo largo de sus páginas. El joven y entusiasta ingeniero no pasa por alto detalle alguno al plasmarle a su hermana sus peripecias cruzando a lo largo de un año el territorio nacional, razón por la cual decidí profundizar en la historia que se desprende de éllas y plasmar en esta ocasión una parte inédita del infecundo proyecto del ferrocarril transoceánico.
