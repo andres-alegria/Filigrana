@@ -7,7 +7,7 @@
 // from Layout.astro (and the <SiteGate /> call) once ready to go fully public.
 import { LOCK_HASH } from '../data/lock';
 ---
-<div id="site-gate" class="site-gate">
+<div id="site-gate" class="site-gate" data-hash={LOCK_HASH}>
   <div class="gate site-gate-box">
     <span class="wordmark"><span class="fil">Filigrana</span><span class="dot">.</span></span>
     <p>Este sitio está en construcción. El acceso es exclusivo para socios de la FFRH.</p>
@@ -19,35 +19,31 @@ import { LOCK_HASH } from '../data/lock';
   </div>
 </div>
 
-<script define:vars={{ lockHash: LOCK_HASH }}>
-  // define:vars forces this to run as a classic, non-deferred inline
-  // script — i.e. immediately, before the rest of the document (including
-  // #site-body, which comes later in Layout.astro) has been parsed. Defer
-  // the actual work until the DOM is ready so those lookups succeed.
-  document.addEventListener('DOMContentLoaded', () => {
-    async function sha256Hex(text) {
-      // crypto.subtle only exists in a secure context (valid HTTPS). If a
-      // visitor somehow lands on a mismatched-certificate connection, this
-      // throws — catch it so the form shows an error instead of hanging
-      // forever with no feedback.
-      if (!window.crypto?.subtle) {
-        throw new Error('crypto.subtle unavailable (insecure context)');
-      }
-      const enc = new TextEncoder().encode(text);
-      const buf = await crypto.subtle.digest('SHA-256', enc);
-      return [...new Uint8Array(buf)].map((b) => b.toString(16).padStart(2, '0')).join('');
-    }
+<script>
+  // NOTE: this is a normal (bundled, deferred) module script, not a
+  // `define:vars` one. define:vars forces an inline *classic* script that
+  // runs before the DOM is parsed and cannot use imports — the hash is
+  // passed via the data-hash attribute instead.
+  import { sha256Hex } from '../lib/sha256.js';
 
-    const STORAGE_KEY = 'filigrana-site-unlocked';
-    const gate = document.getElementById('site-gate');
-    const siteBody = document.getElementById('site-body');
-    const form = document.getElementById('site-gate-form');
+  const STORAGE_KEY = 'filigrana-site-unlocked';
+  const gate = document.getElementById('site-gate');
+  const siteBody = document.getElementById('site-body');
+  const form = document.getElementById('site-gate-form');
+
+  if (gate && siteBody && form) {
+    const lockHash = gate.dataset.hash;
+    // The "wrong password" message is shown by the `.gate.err .err` rule,
+    // so the class has to go on the inner .gate box — not on #site-gate
+    // (which carries .site-gate). Getting this wrong means a bad password
+    // gives no feedback at all, which reads as "nothing happened".
+    const box = gate.querySelector('.gate');
 
     // Some browsers throw on any localStorage access at all (strict privacy
     // settings, certain private-browsing modes, some ad/tracker blockers) —
-    // an unguarded call here would abort this whole script before the
-    // submit handler below ever gets attached, silently breaking the gate.
-    // Degrade gracefully: unlocking just won't be "remembered" next visit.
+    // an unguarded call would abort this script before the submit handler
+    // below ever gets attached. Degrade gracefully: unlocking just won't be
+    // "remembered" next visit.
     function safeGet(key) {
       try { return localStorage.getItem(key); } catch { return null; }
     }
@@ -67,31 +63,30 @@ import { LOCK_HASH } from '../data/lock';
     // Belt-and-suspenders: Enter-to-submit should already work natively on
     // a form with one text input and a submit button, but some browser
     // password-manager UIs (and some in-app/embedded browsers) swallow the
-    // Enter keydown before it triggers implicit submission. Submitting
-    // explicitly here costs nothing when native submission already fired.
-    form?.querySelector('input')?.addEventListener('keydown', (e) => {
+    // Enter keydown before it triggers implicit submission.
+    form.querySelector('input')?.addEventListener('keydown', (e) => {
       if (e.key === 'Enter') {
         e.preventDefault();
         form.requestSubmit();
       }
     });
 
-    form?.addEventListener('submit', async (e) => {
+    form.addEventListener('submit', async (e) => {
       e.preventDefault();
-      const input = e.currentTarget.querySelector('input[type=password]');
+      const input = form.querySelector('input[type=password]');
       try {
         const attempt = await sha256Hex(input.value.trim());
         if (attempt === lockHash) {
           safeSet(STORAGE_KEY, '1');
-          gate.classList.remove('err');
+          box?.classList.remove('err');
           unlock();
         } else {
-          gate.classList.add('err');
+          box?.classList.add('err');
         }
       } catch (err) {
         console.error('Filigrana site gate: could not verify password', err);
-        gate.classList.add('err');
+        box?.classList.add('err');
       }
     });
-  });
+  }
 </script>
