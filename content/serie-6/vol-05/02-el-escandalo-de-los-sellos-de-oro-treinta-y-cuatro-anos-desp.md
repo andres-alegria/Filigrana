@@ -163,18 +163,18 @@ Boletín Panorama: enero-febrero de 1982. San José, Costa Rica.
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image2.webp)
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/goldenreplica-1.webp)
 
-![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image3.webp)
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/goldenreplica-2.webp)
 
-![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image4.webp)
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/goldenreplica-3.webp)
 
-![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image5.webp)
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/goldenreplica-4.webp)
 
-![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image6.webp)
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/goldenreplica-5.webp)
 
-![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image7.webp)
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/goldenreplica-6.webp)
 
-![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image8.webp)
+![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/goldenreplica-7.webp)
 
 ![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp/image9.webp)
