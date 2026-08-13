@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 const repoRoot = fileURLToPath(new URL('..', import.meta.url));
 
 export default defineConfig({
-  site: 'https://filigrana.hn',
+  site: 'https://www.filigrana.hn',
   output: 'static',
   vite: {
     server: {
