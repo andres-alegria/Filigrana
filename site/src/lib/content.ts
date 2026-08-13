@@ -70,7 +70,12 @@ export function wrapImages(html: string): string {
 
   let m: RegExpExecArray | null;
   while ((m = IMG_P_RE.exec(html)) !== null) {
-    out += html.slice(lastEnd, m.index);
+    const between = html.slice(lastEnd, m.index);
+    // Prose between two loose images ends the run. Without this, a second
+    // group further down the article merges into the first one's grid and the
+    // text in between gets hoisted above it, silently reordering the article.
+    if (between.trim()) flushGallery();
+    out += between;
     const [, src, alt] = m;
     if (alt) {
       flushGallery();

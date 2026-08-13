@@ -22,9 +22,15 @@ review: []
 # El músico que sí merecía un sello postal
 Carlos Humberto Daniel Cano Romero fue un virtuoso violinista y compositor, nacido en Tegucigalpa el 12 de febrero de 1906, siendo sus padres Hipólito Cano y María del Carmen Romero Johanin. Fueron sus padrinos de bautismo el expresidente Policarpo Bonilla y su esposa.
 
+![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image37-engraved.webp)
+
 > En la iglesia parroquial de san Miguel de Tegucigalpa el día dos de mayo de mil novecientos seis, yo el cura encargado de esta Parroquia, bauticé solemnemente a un niño que nació el doce de febrero del presente año, poniéndole el nombre de Carlos Humberto Daniel, es hijo legítimo de Hipólito Cano y María del Carmen Romero. Fueron padrinos Policarpo Bonilla y Emma Bonilla. Santiago Zelaya.
 
+![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image35.webp)
+
 > Carlos Humberto Daniel Cano. En Tegucigalpa, a las tres de la tarde del jueves veintidós de febrero de mil novecientos seis, ante mi Simón Padilla M., Secretario Municipal y ante los testigos… compareció Hipólito Cano, hondureño, de veintisiete años de edad, casado, litógrafo…que el lunes 12 del mes en curso…nació un varón….
+
+![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image36.webp)
 
 Siendo un adolescente su padre (el aprendiz de litógrafo que sustituyó a don Italo Ghizzoni) lo envió a Italia a estudiar música porque los maestros de violín en Centroamérica ya no tenían más que enseñarle.
 
@@ -73,12 +79,3 @@ González Paredes, José D. Camino Real, Crónicas de Honduras. 2023. Tegucigalp
 -----------------------------------------------------------------------------------------------
 
 ---
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image37-engraved.webp)
-
-![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image35.webp)
-
-![](/img/serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal/image36.webp)

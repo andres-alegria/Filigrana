@@ -22,6 +22,8 @@ review: []
 # ¿Pasó Albert Einstein por Amapala?
 Por muchos años se ha platicado del mito urbano acerca de la presencia en la ciudad puerto de Amapala, isla de El Tigre, del renombrado físico alemán Albert Einstein (14 de marzo 1879-18 de abril 1955). Entre las diversas versiones manejadas se ha afirmado que en los años 1940´s había permanecido en la isla como huésped del comerciante local Pablo Uhler, o que había sido trasladado por los norteamericanos a este lugar para librarlo de persecución enemiga. Incluso, un amigo personal me aseguraba poseer en la familia una foto de su abuela amapalina acompañada del célebre personaje. En fin, una serie de especulaciones que el tiempo se ha encargado de arropar con una buena dosis de fantasía. En aras de desvelar tan llamativo hecho, resolví tomar ventaja de las fabulosas herramientas que la informática pone a nuestro alcance, por lo que de manera cronológica presento una relación sucinta de las ocasiones en que Einstein pisó tierras americanas, especialmente las del Centro y Sur del continente.
 
+![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/einstein-milenio-2000.webp)
+
 En noviembre de 1923, Einstein había aceptado la invitación que le hiciera la Sociedad Hebraica Argentina, solicitando ser incluida también la Universidad de Buenos Aires debido a anteriores declinaciones y de la cual había recibido el título de Doctor Honoris Causa.
 
 Recién en abril de 1924, a través de una carta, Einstein manifestó sentirse conmovido y honrado por la invitación, lamentó no poder acceder en ese año y solicitó mantener la propuesta para 1925. Tal es así que, en octubre de 1924 llegó la noticia por vía diplomática, de que Einstein se embarcaría hacia Brasil, Uruguay y Argentina en marzo de 1925. El 6 de marzo de este año, Einstein parte de Hamburgo a bordo del SS Capitán Polonio, recalando en Bolonia y Bilbao, arribando a Río de Janeiro el 21.
@@ -54,7 +56,9 @@ El 22 de diciembre de 1931 el barco recala brevemente en Amapala, tal como lo ev
 
 > > "Amapala, ¡en Honduras! Por eso es que no habían recibido mensajes nuestros."
 
-Excelsa pieza tanto en el orden filatélico como en el histórico.
+![Excelsa pieza tanto en el orden filatélico como en el histórico.](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image4.webp)
+
+![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image5.webp)
 
 Respecto a esta visita, el genial científico detalla en su diario personal de viaje las siguientes entradas:
 
@@ -62,9 +66,11 @@ Respecto a esta visita, el genial científico detalla en su diario personal de v
 >
 > "Nos quedamos hasta mediodía, porque había que descargar. Un francés y una mujer de Bremen nos visitaron a bordo. Los nativos tienen todos sífilis, pero algunos malaria. 36 ½ grados a la sombra. Gran volcán con una nube de ceniza eterna visible por un buen rato a la partida. Escena indescriptiblemente pintoresca."
 
+![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image6.webp)
+
 Nota de editor: En realidad el cono volcánico de la isla suele estar cubierto de nubes corrientes ya que desde hace cientos de años es un volcán extinto.
 
-Amapala en los años 1930´s tal como la habrá apreciado Einstein.
+![Amapala en los años 1930´s tal como la habrá apreciado Einstein.](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image7.webp)
 
 Al siguiente día, 23 de diciembre, el barco atracó en el puerto salvadoreño de La Libertad.
 
@@ -72,7 +78,7 @@ De regreso a Alemania, Einstein y Elsa zarpan de Los Ángeles el 4 de marzo de 1
 
 En un nuevo viaje a los Estados Unidos, la pareja se embarca en Bremen en el MS Oakland el 10 de diciembre de 1932, llegando a Amberes el 11, y partiendo de este puerto el 14 siguiente. De aquí parten a Pasadena, a donde llegan el 11 de enero de 1933.
 
-Elsa y Einstein a bordo del M S Oakland siendo recibidos por el Dr. Robert A. Millikan a su llegada a Los Ángeles en 1933.
+![Elsa y Einstein a bordo del M S Oakland siendo recibidos por el Dr. Robert A. Millikan a su llegada a Los Ángeles en 1933.](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image8.webp)
 
 A comienzos de marzo de 1933 Einstein y Elsa ya están nuevamente de regreso en Nueva Jersey atendiendo una invitación del Instituto para Estudios Avanzados de la Universidad de Princeton. Él planea pasar medio año en Berlín y medio año en Princeton. En diciembre de 1933 visita otra vez CalTech, llegando a Los Ángeles el 9 de enero de 1934. Aquí, Einstein y Pasadena se hicieron uno sólo haz al lanzar él una proclama radial nacional desde el Auditorio Cívico de Pasadena, abogando por relaciones pacíficas con Alemania. Él planea regresar a Alemania; sin embargo el poder político toma otro rumbo, causando que la Alemania nazi le impida volver a pisar jamás suelo germano.
 
@@ -92,9 +98,9 @@ Ruta entre 1922 y 1943: Hamburgo–Canal de Panamá–Puertos del Pacífico–Va
 
 En 1943 fue barrenado y hundido cerca de las islas Azores para evitar ser capturado por fuerzas enemigas.
 
-MS Portland
+![MS Portland](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image9.webp)
 
-Sobre paquebote despachado del MS Portland el 27 de marzo de 1935.
+![Sobre paquebote despachado del MS Portland el 27 de marzo de 1935.](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image10.webp)
 
 Hamburg American Packet.
 
@@ -103,22 +109,3 @@ La Hamburg Amerikanische Packetfahrt Actien Gesellschaft (HAPAG), a veces denomi
 La II Guerra Mundial resultó en la perdida de casi toda su flota, pero el esfuerzo y tenacidad de sus propietarios hizo que la compañía volviese a ocupar una de las posiciones líderes del transporte marítimo mundial.
 
 ---
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/einstein-milenio-2000.webp)
-
-![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image4.webp)
-
-![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image5.webp)
-
-![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image6.webp)
-
-![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image7.webp)
-
-![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image8.webp)
-
-![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image9.webp)
-
-![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image10.webp)
