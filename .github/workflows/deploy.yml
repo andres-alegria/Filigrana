@@ -1,27 +1,27 @@
 # ---------------------------------------------------------------------------
-# CURRENT MODE: PLACEHOLDER ONLY
+# CURRENT MODE: FULL SITE
 #
-# While the site is being built, filigrana.hn serves the static
-# "under construction" page in placeholder/ — the real Astro site in site/
-# is NOT published. Develop it locally instead:
+# filigrana.hn serves the real Astro site built from site/ + content/.
+# The "under construction" page in placeholder/ is kept, unpublished, so the
+# site can be swapped back to it in a hurry if that's ever needed.
+#
+# Develop locally with:
 #
 #     cd site && npm run dev        # http://localhost:4321
 #
-# localhost counts as a secure context, so everything behaves exactly as it
-# will in production (this is what the password gate needs, and why it
-# failed on the plain-http:// deploy).
+# localhost counts as a secure context, so the password gates behave exactly
+# as they do in production.
 #
 # ---------------------------------------------------------------------------
-# TO GO LIVE with the real site, make these three changes:
+# TO GO BACK TO THE PLACEHOLDER, reverse these three changes:
 #
-#   1. paths:  re-enable "site/**" and "content/**" below
-#   2. steps:  uncomment the "Set up Node" / "Install dependencies" /
+#   1. paths:  comment out "site/**" and "content/**", add "placeholder/**"
+#   2. steps:  comment out the "Set up Node" / "Install dependencies" /
 #              "Build" block
-#   3. upload: change `path: placeholder` back to `path: site/dist`
+#   3. upload: change `path: site/dist` back to `path: placeholder`
 #
-# site/public/CNAME and placeholder/CNAME both hold the domain, so the
-# custom domain keeps working in either mode — keep the two in sync if the
-# domain ever changes.
+# site/public/CNAME and placeholder/CNAME both hold the domain, so the custom
+# domain keeps working in either mode — keep the two in sync if it changes.
 # ---------------------------------------------------------------------------
 
 name: Deploy site to GitHub Pages
@@ -30,10 +30,10 @@ on:
   push:
     branches: [main]
     paths:
-      - "placeholder/**"
+      - "site/**"
+      - "content/**"
       - ".github/workflows/deploy.yml"
-      # - "site/**"      # re-enable when publishing the real site
-      # - "content/**"   # re-enable when publishing the real site
+      # - "placeholder/**"   # re-enable when serving the placeholder
   workflow_dispatch:
 
 permissions:
@@ -52,22 +52,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # --- uncomment this block to build and publish the real site ---
-      # - name: Set up Node
-      #   uses: actions/setup-node@v4
-      #   with:
-      #     node-version-file: site/.nvmrc
-      #     cache: npm
-      #     cache-dependency-path: site/package-lock.json
-      #
-      # - name: Install dependencies
-      #   working-directory: site
-      #   run: npm ci
-      #
-      # - name: Build
-      #   working-directory: site
-      #   run: npm run build
-      # ---------------------------------------------------------------
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: site/.nvmrc
+          cache: npm
+          cache-dependency-path: site/package-lock.json
+
+      - name: Install dependencies
+        working-directory: site
+        run: npm ci
+
+      - name: Build
+        working-directory: site
+        run: npm run build
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
@@ -75,7 +73,7 @@ jobs:
       - name: Upload build
         uses: actions/upload-pages-artifact@v3
         with:
-          path: placeholder # change to site/dist when publishing the real site
+          path: site/dist # change to `placeholder` to serve the holding page
 
   deploy:
     needs: build

@@ -196,11 +196,9 @@ nav.site a:hover{color:var(--green)}
 
 /* ---------- footer ---------- */
 footer.site{padding:40px 0 56px;border-top:1px solid var(--line);margin-top:40px}
-.colophon{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px;
+/* centred pair — rosette then domain; adjust gap to space them */
+.colophon{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:18px;
   font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.08em;color:var(--ink-soft)}
-.colophon .fed-mark{display:flex;align-items:center;opacity:.5;transition:opacity .3s var(--ease)}
-.colophon .fed-mark:hover{opacity:.85}
-.colophon .fed-mark img{height:40px;width:auto;display:block}
 /* small centered rosette echoing the hero background — adjust size here */
 .colophon .footer-motif{width:34px;height:34px;opacity:.7}
 
