@@ -107,7 +107,7 @@ La II Guerra Mundial resultó en la perdida de casi toda su flota, pero el esfue
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image3.webp)
+![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/einstein-milenio-2000.webp)
 
 ![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image4.webp)
 
