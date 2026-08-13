@@ -35,6 +35,11 @@ export interface PublishEntry {
   teaser?: string;
   type?: 'articulo' | 'coleccion';
   coverAlign?: 'center' | 'top';
+  /** Pins an article to the front of the home feed: 1 shows first, 2 second,
+   *  and so on. Everything without a rank follows, newest first. Kept separate
+   *  from `publishDate` so featuring something never rewrites when it went
+   *  online — the date on the card stays true. */
+  featured?: number;
 }
 
 export const publishQueue: PublishEntry[] = [
@@ -46,12 +51,14 @@ export const publishQueue: PublishEntry[] = [
   },
   {
     id: 'serie-8/vol-03/05-el-musico-que-si-merecia-un-sello-postal',
+    featured: 1,
     publishDate: '2026-08-02',
     coverAlign: 'top',
     teaser: 'Tocó bajo la batuta de Toscanini, heredó acceso a un Stradivarius y deslumbró a la crítica en Milán, París y Berlín. Carlos Humberto Cano fue, sin discusión, el mejor violinista de Centroamérica — y aun así nunca recibió el sello postal que su historia merecía.',
   },
   {
     id: 'serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp',
+    featured: 2,
     publishDate: '2026-08-04',
     locked: true,
     teaser: 'En algún momento de su historia, Honduras emitió sellos de oro de 23 quilates para conmemorar sus tesoros arqueológicos — y lo que debía ser un orgullo filatélico terminó en el mayor escándalo del gremio en el país. Su autor fue testigo y participante directo de los hechos, y aquí los cuenta por primera vez en detalle.',
@@ -76,6 +83,7 @@ export const publishQueue: PublishEntry[] = [
   },
   {
     id: 'serie-7/vol-01/02-paso-albert-einstein-por-amapala',
+    featured: 3,
     publishDate: '2026-08-04',
     locked: true,
     teaser: 'Durante años circuló el rumor de que Albert Einstein, el físico más famoso del siglo XX, había pisado suelo hondureño en el puerto de Amapala. ¿Mito urbano o hecho real? El expediente filatélico detrás de la leyenda.',

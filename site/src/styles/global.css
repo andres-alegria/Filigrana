@@ -42,6 +42,8 @@ header.site .row{display:flex;justify-content:space-between;align-items:center;f
 .wordmark{font-family:'Fraunces',serif;font-size:26px;letter-spacing:-.01em}
 .wordmark .fil{color:var(--green)}
 .wordmark .dot{color:var(--gold)}
+/* the .hn suffix — adjust to var(--green) to tie it to the name instead */
+.wordmark .tld{color:var(--gold)}
 nav.site a{font-family:'IBM Plex Mono',monospace;font-size:11.5px;letter-spacing:.14em;
   text-transform:uppercase;color:var(--ink-soft);text-decoration:none;margin-left:22px}
 nav.site a:hover{color:var(--green)}

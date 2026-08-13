@@ -244,6 +244,28 @@ def wrap(draw, text, fnt, maxw):
     return lines
 
 
+def mark_lockup(size, fg=GREEN, suffix_colour=GOLD, letter='F', tld='hn', fill=0.66):
+    """The 'F.hn' profile mark, set live from Fraunces so all four glyphs
+    share one drawing. A low optical size keeps the thin strokes intact at the
+    ~110px Instagram renders profile pictures at — see _opsz."""
+    im = Image.new('RGBA', (size, size), (0, 0, 0, 0))
+    d = ImageDraw.Draw(im)
+    head, tail = letter, '.' + tld
+    pt = size                      # shrink until the lockup fits the target width
+    while pt > 8:
+        f = fraunces(pt, 400, opsz=max(9, pt // 6))
+        if d.textlength(head + tail, font=f) <= size * fill:
+            break
+        pt -= 2
+    hw = d.textlength(head, font=f)
+    box = d.textbbox((0, 0), head + tail, font=f)
+    x = (size - (box[2] - box[0])) / 2 - box[0]
+    y = (size - (box[3] + box[1])) / 2
+    d.text((x, y), head, font=f, fill=fg)
+    d.text((x + hw, y), tail, font=f, fill=suffix_colour)
+    return im
+
+
 # ─── profile images ────────────────────────────────────────────────────────
 def build_profile():
     os.makedirs(os.path.join(OUT, 'profile'), exist_ok=True)
@@ -252,7 +274,7 @@ def build_profile():
 
     # a — plain paper, green mark. Quietest; matches the site header.
     a = Image.new('RGBA', (S, S), PAPER + (255,))
-    m = mark(int(S * .54))
+    m = mark_lockup(S)
     a.alpha_composite(m, ((S - m.width) // 2, (S - m.height) // 2))
     variants['a-paper'] = a
 
@@ -263,7 +285,7 @@ def build_profile():
 
     # c — green ground, paper mark. Highest contrast at thumbnail size.
     c = Image.new('RGBA', (S, S), GREEN + (255,))
-    mc = mark(int(S * .54), fg=PAPER, dot=GOLD)
+    mc = mark_lockup(S, fg=PAPER, suffix_colour=GOLD)
     c.alpha_composite(mc, ((S - mc.width) // 2, (S - mc.height) // 2))
     variants['c-green'] = c
 
@@ -337,6 +359,7 @@ def build_post(cid):
 COMING_SOON = {
     'eyebrow': 'HONDURAS FILATÉLICA · DIGITAL',
     'wordmark': 'Filigrana',
+    'tld': 'hn',            # rendered gold, after the dot — "Filigrana.hn"
     # A newline here forces an explicit break; without one the tagline wraps
     # to fit the canvas on its own.
     'tagline': 'Historia hondureña,\nrevelada por sellos postales.',
@@ -370,11 +393,12 @@ def build_coming_soon(copy=None):
     body_lines = wrap(d, c['body'], bf, W - 260) if c['body'] else []
 
     def draw_wordmark(y):
-        word, dot = c['wordmark'], '.'
-        ww = d.textlength(word, font=wf)
-        x = (W - (ww + d.textlength(dot, font=wf))) / 2
+        # green name, gold ".hn" — centred as one unit
+        word, suffix = c['wordmark'], '.' + c.get('tld', '')
+        ww, sw = d.textlength(word, font=wf), d.textlength(suffix, font=wf)
+        x = (W - (ww + sw)) / 2
         d.text((x, y), word, font=wf, fill=GREEN)
-        d.text((x + ww, y), dot, font=wf, fill=GOLD)
+        d.text((x + ww, y), suffix, font=wf, fill=GOLD)
 
     blocks = []
     if c['eyebrow']:

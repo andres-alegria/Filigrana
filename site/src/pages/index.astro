@@ -8,9 +8,12 @@ import { routeSlug } from '../lib/routing';
 import { firstImageSrc } from '../lib/content';
 
 const articles = await getCollection('articles');
+// Featured entries lead, in their given rank; everything else follows newest
+// first. See `featured` in data/publish.ts.
+const rank = (p: { featured?: number }) => p.featured ?? Number.POSITIVE_INFINITY;
 const latest = publishQueue
   .filter((p) => isPublished(p))
-  .sort((a, b) => b.publishDate.localeCompare(a.publishDate))
+  .sort((a, b) => rank(a) - rank(b) || b.publishDate.localeCompare(a.publishDate))
   .slice(0, 5)
   .map((p) => ({ ...p, entry: findEntry(articles, p) }))
   .filter((p) => p.entry);
@@ -20,7 +23,7 @@ const latest = publishQueue
     <canvas id="hero-canvas"></canvas>
     <div class="wrap">
       <span class="kicker">Honduras Filatélica · digital</span>
-      <h1 class="wordmark hero-mark"><span class="fil">Filigrana</span><span class="dot">.</span></h1>
+      <h1 class="wordmark hero-mark"><span class="fil">Filigrana</span><span class="dot">.</span><span class="tld">hn</span></h1>
       <p class="tag">Historia hondureña, revelada por sellos postales.</p>
       <ShareBar url="https://www.filigrana.hn/" title="Filigrana — el sello como puerta a la historia" />
       <div class="hairline"></div>
