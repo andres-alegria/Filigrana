@@ -32,7 +32,7 @@ Según el contrato tenía que trabajar en el cargo de director de la Litografía
 
 La Escuela de Artes y Oficios y La Litografía Nacional fueron instituciones creadas simultáneamente, funcionando unidas al principio según acuerdo emitido el 30 de enero de 1891, siendo su primer director el maestro Pedro Nufio. Parte de la Litografía estaba ubicada en la Escuela de Artes y Oficios y otra parte, por sus grandes y pesadas maquinas, fue instalada en una vivienda de dos niveles alquilada a don Rafael Rivera y doña María Bustillo, localizada en la 3ª. Avenida Oeste, No. 42 (hoy Avenida Cristóbal Colón), donde muchos años después funcionó la institución bancaria Bancahsa.
 
-Litografía Nacional en la avenida Colón
+![Litografía Nacional en la avenida Colón](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image37.webp)
 
 El 15 de abril de 1894 se formalizó la contratación de Ghizzoni como profesor de dibujo dentro del cuerpo de docentes del colegio El Espíritu del Siglo en Tegucigalpa. Sin embargo, la primera noticia vinculada a la Litografía Nacional aparece en el Diario La República el 7 de septiembre de 1894, cuando empleados del diario realizaron una visita a las instalaciones de la Litografía y lo entrevistaron mientras se ocupaba del montaje del taller, describiendo el local como amplio y cómodo como para satisfacer el gusto más exigente. Para ese entonces el presidente de Honduras Dr. Policarpo Bonilla estaba muy interesado en su instalación. Después de cuatro años de permanecer en el país, en noviembre de ese año al fin abre la Litografía Nacional. Su primer trabajo como desarrollo artístico fue un fotograbado del expresidente Ponciano Leiva. Es meritorio mencionar que uno de los que perduró hasta 1901 como discípulo suyo y que luego sería un loable artista de la plástica, fue Carlos Zúñiga Figueroa.
 
@@ -42,7 +42,7 @@ Entre los premios obtenidos por la Litografía Nacional están el gran premio y 
 
 Además de su labor en la Litografía Nacional, Ghizzoni también ejecutaba trabajos fotográficos a nivel privado, tal como lo podemos apreciar en el siguiente anuncio, asociado con el reconocido educador Pedro Nufio:
 
-Anuncio publicado en el Semanario La Unión el 9 de octubre de 1897.
+![Anuncio publicado en el Semanario La Unión el 9 de octubre de 1897.](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image38.webp)
 
 El 1 de enero de 1896 se puso en circulación la serie postal Céleo Arias, la primera impresa en el país. Mientras trabajaba en la preparación de la segunda emisión La Locomotora (a ponerse en circulación el 1 de agosto siguiente), el 30 de mayo Ghizzoni le escribe al señor Miguel Gálvez Jiménez acerca de lo que a partir de este momento sólo podemos especular, podría haber sido una oferta relacionada con los remanentes de los sellos recién emitidos. Siendo el aludido un sobre con membrete oficial, descartamos que se haya tratado de una carta personal; al contrario, esta condición le infería un carácter de seriedad a cualquier negocio propuesto.
 
@@ -50,7 +50,11 @@ Era de esperarse que siendo ésta la primera emisión en un incipiente taller de
 
 > > "¿Tirarlo todo a la basura, o contactar a uno de los mejores comerciantes de sellos en un país que le era familiar?" El acuerdo de emisión sólo contemplaba se pusiesen a resguardo las planchas para posibles futuras reimpresiones, nada más. Entonces no había pecado a la vista, pues estaba claro que al Gobierno no le interesaba este producto excedente. Lo positivo es, que, si este fue el caso, se logró arrebatar a la desventura un puñado de material primigenio excelso, que a lo mejor es el que conforma hoy en día parte de las piezas únicas de la filatelia nacional.
 
+![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image36.webp)
+
 En cuanto al destinatario, Miguel Gálvez J., había nacido en Loja el 7 de abril de 1865, falleciendo en Madrid el 4 de noviembre de 1951, considerado el patriarca de la filatelia española.
+
+![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image39.webp)
 
 El primer negocio dedicado a la filatelia en la capital española fue fundado en 1868 por Leopoldo López en la Calle de la
 
@@ -58,7 +62,7 @@ Cruz, No. 1. Corría el año de 1895 cuando el señor López traspasó el negoci
 
 Es indiscutible la importancia de Miguel Gálvez en el desarrollo y conocimiento de la filatelia española, sobre todo en sus primeros tiempos. Su obra literaria es prolija y variada, destacando la publicación de diferentes catálogos como el Catálogo de España y Colonias, su Primer Catálogo Universal o el especializado de Pruebas y Ensayos de España.
 
-Portada de una obra de Miguel Gálvez, con dirección Calle de La Cruz, No. 1.
+![Portada de una obra de Miguel Gálvez, con dirección Calle de La Cruz, No. 1.](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image40.webp)
 
 A la postre Ghizzoni renunció a su cargo de director de la Litografía Nacional el 17 de noviembre de 1902, reemplazándolo en el puesto Hipólito Cano. Por orden del Gobierno se cierra esta entidad el 15 de mayo de 1909, para reabrirla el 13 de agosto de 1913 bajo el nombre de Fotograbados Nacionales. Después de varios años, por acuerdo del 1 de agosto de 1931, fue anexada a la Tipografía Nacional junto con Fotograbados Nacionales, amalgamándose el conjunto bajo la denominación de Talleres Tipográficos Nacionales, o simplemente conocidos como Litografía Nacional, bajo la dirección de Manuel Esteban Sosa.
 
@@ -73,14 +77,5 @@ García, Miguel Ángel. La Imprenta en Honduras 1828–1975. Editorial Universit
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image36.webp)
-
-![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image37.webp)
-
-![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image38.webp)
-
-![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image39.webp)
-
-![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image40.webp)
 
 ![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image41.webp)

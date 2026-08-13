@@ -24,9 +24,11 @@ Recopilación por Edgardo Alegría Reichmann
 
 El SS Morazan fue un Buque de 2,984 toneladas, construido en 1908. En 1922 fue comprado a la Booth Line por la Vaccaro Brothers Steamship Company, que se había constituido legalmente en 1923 en Honduras como la Standard Steamship and Fruit Company. La propiedad del Morazán pasó a su filial Mexican American Fruit and Steamship Company. En 1927 el nombre de la compañía cambió a American Fruit and Steamship Company. En 1933 el buque fue transferido a la Seaboard Steamship Company, subsidiaria de la Standard Fruit Company. El barco continuó asignado al transporte de bananos entre Honduras y Nueva Orleans, teniendo como domicilio el puerto de La Ceiba. Cada viaje de ida y vuelta en esta ruta tomaba 12 días.
 
+![](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image28.webp)
+
 En 1941 el SS Morazan fue vendido con algunos otros barcos a la empresa Kong Wallem, de Hong Kong. El precio de venta fue de US$ 200,000.00. El SS Morazan al parecer fue incautado por los japoneses el 8 de diciembre 1941 en Shanghai, China. Este fue el primer día de la Guerra del Pacífico (el ataque a Pearl Harbor se produjo el 7 de diciembre, siendo las 4:00 a. m. del 8 de diciembre en China). El barco pasó a llamarse Ekkai Maru y se asignó al esfuerzo de guerra japonesa.
 
-Tarjeta paquebote originada en el SS Morazan mientras estaba recalado en el puerto de Veracruz, México, el 13 de diciembre de 1937, en ruta entre La Ceiba y Nueva Orleans.
+![Tarjeta paquebote originada en el SS Morazan mientras estaba recalado en el puerto de Veracruz, México, el 13 de diciembre de 1937, en ruta entre La Ceiba y Nueva Orleans.](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image29.webp)
 
 A finales de septiembre 1944, con algunos otros barcos japoneses, se refugió en el área de la isla Busuanga al Norte de Palawan en las Filipinas. El Ekkai Maru permaneció anclado en el área entre Tangat y la isla Lusong.
 
@@ -38,7 +40,7 @@ El SS Morazan no debe ser confundido con otra nave llamada SS Francisco Morazan,
 
 El Francisco Morazán era un buque de carga de 1,442 toneladas botado en junio de 1922 como Arcadia por la Deutsche Werft, Hamburgo, propulsado por dos turbinas de vapor de doble reducción, impulsando una sola hélice. Fue vendido en 1924 y rebautizado Elbing. Fue capturado por los aliados en el río Elba, Alemania. En mayo de 1945 pasó al Ministerio de Transporte de la Guerra del Reino Unido y fue rebautizado Congress Empire. En 1946, fue asignado al gobierno de Noruega y rebautizado Brunes. En 1947 fue vendido para servicio comercial y rebautizado Skuld. En 1948 otra venta lo hizo llamarse Ringas. En 1958 lo vendieron a Liberia y fue rebautizado Los Mayas y luego Francisco Morazán al año siguiente. Estuvo en servicio hasta que el 29 de noviembre de 1960 cuando encalló en el Lago Michigan, siendo declarado pérdida total.
 
-SS Francisco Morazán
+![SS Francisco Morazán](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image30.webp)
 
 Historia
 
@@ -66,17 +68,6 @@ Con los años la carga fue extraída por los isleños para su propio uso. Entre 
 
 Posteriormente el Francisco Morazán se incendió y el cargamento fue consumido por completo. Dos de los tres acusados ​​en el juicio desaparecieron y los propietarios nunca fueron localizados, por lo que la demanda fue desestimada, pasando los restos del naufragio a propiedad del Estado de Michigan, siendo ahora el hogar de cormoranes y gaviotas.
 
-Estado actual de los restos del SS Francisco Morazán
+![Estado actual de los restos del SS Francisco Morazán](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image31.webp)
 
 ---
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image28.webp)
-
-![](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image29.webp)
-
-![](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image30.webp)
-
-![](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image31.webp)

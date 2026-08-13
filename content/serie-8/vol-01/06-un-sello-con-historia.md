@@ -20,6 +20,8 @@ review: []
 ---
 
 # Un sello con historia
+
+![](/img/serie-8/vol-01/06-un-sello-con-historia/image44.webp)
 1916
 
 RECUERDO DEL DE FEBRERO
@@ -29,6 +31,12 @@ FRANCISCO BERTRAND
 PRESIDENTE DE LA
 
 REPÚBLICA
+
+![](/img/serie-8/vol-01/06-un-sello-con-historia/image45.webp)
+
+![](/img/serie-8/vol-01/06-un-sello-con-historia/image46.webp)
+
+![](/img/serie-8/vol-01/06-un-sello-con-historia/image47.webp)
 
 La estampilla de 1 centavo (Scott 182) conmemorativa a la toma de posesión del segundo período del presidente constitucional Dr. Francisco Bertrand Barahona el día domingo 1 de febrero de 1916, fue emitida para ponerse a la venta en Tegucigalpa solamente ese día. Ostenta la particularidad de ser la única estampilla hondureña que no menciona su país de procedencia, como cumpliendo con su cometido de “recuerdo”, a muy bajo costo. Este factor se fortalece al analizar que en ese entonces la tarifa simple interior era de 6 cts. y la exterior de 15 cts. por lo que no hubo intención alguna de incorporarla seriamente al franqueo postal nacional.
 
@@ -40,17 +48,6 @@ Aunque los sobres circulados son extremadamente raros, existen unos pocos puesto
 
 En lo concerniente al Dr. Bertrand, ascendió al Poder Ejecutivo en tres oportunidades. Fue presidente interino y finalmente presidente electo. Tuvo fama de hombre conciliador, pero al final, en su tercer período, cometió el error de imponer la candidatura presidencial de su concuño Nazario Soriano (habiendo residido éste casi toda su vida en Nueva Orleans resultó ser un desconocido para el resto del país), acción que degeneró en una ola de represión contra sus adversarios políticos que optaron por levantarse en armas. Finalmente, en 1919, a manera de zanjar el cruento conflicto suscitado, el cónsul norteamericano le solicitó que demitiera, como en efecto lo hizo, exiliándose en El Salvador.
 
----
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-8/vol-01/06-un-sello-con-historia/image44.webp)
-
-![](/img/serie-8/vol-01/06-un-sello-con-historia/image45.webp)
-
-![](/img/serie-8/vol-01/06-un-sello-con-historia/image46.webp)
-
-![](/img/serie-8/vol-01/06-un-sello-con-historia/image47.webp)
-
 ![](/img/serie-8/vol-01/06-un-sello-con-historia/image48.webp)
+
+---

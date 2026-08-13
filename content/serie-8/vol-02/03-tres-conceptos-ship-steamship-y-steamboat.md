@@ -38,15 +38,15 @@ Las tarifas Steamship de 1848 entre Charleston, Carolina del Sur y otros puertos
 
 Ahora en relación al último de estos términos: correo “Steamboat”, éste, como el correo “SHIP”, era transportado por naves sin contrato postal. La diferencia radica en que el “Steamboat” operaba en vías fluviales del interior: ríos, lagos, bahías y canales. Este correo era recogido por el capitán o subalterno a lo largo de una ruta y entregado en alguna oficina postal al final de la jornada. A comienzos de 1825, el capitán recibía 2 centavos por cada carta transportada.
 
-Carta “SHIP” dirigida a Easton Pensilvania. Con fechador con tarifa integrada a cobrar "New-York Ship Jul. 22 5 cts" más una etiqueta provisional con franqueo manuscrito de 5 cts. Despachada desde Puerto Caballos (Puerto Cortés), Honduras, el 22 de mayo de 1857 por John Godown, un topógrafo de la Honduras Railroad Co. La tarifa del servicio “Ship” de 5 centavos más la etiqueta de 5 cts. representaban la tarifa total adeudada que pagaría el destinatario.
+![Carta “SHIP” dirigida a Easton Pensilvania. Con fechador con tarifa integrada a cobrar "New-York Ship Jul. 22 5 cts" más una etiqueta provisional con franqueo manuscrito de 5 cts. Despachada desde Puerto Caballos (Puerto Cortés), Honduras, el 22 de mayo de 1857 por John Godown, un topógrafo de la Honduras Railroad Co. La tarifa del servicio “Ship” de 5 centavos más la etiqueta de 5 cts. representaban la tarifa total adeudada que pagaría el destinatario.](/img/serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat/image45.webp)
 
 Varias marcas fueron usadas para el correo “Steamboat”, incluyendo algunas marcas postales especificando claramente “Steamboat” o “Steam” a manera de identificar correctamente este tipo de servicio. Prácticamente no hay diferencia entre estos dos términos, sin embargo, hay que tener cuidado en no confundirlos con el antes mencionado “Steamship”.
 
-Marcada con “SHIP” a su arribo a Nueva Orleans el 15 de mayo 1915, franqueada con un porte sencillo correcto de 15 cts. en condición de porte prepagado.
+![Marcada con “SHIP” a su arribo a Nueva Orleans el 15 de mayo 1915, franqueada con un porte sencillo correcto de 15 cts. en condición de porte prepagado.](/img/serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat/image46.webp)
 
-“STEAMSHIP” fechada 26 de noviembre de 1857. Remitida desde Campo Naranja, Honduras. Tasada con doble porte de 20 cts. al llegar al puerto de entrada en los EUA.
+![“STEAMSHIP” fechada 26 de noviembre de 1857. Remitida desde Campo Naranja, Honduras. Tasada con doble porte de 20 cts. al llegar al puerto de entrada en los EUA.](/img/serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat/image47.webp)
 
-Enviada desde Baltimore, multada con 2 cts. y después marcada con “STEAMBOAT” a su llegada a Filadelfia el 12 de septiembre de 1950´s.
+![Enviada desde Baltimore, multada con 2 cts. y después marcada con “STEAMBOAT” a su llegada a Filadelfia el 12 de septiembre de 1950´s.](/img/serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat/image48.webp)
 
 Recapitulando:
 
@@ -63,14 +63,3 @@ Alegría R., Edgardo. Colección Paquebote. Tegucigalpa, Honduras.
 Epting, Charles. Of Ships, Steamships, and Steamboats. The American Philatelist, EUA, diciembre de 2023.
 
 ---
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat/image45.webp)
-
-![](/img/serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat/image46.webp)
-
-![](/img/serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat/image47.webp)
-
-![](/img/serie-8/vol-02/03-tres-conceptos-ship-steamship-y-steamboat/image48.webp)
