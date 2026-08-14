@@ -149,6 +149,12 @@ nav.site a:hover{color:var(--green)}
   font-size:13.5px;color:var(--ink-soft);margin-top:10px}
 .article-body{padding:36px 0 60px;font-size:17.5px;line-height:1.75;max-width:70ch}
 .article-body p{margin-bottom:1.3em}
+/* Links in prose — the global reset makes <a> inherit its colour, so body
+   copy needs its own treatment or links vanish into the text */
+.article-body a{color:var(--green);text-decoration:none;
+  border-bottom:1px solid var(--line);transition:border-color .18s ease}
+/* adjust prose link underline accent here */
+.article-body a:hover,.article-body a:focus-visible{border-bottom-color:var(--green)}
 .article-figure{margin:2em 0;max-width:640px}
 .article-figure img{width:100%;border:1px solid var(--line);background:var(--paper-lit)}
 .article-figure figcaption{font-size:13.5px;color:var(--ink-soft);margin-top:9px;
@@ -203,6 +209,14 @@ footer.site{padding:40px 0 56px;border-top:1px solid var(--line);margin-top:40px
   font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.08em;color:var(--ink-soft)}
 /* small centered rosette echoing the hero background — adjust size here */
 .colophon .footer-motif{width:34px;height:34px;opacity:.7}
+
+/* Instagram link in the footer — glyph + handle, set in the colophon's own
+   mono type so it reads as part of the line rather than as a button */
+.colophon .social{display:inline-flex;align-items:center;gap:7px;
+  text-decoration:none;transition:color .18s ease}
+.colophon .social svg{width:14px;height:14px;flex:none}
+/* adjust footer link hover accent here */
+.colophon .social:hover,.colophon .social:focus-visible{color:var(--green)}
 
 @media(max-width:640px){
   .wrap{padding:0 20px}

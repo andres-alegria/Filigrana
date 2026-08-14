@@ -101,6 +101,12 @@
       font-family:'IBM Plex Mono',monospace;font-size:10.5px;
       letter-spacing:.08em;color:var(--ink-soft);
     }
+    /* Instagram link — glyph + handle, in the colophon's own mono type */
+    .colophon .social{display:inline-flex;align-items:center;gap:7px;
+      color:inherit;text-decoration:none;transition:color .18s ease}
+    .colophon .social svg{width:14px;height:14px;flex:none}
+    /* adjust footer link hover accent here */
+    .colophon .social:hover,.colophon .social:focus-visible{color:var(--green)}
         @media(max-width:520px){
       .colophon{justify-content:center;text-align:center}
     }
@@ -131,6 +137,15 @@
   <footer>
     <div class="colophon">
       <span>filigrana.hn</span>
+      <a class="social" href="https://www.instagram.com/filigrana.honduras/" target="_blank" rel="noopener"
+         aria-label="Filigrana en Instagram">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <rect x="3.5" y="3.5" width="17" height="17" rx="5"/>
+          <circle cx="12" cy="12" r="3.6"/>
+          <circle cx="17" cy="7" r="0.55" fill="currentColor" stroke="none"/>
+        </svg>
+        <span>@filigrana.honduras</span>
+      </a>
     </div>
   </footer>
 
