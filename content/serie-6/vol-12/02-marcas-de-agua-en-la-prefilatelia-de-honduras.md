@@ -34,7 +34,7 @@ Orígenes del Papel en España.
 
 Cuando en el año 711 los árabes llegaron a España aun no se conocía la fabricación de papel. Se supone que se introdujo a Córdova a mediados del siglo X, época en que la ciudad vivió una época de gran esplendor cultural. Si Bagdad, Damasco, El Cairo, como grandes centros culturales que eran, ya poseían molinos papeleros ¿Por qué no los iba a tener Córdoba, que contaba con un gran río, trapos, almidón y las bibliotecas y archivos del Califato? Por lo tanto, en la España musulmana debieron existir molinos papeleros en Córdoba, Sevilla, Granada y Toledo durante los siglos X y XI. Todo esto entra en el terreno de la conjetura ya que Jàtiva fue la primera población de Occidente que se sabe tuvo industria papelera. En 1154, el geógrafo árabe El Edrisi nos dice: “Játiva es una bonita villa con castillos... se fabrica papel como no se encuentra otro en el mundo. Se expide a Oriente y Occidente”. El papel hispano-árabe más antiguo que se conserva es el del Glosario de Leyde, elaborado en los primeros años del siglo X, y conservado en las Bibliotecas Nacionales de París. En España existe en el monasterio benedictino de Santo Domingo de Silos, el Misal Mozárabe, escrito sobre papel fabricado antes de 1036, ya que en este año el rito mozárabe fue sustituido por el gregoriano.
 
-Ruta de la fabricación del papel, de Asia a Europa.
+![Ruta de la fabricación del papel, de Asia a Europa.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image2.webp)
 
 El sistema artesanal propiciaba la producción de un papel de calidad que garantizaba la continuidad. Francisco de Goya utilizaba papel de Beceite para sus grabados, pero principalmente, la producción llegaba a los grandes centros consumidores de Barcelona, Valencia, Madrid y Bilbao.  Las primeras fábricas de papel eran de una, dos o más “tinas” para fabricar la pasta de papel, hasta la llegada de la “pila holandesa”, durante el siglo XIX, que se instaló en todas las fábricas existentes.
 
@@ -132,7 +132,7 @@ Es oportuno señalar que a partir de la Independencia Patria (1821) es notable e
 
 1.
 
-Fabricante: W. S. Hodgkinson & Co.
+![Fabricante: W. S. Hodgkinson & Co.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image3.webp)
 
 Lugar: Wookey Hole, Inglaterra.
 
@@ -142,7 +142,7 @@ Referencia: Carta oficial remitida de Los Llanos de Santa Rosa a Chiquimula (Gua
 
 2.
 
-Fabricante: F. P.
+![Fabricante: F. P.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image4.webp)
 
 Lugar: Capellades, España.
 
@@ -152,7 +152,7 @@ Referencia: Carta oficial remitida (circa 1787) desde Comayagua a Guatemala.
 
 3.
 
-Fabricante: Ramón Guarro Costa.
+![Fabricante: Ramón Guarro Costa.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image5.webp)
 
 Lugar: Torre de Claramunt, España.
 
@@ -162,7 +162,7 @@ Referencia: Carta particular remitida de Omoa a Guatemala. (Sin fecha).
 
 4.
 
-Fabricante: Ramón Guarro Costa.
+![Fabricante: Ramón Guarro Costa.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image6.webp)
 
 Lugar: Torre de Claramunt, España.
 
@@ -172,7 +172,7 @@ Referencia: Impreso oficial remitido desde Comayagua en 1836.
 
 5.
 
-Fabricante: Desconocido.
+![Fabricante: Desconocido.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image7.webp)
 
 Lugar: Italia.
 
@@ -184,7 +184,7 @@ Referencia: Carta oficial remitida de Santa Bárbara a Comayagua el
 
 6.
 
-Fabricante: Jacob Honig & Zoonen.
+![Fabricante: Jacob Honig & Zoonen.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image8.webp)
 
 Lugar: Zaandyk, Holanda.
 
@@ -194,7 +194,7 @@ Referencia: Carta particular remitida de Comayagua a Guatemala en 1858.
 
 7.
 
-Fabricante: Alva.
+![Fabricante: Alva.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image9.webp)
 
 Lugar: España.
 
@@ -216,7 +216,7 @@ Referencia: Carta oficial remitida de Jocoro (El Salvador) a San Miguel el 1 de 
 
 9.
 
-Fabricante: Ramón Romaní.
+![Fabricante: Ramón Romaní.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image11.webp)
 
 Lugar: Capellades, España.
 
@@ -226,7 +226,7 @@ Referencia: Carta oficial remitida de Río Tinto a Guatemala en 1788.
 
 10.
 
-Fabricante: A. E.
+![Fabricante: A. E.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image12.webp)
 
 Lugar: Capellades, España.
 
@@ -236,7 +236,7 @@ Referencia: Carta oficial remitida (circa 1814) desde Guatemala a Tegucigalpa.
 
 11.
 
-Fabricante: Notaro Costa.
+![Fabricante: Notaro Costa.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image13.webp)
 
 Lugar: Italia.
 
@@ -246,7 +246,7 @@ Referencia: Carta oficial remitida de Langue a Nacaome el 28 de diciembre de 178
 
 12.
 
-Fabricante: G. B. Fabiani.
+![Fabricante: G. B. Fabiani.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image14.webp)
 
 Lugar: Liguria, Italia.
 
@@ -256,7 +256,7 @@ Referencia: Carta oficial remitida de Tegucigalpa a Guatemala en 1790.
 
 13.
 
-Fabricante: Familia Lluciá.
+![Fabricante: Familia Lluciá.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image15.webp)
 
 Lugar: Capellades, España.
 
@@ -266,7 +266,7 @@ Referencia: Carta oficial remitida (circa 1805) desde Tegucigalpa a Olancho.
 
 14.
 
-Fabricante: Francisco Ferrer Romaní. Lugar: Capellades, España.
+![Fabricante: Francisco Ferrer Romaní. Lugar: Capellades, España.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image16.webp)
 
 Año: 1782.
 
@@ -274,7 +274,7 @@ Referencia: Carta oficial circulada localmente en Comayagua (circa 1866).
 
 15.
 
-Fabricante: Giorgio y Domenico Magnani.
+![Fabricante: Giorgio y Domenico Magnani.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image17.webp)
 
 Lugar: Pescia, Italia.
 
@@ -284,7 +284,7 @@ Referencia: Carta particular remitida de Comayagua a Trujillo el 3 de julio de 1
 
 16.
 
-Fabricante: Molino de la Villa.
+![Fabricante: Molino de la Villa.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image18.webp)
 
 Lugar: Capellades, España.
 
@@ -294,7 +294,7 @@ Referencia: Carta particular remitida a Comayagua el 3 de enero de 1856.
 
 17.
 
-Fabricante: Desconocido.
+![Fabricante: Desconocido.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image19.webp)
 
 Lugar: Capellades, España.
 
@@ -304,7 +304,7 @@ Referencia: Carta militar remitida de Comayagua a Guatemala el 25 de enero de 18
 
 18.
 
-Fabricante: Richard Webster.
+![Fabricante: Richard Webster.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image20.webp)
 
 Lugar: Nueva York, USA.
 
@@ -338,7 +338,7 @@ Referencia: Carta oficial remitida de Cedros a Comayagua. S/F.
 
 21.
 
-Fabricante: Pau Antoni Miguel.
+![Fabricante: Pau Antoni Miguel.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image23.webp)
 
 Lugar: Capellades, España.
 
@@ -348,7 +348,7 @@ Referencia: Carta oficial remitida (circa 1798) desde La Habana a Trujillo.
 
 22.
 
-Fabricante: Torres y Brugada.
+![Fabricante: Torres y Brugada.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image24.webp)
 
 Lugar: Madrid, España.
 
@@ -358,7 +358,7 @@ Referencia: Carta oficial remitida (circa 1806) desde Guatemala a Tegucigalpa v�
 
 23.
 
-Fabricante: J. P. Costas.
+![Fabricante: J. P. Costas.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image25.webp)
 
 Lugar: Beceite, España.
 
@@ -368,7 +368,7 @@ Referencia: Carta oficial remitida de Olancho a Comayagua. S/F.
 
 24.
 
-Fabricante: Ramón Romani Puigdengolas.
+![Fabricante: Ramón Romani Puigdengolas.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image26.webp)
 
 Lugar: Capellades, España.
 
@@ -410,7 +410,7 @@ Referencia: Carta oficial remitida de Comayagua a Guatemala el 7 de octubre de 1
 
 28.
 
-Fabricante: Francisco de Oliva.
+![Fabricante: Francisco de Oliva.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image30.webp)
 
 Lugar: España.
 
@@ -442,7 +442,7 @@ Referencia: Carta oficial remitida (circa 1811) desde Tegucigalpa a Guatemala. (
 
 31.
 
-Fabricante: Giovanni e Cosino Cini.
+![Fabricante: Giovanni e Cosino Cini.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image33.webp)
 
 Lugar: San Marcello, Pistoia, Italia.
 
@@ -476,7 +476,7 @@ Guatemala. (Sin fecha).
 
 34.
 
-Fabricante: Desconocido.
+![Fabricante: Desconocido.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image36.webp)
 
 Lugar: Desconocido.
 
@@ -490,7 +490,7 @@ Guatemala. (Sin fecha).
 
 35.
 
-Fabricante: Benito Picardo.
+![Fabricante: Benito Picardo.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image37.webp)
 
 Lugar: Liguria, Italia.
 
@@ -500,7 +500,9 @@ Referencia: Carta militar remitida de Colomoncagua a Guarita el 30 de octubre de
 
 36.
 
-Fabricante: Domenico Magnani y F.
+![Fabricante: Domenico Magnani y F.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image38.webp)
+
+![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image39.webp)
 
 Lugar: Pescia, Italia.
 
@@ -510,7 +512,7 @@ Referencia: Carta particular circulada localmente en Tegucigalpa el 26 de mayo d
 
 37.
 
-Fabricante: Giorgio y Domenico Magnani.
+![Fabricante: Giorgio y Domenico Magnani.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image40.webp)
 
 Lugar: Pescia, Italia.
 
@@ -520,7 +522,7 @@ Referencia: Carta oficial remitida de Comayagua a Guatemala el 12 de noviembre d
 
 38.
 
-Fabricante: Francisco Romani.
+![Fabricante: Francisco Romani.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image41.webp)
 
 Lugar: Capellades, España.
 
@@ -530,7 +532,7 @@ Referencia: Carta particular remitida de Trujillo a Guatemala. (Sin fecha).
 
 39.
 
-Fabricante: Desconocido.
+![Fabricante: Desconocido.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image42.webp)
 
 Lugar: Desconocido.
 
@@ -540,7 +542,7 @@ Referencia: Plica remitida de Guatemala a Tegucigalpa. (Sin fecha).
 
 40.
 
-Fabricante: Desconocido.
+![Fabricante: Desconocido.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image43.webp)
 
 Lugar: Desconocido.
 
@@ -550,7 +552,7 @@ Referencia: Plica remitida de Guatemala a Tegucigalpa. (Sin fecha).
 
 41.
 
-Fabricante: John Mathers?
+![Fabricante: John Mathers?](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image44.webp)
 
 Lugar: Gales, Reino Unido.
 
@@ -560,7 +562,7 @@ Referencia: Carta particular remitida (circa 1823) de Belice a Omoa.
 
 42.
 
-Fabricante: E. J. H.
+![Fabricante: E. J. H.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image45.webp)
 
 Lugar: Desconocido.
 
@@ -570,7 +572,7 @@ Referencia: Carta particular remitida de Cantarranas a Comayagua el 25 de noviem
 
 43.
 
-Fabricante: Laroche y Joubert.
+![Fabricante: Laroche y Joubert.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image46.webp)
 
 Lugar: Angouleme, Francia.
 
@@ -582,7 +584,7 @@ Olancho a Comayagua el 11 de octubre de 1864.
 
 44.
 
-Fabricante: FyCT.
+![Fabricante: FyCT.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image47.webp)
 
 Lugar: España.
 
@@ -594,7 +596,7 @@ Tegucigalpa a Comayagua en marzo de 1804.
 
 45.
 
-Fabricante: L. P.
+![Fabricante: L. P.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image48.webp)
 
 Lugar: Desconocido.
 
@@ -606,7 +608,7 @@ Yoro.
 
 46.
 
-Fabricante: Antonio Camps y Munseny.
+![Fabricante: Antonio Camps y Munseny.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image49.webp)
 
 Lugar: Capellades, España.
 
@@ -616,7 +618,7 @@ Referencia: Carta militar remitida (circa 1824) de Danlí a Tegucigalpa.
 
 47.
 
-Fabricante: Antonio Camps
+![Fabricante: Antonio Camps](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image50.webp)
 
 Munseny.
 
@@ -628,7 +630,7 @@ Referencia: Carta oficial circulada localmente en Gracias el 15 de noviembre de 
 
 48.
 
-Fabricante: Desconocido.
+![Fabricante: Desconocido.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image52.webp)
 
 Lugar: Desconocido.
 
@@ -673,86 +675,3 @@ Gayoso C., Gonzalo. Apuntes para la Historia Papelera de Barcelona y sus Provinc
 El autor le expresa un agradecimiento especial al Sr. Eric Schwimmer por los importantes datos aportados gentilmente para este artículo.
 
 ---
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image4.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image2.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image3.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image5.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image6.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image7.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image8.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image9.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image11.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image12.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image13.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image14.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image15.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image16.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image17.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image18.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image19.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image20.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image23.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image24.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image25.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image26.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image30.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image33.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image36.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image37.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image38.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image39.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image40.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image41.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image42.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image43.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image44.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image45.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image46.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image47.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image48.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image49.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image50.webp)
-
-![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image52.webp)

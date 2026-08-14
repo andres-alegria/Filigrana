@@ -36,6 +36,8 @@ En opinión de expertos pocas bibliotecas en los USA rivalizaban con la de Squie
 
 Squier Falleció, en la residencia de su hermano Frank Squier en Brooklyn, Nueva York, en la mañana del 17 de abril de 1888, sin descendencia alguna.
 
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image2.webp)
+
 La idea de una vía interoceánica se le ocurrió a Squier en ocasión de visitar el Golfo de Fonseca mientras fungía como representante diplomático del gobierno estadounidense para Centroamérica, con sede en Guatemala.
 
 Desde antaño el sueño de una vía férrea atravesando el país ya flotaba en la mente de los gobernantes hondureños, culminando en una experiencia financiera que dio como resultado que el intento más importante para traer progreso material al país deviniera en un catastrófico fracaso por el que Honduras tuvo que pagar un precio más alto de lo esperado amén de su primer descrédito internacional. Se palpaba el negocio en vista de que aparte del trasiego de mercaderías provenientes de todo el mundo, podía servir también como lugar de paso para la ingente migración que desde la costa oriental norteamericana y desde Europa se dirigía a California en la época de la fiebre del oro, migración que contra la creencia general, no ocurrió a través de los desiertos centrales de los Estados Unidos sino más bien por la vía marítima a través del Cabo de Hornos, por el incipiente ferrocarril de Panamá o a través de los lagos de Nicaragua; rutas por las que durante diez años transitaron 300,000 soñadores hacia la costa norteamericana del Pacífico.
@@ -46,7 +48,7 @@ Ese mismo año, a su regreso, se fundó en Nueva York la “Honduras Interoceani
 
 Durante los años que duró el proyecto, Edwards y Squier retiraron fuertes sumas de dinero de los fondos de la empresa para cubrir
 
-Amory Edwards (1814–1881)
+![Amory Edwards (1814–1881)](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image4.webp)
 
 Sus salarios y demás “gastos”, algo que cuidaron de mantener en secreto del resto de los accionistas.
 
@@ -54,11 +56,11 @@ Al respecto le escribió Edwards a Squier: “…encuentro que a usted se le deb
 
 Entre 1840 y 1845 Edwards fue cónsul de los USA en Buenos Aires. Durante su estadía en Honduras recopiló un diccionario de 37 palabras de la lengua jicaque, luego traducidas al inglés.
 
-Bono emitido en 1854 firmado por Amory Edwards y E. G. Squier.
+![Bono emitido en 1854 firmado por Amory Edwards y E. G. Squier.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image5.webp)
 
 Sin pérdida de tiempo Squier agrupó un equipo técnico con el objetivo de realizar un estudio de campo, que según sus propias palabras estaba conformado “por varios caballeros con reconocidas habilidades prácticas y científicas”, figurando entre ellos Amory Edwards, el dibujante DeWitt Clinton Hitchcock, el doctor y naturista Samuel W. Woodhouse y al mando de la expedición el capitán de la Armada de los USA William Nicholson Jeffers. En febrero de 1853 partieron hacia Honduras cruzando el istmo de Panamá, alcanzando el Golfo de Fonseca en abril para luego atravesar el país hasta Puerto Caballos. El reporte preliminar del proyecto fue presentado en 1854 con resultados muy favorables a la idea de establecer puertos en ambos océanos, a la factibilidad de cruzar montañas y a los beneficios económicos que la aventura generaría. En 1854 Amory Edwards retornó a Honduras con el propósito de asegurar un acuerdo final con el Congreso Nacional.
 
-Capitán William N. Jeffers
+![Capitán William N. Jeffers](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image6.webp)
 
 Animado por los resultados, Squier se mantuvo inmerso en la idea de promocionar la vía interoceánica, pero a pesar de su gran dedicación, que lo llevó irremediablemente a participar en los asuntos políticos internos de la época, no logró colocar un tan sólo clavo, pues los adeptos del Canal de Panamá se ensañaron en bloquear su proyecto.
 
@@ -74,7 +76,7 @@ John Cresson Trautwine (1810-1883), ingeniero consultor de varios proyectos ferr
 
 > > "Un canal a través de Panamá sería imposible." — John C. Trautwine, ingeniero, 1852
 
-Ruta del ferrocarril propuesta por Squire en 1854.
+![Ruta del ferrocarril propuesta por Squire en 1854.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image7.webp)
 
 Sucesos políticos como el golpe de estado perpetrado por el general Juan F. López Aguirre contra el presidente José Trinidad Cabañas, la guerra de Italia, la Guerra Civil de USA y la invasión de Francia a México causaron terrible mella en los ánimos de los inversionistas, haciendo que las acciones cayeran estrepitosamente.
 
@@ -94,17 +96,17 @@ Nació en Nueva Jersey el 25 de marzo de 1832 como hijo de Peter Johnson Godown 
 
 En 1857, a los 25 años de edad, viaja a Honduras como topógrafo del equipo del capitán William Nicholson Jeffers, contratado por E. G. Squier para trazar la ruta férrea entre ambos océanos. La experiencia le causa una impresión tal que la traduce narrando los detalles a su hermana en sendas cartas. Retorna a su patria en abril de 1858.
 
-John M. Godown
+![John M. Godown](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image8.webp)
 
 Carta No. 1:
 
-De John Godown dirigida a su padre, con marca “New-York Ship Jul 22 5 cts”. Aunque no se cuenta con el texto, si sabemos que fue despachada de Puerto Caballos, Honduras el viernes 22 de mayo de 1857. La tarifa marítima Estados Unidos–Sur América era de 10 cts.
+![De John Godown dirigida a su padre, con marca “New-York Ship Jul 22 5 cts”. Aunque no se cuenta con el texto, si sabemos que fue despachada de Puerto Caballos, Honduras el viernes 22 de mayo de 1857. La tarifa marítima Estados Unidos–Sur América era de 10 cts.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image9.webp)
 
 por lo que se le aplicó una multa de 5c. por la diferencia. De estos, 2cts. correspondían al capitán del vapor y 3cts. de porte interior estadounidense. Por un breve período el agente postal de Easton, Pensilvania, elaboró viñetas provisionales de multa usando los márgenes de las hojas de la emisión de 3cts. de 1851.
 
 En noviembre de 1848, el Director General de Correos Cave Johnson despachó un agente especial a California a establecer oficinas postales. Para Navidad, barcos de vapor transportaban correspondencia de Nueva York a California vía el istmo de Panamá. Esto sucedió antes de la construcción del Canal. Cuando los barcos llegaban a Panamá, el correo era descargado y transportado en canoas o a lomo de mula (más tarde por ferrocarril) por cerca de 120 kms. hasta la costa del Pacífico. Aquí otro barco recogía el correo para acarrearlo hacia el Norte.
 
-Ruta postal California-Nueva York a mediados del Siglo XIX
+![Ruta postal California-Nueva York a mediados del Siglo XIX](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image10.webp)
 
 El memo de la Oficina Postal General de los USA del 10 de octubre de 1850 prohibía a futuro los envíos de correo por barco que no estuviesen bajo contrato, pues ello constituiría una violación a las normas gubernamentales. El 19 de octubre de 1850 fue la fecha final para el acarreo de correspondencia sin contrato.
 
@@ -114,7 +116,15 @@ La Pacific Mail Steamship Co. en sus primeros años no prestó servicio a los pu
 
 Carta No. 2:Cargando...
 
-Marcada como la No. 6, fue despachada de Las Piedras el 8 de octubre 1857 vía Omoa de donde parte el 18 de octubre, arribando a Nueva York el 14 de noviembre. Se le aplica una cancelación de llegada de 5 cts. y una viñeta provisional de multa de 5 cts.
+![Marcada como la No. 6, fue despachada de Las Piedras el 8 de octubre 1857 vía Omoa de donde parte el 18 de octubre, arribando a Nueva York el 14 de noviembre. Se le aplica una cancelación de llegada de 5 cts. y una viñeta provisional de multa de 5 cts.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image11.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image12.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image13.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image14.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image15.webp)
 
 No. 6
 
@@ -138,7 +148,15 @@ Las Piedras, Honduras, Octubre 8, 1857
 
 Carta No. 3:
 
-Marcada como la No. 8. Remitida desde Campo Naranja el 26 de noviembre de 1857. Con una marca de llegada “STEAMSHIP/20” indicando un doble porte, ratificado a mano al lado izquierdo.
+![Marcada como la No. 8. Remitida desde Campo Naranja el 26 de noviembre de 1857. Con una marca de llegada “STEAMSHIP/20” indicando un doble porte, ratificado a mano al lado izquierdo.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image16.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image17.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image18.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image19.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image20.webp)
 
 Campo Naranja, Honduras, Jueves Nov. 26th/57
 
@@ -160,17 +178,23 @@ Campo Naranja, Honduras, Jueves Nov. 26th/57
 >
 > Atentamente tu hermano John
 
-La Catedral de Comayagua tal como la encontró J. Godown
+![La Catedral de Comayagua tal como la encontró J. Godown](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image21.webp)
 
 *Gliddon, el mejor amigo de Squier, falleció de fiebre amarilla en Panamá el 16 de noviembre de 1857.
 
-Residencia del general Santos Guardiola en Comayagua.
+![Residencia del general Santos Guardiola en Comayagua.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image22.webp)
 
 Grabado elaborado por D. C. Hitchcock (dibujante miembro del equipo), publicado en el No. 47, Vol. 2 del Periódico Ilustrado de Frank Leslie`s de Nueva York el 1 de noviembre de 1856, del cual Squier fue su Director.
 
 Carta No. 4:
 
-Despachada de Aguanqueterique el 17 de enero 1858. Con marca de llegada “STEAMSHIP/10” indicando un porte correcto de 10 cts.
+![Despachada de Aguanqueterique el 17 de enero 1858. Con marca de llegada “STEAMSHIP/10” indicando un porte correcto de 10 cts.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image23.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image24.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image25.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image26.webp)
 
 Aguanqueterique, Hond.
 
@@ -190,7 +214,19 @@ Domingo, Enero 17, 1858
 
 Carta No. 5:
 
-Con marca “STEAMSHIP/20” indicando un doble porte. Este sobre no lleva ninguna numeración correlativa, por lo que deducimos que fue de las últimas cartas enviadas por John G. a su hermana.
+![Con marca “STEAMSHIP/20” indicando un doble porte. Este sobre no lleva ninguna numeración correlativa, por lo que deducimos que fue de las últimas cartas enviadas por John G. a su hermana.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image27.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image28.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image29.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image30.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image31.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image32.webp)
+
+![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image33.webp)
 
 Hay que tomar en cuenta que a medida que la expedición avanzaba hacia el Pacífico, más se alejaba de la comunicación marítima a través del puerto atlántico de Omoa por lo que probablemente tuvieron que optar por la ruta del Pacífico, sin lugar a dudas a través del puerto de Amapala, pues al escribir esta carta ya andaban rondando por el pueblo de Caridad, casi culminando con el trazado. Las limitaciones en comunicaciones y bastimentos quedan evidenciadas cuando John expresa que tuvo que viajar 80 kilómetros a Comayagua para hacerse de un par de monturas. Obviamente, en ningún momento consideraron despachar sus cartas por medio del arcaico servicio postal nacional a sabiendas que todavía arrastraba los vestigios del sistema colonial. Por lo contario una carta entregada directamente en un barco garantizaba en gran medida que alcanzaría su destino en por lo menos un mes, a menos que el barco naufragara.
 
@@ -232,7 +268,7 @@ Se le describe como un hombre amable y de buen trato, perteneciente a la iglesia
 
 Habiendo sufrido una penosa enfermedad que lo mantuvo paralítico por siete años, finalmente falleció a los 79 años en Marion, Indiana, el 20 de diciembre de 1911 siendo inhumado en el cementerio Lindenwood en Fort Wayne, Indiana.
 
-Lápida que marca el sepulcro de John M. Godown.
+![Lápida que marca el sepulcro de John M. Godown.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image34.webp)
 
 APÉNDICE
 
@@ -260,7 +296,7 @@ Durante la década de 1870 y principios de 1880 se desempeñó como Jefe de la O
 
 Pacific Mail Steamship Company (PMSC).
 
-William Henry Aspinwall
+![William Henry Aspinwall](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image35.webp)
 
 Fue fundada en Nueva York el 18 de abril de 1848 por los comer-ciantes William Henry Aspinwall, Edwin Bartlett, Henry Chauncey, Mr. Asop, Gardiner Greene H. y Samuel Shaw H.  Ellos adquirieron los derechos de transportar correo por contrato con el gobierno de los USA desde Panamá al estado de California, recientemente anexado.
 
@@ -268,7 +304,7 @@ Afortunadamente para Aspinwall y demás socios, la PMSC estaba en una posición 
 
 A pesar de lo peligroso de la ruta, el plan superó los medios tradicionales de transportar carga entre las costas del Atlántico y el Pacífico. Aun así, el emprendimiento involucraba un gran riesgo.  Con una pequeña población de 20,000 esparcidos sobre 4,500 kms., el Oeste no tenía carbón, no tenía medios para proveer o mantener vapores y solamente contaba con facilidades portuarias rudimentarias. Había muchos críticos que condenaban la aventura al fracaso. Sin embargo, Aspinwall perseveró y su buque el S. S. California fue el primero de su tipo en atracar en el puerto de San Francisco el 28 de febrero de 1849.
 
-Anuncio de la PMSC con su itinerario San Francisco- NewYork.
+![Anuncio de la PMSC con su itinerario San Francisco- NewYork.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image36.webp)
 
 El objetivo inicial de la naviera era transportar productos agrícolas desde la costa Oeste, pero justo al comenzar operaciones, oro fue descubierto en California en 1849 y el negocio prosperó casi desde el inicio.  Durante la fiebre del oro la compañía fue el principal medio de transporte de personas y mercadería, jugando un papel clave en el desarrollo de San Francisco.
 
@@ -278,7 +314,7 @@ Hasta fines de 1860, la Pacific Mail y el Ferrocarril de Panamá fueron las cor
 
 El SS Pacific. Vapor de 876 toneladas, botado el 24 de septiembre de 1850 para la empresa Merchants Accommodation Line.
 
-Vapor SS Pacific
+![Vapor SS Pacific](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image37.webp)
 
 Cornelius Vanderbilt hizo su fortuna en la navegación a vapor regional en el área de Nueva York. Cuando la fiebre del oro de California hizo rentable el tránsito a través de Panamá, vio una oportunidad de mejorar. Él creía que una ruta a través de Nicaragua, que estaba más cerca de los Estados Unidos, resultaría un camino más rápido y barato a los campos de oro de California. No pudo conseguir el financiamiento de un canal como esperaba, sino que utilizó una ruta que incluía el río San Juan y el lago de Nicaragua. Según los informes, el tiempo de tránsito de Nueva York a San Francisco en la nueva ruta de Nicaragua era de 2a5 días más rápido que la ruta por Panamá. Vanderbilt comenzó a comprar y alquilar barcos tanto en el Atlántico como en el Pacífico para implementar la ruta por Nicaragua. Charteó el SS Pacific para la sección de Nicaragua a San Francisco.
 
@@ -292,7 +328,7 @@ El SS George Law. Vapor de 2,141 toneladas construido en 1853 para la United Sta
 
 George Law
 
-(25 octubre 1806–18 nov. 1881)
+![(25 octubre 1806–18 nov. 1881)](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image38.webp)
 
 Durante sus días como SS George Law, el barco recorrió la ruta atlántica Nueva York-San Francisco realizando 43 viajes de ida y vuelta entre la ciudad de Nueva York y Panamá. En promedio le tomó entre 19 y 24 días completar el viaje redondo. Hizo este viaje hasta 1857, teniendo la distinción de transportar casi un tercio de la producción total de la fiebre de oro californiana valorada en 150 millones de dólares
 
@@ -308,7 +344,7 @@ Al momento del naufragio, el SS Central America transportaba oro valorado en apr
 
 Comandante William Lewis Herndon. Un distinguido oficial que había servido durante la guerra entre México y Estados Unidos y había explorado el Valle del Amazonas, sucumbió con el SS Central America. Más tarde, dos barcos de la Armada de los Estados Unidos fueron nombrados USS Herndon en su honor, al igual que la ciudad de Herndon, Virginia. Dos años después de la tragedia, su hija Ellen se casó con Chester Alan Arthur, futuro vigésimo primer presidente de los Estados Unidos de América.
 
-Capitán William Lewis Herndon
+![Capitán William Lewis Herndon](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image39.webp)
 
 En 1987 se descubrieron los restos de SS Central America a más de 8,000 pies de profundidad. El barco fue localizado por el Columbus-America Discovery Group, dirigido por Tommy Gregory Thompson. El 11 de septiembre de 1988 se envió un vehículo operado a control remoto (ROV) especialmente diseñado para la recuperación, trayendo a la superficie cantidades significativas de oro y artefactos.
 
@@ -320,7 +356,7 @@ En marzo de 2014, se otorgó un contrato a la Odyssey Marine Exploration para ll
 
 En noviembre de 2018 Thompson acordó entregar 500 monedas de oro, pero luego afirmó que no tenía acceso a ellas. El 28 de noviembre 2018 un jurado otorgó a los inversores $19.4 millones por daños compensatorios: 3.2 millones a la Dispatch Printing Company (aportó 1 millón de los 22 millones invertidos) y $16.2 millones al curador designado por el tribunal en representación del resto de los inversores.
 
-Vapor SS Central America
+![Vapor SS Central America](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image40.webp)
 
 Omoa. La historia de Omoa comienza en el año de 1536, cuando el adelantado Pedro de Alvarado repartió a sus tropas los pueblos indígenas. En esa fecha era un pequeño poblado indígena llamado Camoa. La corona española necesitaba un lugar seguro y de fácil acceso para el trasiego de mercadería entre España y los puntos claves de Centroamérica. Al estudiar los diferentes puntos costeros concluyeron que Camoa reunía los requisitos necesarios. Así se funda en 1752 el puerto de Camoa, nombre que mantuvo hasta 1795, cuando adquirió su nombre actual.
 
@@ -371,82 +407,3 @@ United States Postal Service. Correo Terrestre a California en los 1850s. USA. A
 Vallejo, Antonio Ramón. Anuario Estadístico de Honduras. Litografía Nacional, Tegucigalpa, Honduras. 1889.
 
 ---
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image2.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image4.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image5.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image6.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image7.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image8.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image9.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image10.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image11.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image12.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image13.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image14.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image15.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image16.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image17.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image18.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image19.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image20.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image21.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image22.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image23.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image24.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image25.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image26.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image27.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image28.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image29.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image30.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image31.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image32.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image33.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image34.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image35.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image36.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image37.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image38.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image39.webp)
-
-![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image40.webp)
