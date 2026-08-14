@@ -18,7 +18,7 @@ image_count: 34
 | --- | ---: | --- |
 | Directorio | 2 | — |
 | Editorial | 3 | [01](01-editorial.md) |
-| El escándalo de los sellos de oro treinta y cuatro años despues | 4 | [02](02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp.md) |
+| El escándalo de los sellos de oro treinta y cuatro años despues | 4 | [02](02-el-escandalo-de-los-sellos-de-oro.md) |
 | Una carta con mucha historia | 21 | [03](03-una-carta-con-mucha-historia.md) |
 | Historia del aeropuerto Toncontín | 34 | [04](04-historia-del-aeropuerto-toncontin.md) |
 | Falleción don eugenio Von Boeck | 42 | [05](05-fallecion-don-eugenio-von-boeck.md) |

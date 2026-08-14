@@ -57,7 +57,7 @@ export const publishQueue: PublishEntry[] = [
     teaser: 'Tocó bajo la batuta de Toscanini, heredó acceso a un Stradivarius y deslumbró a la crítica en Milán, París y Berlín. Carlos Humberto Cano fue, sin discusión, el mejor violinista de Centroamérica — y aun así nunca recibió el sello postal que su historia merecía.',
   },
   {
-    id: 'serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro-treinta-y-cuatro-anos-desp',
+    id: 'serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro',
     featured: 2,
     publishDate: '2026-08-04',
     locked: true,
