@@ -33,3 +33,10 @@ Intaglio/
 
 # Generated social assets — regenerable from pipeline/build_social.py
 social/
+
+# --- Stray artefacts from the docx→Markdown conversion ---
+# Loose extracted images, R session logs, and intermediate HTML dumps that
+# land next to the content but are not part of it.
+.Rhistory
+content/*.png
+content/**/*.html

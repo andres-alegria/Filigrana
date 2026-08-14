@@ -20,6 +20,8 @@ review: []
 ---
 
 # Italo Ghizzoni en la génesis de la filatelia hondureña
+![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image36.webp)
+
 El tema se basa en este precioso sobre dirigido el 30 de mayo de 1896 a Miguel Gálvez Jiménez, Calle de La Cruz No. 1, Madrid, que más allá de insertarse en los primerísimos días de vida de la Litografía Nacional, cautelosamente nos induce a una posible relación de compra/venta ligada a la primera emisión elaborada en el país, y posiblemente a la segunda también. Pero, antes que nada, un poco sobre la historia precedente.
 
 El proceso de creación de la Litografía Nacional de Honduras nació a través de la firma de un contrato en la Ciudad de Cádiz, España, el 10 de noviembre de 1889, entre el comisionado por el gobierno de Honduras, doctor Antonio Ramírez Fontecha, en ese entonces rector de la Universidad Central de Honduras, y el ciudadano italiano Italo Ghizzoni Cappelletti.
@@ -49,8 +51,6 @@ El 1 de enero de 1896 se puso en circulación la serie postal Céleo Arias, la p
 Era de esperarse que siendo ésta la primera emisión en un incipiente taller de artes gráficas, saturado de personal neófito, abundase el material colateral antes de haberse alcanzado el trabajo final, amén de bosquejos, pruebas, hojas descartadas, etc. cuyo destino no estaba previsto en las condiciones de trabajo, como tampoco existían los medios físicos para su salvaguarda. ¿Qué podía hacer alguien ante la disyuntiva de tirarlo todo a la basura o contactar a uno de los mejores comerciantes de sellos en un país que le era familiar?
 
 > > "¿Tirarlo todo a la basura, o contactar a uno de los mejores comerciantes de sellos en un país que le era familiar?" El acuerdo de emisión sólo contemplaba se pusiesen a resguardo las planchas para posibles futuras reimpresiones, nada más. Entonces no había pecado a la vista, pues estaba claro que al Gobierno no le interesaba este producto excedente. Lo positivo es, que, si este fue el caso, se logró arrebatar a la desventura un puñado de material primigenio excelso, que a lo mejor es el que conforma hoy en día parte de las piezas únicas de la filatelia nacional.
-
-![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image36.webp)
 
 En cuanto al destinatario, Miguel Gálvez J., había nacido en Loja el 7 de abril de 1865, falleciendo en Madrid el 4 de noviembre de 1951, considerado el patriarca de la filatelia española.
 

@@ -20,6 +20,10 @@ review: []
 ---
 
 # Raoul Charles de Thuin – una verdadera pesadilla filatélica
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image23.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image24.webp)
 Raoul Charles de Thuin Knapenn, nacido en Bruselas, Bélgica en 1890 del matrimonio formado por Charles de Thuin y Marie Louise Knapenn, fue un prolífico falsificador y comerciante de sellos, quien en su mejor etapa operó desde Mérida, Yucatán, México, país del cual eventualmente se naturalizó.
 
 Su hija Raymonde (1911–1998), nacida en Bruselas (Bélgica), contrajo nupcias en Tegucigalpa con el abogado José Ángel Ulloa Donaire (1903-1989), quien en 1961 fungió como Canciller de la República y luego como Embajador de Honduras en México. Tuvieron dos hijos, Ileana y Alejandro, acreditado este último como Embajador de Honduras en Bélgica (1998-2002) y como Alcalde de Tegucigalpa (1978-1981).
@@ -32,9 +36,11 @@ En una carta de 1969 a Carl Walske (respetado coleccionista e investigador de fa
 
 A los 41 años de Thuin salió huyendo de Europa perseguido por la policía belga y francesa por falsificador, arribando (acompañado de su hija Raymonde, a la sazón de 18 años) al puerto de Galveston en el vapor SS Spagne el 11 de octubre de 1931. Según datos de inmigración de los Estados Unidos de América, ingresó como “periodista”, al igual como lo haría poco después al desembarcar en Veracruz, México. De México, tras investigaciones realizadas por la Policía Secreta, fue expulsado en base a la acusación de montar y dirigir una red de falsificación que involucraba a funcionarios públicos. De aquí se mudó a Tegucigalpa, Honduras.
 
-Anuncio que ubica a de Thuin en Tegucigalpa el 27 de julio de 1934.
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image25.webp)
 
-Antigua calle Simón Bolívar en Tegucigalpa donde se aprecia a la izquierda el Hotel Honduras y a la derecha la residencia de de Thuin.
+![Anuncio que ubica a de Thuin en Tegucigalpa el 27 de julio de 1934.](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image26.webp)
+
+![Antigua calle Simón Bolívar en Tegucigalpa donde se aprecia a la izquierda el Hotel Honduras y a la derecha la residencia de de Thuin.](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image27.webp)
 
 Es poco lo que podemos decir acerca de su vida personal en Tegucigalpa; no obstante, si podemos afirmar que a pesar de que de Thuin tenía fichas policiales abiertas en media docena de países, y aún con todas las posibles deficiencias de nuestro entorno judicial, este fue el único país donde, en 1935, puso los pies en la cárcel. Eventualmente sería expulsado en 1936. A continuación presentamos lo pertinente al proceso incoado en su contra por la justicia hondureña:
 
@@ -98,6 +104,10 @@ R. G. Knapenn
 
 El siguiente es un sobre, con su carta incluida, despachado de Mérida a los EUA el 10 de febrero de 1942, usando uno de sus alias como membrete:
 
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image28.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image29.webp)
+
 FRENCH PHILATELIC AGENCY
 
 APARTADO POSTAL 404
@@ -146,9 +156,9 @@ De usted muy atentamente,
 
 FRENCH PHILATELIC AGENCY
 
-1939. Despachada a Inglaterra durante su estadía en Belice, dirigida a Tommy Allen, conocido comerciante de rarezas coloniales inglesas.
+![1939. Despachada a Inglaterra durante su estadía en Belice, dirigida a Tommy Allen, conocido comerciante de rarezas coloniales inglesas.](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image30.webp)
 
-26 de agosto de 1965. Despachada a EUA desde su negocio en Mérida.
+![26 de agosto de 1965. Despachada a EUA desde su negocio en Mérida.](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image31.webp)
 
 Alarmados por lo imparable de su actividad ilícita y el enorme y peligroso daño que estaba causando a la filatelia mundial, la American Philatelic Society (APS), en 1966, compró por 300,000 dólares gran parte de sus herramientas, planchas, dibujos y existencias a fin de frenar su malévola producción; transacción respaldada por un compromiso por escrito en el que de Thuin juraba cesar para siempre en todas sus actividades filatélicas comerciales, personalmente o a través de intermediarios o agentes.
 
@@ -160,7 +170,9 @@ Honduras ha tenido una larga tradición de matasellos y fechadores de hule. Sin 
 
 Como muestra, seguidamente presentamos uno de los membretes espurios, el HO 125-C (APS), y un sobre con el mismo membrete genuino. En el falso es clara la omisión del punto después de la “A” de “C. A.” Asimismo destaca que la línea fina debajo de la línea gruesa, subrayando PUERTO DE SANTA MARIA, en el falso es quebrada, al contrario de la continua del genuino. Y, por último, el ornamento en la parte inferior, en el genuino es una flor de lis invertida, de contornos claramente definidos.
 
-Membrete falso clasificado por la APS como HO 125-C
+![Membrete falso clasificado por la APS como HO 125-C](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image32.webp)
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image33.webp)
 
 Además de Centro América, de Thuin se especializó de igual manera en contramarcas de Sudamérica y México, convirtiendo así sellos comunes en rarezas. También copió ilustraciones que había visto en revistas, repitiendo a veces los errores del ilustrador original cuando no tenía un ejemplar original como modelo. Por otro lado, él ponía especial empeño en producir piezas históricas que ya no tenían validez para ser utilizadas en el correo ordinario. Los comerciantes y coleccionistas de sellos recuerdan que en su momento de máxima actividad, residiendo en México desde donde operó por 26 años, de Thuin solía viajar con un laboratorio ambulante distribuido en tres maletas de enormes dimensiones.
 
@@ -177,6 +189,8 @@ El método usual de venta utilizado por de Thuin consistía en emplear uno de su
 El pináculo de su carrea se dio entre 1958 y 1964, pues ya para 1965 los efectos de su avanzada edad, su estado de salud, las denuncias por fraude y la creciente publicidad adversa fueron factores que menguaron su dinámica. Estos efectos se fueron acentuando cada vez más, como el sonado caso de lo que ocurrió 1962, cuando la casa de subastas Harmers iba a rematar en Londres 498 lotes de sellos clásicos mexicanos pertenecientes al coleccionista Hormer Lizama. Llegada la fecha del evento con todo ya preparado y listo y el catálogo correspondiente impreso, los organizadores descubrieron que casi todos los sellos llevaban matasellos falsificados o bien eran piezas falsas. Ante la evidencia de los hechos no tuvieron otra opción que suspender el evento de una manera brusca y poco comercial.
 
 La agonía de su pernicioso emprendimiento se desprende de la correspondencia circulada en esta última etapa, entre la cual figura la siguiente carta de 1973 relacionada con la oferta de ejemplares falsos hondureños a un coleccionista. (Debido a que no era su lengua natal, la gramática de su inglés es bastante defectuosa, por lo que al traducirla nos hemos apegado lo más posible a la redacción original):
+
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image34.webp)
 
 > Raoul de Thuin Nov. 23th-73
 >
@@ -256,6 +270,8 @@ De Thuin fallecería dos años más tarde, caducando así el final de una era qu
 
 La esposa Blanche E. Andrade Bowen de Thuin, la hija Diane de Sousa, los hermanos Luciene, Michel y Louis, sus padres políticos Sr. Miguel Ángel Andrade Peña, y Sra. B. Nardina Bowen Dueñas de Andrade, sus hermanos políticos Julio Humberto, Miguel Antonio, Jaime Eduardo y Horacio Francisco Andrade Bowen y demás familiares del que en vida fue Sr. Dr. Don
 
+![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image35.webp)
+
 Raoul Charles de Thuin Kanappen
 
 Cumplen con el penoso deber de comunicar a sus amigos, relacionados y a los que fueron del extinto, su sensible fallecimiento acaecido el día 23 de abril. Sus restos mortales se encuentran velando en Callejón Sin Nombre 106, entre Chambers y Rosendo Avilés, hasta su traslado a Río de Janeiro en donde será inhumado.
@@ -287,32 +303,3 @@ Expediente Judicial de Raúl De Thuin. Archivo Histórico del Poder Judicial de 
 The Yucatan Affair, The Work of Raul Ch. de Thuin, Philatelic Counterfeiter. American Philatelic Society, State College, Pennsylvania, EUA. 1980.
 
 ---
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image23.webp)
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image24.webp)
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image25.webp)
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image26.webp)
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image27.webp)
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image28.webp)
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image29.webp)
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image30.webp)
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image31.webp)
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image32.webp)
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image33.webp)
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image34.webp)
-
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image35.webp)

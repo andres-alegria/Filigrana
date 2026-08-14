@@ -74,6 +74,8 @@ Robert Hodgson II falleció en Ciudad Guatemala el 29 de mayo de 1791. En una ca
 
 ![Carta de Robert Hodgson II, durante su estadía en Guatemala, dirigida a su hijo Robert Hodgson III, en Bristol, Inglaterra, fechada el 2 de junio de 1791, cuatro días antes de su deceso.](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image4.webp)
 
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image5.webp)
+
 Querido Bob
 
 Tu madre, hermano y hermana están todos bien en una casa tolerable en León. Yo me iba a reunir con ellos cuando caí muy enfermo y hasta hoy me he recuperado
@@ -120,7 +122,7 @@ La sección norte del reino, era el dominio de una serie de líderes que ostenta
 
 Los rangos de General y Gobernador eran similares. En la segunda mitad del siglo XVIII los generales tuvieron mayor poder por el contacto directo con los colonos británicos de Black River. Después de la retirada de éstos en 1787, las posiciones de ambos rangos volvieron a ser equivalentes. El título de “Almirante” tuvo el menor rango y la más corta duración.
 
-Mapa mostrando las áreas de influencia de los cacicazgos misquitos.
+![Mapa mostrando las áreas de influencia de los cacicazgos misquitos.](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image7.webp)
 
 Tratando de emular el ejemplo de los ingleses, los españoles intentaron entrar en contacto con los misquitos invitando a algunos de sus líderes a visitar Guatemala, especialmente a partir de 1787. Siguiendo las reglas de la diplomacia, se les homenajea como a representantes de una nación amiga. Las autoridades locales llegaron incluso a concederles medallas de oro y plata. Posteriormente, continuando con la misma política inglesa, le solicitaron a los principales, la tutela de algunos de sus hijos para educarlos y asegurar así una paz duradera. Esto, sin embargo, no llegó a concretarse. Al aumentar España su presencia en la región se reiteraron las invitaciones a los líderes para visitar Guatemala. Fue entonces cuando se encargó al coronel Robert Hodgson II que colaborara con las autoridades españolas para que en compañía de Josef Manuel de Benavidez visitara la Costa de Mosquitos con el fin de convocar al gobernador indio John Briton y al rey zambo George II a una reunión con los españoles en Cartagena. La misión de Hodgson II y Benavidez se vio dificultada por el general zambo Tom Lee (Tonli), quien se opuso a que los líderes se entrevistasen con los españoles. No obstante, Tom Lee fue uno de los primeros en mantener una entrevista con uno de los comisionados españoles encargado de verificar la evacuación de los ingleses. En 1787 Tom Lee fue invitado por el capitán español Pedro de Obregón y Zevallos a una cena. Tom Lee asistió con uno de sus hermanos y dos sobrinos, hijos del general zambo Perquin Tempest El anfitrión observó en su diario que los cuatro misquitos hablaban y escribían inglés a la perfección y que trató de agasajarlos lo mejor que pudo para dejarlos satisfechos. No obstante, las impresiones de Obregón y Zevallos, cuando Hodgson II recorrió la región poco después, fueron de que Tom Lee había enviado un mensaje al gobernador Briton para que no aceptara la invitación de los españoles, aduciendo que los misquitos de Black River creían que si lo hacía estaría vendiendo su país. Pese a que se responsabilizó a Tom Lee y sus hombres de la matanza de cinco españoles en Brewers Lagoon* (Bruss Laguna) y de repartirse a sus mujeres, Hodgson II le envió regalos para tratar de calmar el descontento que reinaba entre ellos. Finalmente, el rey zambo y Briton enviaron una carta
 
@@ -142,9 +144,9 @@ Los zambos continuaron gobernando hasta el 12 de febrero de 1894, fecha en que e
 
 Robert Henry Clarence.
 
-Último rey Mosco (1890-1894).
+![Último rey Mosco (1890-1894).](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image8.webp)
 
-Residencia privada del rey Mosco en Bluefields.
+![Residencia privada del rey Mosco en Bluefields.](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image9.webp)
 
 En cuanto a Honduras, desde la década de 1840 existía un creciente interés por resolver el asunto de la Mosquitia hondureña con el gobierno británico. El 16 de diciembre de 1843, durante el gobierno del general Francisco Ferrera, se firmó con el Reino de Mosquitia el Tratado Robinson-Chávez, un convenio de amistad, alianza y mutua protección, en el cual se reconocía al general Thomas Lowry Robinson (nieto del general Perquin Tempest) como cabecilla de los mosquitos. Este documento se caracterizó por su imprecisión, lo cual se prestó a diversas interpretaciones por las tres partes involucradas. Para Honduras el Tratado se entendía como la incorporación del territorio mosquito al Estado y la aceptación de quedar bajo la protección del Gobierno; en cambio los ingleses lo tomaron como un tácito reconocimiento de parte de Honduras a la autonomía mosquita. A pesar del desencanto de varios de sus coterráneos, el general Robinson reconoció la Mosquitia como parte de Honduras, con el goce de todos los derechos y deberes inherentes. En cuanto a comunicaciones postales, es relevante acotar que el Artículo 4to. del Convenio permitía establecer correos mensuales en la oficina de Juticalpa y en el puerto de Trujillo para recoger y entregar la correspondencia oficial de ambos gobiernos.
 
@@ -153,6 +155,14 @@ Para evidenciar su desaprobación al Tratado, tal como ya lo mencionamos, la cor
 Seguidamente presentamos el texto completo original y la transcripción de una carta (4) dirigida en 1844 por el general Thomas Lowry Robinson al jefe militar destacado en Planting River (río Plátano). Está de más tratar de ponderar tanto su valor filatélico como histórico, ya que como una pieza única en su clase puede considerarse invaluable.
 
 Es notable el escudo de armas que la adorna, circundado por la leyenda: GOBIERNO POLÍTICO Y MILITAR DE LA COSTA DEL MOSQUITO DE HONDURAS, implicando desde entonces la adhesión de este sector a la territorialidad hondureña.
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image10.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image11.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image12.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image13.webp)
 
 A continuación la transcripción del texto y la respuesta del Gobierno. Se aclara que se ha respetado la ortografía del original:
 
@@ -212,6 +222,12 @@ El 31 de diciembre de 1894, el Gobierno del Dr. Policarpo Bonilla decretó la in
 
 El ejemplar (5) que presentamos más adelante es un sobre con membrete de The Missouri-Honduras Fruit Co. con sede en Saint Joseph, Missouri, despachado a Big Rapids, Michigan. Este es el único ejemplar conocido con un fechador circular, del 16 de octubre de 1894, de la “Administración de Correos de la Mosquitia”, estampado al reverso en tinta verde.
 
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image14.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image15.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image16.webp)
+
 De esta pieza se desprende que de alguna manera las políticas del Dr. Bonilla tuvieron algún grado de éxito. En Honduras Filatélica, volumen 12 de la serie 7, en el artículo sobre Iriona se aborda el caso de la Burchard Honduras Fruit
 
 Co. que al igual que esta compañía, en 1891 había recibido una vasta concesión de tierras para desarrollo comercial y agrícola.
@@ -220,15 +236,23 @@ Lo cierto es que gracias a las generosas ofertas concesionarias del Gobierno, fu
 
 Hasta donde el autor ha investigado, incluso en los archivos comerciales de Saint Joseph, Mo., no ha sido posible encontrar rastro alguno de la Honduras-Missouri Fruit Co. Lo más probable es que este proyecto agrícola no prosperó más allá de las formalidades legales, y que a raíz de alguna visita al lugar concesionado alguien despachó la carta que nos ocupa. Sin embargo, La pregunta que queda en el aire es ¿De dónde se despachó? Al respecto recordemos que el 23 de noviembre de 1892 la Mosquitia fue declarada como departamento, manteniendo este estatus hasta el 31 de diciembre de 1894, cuando fue anexada al departamento de Colón, por lo que es lógico que en este lapso de 25 meses se implementara una marca postal con su nombre, especialmente como una medida, que, aunque de bajo costo, conllevase un gran significado soberano. La agencia postal no podía estar muy al interior, en lugares como Caratasca o Patook, dadas las condiciones de lejanía y lo impenetrable de la zona por vía terrestre, quedando como única alternativa la irregular vía marítima. Aunado a lo anterior, el altísimo grado de analfabetismo existente producía un mínimo flujo epistolar, que de ninguna manera hubiese justificado la apertura de un servicio postal. De manera tal, que la única opción posible era Iriona, que al haberse catalogado entonces como la parte más importante de la nobel región, haya adoptado el uso efímero de esta rarísima marca. Esto se sustenta en el siguiente aviso publicado en La Gaceta del 31 de marzo de 1893, donde queda establecida la primera oficina postal en la Mosquitia:
 
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image17.webp)
+
 Como para afianzar lo anterior, a finales de 1893 la de Iriona queda listada en el Presupuesto General de Gastos de la República para el periodo 1894–1895, como la única oficina postal del departamento de la Mosquitia:
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image18.webp)
 
 El 23 de diciembre de 1906, mediante el laudo emitido por el rey de España Alfonso XIII, quedó dirimido el diferendo limítrofe entre Honduras y Nicaragua sobre el territorio de la Mosquitia. A pesar de ello, Nicaragua rehusó aceptar los términos de la sentencia. Entretanto, la Junta Militar de Gobierno de Honduras, mediante el decreto no. 52 del 21 de febrero de 1957 creó el departamento de Gracias a Dios, que incluía todo el territorio de la Mosquitia considerado hondureño, fijando su cabecera Guaguina con el nombre de Cabañas, siendo su primer gobernador político el señor Gautama Fonseca Zúniga.
 
-Sello nicaragüense emitido en 1937 que puso a ambos países en pie de guerra por mostrarse la Mosquitia hondureña como parte de Nicaragua.
+![Sello nicaragüense emitido en 1937 que puso a ambos países en pie de guerra por mostrarse la Mosquitia hondureña como parte de Nicaragua.](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image19.webp)
 
 Finalmente, tras varios procesos y negociaciones, ambos países acordaron someter el alegato sobre la validez del laudo a la Corte Internacional de Justicia, la cual el 18 de noviembre de 1960 falló a favor de Honduras al tiempo de confirmar la validez de la sentencia arbitral de 1906.
 
 Como para dejar definida de una buena vez la operatividad postal de la Mosquitia, el siguiente sobre, despachado el 25 de febrero de 1947 desde la comunidad de Tocamacho (entonces en la Mosquitia), plasma claramente como medio siglo después la correspondencia todavía debía ser canalizada “vía Iriona” y Trujillo (fechador al reverso):
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image20.webp)
+
+![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image21.webp)
 
 Si bien el Estado de Honduras había consolidado sus derechos territoriales de manera definitiva, en ese entonces éste no mostró mayor intención de ejercer un control fiscal, como tampoco controlar por la vía de la fuerza a esta dispersa y escasamente conocida población. Por lo tanto, la presencia in situ de autoridades gubernamentales o del ejército nacional resultó injustificada o prácticamente nula, salvo la designación de alguna exigua autoridad policial con sede en Trujillo.
 
@@ -255,39 +279,3 @@ DEL 19 AL 24 DE NOVIEMBRE DEL 2024
 INSTITUTO HONDUREÑO DE CULTURA HISPÁNICA, TEGUCIGALPA
 
 ---
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image5.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image7.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image8.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image9.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image10.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image11.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image12.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image13.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image14.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image15.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image16.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image17.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image18.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image19.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image20.webp)
-
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image21.webp)
-
