@@ -31,6 +31,10 @@ __pycache__/
 # Design reference images (inspiration; some stock/copyrighted) — local only
 Intaglio/
 
+# Newly received magazine editions awaiting conversion — same class of
+# material as Filatelia/ above: heavy source .doc files, rights not cleared.
+IncomingMaterial/
+
 # Generated social assets — regenerable from pipeline/build_social.py
 social/
 

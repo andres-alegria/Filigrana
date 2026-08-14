@@ -266,6 +266,58 @@ def mark_lockup(size, fg=GREEN, suffix_colour=GOLD, letter='F', tld='hn', fill=0
     return im
 
 
+def stamp_mark(size=IG_PROFILE, bg=GREEN, ring=PAPER, teeth=54,
+               radius=0.455, hole_ratio=0.70, ring_at=0.80, ring_w=0.0035):
+    """A round perforated stamp on a transparent ground, with 'F.hn' inside.
+
+    The dented edge is made the way a real perforation is: a disc with a run
+    of small circles punched out of its rim. Everything is built at SS_STAMP
+    scale and reduced once, so the bites come out clean rather than stepped.
+
+    The hole size is expressed as a fraction of the spacing between holes, not
+    of the canvas, because that ratio is what decides the shape of the tooth.
+    At 1.0 the punches touch and the teeth come to a point — a rosette, not a
+    stamp. Below 1.0 a flat bridge of paper survives between each pair, which
+    is what a torn perforation actually looks like.
+
+    teeth      — number of perforations around the rim
+    hole_ratio — hole diameter ÷ hole spacing; keep under ~0.8 for flat teeth
+    ring_at    — where the thin inner rule sits, as a fraction of disc radius
+    """
+    SS_STAMP = 4
+    S = size * SS_STAMP
+    R = S * radius
+    cx = cy = S / 2
+
+    mask = Image.new('L', (S, S), 0)
+    md = ImageDraw.Draw(mask)
+    md.ellipse([cx - R, cy - R, cx + R, cy + R], fill=255)
+
+    # punch the perforations out of the rim, leaving a bridge between each
+    pitch = 2 * math.pi * R / teeth          # centre-to-centre spacing
+    tr = pitch * hole_ratio / 2
+    for i in range(teeth):
+        a = 2 * math.pi * i / teeth
+        px, py = cx + R * math.cos(a), cy + R * math.sin(a)
+        md.ellipse([px - tr, py - tr, px + tr, py + tr], fill=0)
+
+    stamp = Image.new('RGBA', (S, S), bg + (255,))
+    stamp.putalpha(mask)
+
+    # thin inner rule — stroke only, no fill
+    d = ImageDraw.Draw(stamp)
+    rr = R * ring_at
+    d.ellipse([cx - rr, cy - rr, cx + rr, cy + rr],
+              outline=ring + (255,), width=max(1, int(S * ring_w)))
+
+    stamp = stamp.resize((size, size), Image.LANCZOS)
+
+    # lockup, sized to sit comfortably inside the rule
+    lock = mark_lockup(size, fg=ring, suffix_colour=GOLD, fill=ring_at * 0.74)
+    stamp.alpha_composite(lock)
+    return stamp
+
+
 # ─── profile images ────────────────────────────────────────────────────────
 def build_profile():
     os.makedirs(os.path.join(OUT, 'profile'), exist_ok=True)
@@ -438,6 +490,11 @@ if __name__ == '__main__':
     if cmd == 'profile':
         build_profile()
         print('wrote', os.path.join(OUT, 'profile'))
+    elif cmd == 'stamp':
+        os.makedirs(os.path.join(OUT, 'profile'), exist_ok=True)
+        out = os.path.join(OUT, 'profile', 'stamp-fhn.png')
+        stamp_mark().save(out)
+        print('wrote', out)
     elif cmd in ('coming-soon', 'proximamente'):
         print('wrote', build_coming_soon())
     elif cmd == 'post':
