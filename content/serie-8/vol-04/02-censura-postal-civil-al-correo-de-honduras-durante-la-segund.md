@@ -30,11 +30,13 @@ En los países aliados, los civiles también fueron sometidos a censura. La cens
 
 Tras la declaratoria de guerra de los Estados Unidos a Japón el 8 de diciembre de 1941, Honduras hizo lo propio ese mismo día. Poco después, el 11 de diciembre de 1941, los Estados Unidos le declaró la guerra a Alemania e Italia, y al siguiente Honduras hizo lo propio.
 
-Primera plana del Diario Comercial de San Pedro Sula anunciando el 8 de diciembre de 1941 la declaratoria de guerra de Honduras al Japón.
+![Primera plana del Diario Comercial de San Pedro Sula anunciando el 8 de diciembre de 1941 la declaratoria de guerra de Honduras al Japón.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image3.webp)
 
 La mayoría de las naciones involucradas iniciaron casi de inmediato una estricta censura que afectó a periódicos, transmisiones de radio, mensajes telegráficos y correo. Se consideró necesaria la censura del correo militar y civil para evitar la difusión de información confidencial a través de las líneas enemigas. Tanto civiles entrenados como oficiales militares llevaron a cabo la censura, abriendo, examinando y, si fuese necesario, obliterando o cortando partes sospechosas de los textos. Luego la carta se volvía a cerrar con la banda respectiva o se marcaba con el sello del examinador.
 
-Carta enviada de Tegucigalpa a Tokio el 5 de diciembre de 1941, la cual ya se encontraba en Nueva York (Morgan Annex) al suceder, dos días después, el ataque a Pearl Harbor; razón por la que fue retornada al remitente al quedar suspendido el servicio postal hacia Japón. Esta condición quedó manifestada con la marca de un sello manual entintado.
+![Carta enviada de Tegucigalpa a Tokio el 5 de diciembre de 1941, la cual ya se encontraba en Nueva York (Morgan Annex) al suceder, dos días después, el ataque a Pearl Harbor; razón por la que fue retornada al remitente al quedar suspendido el servicio postal hacia Japón. Esta condición quedó manifestada con la marca de un sello manual entintado.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image4.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image5.webp)
 
 Por su parte, Alemania puso en práctica un extenso sistema de censura tanto interno como para los territorios ocupados. A cada estación se le asignó una letra que utilizaba en sus sellos manuales y etiquetas de cierre.
 
@@ -114,9 +116,9 @@ Las bandas de papel para cierres venían en varios tamaños, impresas con distin
 
 En cuanto a Alemania, la estación de censura de Berlín recibió a finales de 1939 sus propias cintas de papel para censura. En las tiras aparecen las palabras “Geoffnet” (abierta) o “Geprüft” (examinada) y el nombre identificando al censor “Oberkommando der Wehrmacht” (Alto Mando de las Fuerzas Armadas).
 
-1 de diciembre de 1939. Enviada de San Pedro Sula para Alemania, tres meses exactos tras el inicio de la Segunda Guerra Mundial.
+![1 de diciembre de 1939. Enviada de San Pedro Sula para Alemania, tres meses exactos tras el inicio de la Segunda Guerra Mundial.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image6.webp)
 
-De acuerdo a la banda en el reverso fue
+![De acuerdo a la banda en el reverso fue](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image7.webp)
 
 “Abierta por el Alto Mando de las Fuerzas Armadas”.
 
@@ -124,13 +126,21 @@ De acuerdo a la banda en el reverso fue
 
 El ejemplar de censura alemana que a continuación se presenta, se caracteriza por tener en la banda una “X” ubicada bajo el águila nazi. Esta correspondencia fue manejada en la zona de Vichy, en la Francia ocupada, aplicada desde septiembre de 1940 hasta agosto de 1944. Aquí se procesaban cartas de la Cruz Roja Internacional, Bélgica y Países Bajos.
 
-13 de noviembre de 1942. Sobre enviado por la Cruz Roja hondureña en Tegucigalpa a la Cruz Roja Internacional en Ginebra, pasando por la censura norteamericana, con cinta adhesiva a la izquierda, y la alemana, con banda de papel en la parte superior.
+![13 de noviembre de 1942. Sobre enviado por la Cruz Roja hondureña en Tegucigalpa a la Cruz Roja Internacional en Ginebra, pasando por la censura norteamericana, con cinta adhesiva a la izquierda, y la alemana, con banda de papel en la parte superior.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image8.webp)
 
-9 de enero de 1941. Abierto por la censura inglesa desde su origen en Canadá, previo a continuar hacia Tegucigalpa, San Pedro Sula y La Lima.
+![9 de enero de 1941. Abierto por la censura inglesa desde su origen en Canadá, previo a continuar hacia Tegucigalpa, San Pedro Sula y La Lima.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image9.webp)
 
-Está claro que desde el comienzo de la guerra, la correspondencia hondureña, al igual que el resto, fue sometida a censura bajo la operatividad establecida allende sus fronteras. Sin embargo, a medida que el sistema se fue afianzando, cada país aliado fue asumiendo este papel de manera individual, capacitando e incorporando en alguna medida a personal civil nacional, siempre bajo observación norteamericana.
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image10.webp)
 
-27 de enero de 1942. El sobre más temprano conocido de Honduras hacia el exterior. Examinado a su paso por Nueva York (5505), así como a su llegada a Londres (5399) por el “Postal Censor 90”.
+![Está claro que desde el comienzo de la guerra, la correspondencia hondureña, al igual que el resto, fue sometida a censura bajo la operatividad establecida allende sus fronteras. Sin embargo, a medida que el sistema se fue afianzando, cada país aliado fue asumiendo este papel de manera individual, capacitando e incorporando en alguna medida a personal civil nacional, siempre bajo observación norteamericana.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image11.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image12.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image13.webp)
+
+![27 de enero de 1942. El sobre más temprano conocido de Honduras hacia el exterior. Examinado a su paso por Nueva York (5505), así como a su llegada a Londres (5399) por el “Postal Censor 90”.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image14.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image15.webp)
 
 El personal de la Oficina de Censura norteamericana aumentó a 14,462 personas en febrero de 1943 en las oficinas que se habían abierto en las ciudades de Nueva York, Miami, Nueva Orleans, San Antonio, Laredo, Brownsville, El Paso, Nogales, Los Ángeles, San Francisco, Seattle, Chicago, San Juan, Charlotte Amalie, Balboa, Cristóbal, David, Panamá, Honolulú, Pago Pago y Washington D.C.
 
@@ -334,39 +344,41 @@ Cristóbal: 13503-13580 y 59009-59049
 
 David: 75014-75060
 
-26 de diciembre de 1941. Despachada de Comayagüela a Chicago, censurada con uno de los primeros cierres de papel puestos en uso.
+![26 de diciembre de 1941. Despachada de Comayagüela a Chicago, censurada con uno de los primeros cierres de papel puestos en uso.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image16.webp)
 
-PASSED BY EXAMINER
+![PASSED BY EXAMINER](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image17.webp)
 
 No. 1952
 
 Cierre en papel color rosado con texto en rojo. Es notable la implementación de medidas provisionales para echar a andar el sistema en la forma de poner el sello a mano en la banda de cierre y el número manuscrito.
 
-11 de marzo 1942. De Puerto Cortés a EUA. Postal censurada en Nueva Orleans (3336) con un sello lineal manual. En este caso, por razones obvias, a este tipo de correspondencia no se le podía pegar una banda de cierre, por lo que se recurría a sellos manuales. Asimismo, Las postales y paquetería recibían un trato adicional, pues además de censurar el texto estas piezas no debían contener imágenes que pudiesen ser de utilidad al enemigo, tales como edificios, puertos marítimos o aéreos, fábricas, etc.
+![11 de marzo 1942. De Puerto Cortés a EUA. Postal censurada en Nueva Orleans (3336) con un sello lineal manual. En este caso, por razones obvias, a este tipo de correspondencia no se le podía pegar una banda de cierre, por lo que se recurría a sellos manuales. Asimismo, Las postales y paquetería recibían un trato adicional, pues además de censurar el texto estas piezas no debían contener imágenes que pudiesen ser de utilidad al enemigo, tales como edificios, puertos marítimos o aéreos, fábricas, etc.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image18.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image19.webp)
 
 Adicional al número de censor, los sellos manuales circulares contenían ciertas claves como uno, dos, tres o cuatro círculos o estrellas en la parte inferior, tal como sucede en el caso siguiente donde se identifican tres círculos correspondientes a la estación de San Antonio, Texas.
 
-Despachado de Guinope a Chicago alrededor de 1942, con censura en San Antonio, Texas (2199) con un sello circular y número de censor manuscrito.
+![Despachado de Guinope a Chicago alrededor de 1942, con censura en San Antonio, Texas (2199) con un sello circular y número de censor manuscrito.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image20.webp)
 
-14 de marzo de 1942. Del mismo remitente y destinatario que el anterior, o sea que esta marca lineal “released” procede también de San Antonio.
+![14 de marzo de 1942. Del mismo remitente y destinatario que el anterior, o sea que esta marca lineal “released” procede también de San Antonio.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image21.webp)
 
-De San Pedro Sula a Buenos Aires el 3 de febrero de 1943, censurado con una etiqueta de “Defensa Continental” colocada en Balboa, Zona del Canal.
+![De San Pedro Sula a Buenos Aires el 3 de febrero de 1943, censurado con una etiqueta de “Defensa Continental” colocada en Balboa, Zona del Canal.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image22.webp)
 
-Banda canalera de papel sin dentar de 9½x4 cm
+![Banda canalera de papel sin dentar de 9½x4 cm](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image23.webp)
 
-Estas fueron las primeras bandas estándar usadas de una manera universal hacia finales de 1942. Inicialmente fueron impresas en tiras de 9 cm de ancho, con el texto centrado. Luego, en impresiones subsiguientes, el ancho de la banda fue variando de 3 a 6½ cm. Igualmente cambió el ancho del espacio entre las líneas del texto y el tipo de números usados.
+![Estas fueron las primeras bandas estándar usadas de una manera universal hacia finales de 1942. Inicialmente fueron impresas en tiras de 9 cm de ancho, con el texto centrado. Luego, en impresiones subsiguientes, el ancho de la banda fue variando de 3 a 6½ cm. Igualmente cambió el ancho del espacio entre las líneas del texto y el tipo de números usados.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image24.webp)
 
 A lo largo de la guerra, en la Zona del Canal también se aplicó una variedad de sellos manuales y cintas engomadas transparentes.
 
-22 de diciembre de 1944. No. de censor insertado con un sello manual, indicativo de un código establecido para Nueva York en una etapa posterior.
+![22 de diciembre de 1944. No. de censor insertado con un sello manual, indicativo de un código establecido para Nueva York en una etapa posterior.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image25.webp)
 
-8 de mayo de 1945. En esta fecha entró en vigor la rendición de Alemania.
+![8 de mayo de 1945. En esta fecha entró en vigor la rendición de Alemania.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image26.webp)
 
 Aunque por diversos medios se ha tratado de dar con el texto del decreto imponiendo la censura a nivel nacional, no ha sido posible ubicarlo. Sólo se sabe que en Honduras la censura fue puesta en vigor mediante el Decreto No. 62 del 8 de junio de 1943. Este Decreto consistía esencialmente en la suspensión de algunas garantías constitucionales, declarando al país en Estado de Sitio, lo que implicaba restricciones a la correspondencia y a la libertad de expresión, tanto oral como escrita, sin necesidad de censura previa, quedando en suspenso la garantía constitucional vinculada a la inviolabilidad de la correspondencia. Para el caso, casi de inmediato en 1941, el gobierno de Honduras expulsó al cónsul alemán Christian Zinsser, acusándolo de ser un agente nazi y de intentar influir en la política hondureña. Este tipo de acciones sólo reflejaba el ambiente de vigilancia y control que prevaleció en el transcurso de la guerra.
 
 No obstante, a falta del Decreto en sí, han salido a luz algunos comunicados relacionados con el tema, aportando elementos sobre las medidas adoptadas. Tal es el caso del aviso postal aparecido en el Diario Oficial La Gaceta el 1 de agosto de 1942, que con fecha 23 de julio del mismo año, en su segundo párrafo enfatiza el cumplimiento a lo establecido, quedando claro que para esta fecha la censura ya se estaba en marcha:
 
-En el plano internacional, como principal actor en este conflicto bélico, el gobierno de los Estados Unidos estableció las normas operativas para el manejo de la correspondencia a través de su territorio y más allá de sus fronteras, lo que se detalla a través de los dos comunicados publicados en Tegucigalpa en el Diario Oficial La Gaceta del 16 de noviembre de 1942:
+![En el plano internacional, como principal actor en este conflicto bélico, el gobierno de los Estados Unidos estableció las normas operativas para el manejo de la correspondencia a través de su territorio y más allá de sus fronteras, lo que se detalla a través de los dos comunicados publicados en Tegucigalpa en el Diario Oficial La Gaceta del 16 de noviembre de 1942:](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image27.webp)
 
 AVISO POSTAL
 
@@ -396,31 +408,45 @@ No hay que confundir la designación operativa de este sistema postal en particu
 
 Abonando al punto anterior, traemos a colación la nota dirigida al diario El Cronista (opositor del régimen cariista), que fechada el 29 de junio de 1943 exhorta al rotativo a cumplir con las medidas impuestas:
 
-En el plano epistolar, encontramos en la siguiente carta un testimonio que aborda la situación de la censura postal en Honduras, enviada por su hermana al connotado profesional y político hondureño ing. Félix Canales Salazar*, sobre la cual extraemos los párrafos atenientes:
+![En el plano epistolar, encontramos en la siguiente carta un testimonio que aborda la situación de la censura postal en Honduras, enviada por su hermana al connotado profesional y político hondureño ing. Félix Canales Salazar*, sobre la cual extraemos los párrafos atenientes:](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image28.webp)
 
 *El ing. Félix Canales Salazar, era oriundo de Jesús de Otoro (Intibucá). Realizó estudios de ingeniería en México. Al casarse con María Prisca Zúñiga Huete se volvió cuñado y correligionario de José Ángel Zúñiga Huete, líder del opositor Partido Liberal, situación que devino en sus frecuentes exilios durante el régimen del Dr. Tiburcio Carías Andino.
 
-De alguna manera, las instrucciones emanadas del Departamento Postal de los Estados Unidos, llegaron a la población hondureña, pues en el caso de esta carta, fue escrita en papel muy ligero, al grado que en la original el entintado de la máquina de escribir trasciende al reverso.
+![De alguna manera, las instrucciones emanadas del Departamento Postal de los Estados Unidos, llegaron a la población hondureña, pues en el caso de esta carta, fue escrita en papel muy ligero, al grado que en la original el entintado de la máquina de escribir trasciende al reverso.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image29.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image30.webp)
 
 La evidencia postal de la censura más temprana encontrada hasta ahora en Honduras, es el precioso sobre que a continuación se presenta, enviado desde Olanchito (Yoro) a los EUA el 15 de junio de 1942, ostentando una triple censura constitutiva de dos etiquetas de papel blanco, una tocante a la censura local aplicada a su paso obligado por Tegucigalpa el 18 de junio y otra estampada en Nueva York (12121); y, en ambos lados, una más con sello circular estampado a mano en San Antonio, Texas (12051).
 
-6.7x2.6 cm en papel dentado.
+![6.7x2.6 cm en papel dentado.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image31.webp)
 
-Además de las características que ya distinguen al sobre anterior, también se ve gratificado con la rara marca “V”, estampada en color violeta en su ciudad de origen Olanchito, esto último, deducido en base a la comparación del color de la tinta con las demás marcas de salida.
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image32.webp)
 
-4 de abril de 1944. Con cierre transparente colocado en Nueva York (50185) y cierre de papel dentado (6.7x2.6 cm) colocado en Honduras.
+![Además de las características que ya distinguen al sobre anterior, también se ve gratificado con la rara marca “V”, estampada en color violeta en su ciudad de origen Olanchito, esto último, deducido en base a la comparación del color de la tinta con las demás marcas de salida.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image33.webp)
 
-24 de agosto de 1944. Doble censura. Cierre de papel blanco sin dentar hondureño y cierre de cinta (2012) transparente aplicado en Nueva Orleans.
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image34.webp)
 
-Banda de cierre de papel blanco sin dentar 6.7x2.6 cm.
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image35.webp)
+
+![4 de abril de 1944. Con cierre transparente colocado en Nueva York (50185) y cierre de papel dentado (6.7x2.6 cm) colocado en Honduras.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image36.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image37.webp)
+
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image38.webp)
+
+![24 de agosto de 1944. Doble censura. Cierre de papel blanco sin dentar hondureño y cierre de cinta (2012) transparente aplicado en Nueva Orleans.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image39.webp)
+
+![Banda de cierre de papel blanco sin dentar 6.7x2.6 cm.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image40.webp)
 
 En un inicio las etiquetas de cierre eran marcadas a mano en tiras de papel, para luego ser separadas en unidades. Los diferentes ejemplares estudiados indican que esta labor distaba mucho de ser precisa, pues siendo una labor manual, los cortes difieren bastante en sus dimensiones, algunos encuadrando bien el texto y otros irrespetando los márgenes. En consideración a esto, a fin de establecer una diferencia objetiva, al indicar medidas en centímetros, nos referimos a la medida del rectángulo en sí, de manera que si se quiere pormenorizar en las diferencias habría que estudiar las separaciones de las líneas de los textos o el tipo de letra usado.
 
-2 de abril de 1945. De Tegucigalpa a El Salvador, censurada con un sello de goma de 6½ x 2½ cm.
+![2 de abril de 1945. De Tegucigalpa a El Salvador, censurada con un sello de goma de 6½ x 2½ cm.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image41.webp)
 
-28 de junio de 1945. De Tegucigalpa a Costa Rica, con banda de papel sin dentar. Última fecha conocida de un despacho censurado hacia el exterior.
+![28 de junio de 1945. De Tegucigalpa a Costa Rica, con banda de papel sin dentar. Última fecha conocida de un despacho censurado hacia el exterior.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image42.webp)
 
-Esta pieza con fecha del 7 de agosto de 1945, es la única pieza censurada conocida circulada localmente; además de esto, muestra la fecha de despacho más tardía. Fue enviada de Danlí a Tegucigalpa, cerrada con banda de papel sin dentar. (Aunque la guerra ya había finalizado en Europa el 7 de mayo, ésta aún continuaba contra el imperio japonés. El día anterior a la fecha de esta carta, ya había caído la bomba atómica sobre Hiroshima).
+![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image43.webp)
+
+![Esta pieza con fecha del 7 de agosto de 1945, es la única pieza censurada conocida circulada localmente; además de esto, muestra la fecha de despacho más tardía. Fue enviada de Danlí a Tegucigalpa, cerrada con banda de papel sin dentar. (Aunque la guerra ya había finalizado en Europa el 7 de mayo, ésta aún continuaba contra el imperio japonés. El día anterior a la fecha de esta carta, ya había caído la bomba atómica sobre Hiroshima).](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image44.webp)
 
 El 15 de agosto de 1945, exactamente el mismo día de la rendición incondicional del Japón, el presidente estadounidense Harry Truman firmó la siguiente Orden Ejecutiva dirigida al Director de la Oficina de Censura:
 
@@ -430,97 +456,8 @@ De acuerdo con la recomendación presentada el 27 de junio de 1945, el Director 
 
 2. Ordenar que la Oficina de Censura cese de inmediato la censura de todas las comunicaciones internacionales. Dar aviso con 30 días de antelación a todos los empleados de la Oficina de Censura, excepto a un pequeño grupo necesario para la liquidación de la Agencia.
 
-La oficina de censura estadounidense había funcionado durante cuarenta y cuatro meses, empleando en el pico de sus operaciones a 14,462 personas, con un gasto aproximado de 90 millones de dólares. La clausura formal de la Oficina de Censura tuvo lugar el 15 de noviembre de 1945.
+![La oficina de censura estadounidense había funcionado durante cuarenta y cuatro meses, empleando en el pico de sus operaciones a 14,462 personas, con un gasto aproximado de 90 millones de dólares. La clausura formal de la Oficina de Censura tuvo lugar el 15 de noviembre de 1945.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image45.webp)
 
 En Honduras la censura se levantó el 1 de noviembre de 1945, mediante el Decreto Ejecutivo No. 78. Desafortunadamente, a nivel local, y a pesar de los esfuerzos desplegados para acceder a alguna fuente de información, incluso en la misma Embajada Americana, resultó ser bastante raquítica la evidencia documental postal vinculada a este turbulento periodo.
 
 ---
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image3.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image4.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image5.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image6.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image7.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image8.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image9.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image10.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image11.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image12.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image13.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image14.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image15.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image16.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image17.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image18.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image19.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image20.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image21.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image22.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image23.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image24.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image25.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image26.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image27.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image28.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image29.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image30.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image31.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image32.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image33.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image34.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image35.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image36.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image37.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image38.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image39.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image40.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image41.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image42.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image43.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image44.webp)
-
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image45.webp)
