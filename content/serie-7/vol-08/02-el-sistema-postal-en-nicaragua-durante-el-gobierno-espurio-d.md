@@ -26,11 +26,13 @@ Desde la Costa Este de los Estados Unidos había dos maneras de alcanzar las tie
 
 La nueva empresa, conocida como la Accessory Transit Company, obtuvo el derecho exclusivo de una línea que partiría de Greytown (San Juan de Norte), en la costa Atlántica, hasta San Juan del Sur, el puerto más cercano en el Pacífico, acortando el trayecto de esta manera por casi 800 kilómetros (4a5 días menos) comparado al de Panamá. Este emprendimiento inició con todas las señales de ser un negocio exitoso.
 
-Ulises Vanderbilt
+![Ulises Vanderbilt](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image3.webp)
 
-San Francisco-Nueva Orleans-Nueva York
+![San Francisco-Nueva Orleans-Nueva York](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image4.webp)
 
 El 14 de julio de 1851 se inauguró la ruta con el SS Prometheus partiendo de Nueva York en dirección a San Juan del Norte. Se cruzaba el istmo por el Rio San Juan partiendo de San Carlos, luego a través del Lago Nicaragua hasta La Virgen y de allí 16 kms por tierra en diligencias hasta San Juan del Sur, donde se abordaban los vapores rumbo a San francisco.
+
+![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image5.webp)
 
 En la misma fecha partió de San Francisco a San Juan del Sur el SS Pacific.
 
@@ -40,9 +42,13 @@ Nueva York–Filadelfia. Porte de 5 cts. a cobrar. Esta tarifa estuvo vigente de
 
 En 1849 había sólo una oficina postal en San Francisco. Al compás de la creciente inmigración, muchas otras oficinas abrieron en las ciudades principales y luego en los pueblos. Sin embargo, los mineros en la mayoría de los casos se encontraban dispersos en campos alejados del servicio postal al tiempo que se veían imposibilitados de alejarse de sus minas para recibir o enviar cartas. De esta manera fue que empresarios visionarios, individualmente o en sociedad, establecieron compañías de correo expreso para explotar este prometedor nicho comercial.
 
+![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image6.webp)
+
 Las compañías de servicio expreso iniciaron en los Estados Unidos el 31 de agosto de 1852. Algunas de estas empresas californianas, apreciando las ventajas de una entrega más rápida de correspondencia, comenzaron a utilizar la nueva ruta por Nicaragua. La primera de estas fue la Gregory's California and New York Express.
 
-El 21 de octubre de 1851 fue entregada en Nueva York a Gregory’s Express donde se le estampó en el reverso “Gregory’s Atlantic and Pacific Express, Forwarded by Thompson & Hitchcock 149 Pearl St., N.Y”. De aquí fue despachada en el SS Daniel Webster de la Vanderbilt Line, que zarpó el 22 de octubre y llegó a San Juan del Norte el 4 de noviembre. Al siguiente día cruzó el istmo para ser despachada de San Juan del Sur hacia San Francisco donde arribó el 16 de noviembre. Este fue el quinto viaje de la línea, haciéndolo en tan sólo 26 días.
+![El 21 de octubre de 1851 fue entregada en Nueva York a Gregory’s Express donde se le estampó en el reverso “Gregory’s Atlantic and Pacific Express, Forwarded by Thompson & Hitchcock 149 Pearl St., N.Y”. De aquí fue despachada en el SS Daniel Webster de la Vanderbilt Line, que zarpó el 22 de octubre y llegó a San Juan del Norte el 4 de noviembre. Al siguiente día cruzó el istmo para ser despachada de San Juan del Sur hacia San Francisco donde arribó el 16 de noviembre. Este fue el quinto viaje de la línea, haciéndolo en tan sólo 26 días.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image7.webp)
+
+![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image8.webp)
 
 La expedición filibustera de William Walker vino a trastocar los negocios de la Compañía de Tránsito. Inglaterra mantenía también un interés vital en Nicaragua, habiendo constituido un Protectorado en la Costa de la Mosquitia entre 1655 y 1850. Pero para 1852, todos sus reclamos en esta zona habían sido abandonados, por lo menos en apariencia. Los ingleses habían salido de Greytown (nombrada en honor al gobernador de Jamaica Charles Grey); sin embargo, algunos oficiales permanecieron ahí entre bastidores. Se conformó un concejo municipal integrado por ingleses y norteamericanos, con el cónsul inglés, James Green, a la cabeza.
 
@@ -52,7 +58,9 @@ Antes de 1857, todo el correo inglés que partía de Greytown hacia puertos extr
 
 Carta interna circulada en 1855 de León a La Virgen. Con porte franco.
 
-Ruta terrestre de León al puerto de La Virgen.
+![Ruta terrestre de León al puerto de La Virgen.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image9.webp)
+
+![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image10.webp)
 
 En los Estados Unidos el prepago de la correspondencia se volvió obligatorio a partir del 1 de abril de 1855 con la siguiente tarifa y emisiones:
 
@@ -60,7 +68,13 @@ Hasta 3,000 millas, por ½ oz.: 3 centavos.
 
 Más de 3,000 millas, por ½ oz.: 10 centavos.
 
-10 cts. 1855 5 cts. 1857 3 cts. 1857 12 cts. 1857
+![10 cts. 1855 5 cts. 1857 3 cts. 1857 12 cts. 1857](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image11.webp)
+
+![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image12.webp)
+
+![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image13.webp)
+
+![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image14.webp)
 
 Antes de 1855, la tarifa doméstica era de 3 c. prepagada, y5c. a cobrar.
 
@@ -68,15 +82,17 @@ Estados Unidos emitió sus primeros sellos postales el 1 de julio de 1847, y los
 
 La capacidad inicial era insuficiente para perforar todos los sellos impresos, de tal manera que los sellos puestos en circulación entre febrero y julio de 1857 son escasos. Después de esta fecha, perforadoras adicionales fueron puestas en función.
 
-25 de noviembre de 1855. Granada–San Juan del Sur–San Juan del Norte–Nueva York–Maine.
+![25 de noviembre de 1855. Granada–San Juan del Sur–San Juan del Norte–Nueva York–Maine.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image15.webp)
 
 Llevada por la Vanderbilt Line hasta Nueva York, donde entró al sistema de correo de los Estados Unidos aplicándole el matasello de llegada "NEW–YORK AUG/18". Porteada con la tarifa interior norteamericana de 3 cts.
 
 Afortunadamente se ha conservado la carta remitida junto a este sobre, en la que adicionalmente al valor complementario que aporta la misma, el remitente nos ilustra al señalar específicamente (en el recuadro) las condiciones para poder hacerle llegar el correo:
 
-“Las cartas deben ser dirigidas tal como está escrito arriba, con el porte americano pagado y enviadas a través del servicio de Wells Fargo & Co. quienes me las harán llegar”.
+![“Las cartas deben ser dirigidas tal como está escrito arriba, con el porte americano pagado y enviadas a través del servicio de Wells Fargo & Co. quienes me las harán llegar”.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image16.webp)
 
-Acuerdo del 19 de enero de 1856 mediante el cual el gobierno autori-za el manejo postal de y hacia el extranjero a través de los vapores de la Compañía de Tránsito, servicio conocido como “Nicaragua Ahead of the Mails” (Nicaragua Adelante de los Correos), cinco me-ses antes de la llegada de Walker.
+![Acuerdo del 19 de enero de 1856 mediante el cual el gobierno autori-za el manejo postal de y hacia el extranjero a través de los vapores de la Compañía de Tránsito, servicio conocido como “Nicaragua Ahead of the Mails” (Nicaragua Adelante de los Correos), cinco me-ses antes de la llegada de Walker.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image17.webp)
+
+![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image18.webp)
 
 A finales de 1855, Edmund Randolph, hombre de confianza de Walker, comienza a maniobrar con la intención de apoderarse de la Ruta de Tránsito, al tenor de lo cual Walker le concede los derechos exclusivos para el transporte de pasajeros y carga a través de Nicaragua. Randolph logra captar el interés de Cornelio K. Garrison para que se le uniera en la operación de la ruta. A su vez Garrison involucra en la aventura a Charles Morgan, con el fin primordial de proveerle a Walker transporte gratuito de refuerzos, armas y provisiones procedentes de los Estados Unidos.
 
@@ -86,11 +102,11 @@ La nueva Nicaragua Steamship Company de Morgan y Garrison inició operaciones en
 
 A todo esto, el comodoro Vanderbilt no se quedó de brazos cruzados. Siendo una de las personas más ricas e influyentes de la Unión Americana, dedicó tiempo y dinero a contrarrestar las actividades invasoras, quedando al final comprobado que Walker se había metido con la persona equivocada
 
-CORNELIO K. GARRISON. Antiguo administrador de las operaciones de Cornelio Vanderbilt en San Francisco.
+![CORNELIO K. GARRISON. Antiguo administrador de las operaciones de Cornelio Vanderbilt en San Francisco.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image19.webp)
 
 G. H. Wines & Co. fue fundada en 1855, con servicio entre San Francisco y Sacramento, California, donde conectaba con otras mensajerías.
 
-1855. Carta “franca” (paid). De San Francisco a Manzanillo (México).
+![1855. Carta “franca” (paid). De San Francisco a Manzanillo (México).](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image20.webp)
 
 Con uno de los membretes más ornamentados de la época.
 
@@ -104,21 +120,27 @@ Aquí entra en escena la Wines and Co.'s Express, que vino a ejercer un monopoli
 
 Entre 1851 y 1853, Ruggles había trabajado como agente de Vanderbilt en Castillo Viejo. Una vez a cargo del correo ordenó, tal como recientemente se había instituido en los Estados Unidos, que todas las cartas debían ser pre-franqueadas; asimismo, entró en funciones un buque paquete entre Greytown y Nueva York. Anteriormente en Nicaragua todo el correo se transportaba de la manera más rudimentaria, por peatones y en canoas. Ruggles demostró su eficiencia al organizar y hacer funcional a corto plazo todo el aparato postal.
 
+![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image21.webp)
+
 Hay que hacer énfasis en que el correo nicaragüense prácticamente se privatizó, pues del Acuerdo anterior se deduce que Ruggles no cesó como agente de Wines, de modo que todos los ingresos generados eran para la empresa, y no cabe duda que los generados por el movimiento interno igualmente quedaban fuera de la economía nacional, así que: del mismo cuero las correas.
 
 Anuncio del 10 de noviembre de 1855 publicado en el Daily Placer Times & Transcript de San Francisco.
 
-“Los remitentes pueden estar seguros que sus cartas y documentos serán entregados a sus amigos en el ejército de Walker, doquiera se encuentren, sin demora”.
+![“Los remitentes pueden estar seguros que sus cartas y documentos serán entregados a sus amigos en el ejército de Walker, doquiera se encuentren, sin demora”.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image22.webp)
 
-Diligencia Expresa. - Wines & Co. ha enviado una diligencia expresa, bien pintada y que ha causado muy buena impresión en este país donde no hay nada más que carretas con ruedas fabricadas acerrando un tronco y perforando un agujero a través del centro para el eje. Ya ha sido puesta a funcionar y el cochero cruza la ciudad dándose aires de aristocracia.
+![Diligencia Expresa. - Wines & Co. ha enviado una diligencia expresa, bien pintada y que ha causado muy buena impresión en este país donde no hay nada más que carretas con ruedas fabricadas acerrando un tronco y perforando un agujero a través del centro para el eje. Ya ha sido puesta a funcionar y el cochero cruza la ciudad dándose aires de aristocracia.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image23.webp)
 
 San Francisco–San Juan del Sur–San Francisco. Salió de San Francisco el 21 de enero de 1856 a bordo del SS Sierra Nevada de la Vanderbilt Line, llegando a San Juan del Sur el 1 de febrero. El destinatario, Samuel Morrison, había regresado a California; así que el agente en San Juan del Sur la reenvió a San Francisco, marcándola para su control como la No. 14.
 
 Luego, el Sierra Nevada zarpó de San Juan del Sur el 6 de febrero 1856, atracando en San Francisco el 19 entrante. Al siguiente día fue depositada en el sistema postal de esta ciudad. La indicia del entero postal con valor de 3 cts. se tomó en cuenta al cobrar los 7 cts. (DUE7) adicionales para completar la tarifa extranjera de 10 cts.
 
+![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image24.webp)
+
 (Los primeros enteros postales norteamericanos de 3 cts. circularon el 1 de julio de 1853. Su uso fue ampliamente aprovechado por las compañías expresas al facilitarles el manejo de dos elementos en uno).
 
-31 de enero de 1856. San Francisco–Nueva York–Baltimore.
+![31 de enero de 1856. San Francisco–Nueva York–Baltimore.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image25.webp)
+
+![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image26.webp)
 
 Al reverso se le estampó la marca ovalada en azul:
 
@@ -128,7 +150,7 @@ La carta salió de San Francisco el 4 de febrero de 1856 en el SS Cortez de la 
 
 El Nicaragüense del 31 de mayo de 1856:
 
-Importante para Escritores de Cartas.
+![Importante para Escritores de Cartas.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image27.webp)
 
 Wines & Co. por este medio notifica que en el futuro TODAS LAS CARTAS DEBEN SER PAGADAS POR ADELANTADO. La tarifa será de veinte centavos, incluyendo las estampillas. Las estampillas pueden ser adquiridas en la oficina de Wines & Co., con o sin sobre.
 
@@ -140,13 +162,13 @@ La frase “incluyendo las estampillas” se ha prestado en más de una ocasión
 
 Anuncio en el periódico Daily Alta California, 15 de octubre de 1856:
 
-“Nuestros expresos van siempre acompañados de mensajeros competentes y experimentados…”
+![“Nuestros expresos van siempre acompañados de mensajeros competentes y experimentados…”](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image28.webp)
 
 Aunque la comunicación postal con el exterior era funcional, la perenne turbulencia militar del espurio gobierno de Walker afectaba en gran medida al correo interno. La actividad epistolar entre particulares era mínima, lo que se ha reflejado en la gran escasez de piezas filatélicas de la época. Este detalle derivó en gran medida al temor de la ciudadanía a que sus cartas cayeran en manos indebidas y que cualquier frase sospechosa diera lugar a la confiscación de sus bienes, o peor, a la muerte. El asunto no carecía de fundamento, dado que en octubre y noviembre de 1855, los generales Mateo Mayorga y Ponciano Corral fueron fusilados, respectivamente, acusados de oponerse al régimen en base a correspondencia interceptada. Igual suerte había corrido don Mariano Salazar cuando fue capturado en altamar rumbo a El Salvador y se le encontraron cartas incriminatorias. Estas noticias circularon a lo ancho y largo del país, obligando al pueblo letrado a abstenerse en la medida de lo posible al contacto postal; optando en algún grado al uso de los tradicionales “propios” y seguramente a la eventual destrucción de las misivas recibidas.
 
 El efecto no se hizo esperar. La evidente caída en el número de cartas particulares circulantes no pasó desapercibida a los ojos del director Ruggles. A pesar de que el rumor ya había calado en el pueblo, él se armó de cinismo, y en un desesperado acto por tratar de disimular la realidad y recobrar la confianza de los usuarios, procedió a publicar en El Nicaragüense la siguiente aclaración:
 
-> "Un error corregido. - Hemos escuchado el reporte de que el Gobierno mantiene una vigilancia sobre la Oficina Postal, e inspecciona el contenido de todas las cartas despachadas a través de los correos. Tal historia escasamente merece el mérito de noticia, aun así, como ha atraído la atención del Director General de Correos, no hace ningún mal contradecirla. No existe el menor fundamento de verdad en dicho reporte, y esos que circulan semejantes historias injustas, son merecedores de la más severa censura. Las cartas particulares despachadas a través de la oficina de correos están perfectamente seguras de cualquier intromisión."
+![> "Un error corregido. - Hemos escuchado el reporte de que el Gobierno mantiene una vigilancia sobre la Oficina Postal, e inspecciona el contenido de todas las cartas despachadas a través de los correos. Tal historia escasamente merece el mérito de noticia, aun así, como ha atraído la atención del Director General de Correos, no hace ningún mal contradecirla. No existe el menor fundamento de verdad en dicho reporte, y esos que circulan semejantes historias injustas, son merecedores de la más severa censura. Las cartas particulares despachadas a través de la oficina de correos están perfectamente seguras de cualquier intromisión."](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image29.webp)
 
 > > "No existe el menor fundamento de verdad en dicho reporte."
 
@@ -156,7 +178,7 @@ La situación anterior se acentúa tomando en cuenta que esta percepción era ya
 
 G. H. Wines and Co. era conocida también como "The Atlantic, California and Oregon Express”. En los Estados Unidos operaba desde la localidad de Mines (California) con conexiones desde y hacia Sacramento y a todas las localidades al Norte de Stockton y el Sur de Mines. También estaba conectada con “Leland's Express” a San José, Santa Clara, Santa Cruz, Nueva Almaden y otros puntos del Estado de California. Asimismo, contaban con una conexión regular expresa con “Gilbert and Hedges' Express” a Monterrey, Los Ángeles, Kern River Mines, San Bernardino, Santa Bárbara y San Diego.
 
-1 mayo 1856. Granada–San Juan del Sur–San Juan del Norte–Nueva York.
+![1 mayo 1856. Granada–San Juan del Sur–San Juan del Norte–Nueva York.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image30.webp)
 
 Con marca lineal “Wines & Co’s Express” y marca ovalada: “REPUBLICA DE NICARAGUA/ADMON DE CORREOS DE GRANADA”. Circulada fuera del sistema.
 
@@ -174,13 +196,13 @@ He estado tratando de hacer arreglos para tratar de retornar por este vapor a N.
 
 El Nicaragüense del 16 de febrero de 1856.
 
-Lista anunciando parte de las 578 cartas rezagadas en la oficina postal, entre ellas una para el precitado Jorge Townsend. Esto nos da una idea del fuerte volumen de correspondencia manejada por la oficina de Granada.
+![Lista anunciando parte de las 578 cartas rezagadas en la oficina postal, entre ellas una para el precitado Jorge Townsend. Esto nos da una idea del fuerte volumen de correspondencia manejada por la oficina de Granada.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image31.webp)
 
-El monopolio postal quedó de manifiesto cuando Wines & Co. publicó este anuncio: “El Expreso de arriba, el único conveniente fuera del Gobierno, en este país para el transporte de cartas…”
+![El monopolio postal quedó de manifiesto cuando Wines & Co. publicó este anuncio: “El Expreso de arriba, el único conveniente fuera del Gobierno, en este país para el transporte de cartas…”](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image32.webp)
 
 J. A. Ruggles falleció por intoxicación alcohólica en agosto de 1856.
 
-Noticia.
+![Noticia.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image33.webp)
 
 Todas las personas con asuntos de créditos o débitos concernientes a los bienes de J. A. Ruggles, fallecido, pasen por la oficina de Wines & Co. para el arreglo de los mismos.
 
@@ -188,15 +210,15 @@ También, todas las personas que tengan productos pendientes de cualquier tipo, 
 
 Por orden, W. K. Rogers, Administrador.
 
-21 de junio de 1856. Fragmento de carta dirigida a Granada, con porte exterior de 10 cts. amarrados con la marca “NEW ORLEANS/LA JUN 21”. También lleva la marca de llegada de medio círculo doble “GREY-TOWN JU 28 1856/A” entonces bajo control inglés. (El sello entregado al cónsul Green).
+![21 de junio de 1856. Fragmento de carta dirigida a Granada, con porte exterior de 10 cts. amarrados con la marca “NEW ORLEANS/LA JUN 21”. También lleva la marca de llegada de medio círculo doble “GREY-TOWN JU 28 1856/A” entonces bajo control inglés. (El sello entregado al cónsul Green).](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image34.webp)
 
-La carta que precede fue circulada en 1856 de Granada a San Francisco. Fue encaminada por Wines & Co’s Express (marca lineal) hasta San Juan del Sur y de allí a San Francisco, totalmente fuera del sistema postal norteamericano.
+![La carta que precede fue circulada en 1856 de Granada a San Francisco. Fue encaminada por Wines & Co’s Express (marca lineal) hasta San Juan del Sur y de allí a San Francisco, totalmente fuera del sistema postal norteamericano.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image35.webp)
 
-Llevada en agosto de 1856 de Granada a Nueva York por Wines & Co. Entró al sistema postal con el fechador “NEW ORLEANS/LA AUG 12” y matasello “STEAMSHIP”. Se le aplicó la tarifa exterior de 10 cts. de manera que se le escribió a mano "due 7" tras acreditarle los 3 cts. de la estampilla.
+![Llevada en agosto de 1856 de Granada a Nueva York por Wines & Co. Entró al sistema postal con el fechador “NEW ORLEANS/LA AUG 12” y matasello “STEAMSHIP”. Se le aplicó la tarifa exterior de 10 cts. de manera que se le escribió a mano "due 7" tras acreditarle los 3 cts. de la estampilla.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image36.webp)
 
 (Subastada hace varios años por la casa Spinks por US$11,000.00).
 
-2 de octubre de 1856. (Fecha y origen escritos en la carta).
+![2 de octubre de 1856. (Fecha y origen escritos en la carta).](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image37.webp)
 
 Por la ruta: San Juan del Sur–San Juan del Norte–Nueva York–Richford.
 
@@ -208,13 +230,13 @@ El contenido parcial de la carta nos revela las dificultades de comunicación en
 
 “…He estado por algún tiempo muy alejado de cualquier servicio postal regular al grado de que nuestra correspondencia ha sido muy irregular pero espero que a partir de ahora nosotros podamos intercambiar correspondencia con mayor regularidad… Pienso que el General Walker se mantendrá en este país sin duda alguna y si lo hace, mi conocimiento del idioma español me dará tales ventajas como para establecerme bien aquí y probablemente volverme independiente a corto plazo… Fabel Belcher”
 
-1856. San Miguel–San Juan del Sur–San Juan del Norte–Nueva York.
+![1856. San Miguel–San Juan del Sur–San Juan del Norte–Nueva York.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image38.webp)
 
 Transportada por la Central American Steam Navigation Co. Muestra dos marcas ovaladas de Granada y dos de la G. H. Wines/California Express.
 
 En 1853 El Salvador, Honduras y Guatemala habían firmado un contrato con la Central American Steam Navigation Company (CASNC) para permitir que sus vapores, en su recorrido entre Iztapa (Guatemala) y Panamá, recalaran una vez al mes en Acajutla, La Libertad y La Unión (El Salvador); Amapala (Honduras); y El Realejo y San Juan del Sur (Nicaragua) para el transporte de carga y pasajeros. A su vez, cada gobierno pagaba un subsidio para el transporte de correo. El servicio inició en 1854 y más tarde fue continuado por los vapores de la Panama Railway Company, y subsecuentemente por la Pacific Mail Steamship Company.
 
-Recorrido parcial de la CASNC.
+![Recorrido parcial de la CASNC.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image39.webp)
 
 Como ya sabemos, William Walker fue capturado el 1 de mayo de 1857, abandonando suelo centroamericano. La ruta por Nicaragua permanecería cerrada por los próximos cinco años. Aunque Walker nunca comprendió lo fútil de su cometido, y a pesar de sus varios intentos por recuperar el poder perdido, si dejó claro que las rivalidades políticas que auparon su gobierno oportunista, son todavía hoy para nuestros pueblos una lección que no se ha terminado de aprender.
 
@@ -233,80 +255,3 @@ Bibliografía:
 The American Philatelist. Octubre 1987. USA.
 
 ---
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image9.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image3.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image4.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image5.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image6.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image7.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image8.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image10.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image11.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image12.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image13.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image14.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image15.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image16.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image17.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image18.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image19.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image20.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image21.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image22.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image23.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image24.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image25.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image26.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image27.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image28.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image29.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image30.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image31.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image32.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image33.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image34.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image35.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image36.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image37.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image38.webp)
-
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image39.webp)
