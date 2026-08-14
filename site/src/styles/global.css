@@ -77,6 +77,14 @@ nav.site a:hover{color:var(--green)}
 .hero .wrap{position:relative;z-index:1;text-align:center;display:flex;
   flex-direction:column;align-items:center}
 .hero-mark{font-size:clamp(56px,13vw,160px);margin-top:14px;line-height:.95}
+/* Below ~338px the 56px floor makes "Filigrana.hn" wider than the page
+   gutter, so the wordmark crowds the screen edge. Take over just under
+   360px with a steeper vw term that meets the floor at the breakpoint —
+   55.8px at 360 — so the type keeps shrinking instead of stopping.
+   Adjust the 44px floor if it should go smaller still on tiny screens. */
+@media(max-width:360px){
+  .hero-mark{font-size:clamp(44px,15.5vw,56px)}
+}
 .hero p.tag{font-family:'Fraunces',serif;font-style:italic;font-weight:300;
   font-size:clamp(19px,2.4vw,24px);color:var(--ink-soft);margin-top:16px;max-width:36ch}
 .hero p.subtag{font-size:14.5px;color:var(--ink-soft);margin-top:14px;max-width:52ch;line-height:1.6}
