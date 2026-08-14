@@ -28,79 +28,56 @@ Aparte de la gran variedad de marcas de agua antaño presentes en la fabricació
 
 En cuanto a los sellos en sí, a simple vista, colocándolos al trasluz, se puede apreciar que en los de esta segunda emisión, el papel listado fue adquirido en resmas que contenían la marca de agua en dos posiciones:
 
-Corondeles en los valores de 1, 2y5¢
+![Corondeles en los valores de 1, 2y5¢](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image46.webp)
 
-Puntizones en los valores de 6 y 10¢
+![Puntizones en los valores de 6 y 10¢](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image47.webp)
 
 Debido a que ha sido imposible dar con el acuerdo autorizando la reimpresión de La Locomotora, enseguida exponemos a manera de referencia, la autorización emitida para la reimpresión de la serie anterior de Céleo Arias (1896):
 
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image48.webp)
+
 Un dato que nos aporta una buena idea de la fecha aproximada de la elaboración de esta reimpresión, es el subsiguiente Acuerdo del 2 de abril de 1902, publicado en La Gaceta Oficial del 6 de septiembre de 1902, autorizando el pago del papel engomado necesario pedido a través de la Casa Uhler & Co. No cabe duda que esta compra estaba destinada para la reimpresión referida, pues las próximas tres emisiones postales (1903, 1907 y 1911) se harían en el extranjero, como tampoco medió en ese momento la impresión de timbres fiscales. Si el pago se autorizó en dicha fecha, significa que el material ya estaba en manos del Gobierno, por lo que dentro de un cálculo razonable del tiempo que tomó procesar el pedido a la casa comercial, el tiempo que le tomó a ésta hacerlo llegar a su proveedor (sin duda en Alemania), y el tiempo transcurrido del viaje de Alemania a Amapala y de aquí a Tegucigalpa, fácilmente pudieron haber pasado un par de meses; en otras palabras, todo apunta a que el trámite dio inició en los primeros días de febrero de 1902, por ende deduciendo que la reimpresión se llevó a cabo en los primeros días de abril, continuando la labor por los tres meses siguientes hasta su apremiante puesta en circulación alrededor de julio.
 
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image49.webp)
+
 A manera de sustentar el término de tres meses, se presenta el Acuerdo donde se prorroga por segunda vez la circulación de La Locomotora a la espera de los nuevos sellos (Santos Guardiola) cuya fabricación en el extranjero se considera tomará el lapso de tiempo en cuestión.
+
+![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image50.webp)
 
 Hay que tomar en cuenta que la escasez de sellos de valores bajos se fue acentuando paulatinamente, como consecuencia del volumen del movimiento postal individual, en consecuencia afectando en mayor cuantía a las oficinas postales principales. Esto indica que no todos los sobres circulados en 1902 son precisamente portadores de sellos de baja denominación con marca de agua, siendo bastante probable que los originados en pequeñas agencias carezcan de esta característica, o tal como se ha dado en varios casos, que el franqueo consista en sellos mixtos. Para determinar estos extremos, tal como se mencionó anteriormente, basta con examinar al trasluz los sellos sueltos, o con una iluminación más potente, los de un sobre.
 
 También es oportuno indicar que a medida que transcurría el año, eran más altas las probabilidades de que la correspondencia fuese franqueada con sellos reimpresos, afirmación que cobra validez al hacerse notar que la mayoría de las piezas examinadas en ocasión de este artículo se encuentran circuladas en el último trimestre de 1902.
 
-24 de julio de 1902. Fecha más temprana conocida de la 2ª. impresión.
+![24 de julio de 1902. Fecha más temprana conocida de la 2ª. impresión.](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image51.webp)
 
 El sello de 5¢ es de la emisión original y el de 10¢ de la reimpresión.
 
-4 de noviembre de 1902. En el original de este ejemplar es evidente que los dos valores de 6¢ están impresos en una variedad de color café rojizo.
+![4 de noviembre de 1902. En el original de este ejemplar es evidente que los dos valores de 6¢ están impresos en una variedad de color café rojizo.](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image52.webp)
 
 Siendo que para la reimpresión se usaron las planchas originales, de igual modo se perpetuaron los mismos errores de la primera vez, particularmente los que hemos dado en llamar “trazas”, que algunos autores filatélicos han considerado ser fisuras en la plancha. No obstante, este extremo es un tanto difícil que sea la causa, ya que debido a la fragilidad de la composición pétrea de la misma, cualquier golpe hubiese causado una rotura grave, completa, tal como sucedió en un inicio con la plancha de 20¢, la cual por descuido de un operario, terminó hecha pedazos.
 
 > > "La plancha de 20¢, por descuido de un operario, terminó hecha pedazos." Más viable es definir estas trazas como ligeras raspaduras o rayones producto de cualquier roce con otros elementos sólidos en el ajetreado ir y venir del taller, y que, a simple vista, pasaron desapercibidos para el maestro director Italo Ghizzoni, o en su defecto, no valió la pena corregirlos; así como también es factible que frente a la premura del compromiso para cumplir con la fecha de entrega, no hubo margen de tiempo para repetir las piezas dañadas.
 
-Sobre certificado a los EUA el 28 de octubre de 1902, mostrando en la parte inferior un sello de 10¢ con señales de una traza cruzando la caldera.
+![Sobre certificado a los EUA el 28 de octubre de 1902, mostrando en la parte inferior un sello de 10¢ con señales de una traza cruzando la caldera.](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image53.webp)
 
-Sello con traza diagonal cruzando la parte superior izquierda como resultado de un error o accidente en la plancha.
+![Sello con traza diagonal cruzando la parte superior izquierda como resultado de un error o accidente en la plancha.](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image54.webp)
 
-Bloquecito de 10¢ en papel listado con la marca de la Oficina General de Cuentas, aplicada en Tegucigalpa como una medida fiscal para controlar la cantidad de hojas utilizadas en el tiraje de la reimpresión.
-
-En esta reimpresión también fueron inevitables los errores de perforación, tal como se aprecia en esta parejita de 2¢ imperforada verticalmente
-
-Otro ejemplo es este bloque múltiple también imperforado verticalmente.
-
-31 de diciembre de 1902. Franqueada con sellos reimpresos lista para ser enviada de Amapala a Inglaterra en el último día de vigencia de ambas emisiones, original y reimpresión.
-
-19 de noviembre de 1906. Certificado de San Pedro Sula a Francia. Inicialmente se intentó cubrir el porte con sellos obsoletos de 1902 de “La Locomotora” (con marca de agua), pero al ser rechazado, el remitente se vio obligado a usar los sellos vigentes de “Santos Guardiola”, cubriendo así correctamente el porte corriente exterior de 15¢ más el Certificado de 10¢.
-
----
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image52.webp)
-
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image46.webp)
-
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image47.webp)
-
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image48.webp)
-
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image49.webp)
-
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image50.webp)
-
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image51.webp)
-
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image53.webp)
-
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image54.webp)
-
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image55.webp)
+![Bloquecito de 10¢ en papel listado con la marca de la Oficina General de Cuentas, aplicada en Tegucigalpa como una medida fiscal para controlar la cantidad de hojas utilizadas en el tiraje de la reimpresión.](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image55.webp)
 
 ![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image56.webp)
 
+En esta reimpresión también fueron inevitables los errores de perforación, tal como se aprecia en esta parejita de 2¢ imperforada verticalmente
+
 ![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image57.webp)
 
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image58.webp)
+![Otro ejemplo es este bloque múltiple también imperforado verticalmente.](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image58.webp)
 
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image59.webp)
+![31 de diciembre de 1902. Franqueada con sellos reimpresos lista para ser enviada de Amapala a Inglaterra en el último día de vigencia de ambas emisiones, original y reimpresión.](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image59.webp)
 
 ![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image60.webp)
 
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image61.webp)
+![19 de noviembre de 1906. Certificado de San Pedro Sula a Francia. Inicialmente se intentó cubrir el porte con sellos obsoletos de 1902 de “La Locomotora” (con marca de agua), pero al ser rechazado, el remitente se vio obligado a usar los sellos vigentes de “Santos Guardiola”, cubriendo así correctamente el porte corriente exterior de 15¢ más el Certificado de 10¢.](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image61.webp)
 
 ![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image62.webp)
+
+---

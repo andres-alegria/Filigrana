@@ -20,6 +20,8 @@ review: []
 ---
 
 # La presencia de William Walker en Centro América
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image2.webp)
 Desde nuestros años de secundaria empezamos a escuchar acerca de la historia de William Walker tratando de conquistar el territorio centroamericano con propósitos anexionistas a la Federación Norteamericana. En menor o mayor detalle se conocía de la generalidad de esta aventura que se aprovechaba de la pobreza y permanentes conflictos internos de las cinco repúblicas; sin embargo, al tener hoy en día acceso a los archivos digitales de la Biblioteca Latinoamericana de Tulane (LAL) y tener la oportunidad de leer las cartas cruzadas entre los varios protagonistas, se aclaran aún más las circunstancias que vivieron ambos bandos en el desarrollo de este conflicto. Como es de esperarse, el aspecto filatélico epistolar de este artículo será el hilo conductor que saque a luz una gama de detalles y situaciones que hasta el presente ha permanecido para muchos desconocida.
 
 Los norteamericanos de los 1850s habían conquistado ya un continente y ansiaban conquistar otras tierras. El aislamiento en que se criaron no les engendró ese respeto por las fronteras, cosa que no hubiese sucedido de haber tenido vecinos igualmente fuertes; pues durante medio siglo se estuvieron apoderando a como diera lugar de tierras inmediatas a las suyas. California les quedó como botín de guerra, compraron Luisiana, Texas y el Oeste de Florida, además de arrebatarle a México más de la mitad de su territorio. La división moral entre el pillaje público y el privado de una parte del territorio de una nación más débil era apenas una idea tenue.
@@ -34,11 +36,15 @@ Lo que se sabe de los primeros años de la vida de William Walker es un poco fra
 
 En su adolescencia Walker se inclinó por la fe religiosa afiliándose a la secta de la Iglesia de los Discípulos Cristianos. Sus padres querían que fuese ministro evangélico, pues por sus aptitudes y conducta parecía idóneo, pero sus inclinaciones le llevaron a estudiar medicina. Se matriculó en la Facultad de Medicina de la Universidad de Pensilvania y en 1843 obtuvo su título de médico.
 
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image3.webp)
+
 En una oportunidad William Walker expresó:
 
 “…Podríamos añadir, en verdad, que el americano más ignorante tiene más inteligencia innata que la que la educación pueda jamás impartir a los indios o a los mestizos centroameri-canos subdesarrollados”.
 
 Por una razón u otra, la práctica de la medicina no fue de su agrado; entonces resolvió estudiar derecho, para lo cual se mudó a Nueva Orleáns. Al graduarse ejerció allí su carrera por poco tiempo y casi sin clientela. Su natural reservado le impidió hacerse de muchos amigos cercanos, y si tenía talento para la abogacía nunca se supo. Viendo que como abogado no tendría éxito, se convirtió en periodista y para 1848 era uno de los editores y propietarios del Crescent de Nueva Orleáns. La política del diario frente a la cuestión de la esclavitud era muy moderada, tanto así que varios editores exaltados de Misisipí y Carolina del Sur lo calificaban de "periódico yanqui". Debido en parte a su moderación, el Crescent no marchaba económicamente bien, de manera que en 1849 fue vendido y Walker no tuvo más opción que buscarse otro trabajo.
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image4.webp)
 
 Durante su estadía en Nueva Orleáns Walker hizo amistad con Helen Martin, una relación que nos deja entrever su veta sentimental. El doctor-abogado-periodista se prendó perdidamente de ella. Aunque bien educada y de atrayente personalidad, adolecía de una gran desdicha: era sorda de nacimiento. A sus muchas habilidades Walker añadió entonces la dactilología de los sordomudos y con ayuda de ese sistema la cortejó con afán pero sin que la relación se concretara en matrimonio.
 
@@ -62,17 +68,17 @@ El tiempo era tan propicio para una empresa de esta naturaleza que muy probablem
 
 Cuatro meses pasaron antes de que Walker pusiera en marcha su nueva aventura, siendo meses de angustiosa espera y contrariedades. La dificultad principal con que tropezaba ahora era económica, no legal, pues parecía que el gobierno no intervendría. Walker mostró el contrato al Fiscal de Distrito, quien expresó que ninguna de sus estipulaciones violaba la Ley de Neutralidad de los Estados Unidos.
 
-Concesión para la colonización de Nicaragua: “...en virtud de lo cual se le otorga una centésima parte de los cincuenta y dos mil acres de tierra otorgados a Byron Cole por Pablo Carvajal, Ministro del Interior de la República de Nicaragua…”
+![Concesión para la colonización de Nicaragua: “...en virtud de lo cual se le otorga una centésima parte de los cincuenta y dos mil acres de tierra otorgados a Byron Cole por Pablo Carvajal, Ministro del Interior de la República de Nicaragua…”](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image5.webp)
 
 Walker recibió un inesperado ofrecimiento de ayuda. Había por ese tiempo en Sacramento un periódico rival del Democratic State Journal, el State Tribune. Su editor era Parker H. French, a quien antes de arribar a California en 1852 le precedía un rosario de incidentes delictivos en Texas y México. En Chihuahua perdió un brazo, destrozado por las balas de compañeros que estafó. French fue un éxito instantáneo en California. Se hizo abogado de buena clientela. Al cabo de un año era ya diputado por San Luis Obispo en la Asamblea Estatal, legislador prominente en 1854 y líder conspicuo del partido esclavista Know-Nothing. Sin embargo, por aquellos días allá nadie indagaba sobre el pasado del vecino.
 
-Prototipo de los aventureros de Walker ansiosos de botín y fortuna.
+![Prototipo de los aventureros de Walker ansiosos de botín y fortuna.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image6.webp)
 
 Encontrar un barco no fue fácil para Walker, pero una intensa búsqueda vino a dar con un decrépito bergantín que llevaba veintinueve años rompiendo olas; era el Vesta. Lo contrató y el 14 de mayo de 1855 embarcó a los hombres con sus provisiones de guerra y de boca. Estando listo para zarpar apareció un alguacil con una orden de embargo sobre la nave por una deuda con su dueño. El aguacil dejó a bordo unos cuantos guardias para impedir que el Vesta escapara y para mayor seguridad se llevó los velas. Los comerciantes que vendieron a Walker las provisiones habían convenido aceptar el pago en bonos nicaragüenses, pero a última hora cambiaron de opinión y exigieron dinero en efectivo. Al no obtenerlo también embargaron el velero. En eso llegó el Jefe de Policía con la orden y solicitó a un guardacostas arrimarse a la popa del Vesta para evitar que zarpara. Con el barco en poder de las autoridades y las velas embodegadas, las esperanzas de escapar eran mínimas. Sucedió que el embargador del barco era íntimo amigo de Henry Crabb y ahí fue un proceso de gestiones y persuasión para llegar o un arreglo para el rescate del barco. Entonces conocieron que los proveedores de las vituallas lo habían embargado a instancias del dueño del bergantín que al verse metido en dificultades ensartó también a los otros en el enredo. A este hombre se le intimidó haciéndole creer que si esos aventureros no se embarcaban, su vida correría peligro. El embargo se levantó. Pero más problemas surgirían todavía. El alguacil exigió el pago de sus honorarios; de otro modo, dijo, no entregaría las velas. Pero como no se le dijo que la orden había sido anulada, él seguía creyendo que el guardacostas custodiaba aún el Vesta. Al fin consintió en devolver las velas. No obstante, dejó un guardián o bordo con el encargo de vigilar todo movimiento sospechoso. Al hacerle saber al comandante del buque guardacostas que el bergantín estaba en completa libertad, un oficial de aquel barco cedió sus marineros a Walker para que lo aparejasen. Entre tanto se llevaron a un camarote al guardián dejado por el aguacil; allí le dieron tragos mientras se desplegaban las velas en silencio. En seguida un vapor remolcador sacó al Vesta de la bahía y una vez en mar abierto soltó amarras no sin antes trasbordar al guardián para llevarlo de vuelta al puerto. Llevaba cincuenta y ocho hombres (llamados después "los inmortales") a pelear a Nicaragua. Era el 14 de mayo de 1855.
 
 El 29 de junio de 1855 los filibusteros atacaron la ciudad de Rivas. Los soldados nicaragüenses que reforzaban a Walker huyeron a los primeros disparos dejando a los americanos frente a una fuerza de más de quinientos hombres. Los filibusteros se parapetaron en varias casas en donde durante cuatro horas los legitimistas los tuvieron acorralados. Los rifleros americanos hicieron estragos en las filas contrarias, pero los dos más altos oficiales de Walker, Kewen y Cracker, perecieron en la lucha. Otros siete de sus hombres habían muerto y quince estaban heridos, así que sólo quedaban treinta y ocho para pelear contra una fuerza abrumadora. Luego el comandante legitimista solicitó un voluntario para prenderle fuego a las casas que servían de refugio a los filibusteros, dando un paso al frente el soldado Emanuel Mongalo, quien realizó su hazaña y vivió para contarla. No le quedaba pues a Walker otro camino que tocar retirada; de modo que los sitiados irrumpieron de improviso con gran ímpetu en las calles. Los legitimistas, desconcertados ante el inesperado arranque dejaron que los filibusteros salieran con la pérdida de sólo un hombre más. Cinco de los heridos estaban tan graves que no pudieron seguir a sus compañeros. Los nicaragüenses los remataron y luego quemaron sus cadáveres. Las bajas legitimistas fueron mucho mayores tomando en cuenta la supremacía de las armas filibusteras.
 
-Emanuel Mongalo
+![Emanuel Mongalo](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image7.webp)
 
 Con los sobrevivientes de la batalla Walker logró llegar a San Juan del Sur, por cuyas calles desfilaron en la más deplorable situación. El Vesta tenía órdenes de cruzar frente al puerto, pero al no aparecer Walker obligó a la goleta costarricense San José, que acababa de arribar, llevarlo a El Realejo con su tropa. El capitán los recibió cortésmente, sobre todo cuando se le dijo que su barco podía verse en dificultades en aquel puerto por haber traído al general Santos Guardiola, militar hondureño que llegó a ayudar a los legitimistas. Mar afuera alcanzaron al
 
@@ -86,7 +92,7 @@ Al siguiente día Walker y varios de sus oficiales asistieron a misa y escucharo
 
 De Granada se envió un residente francés a donde Corral notificándole que Walker tenía rehenes a destacadas familias granadinas que responderían por los desafueros que en adelante cometiesen los legitimistas. Esto surtió el efecto deseado. Los familiares de la mayoría de los oficiales de Corral eran granadinos; todos ellos comenzaron entonces a hablar de paz. Los dos jefes se reunieron en Granada donde firmaron un convenio de paz acordando crear un gobierno provisional en que estarían representados ambos partidos. Se nombró Presidente Provisorio a Patricio Rivas, hombre grato a todos por sus moderadas ideas políticas. Corral quedó de Ministro de Guerra y Walker de General en Jefe del Ejército de la República.
 
-15 de octubre de 1855. De Juan Cerna para el coronel José María Valle, desde algún lugar de la frontera entre Honduras, El Salvador y Nicaragua, dando razón sobre políticos, líderes y los movimientos de ambos.
+![15 de octubre de 1855. De Juan Cerna para el coronel José María Valle, desde algún lugar de la frontera entre Honduras, El Salvador y Nicaragua, dando razón sobre políticos, líderes y los movimientos de ambos.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image8.webp)
 
 El 4 de marzo de 1856 salió de San José la vanguardia de las fuerzas costarricenses al mando del general Joaquín Mora, hermano del Presidente. Mora envió también un destacamento al Río Sarapiquí, tributario meridional del San Juan, con el propósito de desalojar a un retén de filibusteros acantonados en La Trinidad. Estos filibusteros habían estado interceptando allí la correspondencia costarricense que del exterior llegaba por esa vía a San José, lo cual permitió a Walker enterarse de ciertos asuntos relativos a las relaciones exteriores de Costa Rica. Era también objetivo de ese destacamento impedir que los vapores remontaran el río para de esa manera hacer efectivo el bloqueo decretado por Mora. El l de abril los costarricenses atacaron La Trinidad, aunque fueron rechazados por los filibusteros.
 
@@ -98,7 +104,9 @@ Sólo en Nicaragua podía Walker contar con algo así como simpatía momentánea
 
 El 11 de abril de 1856 se da la segunda batalla de Rivas en la cual los filibusteros fueron desalojados del Mesón de Guerra por las tropas costarricenses gracias a la quema del mismo (Guerra era el apellido del propietario) por el soldado Juan Santamaría quien pereció en el incidente.
 
-Ramón Belloso Juan Santamaría
+![Ramón Belloso Juan Santamaría](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image9.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image10.webp)
 
 El desaliento común empujó a muchos oficiales de Walker a la bebida y la francachela menoscabando la disciplina en general. Entre los disolutos se contaba Norvell Walker, capitán y hermano de Walker, a quien lo degradó a soldado raso. El castigo produjo buen efecto.
 
@@ -124,23 +132,25 @@ Mientras tanto, Henningsen libraba en Granada una lucha titánica. Al abandonar 
 
 Los costarricenses recientemente habían artillado un bergantín rebautizándolo con el nombre de Once de Abril en honor a su victoria en la segunda batalla de Rivas, capitaneado por el marino peruano Antonio Valle Riestra (casado con una sobrina del presidente Mora). En él pensaban llevar tropas y pertrechos de Punta Arenas a San Juan del Sur y también interceptar los movimientos de la goleta filibustera Granada, al mando del veterano de la armada texana teniente Callender Irving Fayssoux. Tenía el Once de Abril cuatro cañones y una dotación de 114 hombres. El Granada llevaba dos cañones y veintiocho hombres de dotación. El 23 de noviembre de 1856 se encontraba el Granada en la bahía de San Juan del Sur cuando a eso de las cuatro de la tarde se divisó una vela en alta mar; Fayssoux levó anclas para salirle al encuentro. Cuando se encontraba a una distancia de 400 metros del Granada, el Once de Abril abrió fuego, pero el Granada, más ligero y versátil, lograba resistirlo presentando al combate únicamente la proa o la popa. Luego de seis horas de combate, cerca de la medianoche, un impacto causó el incendio de la santabárbara del Once de Abril, haciendo explotar al navío, hundiéndolo y matando gran cantidad de hombres. Setenta y nueve costarricenses murieron en el combate o se ahogaron, mientras que los filibusteros perdieron sólo dieciocho. Los sobrevivientes del Once de Abril, muchos con severas quemaduras, fueron rescatados por los botes del Granada. El capitán Valle-Riestra, que había resultado gravemente herido, fue atendido por los médicos filibusteros con gran esmero, permaneciendo prisionero hasta que se negoció su liberación y regreso a Costa Rica en 1857.
 
-Hundimiento del 11 de Abril.
+![Hundimiento del 11 de Abril.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image11.webp)
 
-Callender I. Fayssoux
+![Callender I. Fayssoux](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image12.webp)
 
 Capitán del Granada
 
 Antonio Valle-Riestra
 
-Capitán del 11 de Abil
+![Capitán del 11 de Abil](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image13.webp)
 
 Tan pronto como Walker recibió el parte de la victoria expidió un comunicado agradeciendo a Fayssoux en nombre de la República, ascendiéndolo a Capitán y donándole la hacienda de 20,000 árboles de cacao El Rosario, en reconocimiento a sus servicios. Al poco tiempo el nuevo capitán visitó a su jefe en La Virgen. Walker lo invitó a una comida junto con sus oficiales; fue una merienda frugal en la que hubo vino. Fayssoux, abstemio absoluto, rehusó tomar, pero sus oficiales, en cambio, sacaron adelante el buen nombre del marino brindando repetidamente por sus laureles
 
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image14.webp)
+
 “Los remitentes pueden estar seguros que sus cartas y documentos serán entregados a sus amigos en el ejército de Walker, doquiera se encuentren, sin demora”.
 
-De San Juan del Sur a Richford, New York. Con Marca oval: G. H. WINES & CO. CALIFORNIA EXPRESS No. 2 BOWLING GREEN–NEW YORK. Llevada por Wines hasta San Juan del Norte y de ahí a Nueva York donde fue matasellada el 8 de noviembre de 1856. J. A. Ruggles (administrador de G. H. Wines & Co.) fungió en Granada como Director General de Correos durante unos cuantos meses en 1856.
+![De San Juan del Sur a Richford, New York. Con Marca oval: G. H. WINES & CO. CALIFORNIA EXPRESS No. 2 BOWLING GREEN–NEW YORK. Llevada por Wines hasta San Juan del Norte y de ahí a Nueva York donde fue matasellada el 8 de noviembre de 1856. J. A. Ruggles (administrador de G. H. Wines & Co.) fungió en Granada como Director General de Correos durante unos cuantos meses en 1856.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image15.webp)
 
-Documento emitido para pago de tropas, firmado por William Rogers y Walker.
+![Documento emitido para pago de tropas, firmado por William Rogers y Walker.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image16.webp)
 
 William Rogers fue un famoso asesino y criminal que entre sus muchas fechorías destaca el haber incendiado en 1852 del barco Martha Washington, cuya carga había asegurado para luego cobrar la póliza. En el incendio murieron 16 pasajeros. Estafó múltiples veces a compañías aseguradoras en Nueva York. Lo arrestaron, pero logró escapar saltando del tren en que lo conducían. Lo atraparon nuevamente, purgando dos años y medio en la prisión de Sing-Sing.
 
@@ -152,13 +162,15 @@ En Granada, de los 421 filibusteros que había al comenzar la batalla, 124 fuero
 
 El presidente Mora recurrió a nuevas tácticas para urdir la ruina de los filibusteros. El año anterior, cuando entró en Nicaragua, amenazó con fusilar a todo filibustero que fuese tomado con las armas en la mano. Esto no había hecho más que enardecer la resistencia de ellos, haciéndoles pelear con más arrojo. Ahora en cambio hacía circular hojas impresas en las afueras de Rivas prometiendo protección y pasaje gratis a Estados Unidos a todo aquel que desertase. Ya no quería acabar con todos los invasores, únicamente con su líder. Los efectos de esta promesa se hicieron sentir en breve. La deserción brotó como epidemia. Se hizo cosa de todos los días, principalmente entre los californianos, cuya vida libre en el Oeste los había hecho menos dóciles a los rigores de la disciplina militar. Cerrado el Río San Juan ya sólo llegaban reclutas de San Francisco, y muchos de ellos, amargamente desilusionados por no haber encontrado la situación tal como se las habían pintado y no sintiéndose ya obligados moralmente a servir una causa que parecía agonizar se pasaban en la primera oportunidad a los aliados.
 
-25 de diciembre de 1856. De M. E. Bradley a Fayssoux desde Bahía de la Virgen acerca de los arreglos para realizar un encuentro. Bradley Llegó a Nicaragua en 1856, nombrado Teniente Primero. Peleó en Santa Rosa y fue ascendido a Capitán. En marzo 1856 fue capturado por los costarricenses, que lo condujeron a San Juan del Norte para entregarlo a los oficiales del HMS Cossack. El 24 de marzo de 1857 llegó a Washington a negociar un permiso para proveer de reclutas, armas y víveres a Walker. El 4 de abril de 1857 intentó retornar a Nicaragua en el SS Fashion.
+![25 de diciembre de 1856. De M. E. Bradley a Fayssoux desde Bahía de la Virgen acerca de los arreglos para realizar un encuentro. Bradley Llegó a Nicaragua en 1856, nombrado Teniente Primero. Peleó en Santa Rosa y fue ascendido a Capitán. En marzo 1856 fue capturado por los costarricenses, que lo condujeron a San Juan del Norte para entregarlo a los oficiales del HMS Cossack. El 24 de marzo de 1857 llegó a Washington a negociar un permiso para proveer de reclutas, armas y víveres a Walker. El 4 de abril de 1857 intentó retornar a Nicaragua en el SS Fashion.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image17.webp)
 
 El 27 de enero de 1857 los sitiados probaron por primera vez la carne de mula en su menú. Se destazaron las primeras secretamente por la noche junto con unos bueyes y nadie sospechó lo que se estaban engullendo. Pero al día siguiente se descubrió el engaño, por lo que algunos rehusaron comer su ración hasta que se les dijo que sin darse cuenta habían estado comiendo mula desde muchos días antes.
 
 A principios de febrero ancló en San Juan del Sur la corbeta USS Saint Mary al mando del capitán Charles Henry Davis. El comodoro William Mervine, estacionado en Panamá, le ordenó el 19 de enero dirigirse a aquel puerto y adoptar allí las disposiciones pertinentes para proteger la vida y propiedades americanas mientras durase la precaria situación de Nicaragua. Poco después de haber arribado Davis, los aliados le pidieron que impidiese en San Juan del Sur nuevos desembarcos de reclutas para Walker, basando la solicitud en que tal medida estaría de acuerdo con la política del gobierno norteamericano que en ocasiones anteriores había impedido la salida de expediciones filibusteras procedentes de sus puertos.
 
-Capitán Charles H. Davis USS Saint Mary
+![Capitán Charles H. Davis USS Saint Mary](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image18.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image19.webp)
 
 El 28 de abril Walker visitó a lo tropa en sus cuarteles. Les habló asegurándoles haber recibido noticias que de un momento a otro llegarían nuevas tropas. Se sabía que ese día Walker había recibido correspondencia, lo que dio a los hombres esperanzas de que lo dicho por él fuese cierto. Sin embargo, nada ocurrió, hasta el anochecer del 30 en que un ayudante de campo del general Mora llevó a Walker una carta del capitán Davis. Este, viendo que la situación de Walker era insostenible, se presentaba en carácter de mediador entre filibusteros y centroamericanos con miras a poner fin al conflicto llevándose del país a los primeros.
 
@@ -178,11 +190,15 @@ El 24 de noviembre en la mañana, el Fashion tuvo a la vista San Juan del Norte,
 
 En cumplimiento de las órdenes de Washington, la fragata USS Wabash llegó a San Juan del Norte. Al mando se encontraba el comodoro Hiram Paulding, quien invitó a Walker a deponer sus propósitos. Al fracasar la diplomacia, mandó desembarcar 350 hombres al mismo tiempo que cuatro lanchas cañoneras patrullaban Punta de Castilla, ante lo cual los filibusteros se entregaron.
 
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image20.webp)
+
 Enviada de la fragata USS Wabash surta en Nueva York a Filadelfia el domingo 23 de noviembre de 1856, previo a zarpar rumbo a su estación en Panamá. El marino expresa: "...nuestra salida ha sido pospuesta para el próximo miércoles... seguramente iremos a Panamá…No he probado una tan sola gota de nada más fuerte que agua, aunque me han colocado en situaciones de gran tentación…”
 
 El USS Saratoga condujo 139 de los invasores a los Estados Unidos y el USS Wabash recibió a Walker en calidad de prisionero. El USS Wabash se dirigió a Colón, lugar de su estacionamiento. Walker dio palabra a Paulding de regresar a Estados Unidos en un barco de pasajeros y presentarse a su llegada a las autoridades, lo cual cumplió, siendo absuelto en Nueva Orleáns de todos los cargos.
 
-Comodoro H. Paulding
+![Comodoro H. Paulding](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image21.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image22.webp)
 
 USS Wabash
 
@@ -190,7 +206,7 @@ De nuevo en suelo patrio, Walker no estuvo ocioso. Aunque forzado a poner a un l
 
 La mayoría de los habitantes de la isla de Roatán (perteneciente al archipiélago de Islas de la Bahía) entonces en posesión del Reino Unido, eran súbditos ingleses, por lo que se oponían enérgicamente a la devolución de esta isla a Honduras, al grado de enviarle una petición a la reina Victoria rogándole no ratificar el Tratado Wyke-Cruz suscrito entre ambas naciones. Pese a ello, el 21 de mayo se le participó a los isleños la ratificación. Los informes de estos sucesos publicados en varios diarios norteamericanos alentaron a los filibusteros, viendo en ello desencadenarse otra revolución centroamericana que podía ser de su provecho.
 
-5 de enero de 1858. Carta enviada por Walker desde Washington al coronel Bruno von Natzmer, Inspector General del Ejército, asegurándole que: “En un corto tiempo todos nosotros estaremos de regreso en Nicaragua”.
+![5 de enero de 1858. Carta enviada por Walker desde Washington al coronel Bruno von Natzmer, Inspector General del Ejército, asegurándole que: “En un corto tiempo todos nosotros estaremos de regreso en Nicaragua”.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image23.webp)
 
 11 de abril de 1859. De Andrew Brady para Fayssoux desde Nueva Orleáns, invitándolo a una cena a las 8 p. m. en la que estarían Fisher, West, Kyle, Ruddler y Marshall para celebrar el tercer aniversario del hundimiento del 11 de Abril.
 
@@ -198,17 +214,17 @@ En 1855 Andrew Brady se alistó como soldado raso. En agosto de 1856 fue ascendi
 
 A comienzos de 1860 uno de los isleños descontentos llegó a Nueva Orleáns en busca de Walker a pedirle fuese a Roatán a socorrerlos contra los hondureños. Pero el líder filibustero se encontraba en Louisville, de manera que el comisionado habló con Fayssoux a quien encargó decirle a Walker llegara a la isla a la brevedad posible. Cuando Walker regresó a Nueva Orleáns se enteró de la invitación, olfateando en el acto la oportunidad de reconquistar el poder perdido en Nicaragua. Resolvió entonces ponerse a la cabeza de otra banda de partidarios, expulsar de Roatán a los hondureños y hacer de esa isla una base desde donde reiniciar su tarea de "regeneración" de la América Central. Puso en seguida manos a la obra y el 20 de abril despachó una avanzada a preparar el camino para los que debían seguirle. Iba entre ellos uno de sus exoficiales, el capitán James S. West. En mayo y junio salieron otros como simples pasajeros de barcos fruteros; los isleños descontentos les costeaban su manutención.
 
-Noticia del Wilmington Journal, Carolina del Norte, publicada el 7 de junio de 1860.
+![Noticia del Wilmington Journal, Carolina del Norte, publicada el 7 de junio de 1860.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image25.webp)
 
 “Nueva Orleáns, Junio 1.- La corbeta John A. Taylor arribó aquí de Roatán en fecha 26 de mayo. La ratificación del Tratado entre Inglaterra y Honduras ha sido anunciada. El total de las Islas de la Bahía será transferido a Honduras. La gente de las islas ha realizado un mitin de indignación y se han declarado independientes, para lo cual están a punto de elaborar una Constitución”.
 
 El Presidente de Honduras era nada menos que el general Santos Guardiola, a quien en 1855 la falange filibustera había derrotado en La Virgen. Tan pronto como él y las autoridades hondureñas supieron de la llegada de filibusteros a Roatán resolvieron posponer el traspaso de la isla mientras durase la amenaza de invasión. En junio exoficiales de Walker, con unos veinte más, se embarcaron en Nueva Orleáns a bordo de la goleta Clifton rumbo a la isla, transportando armas y otros materiales de guerra manifestados como mercaderías corrientes. Walker y Thomas Henry se embarcaron en la goleta John E. Taylor junto con otros filibusteros. El Clifton atracó en Belice el 14 de junio de 1860 y procedió a descargar parte del cargamento destinado al puerto.
 
-7 de febrero de 1860. De Arthur Callaghan a Walker desde Roatán, dándole detalles de la historia, topografía y posibilidades del lugar.
+![7 de febrero de 1860. De Arthur Callaghan a Walker desde Roatán, dándole detalles de la historia, topografía y posibilidades del lugar.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image26.webp)
 
 El 30 de mayo de 1856 Artur Callaghan fue nombrado Capitán y Cirujano Asistente del Ejército. El 15 de diciembre fue promovido a Mayor. Tomó las armas en defensa del hospital de Rivas durante el ataque lanzado por los aliados el 23 de marzo de 1857. Después de la rendición estuvo a cargo de cuidar los enfermos y heridos evacuados de Rivas, a los cuales golpeaba cuando éstos le suplicaban por alimentos.
 
-15 de mayo de 1860. De James West a Fayssoux desde Roatán, avisando de su arribo sin novedades, reacciones de los nativos, el plan para deponer a las autoridades hondureñas, la necesidad de provisiones y contagio de fiebre entre los hombres.
+![15 de mayo de 1860. De James West a Fayssoux desde Roatán, avisando de su arribo sin novedades, reacciones de los nativos, el plan para deponer a las autoridades hondureñas, la necesidad de provisiones y contagio de fiebre entre los hombres.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image27.webp)
 
 James West se alistó como Teniente Primero. En julio de 1856 tuvo un duelo a pistola con el doctor William Lundy resultando herido. Logró recuperarse y en agosto de 1856 es nombrado Asistente del Comisario de Subsistencia. Después ascendió a Capitán. Fue proveedor de la plaza durante el sitio de Rivas en marzo de 1857.
 
@@ -220,21 +236,23 @@ Finalmente Walker se decidió por el temerario plan de asaltar la fortaleza de S
 
 A los hombres de Walker se les había hablado de que Cabañas probablemente se les uniría. Se recordará que en noviembre de 1855 Cabañas visitó a Walker en Granada con el objeto de pedirle ayuda para derrocar al gobierno de Honduras. La negativa de Walker fue causa para que Cabañas rompiera con él. Ahora Cabañas se encontraba exiliado en El Salvador. Aún estando en Honduras, de seguro no hubiese simpatizado con el retorno de los filibusteros a pesar de lo mucho que detestaba al presidente de turno Guardiola; de manera que por ese lado el futuro no auguraba ningún final feliz.
 
-28 de junio de 1860. De W. H. Rainey a Callender Fayssoux desde Mobile reportando la llegada de incógnito del general Walker a Roatán.
+![28 de junio de 1860. De W. H. Rainey a Callender Fayssoux desde Mobile reportando la llegada de incógnito del general Walker a Roatán.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image28.webp)
 
 Rainey llegó a Nicaragua en julio de 1856. El 7 de octubre ingresó al Cuerpo de Zapadores. El 12 siguiente se distinguió combatiendo en Granada. Fue Jefe de Contabilidad en el almacén militar. Al volver a Nueva York declaró en un periódico local: “A menudo me vi obligado a comer carne de gato y pudín hecho con la sangre de esos animales. Tuve que despellejar y hervir cabezas de caballo para comer porque cualquier cosa era un lujo para alguien que se estaba muriendo de hambre”.
 
-6 de marzo de 1865. Desde San Vicente dirigida a Pedro Negrete en San Miguel.
+![6 de marzo de 1865. Desde San Vicente dirigida a Pedro Negrete en San Miguel.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image29.webp)
 
 “…espero de su cariño se interese con el General Cabañas a fin de que se lo entregue, si el caballo aparece mándemelo con un propio que será bien pagado”.
 
 (El general José Trinidad Cabañas residió en San Miguel entre 1855 y 1867).
 
-27 de julio de 1860. De A. A. Henningson a Fayssoux desde Nueva Orleáns, expresando su profunda preocupación por la seguridad de Walker y rogando clemencia para él.
+![27 de julio de 1860. De A. A. Henningson a Fayssoux desde Nueva Orleáns, expresando su profunda preocupación por la seguridad de Walker y rogando clemencia para él.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image30.webp)
 
 El 19 de agosto entró al puerto la fragata británica HMS Icarus al mando del capitán Nowell Salmon. Dos días después le envió una notificación a Walker haciéndole saber que los ingresos de la aduana de Trujillo estaban hipotecados al gobierno británico en garantía de una deuda de la cual era responsable el gobierno de Honduras, pero que con la llegada de Walker 2,000 pesos de los fondos de la aduana habían desaparecido, el comercio estaba paralizado, los intereses de los comerciantes sufrían menoscabo y que la presencia de los invasores demoraba la devolución de las Islas de la Bahía a Honduras. En vista de tales razones, él consideraba su deber exigir la entrega de sus armas, la restitución de los fondos robados de la aduana y el reembarque de su gente, dejando en el puerto todos sus pertrechos como garantía de que no volverían a la costa hondureña. Cumplidas estas demandas, la bandera de Gran Bretaña respondería por la seguridad personal de él y sus camaradas.
 
-Capitán Nowell Salmon HMS Icarus
+![Capitán Nowell Salmon HMS Icarus](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image31.webp)
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image32.webp)
 
 Haciendo caso omiso a la petición de Nowell, la falange abandonó la fortaleza persistiendo en la fantasía de unirse a Cabañas. Mientras tanto las tropas hondureñas habían iniciado la persecución. El 23 les dieron alcance atacándolos en el sitio conocido como La Ceibita. Los hondureños fueron rechazados, pero Walker tuvo un muerto y varios heridos, sufriendo él mismo una herida en la cara. Siempre huyendo y perseguidos llegaron a un abandonado campamento de corte de caoba en donde los indios caribes les suministraron provisiones. Llegados al Río Negro siguieron por sus orillas hasta unos nueve kilómetros de su boca. Allí descansaron en otro campamento.
 
@@ -244,9 +262,11 @@ Toda la banda de filibusteros pasó en seguida a bordo del Icarus que los conduj
 
 Walker fue recluido en la misma fortaleza abandonada por él dos semanas antes. Allí permaneció seis días. Tan pronto se vio preso solicitó un sacerdote pues quería prepararse ante su inminente muerte (en 1859, en Nashville, Walker se hizo bautizar y se convirtió al catolicismo en vista de que la Constitución nicaragüense estipulaba que sólo los católicos podían optar al cargo de Presidente). Se mostraba preocupado por la suerte de sus hombres; declaró que ellos nada sabían de la repentina decisión suya de llegar a Nicaragua entrando por Trujillo y que él era el único culpable. Tras un juicio sumario, el 11 de septiembre de 1860 se le leyó la sentencia de muerte, notificándole que sería fusilado a la mañana siguiente. La escuchó impávido, sin siquiera pestañear. A las ocho de la mañana del 12 un piquete de soldados lo condujo al lugar fatídico. Acompañado por dos sacerdotes caminaba erguido y resuelto. Frente a las ruinas de un viejo cuartel, a medio kilómetro de la población, hicieron alto. Se le colocó de espaldas a un muro, el pelotón preparó armas y resonó una descarga.
 
-Fragmento del juicio sumario incoado contra Walker, firmado por el general Mariano Alvarez, sentenciando: “…a ser pasado por las armas ejecutivamente…”
+![Fragmento del juicio sumario incoado contra Walker, firmado por el general Mariano Alvarez, sentenciando: “…a ser pasado por las armas ejecutivamente…”](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image33.webp)
 
 Todos los hombres de Walker, salvo Rudler, quedaron bajo custodia de los ingleses; Rudler fue sentenciado a ser pasado por las armas, pero por intercesión de Salmon le conmutaron la sentencia a cuatro años de prisión. Más tarde, por gestiones de algunos amigos suyos en Estados Unidos, fue indultado. Poco después de la partida de Walker a Honduras habían salido tras él dos contingentes más. El primero partió de Nueva Orleáns el 31 de agosto y el segundo dos semanas después. Este último se cruzó en alta mar con el buque de prisioneros que llevaba la noticia de la captura y fusilamiento de su jefe, pero no habiéndose puesto al habla, no lo supieron hasta llegar a Roatán. No les quedó otra alternativa a estos aventureros que regresar a su punto de partida. En el transcurso de toda la campaña, estuvo involucrado un total de 5,250 filibusteros.
+
+![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image34.webp)
 
 Telegrama de John Henley para Fayssoux el 19 de septiembre de 1860 notificando la ejecución de William Walker:
 
@@ -261,70 +281,3 @@ Latin American Library at Tulane. Callender I. Fayssoux Collection of William Wa
 Scroggs, William O. Filibusteros y Financieros. La Historia de William Walker y sus Asociados. Papelera Industrial de Nicaragua. 1974. Managua, Nicaragua.
 
 ---
-
-
-<!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image2.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image3.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image4.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image5.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image6.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image7.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image8.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image9.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image10.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image11.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image12.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image13.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image14.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image15.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image16.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image17.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image18.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image19.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image20.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image21.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image22.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image23.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image25.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image26.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image27.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image28.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image29.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image30.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image31.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image32.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image33.webp)
-
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image34.webp)
