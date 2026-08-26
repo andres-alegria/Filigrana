@@ -1,0 +1,110 @@
+---
+// Proof-reading index for articles held back from the public site
+// (`draft: true` in data/publish.ts).
+//
+// This route exists ONLY in `npm run dev`. getStaticPaths returns an empty
+// array under `npm run build`, so Astro emits no /revision/ pages at all —
+// nothing about the drafts reaches the deployed site: no HTML, no route, no
+// entry in the sitemap. Read them at http://localhost:4321/revision/.
+//
+// (The article *sources* still live in the public repo, so this hides the
+// drafts from the website, not from anyone browsing GitHub.)
+import { getCollection } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import { publishQueue, isDraft, findEntry } from '../../data/publish';
+import { routeSlug } from '../../lib/routing';
+import { stripLeadingTitle, formatBibliography, wrapImages } from '../../lib/content';
+
+export async function getStaticPaths() {
+  if (!import.meta.env.DEV) return [];
+  const articles = await getCollection('articles');
+  const drafts = publishQueue
+    .filter(isDraft)
+    .map((p) => ({ ...p, entry: findEntry(articles, p) }))
+    .filter((p) => p.entry)
+    .sort((a, b) => a.entry!.id.localeCompare(b.entry!.id));
+
+  return [
+    // the index itself: an undefined rest-param maps to /revision/
+    { params: { slug: undefined }, props: { entry: null, drafts } },
+    ...drafts.map((p) => ({
+      params: { slug: routeSlug(p.entry!) },
+      props: { entry: p.entry, drafts },
+    })),
+  ];
+}
+
+const { entry, drafts } = Astro.props;
+const bodyHtml = entry
+  ? wrapImages(formatBibliography(stripLeadingTitle(entry.rendered?.html ?? '')))
+  : '';
+---
+<Layout title={entry ? `Revisión · ${entry.data.title_es}` : 'Revisión'}>
+  <section class="wrap" style="padding-top:36px;padding-bottom:60px">
+    <p class="revision-flag">
+      Revisión interna · no publicado · visible sólo en <code>npm run dev</code>
+    </p>
+
+    {entry ? (
+      <article>
+        <header class="article-head" style="padding-top:20px">
+          <div class="meta">
+            <span>Serie {entry.data.series}, Vol. {entry.data.volume}</span>
+            {entry.data.page_start && <span>· pág. {entry.data.page_start}</span>}
+            <span>· {entry.data.image_count} imágenes</span>
+          </div>
+          <h1>{entry.data.title_es}</h1>
+          <div class="byline">POR {entry.data.author.toUpperCase()}</div>
+        </header>
+        <div class="article-body" set:html={bodyHtml} />
+        <p style="margin-top:40px"><a href="/revision/" class="revision-back">← Todos los borradores</a></p>
+      </article>
+    ) : (
+      <>
+        <span class="kicker">Borradores</span>
+        <h1 style="font-size:clamp(28px,4vw,40px);margin-top:8px">Revisión</h1>
+        <p style="color:var(--ink-soft);margin-top:12px;max-width:60ch">
+          {drafts.length} artículos fuera del sitio público, listos para leer.
+          Quita <code>draft: true</code> en <code>src/data/publish.ts</code> para
+          publicar uno.
+        </p>
+        <ol class="revision-list">
+          {drafts.map((p) => (
+            <li>
+              {/* a card cover set in publish.ts shows nowhere else while the
+                  article is a draft, so surface it here to be checked */}
+              {p.cover && <img class="revision-cover" src={p.cover} alt="" />}
+              <div>
+                <a href={`/revision/${routeSlug(p.entry!)}/`}>{p.entry!.data.title_es}</a>
+                <span class="revision-meta">
+                  Serie {p.entry!.data.series}, Vol. {p.entry!.data.volume}
+                  · {p.entry!.data.image_count} imgs
+                  {p.cover && <> · portada asignada</>}
+                </span>
+              </div>
+            </li>
+          ))}
+        </ol>
+      </>
+    )}
+  </section>
+</Layout>
+
+<style>
+  /* Deliberately utilitarian — this never ships, so it only has to be legible */
+  .revision-flag{font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.1em;
+    text-transform:uppercase;color:var(--gold);border:1px dashed var(--gold);
+    padding:8px 12px;display:block;width:fit-content;margin-bottom:26px}
+  .revision-list{list-style:none;margin-top:26px;counter-reset:draft}
+  .revision-list li{counter-increment:draft;padding:12px 0 12px 34px;position:relative;
+    border-bottom:1px solid var(--line);display:flex;align-items:center;gap:14px}
+  .revision-cover{width:52px;height:52px;object-fit:cover;flex:none;border:1px solid var(--line)}
+  .revision-list li::before{content:counter(draft,decimal-leading-zero);position:absolute;left:0;
+    font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--gold);top:15px}
+  .revision-list a{font-family:'Fraunces',serif;font-size:19px;text-decoration:none}
+  .revision-list a:hover{color:var(--green)}
+  .revision-meta{display:block;font-family:'IBM Plex Mono',monospace;font-size:10.5px;
+    letter-spacing:.08em;color:var(--ink-soft);margin-top:4px}
+  .revision-back{font-family:'IBM Plex Mono',monospace;font-size:12px;letter-spacing:.1em;
+    color:var(--green);text-decoration:none}
+</style>

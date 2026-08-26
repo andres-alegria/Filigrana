@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
-    "hash-password": "node scripts/hash-password.mjs"
+    "preview": "astro preview"
   },
   "dependencies": {
     "astro": "^7.1.6"

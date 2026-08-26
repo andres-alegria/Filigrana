@@ -1,11 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
-import PasswordGate from '../../components/PasswordGate.astro';
 import ShareBar from '../../components/ShareBar.astro';
 import { publishQueue, isPublished, findEntry } from '../../data/publish';
 import { routeSlug } from '../../lib/routing';
-import { LOCK_HASH } from '../../data/lock';
 import { stripLeadingTitle, formatBibliography, wrapImages } from '../../lib/content';
 
 export async function getStaticPaths() {
@@ -15,13 +13,13 @@ export async function getStaticPaths() {
     .map((p) => {
       const entry = findEntry(articles, p);
       return entry
-        ? { params: { slug: routeSlug(entry) }, props: { entry, locked: !!p.locked, publishDate: p.publishDate } }
+        ? { params: { slug: routeSlug(entry) }, props: { entry, publishDate: p.publishDate } }
         : null;
     })
     .filter((x) => x !== null);
 }
 
-const { entry, locked, publishDate } = Astro.props;
+const { entry, publishDate } = Astro.props;
 const { title_es, author, themes, page_start, page_end, series, volume, issue_date } = entry.data;
 // The original print date (issue_date) is the one that belongs in the
 // article's own byline/meta — publishDate is only the site's own debut
@@ -53,11 +51,7 @@ const bodyHtml = wrapImages(formatBibliography(stripLeadingTitle(entry.rendered?
     </header>
 
     <div class="wrap">
-      {locked ? (
-        <PasswordGate slug={routeSlug(entry)} lockHash={LOCK_HASH} />
-      ) : (
-        <div class="article-body" set:html={bodyHtml} />
-      )}
+      <div class="article-body" set:html={bodyHtml} />
     </div>
   </article>
 </Layout>

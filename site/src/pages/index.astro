@@ -9,12 +9,13 @@ import { firstImageSrc } from '../lib/content';
 
 const articles = await getCollection('articles');
 // Featured entries lead, in their given rank; everything else follows newest
-// first. See `featured` in data/publish.ts.
+// first. The home page shows the three most recent — see `featured` in
+// data/publish.ts to pin which ones, and `draft` to hold an article back.
 const rank = (p: { featured?: number }) => p.featured ?? Number.POSITIVE_INFINITY;
 const latest = publishQueue
   .filter((p) => isPublished(p))
   .sort((a, b) => rank(a) - rank(b) || b.publishDate.localeCompare(a.publishDate))
-  .slice(0, 5)
+  .slice(0, 3)
   .map((p) => ({ ...p, entry: findEntry(articles, p) }))
   .filter((p) => p.entry);
 ---
@@ -33,7 +34,7 @@ const latest = publishQueue
   <section class="wrap" style="padding-top:36px;padding-bottom:60px">
     <h2 style="font-size:22px;margin-bottom:6px">Publicaciones recientes</h2>
     <div class="article-list">
-      {latest.map(({ entry, publishDate, locked, teaser, type, coverAlign }) => (
+      {latest.map(({ entry, publishDate, teaser, type, coverAlign, cover }) => (
         <ArticleCard
           routeSlug={routeSlug(entry!)}
           title={entry!.data.title_es}
@@ -41,10 +42,9 @@ const latest = publishQueue
           issueDate={entry!.data.issue_date}
           publishDate={publishDate}
           summary={teaser ?? entry!.data.summary_es}
-          locked={locked}
           type={type}
           coverAlign={coverAlign}
-          coverSrc={firstImageSrc(entry!.rendered?.html ?? '')}
+          coverSrc={cover ?? firstImageSrc(entry!.rendered?.html ?? '')}
         />
       ))}
     </div>

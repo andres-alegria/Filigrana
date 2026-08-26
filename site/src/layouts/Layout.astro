@@ -51,8 +51,6 @@ const { title, description = 'Filigrana — el sello como puerta a la historia.'
 
   <footer class="site">
     <div class="wrap colophon">
-      <canvas id="footer-canvas" class="footer-motif" aria-hidden="true"></canvas>
-      <span>filigrana.hn</span>
       <a class="social" href="https://www.instagram.com/filigrana.honduras/" target="_blank" rel="noopener"
          aria-label="Filigrana en Instagram">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -65,25 +63,5 @@ const { title, description = 'Filigrana — el sello como puerta a la historia.'
     </div>
   </footer>
 
-  <script>
-    import { guilloche, watchAndDraw } from '../lib/guilloche.js';
-
-    function drawFooterMotif() {
-      const c = document.getElementById('footer-canvas');
-      if (!c) return;
-      const cs = getComputedStyle(document.documentElement);
-      const G = cs.getPropertyValue('--green').trim();
-      const Au = cs.getPropertyValue('--gold').trim();
-      guilloche(c, {
-        lw: 0.6, scale: 0.92,
-        layers: [
-          { R: 1, r: 0.34, d: 0.68, color: G, alpha: 0.5, turns: 50 },
-          { R: 1, r: 0.233, d: 0.5, color: Au, alpha: 0.4, turns: 80 },
-        ],
-      });
-    }
-    const footerCanvas = document.getElementById('footer-canvas');
-    if (footerCanvas) watchAndDraw(footerCanvas, drawFooterMotif);
-  </script>
 </body>
 </html>

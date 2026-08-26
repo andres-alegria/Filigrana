@@ -6,13 +6,12 @@ interface Props {
   issueDate?: string | null; // YYYY-MM, original magazine publication
   publishDate: string; // YYYY-MM-DD, site debut
   summary?: string;
-  locked?: boolean;
   coverSrc?: string | null;
   type?: 'articulo' | 'coleccion';
   coverAlign?: 'center' | 'top';
 }
 const {
-  routeSlug, title, author, issueDate, publishDate, summary, locked, coverSrc,
+  routeSlug, title, author, issueDate, publishDate, summary, coverSrc,
   type = 'articulo', coverAlign = 'center',
 } = Astro.props;
 
@@ -41,7 +40,6 @@ const originalLabel = issueDate
     <div class="meta">
       {originalLabel && <span>Publicado originalmente: {originalLabel}</span>}
       <span>· En línea: {onlineLabel}</span>
-      {locked && <span class="lockpill">🔒 Con contraseña</span>}
     </div>
   </div>
 </a>
