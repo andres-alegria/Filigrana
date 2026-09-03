@@ -130,7 +130,7 @@ O tal vez le impresione esta venta reciente:
 
 > “Réplicas de oro de sellos de los Estados Unidos. 71 relucientes réplicas sobre una superficie de oro de 22k. Protegidas en un álbum de fundas plásticas. El álbum mide aproximadamente 4½” altura x 10½” x 13½.” Sellos de varios tamaños. Precio de arranque $25.00.”
 
-![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro/image9.webp)
+![Anuncio de eBay: las 71 réplicas de oro en un álbum de fundas plásticas](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro/image9.webp)
 
 La oferta anterior se vendió recientemente en internet por US$60.00. De aquí se puede desprender que el costo por cada réplica resultó casi de $0.50 (esto es justipreciando el álbum en $25.00, lo que nos deja $45.00 divididos entre 71). Prácticamente, donde el comerciante logró su ganancia fue en la venta del álbum en sí.
 
