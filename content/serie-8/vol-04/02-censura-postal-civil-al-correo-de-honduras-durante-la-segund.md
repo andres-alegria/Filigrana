@@ -459,5 +459,3 @@ De acuerdo con la recomendación presentada el 27 de junio de 1945, el Director 
 ![La oficina de censura estadounidense había funcionado durante cuarenta y cuatro meses, empleando en el pico de sus operaciones a 14,462 personas, con un gasto aproximado de 90 millones de dólares. La clausura formal de la Oficina de Censura tuvo lugar el 15 de noviembre de 1945.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image45.webp)
 
 En Honduras la censura se levantó el 1 de noviembre de 1945, mediante el Decreto Ejecutivo No. 78. Desafortunadamente, a nivel local, y a pesar de los esfuerzos desplegados para acceder a alguna fuente de información, incluso en la misma Embajada Americana, resultó ser bastante raquítica la evidencia documental postal vinculada a este turbulento periodo.
-
----

@@ -229,5 +229,3 @@ En 1987 se detectó la comercialización y circulación de timbres falsos de con
 ![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image68.webp)
 
 ![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image69.webp)
-
----

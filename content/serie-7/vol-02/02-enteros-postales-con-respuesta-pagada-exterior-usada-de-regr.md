@@ -50,7 +50,7 @@ Figura No. 6
 
 Figura No. 7
 
-El destinatario no se encontraba en la dirección original por lo que fue re-destinada a la ciudad de Lublinitz, Polonia, donde fue recibida el 9 de febrero de 1895.
+El destinatario no se encontraba en la dirección original por lo que fue redestinada a la ciudad de Lublinitz, Polonia, donde fue recibida el 9 de febrero de 1895.
 
 Caso estupendo es el de la siguiente tarjeta Seebeck, Figuras No. 8 a 13, despachada de Bluefields (Nicaragua) a Paramaribo (Surinam) el 14 de mayo de 1895.
 

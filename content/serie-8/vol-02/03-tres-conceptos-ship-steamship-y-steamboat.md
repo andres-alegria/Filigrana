@@ -61,5 +61,3 @@ Bibliografía:
 Alegría R., Edgardo. Colección Paquebote. Tegucigalpa, Honduras.
 
 Epting, Charles. *Of Ships, Steamships, and Steamboats*. The American Philatelist, EUA, diciembre de 2023.
-
----

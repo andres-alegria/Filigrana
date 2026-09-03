@@ -675,5 +675,3 @@ García, Miguel Ángel. *La Imprenta en Honduras 1828-1975*. Tegucigalpa, Hondur
 Gayoso C., Gonzalo. Apuntes para la Historia Papelera de Barcelona y sus Provincias. Barcelona, España. 2012.
 
 El autor le expresa un agradecimiento especial al Sr. Eric Schwimmer por los importantes datos aportados gentilmente para este artículo.
-
----

@@ -49,5 +49,3 @@ Aunque los sobres circulados son extremadamente raros, existen unos pocos puesto
 En lo concerniente al Dr. Bertrand, ascendió al Poder Ejecutivo en tres oportunidades. Fue presidente interino y finalmente presidente electo. Tuvo fama de hombre conciliador, pero al final, en su tercer período, cometió el error de imponer la candidatura presidencial de su concuño Nazario Soriano (habiendo residido éste casi toda su vida en Nueva Orleans resultó ser un desconocido para el resto del país), acción que degeneró en una ola de represión contra sus adversarios políticos que optaron por levantarse en armas. Finalmente, en 1919, a manera de zanjar el cruento conflicto suscitado, el cónsul norteamericano le solicitó que demitiera, como en efecto lo hizo, exiliándose en El Salvador.
 
 ![](/img/serie-8/vol-01/06-un-sello-con-historia/image48.webp)
-
----

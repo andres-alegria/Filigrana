@@ -53,5 +53,3 @@ Pimienta más conocido como “Puente Negro”, tristemente nunca tuvo una estam
 ![Panorámica del otrora “Puente Negro” en sus mejores tiempos.](/img/serie-7/vol-06/03-el-puente-ulua-en-una-estampilla/image17.webp)
 
 ![Un detalle particular eran las gradas incorporadas en el costado derecho.](/img/serie-7/vol-06/03-el-puente-ulua-en-una-estampilla/image20.webp)
-
----

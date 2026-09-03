@@ -301,5 +301,3 @@ Bibliografía
 *Expediente Judicial de Raúl De Thuin*. Archivo Histórico del Poder Judicial de Honduras. Tegucigalpa, Honduras. 1935.
 
 The Yucatan Affair, The Work of Raul Ch. de Thuin, Philatelic Counterfeiter. American Philatelic Society, State College, Pennsylvania, EUA. 1980.
-
----

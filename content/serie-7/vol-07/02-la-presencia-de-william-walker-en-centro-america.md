@@ -40,7 +40,7 @@ En su adolescencia Walker se inclinó por la fe religiosa afiliándose a la sect
 
 En una oportunidad William Walker expresó:
 
-“…Podríamos añadir, en verdad, que el americano más ignorante tiene más inteligencia innata que la que la educación pueda jamás impartir a los indios o a los mestizos centroameri-canos subdesarrollados”.
+“…Podríamos añadir, en verdad, que el americano más ignorante tiene más inteligencia innata que la que la educación pueda jamás impartir a los indios o a los mestizos centroamericanos subdesarrollados”.
 
 Por una razón u otra, la práctica de la medicina no fue de su agrado; entonces resolvió estudiar derecho, para lo cual se mudó a Nueva Orleáns. Al graduarse ejerció allí su carrera por poco tiempo y casi sin clientela. Su natural reservado le impidió hacerse de muchos amigos cercanos, y si tenía talento para la abogacía nunca se supo. Viendo que como abogado no tendría éxito, se convirtió en periodista y para 1848 era uno de los editores y propietarios del *Crescent* de Nueva Orleáns. La política del diario frente a la cuestión de la esclavitud era muy moderada, tanto así que varios editores exaltados de Misisipí y Carolina del Sur lo calificaban de "periódico yanqui". Debido en parte a su moderación, el *Crescent* no marchaba económicamente bien, de manera que en 1849 fue vendido y Walker no tuvo más opción que buscarse otro trabajo.
 
@@ -279,5 +279,3 @@ Biblioteca Virtual Enrique Bolaños. *William Walker el Predestinado*. Costa Ric
 Latin American Library at Tulane. Callender I. Fayssoux Collection of William Walker Papers, 1856-1860. Luisiana. USA.
 
 Scroggs, William O. *Filibusteros y Financieros*. La Historia de William Walker y sus Asociados. Papelera Industrial de Nicaragua. 1974. Managua, Nicaragua.
-
----

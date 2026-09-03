@@ -81,5 +81,3 @@ En esta reimpresión también fueron inevitables los errores de perforación, ta
 ![19 de noviembre de 1906. Certificado de San Pedro Sula a Francia. Inicialmente se intentó cubrir el porte con sellos obsoletos de 1902 de “La Locomotora” (con marca de agua), pero al ser rechazado, el remitente se vio obligado a usar los sellos vigentes de “Santos Guardiola”, cubriendo así correctamente el porte corriente exterior de 15¢ más el Certificado de 10¢.](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image61.webp)
 
 ![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image62.webp)
-
----

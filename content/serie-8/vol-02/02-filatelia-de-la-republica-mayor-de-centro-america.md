@@ -185,5 +185,3 @@ Por favor comunicarse a través de: ffrh@hotmail.com
 Serie 5: Volumen 1, 2, 3, 4, 5, 6, 10, 12
 
 Serie 7: Volumen 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12
-
----

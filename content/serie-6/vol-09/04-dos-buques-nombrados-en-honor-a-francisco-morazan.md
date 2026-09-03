@@ -69,5 +69,3 @@ Con los años la carga fue extraída por los isleños para su propio uso. Entre 
 Posteriormente el Francisco Morazán se incendió y el cargamento fue consumido por completo. Dos de los tres acusados ​​en el juicio desaparecieron y los propietarios nunca fueron localizados, por lo que la demanda fue desestimada, pasando los restos del naufragio a propiedad del Estado de Michigan, siendo ahora el hogar de cormoranes y gaviotas.
 
 ![Estado actual de los restos del SS Francisco Morazán](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image31.webp)
-
----

@@ -24,7 +24,7 @@ Del 15 al 19 de octubre recién pasado se realizó la primera Bi-Nacional Filat�
 
 La idea de BINAFIL surgió durante una de las ya famosas reuniones del grupo de “Mi Oficina” (una especia de club social que se reúne en casi todas las exposiciones filatélicas auspiciadas por FIAF o FIP) de Alfonso Molina durante la exposición Brasilia 2017 en donde el matrimonio mexicano de Mónica Santana y Mario Bahena me manifestó esta idea, la que me pareció muy interesante pues sería otra manera de promover la filatelia hondureña. Ya en Tegucigalpa esto fue planteado a los miembros de la FFRH y la idea empezó a tomar forma.
 
-El 8/dic./2018 la Junta Directiva de la FFRH tuvo una conferencia vía Skype con la directiva del Club Filatélico Querétaro para definir fechas y afinar detalles. En esta reunión se estableció mi nombra-miento como Comisario y se dio a conocer lugar y fecha del evento.
+El 8/dic./2018 la Junta Directiva de la FFRH tuvo una conferencia vía Skype con la directiva del Club Filatélico Querétaro para definir fechas y afinar detalles. En esta reunión se estableció mi nombramiento como Comisario y se dio a conocer lugar y fecha del evento.
 
 Mi viaje a BINAFIL inició el 12/octubre en la ruta Tegucigalpa – Miami–Ciudad de México–Querétaro. Al llegar a CDMX el día 13 mi amigo el Sr. Guillermo Gallegos, muy apreciado en la FFRH, tuvo la gentileza de mostrarme junto a su familia el centro histórico de la ciudad e invitarme a almorzar y luego llevarme de regreso al aeropuerto para mi vuelo a Querétaro. Finalmente y después de más de una hora de retraso, llegué a Querétaro a las 8:30 p. m. en dónde mis anfitriones Mario y Mónica estaban listos para recibirme.
 

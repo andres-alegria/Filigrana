@@ -20,7 +20,7 @@ review: []
 ---
 
 # El Sobresaliente de Hoy
-Excelente pieza con membrete de la casa comercial Maier & Cia., circulada para Alemania el 1 de diciem-bre de 1894, porteada con 10 cts. de la serie Seebeck “*Grl. José Trinidad Cabañas*” (Sc. 79), cancelada en violeta con un inusitado matasello estrella de 5 aristas.
+Excelente pieza con membrete de la casa comercial Maier & Cia., circulada para Alemania el 1 de diciembre de 1894, porteada con 10 cts. de la serie Seebeck “*Grl. José Trinidad Cabañas*” (Sc. 79), cancelada en violeta con un inusitado matasello estrella de 5 aristas.
 
 Almacén de la Casa Maier en San Pedro Sula, en una postal emitida por ellos.
 

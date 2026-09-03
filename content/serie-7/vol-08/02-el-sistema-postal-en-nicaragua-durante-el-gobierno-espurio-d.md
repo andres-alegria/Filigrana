@@ -90,7 +90,7 @@ Afortunadamente se ha conservado la carta remitida junto a este sobre, en la que
 
 ![“Las cartas deben ser dirigidas tal como está escrito arriba, con el porte americano pagado y enviadas a través del servicio de Wells Fargo & Co. quienes me las harán llegar”.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image16.webp)
 
-![Acuerdo del 19 de enero de 1856 mediante el cual el gobierno autori-za el manejo postal de y hacia el extranjero a través de los vapores de la Compañía de Tránsito, servicio conocido como “Nicaragua Ahead of the Mails” (Nicaragua Adelante de los Correos), cinco me-ses antes de la llegada de Walker.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image17.webp)
+![Acuerdo del 19 de enero de 1856 mediante el cual el gobierno autoriza el manejo postal de y hacia el extranjero a través de los vapores de la Compañía de Tránsito, servicio conocido como “Nicaragua Ahead of the Mails” (Nicaragua Adelante de los Correos), cinco meses antes de la llegada de Walker.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image17.webp)
 
 ![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image18.webp)
 
@@ -253,5 +253,3 @@ Bibliografía:
 -Washburn, Richard; Madden, Henry. *The Philatelic Trail of William Walker*.
 
 *The American Philatelist*. Octubre 1987. USA.
-
----

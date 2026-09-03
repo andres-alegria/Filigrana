@@ -126,7 +126,7 @@ ATRAPAN A MAYOR DE AVIACIÓN EN ROBO DE JOYAS
 
 Mayor Dean Ivan Lamb, 48, de 310 E. calle 44, Manhattan, ex-mayor de aviación con la fuerza aérea en Burma, está hoy en la cárcel acusado de robar joyas valoradas en $38,000.00. El Asistente del Fiscal de Distrito Francis S. Park dijo que Lamb entró en posesión de las gemas haciéndose pasar ante Gaeshi Lall, un comerciante que conoció en Burma, como coleccionista norteamericano.
 
-Lall le dio a Lamb una carta de reco-mendación para su abogado teniente coronel David Brady residente en 49 Wall Street, Manhattan, y se dice que el oficial en cuestión convenció al abogado de que estaba autorizado para llevarle el paquete de joyas a su propietario. El abogado dice que le entregó las joyas a Lamb en 1943.
+Lall le dio a Lamb una carta de recomendación para su abogado teniente coronel David Brady residente en 49 Wall Street, Manhattan, y se dice que el oficial en cuestión convenció al abogado de que estaba autorizado para llevarle el paquete de joyas a su propietario. El abogado dice que le entregó las joyas a Lamb en 1943.
 
 Cuando Parks lo interrogó, Lamb dijo que él había enviado las gemas en un paquete con otros artículos personales, a una prima, la señorita Mabel Rosbaugh, de Lodi, N. Y. para su salvaguarda. La señorita Rosbaugh admitió a la policía haber recibido el paquete de Lamb pero que no contenía joya alguna.
 

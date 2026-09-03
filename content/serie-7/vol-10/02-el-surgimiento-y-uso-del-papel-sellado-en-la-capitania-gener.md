@@ -80,7 +80,7 @@ Sello Segundo: 6 reales. Para la primera hoja de escrituras, testamentos y cont
 
 Sello Tercero: 1 real. Para todas las cuestiones judiciales presentadas ante virreyes, cancillerías, audiencias y tribunales.
 
-Sello Cuarto: 1 cuartillo. Para todos los despachos de oficio, administra-ción de justicia, memoriales, así como como los documentos que tuviesen que realizar los pobres de solemnidad y los indios.
+Sello Cuarto: 1 cuartillo. Para todos los despachos de oficio, administración de justicia, memoriales, así como como los documentos que tuviesen que realizar los pobres de solemnidad y los indios.
 
 (La fecha más antigua de uso de papel sellado en la Capitanía General es del 11 de enero de 1640, basada en un documento que obra en el Archivo Nacional de Guatemala).
 

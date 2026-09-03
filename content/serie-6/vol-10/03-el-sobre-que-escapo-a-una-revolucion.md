@@ -52,7 +52,7 @@ Note Co. para ser vendidos a coleccionistas.
 
 En 1888 contrató los servicios de Gus B. Calman, un fuerte comerciante de sellos al por mayor, para disponer de todos los sellos sobrantes y reimpresiones resultantes de su ardid.
 
-Al parecer también insistió en la impresión de los sellos con algunos valores faciales que no eran acordes con las tarifas postales de los países que los utilizaban. Habían muchas series extensas de sellos en las cuales sólo unos pocos valores de baja denominación correspondían a los usos postales comunes. Los valores restantes se destinaban a los coleccionis-tas. Esto dio lugar a que se abriera un debate entre coleccionistas tanto dentro como fuera de Honduras, Nicaragua, El Salvador y Ecuador.
+Al parecer también insistió en la impresión de los sellos con algunos valores faciales que no eran acordes con las tarifas postales de los países que los utilizaban. Habían muchas series extensas de sellos en las cuales sólo unos pocos valores de baja denominación correspondían a los usos postales comunes. Los valores restantes se destinaban a los coleccionistas. Esto dio lugar a que se abriera un debate entre coleccionistas tanto dentro como fuera de Honduras, Nicaragua, El Salvador y Ecuador.
 
 Seebeck sacó provecho de un excelente contacto que tenía para Centroamérica en la persona de su cuñado Ernest Augustus W. Schernikow (1860-1933) quien a la sazón era el cónsul en Nueva York para El Salvador y Honduras ante los Estados Unidos. En 1889 Seebeck se marchó a una gira por Centroamérica portando cartas de presentación de Schernikow a fin de poder entrevistarse con funcionarios de gobierno y exponerles su idea para un arreglo de impresión de sellos que beneficiaría a todos los involucrados. No pudo concretar negocios en Guatemala y Costa Rica, pero si tuvo éxito en Honduras, Guatemala y El Salvador. Luego lo haría también con Ecuador.
 
@@ -92,7 +92,7 @@ Fue un abanderado del Partido Liberal, recién fundado el 5 de febrero de 1891 m
 
 El 15 de Abril de 1889 el presidente Luis Bográn, a través de la Secretaría de Estado en el Despacho de Guerra, emitió en Tegucigalpa el Acuerdo nombrando al coronel Leonardo Nuila Comandante de Armas de La Ceiba. Como anécdota local se sabe que trató infructuosamente que el presidente Bográn aceptase cambiar el nombre de La Ceiba por el de San Luis. Sin embargo se topó con la firme oposición del alcalde Guadalupe Araque, quien al fin logró que prevaleciera su criterio.
 
-El comandante Nuila, además de sus deberes militares, funcionaba también como Teniente Administrador de Aduanas del puerto menor* de La Ceiba, controlando las importaciones de licores fuertes, mercaderías, etc., principal fuente tributaria del Estado, pero que dada su cercana relación con varios comerciantes, no eran muchos los tributos que ingresaban a las arcas estatales. Su incipiente suerte cambió con el advenimiento de un nuevo gobierno el 30 de septiembre de 1891 encabezado por el presidente electo Ponciano Leiva. Tal como era costumbre en el protoco-lo gubernamental, al cambiar el gobierno todos los servidores públicos debían interponer su renuncia ante el Poder Ejecutivo. Siendo este un trámite de mera formalidad, grande fue la sorpresa del coronel Nuila cuando la suya fue
+El comandante Nuila, además de sus deberes militares, funcionaba también como Teniente Administrador de Aduanas del puerto menor* de La Ceiba, controlando las importaciones de licores fuertes, mercaderías, etc., principal fuente tributaria del Estado, pero que dada su cercana relación con varios comerciantes, no eran muchos los tributos que ingresaban a las arcas estatales. Su incipiente suerte cambió con el advenimiento de un nuevo gobierno el 30 de septiembre de 1891 encabezado por el presidente electo Ponciano Leiva. Tal como era costumbre en el protocolo gubernamental, al cambiar el gobierno todos los servidores públicos debían interponer su renuncia ante el Poder Ejecutivo. Siendo este un trámite de mera formalidad, grande fue la sorpresa del coronel Nuila cuando la suya fue
 
 Ponciano Leiva (Sc. 250)
 
@@ -238,7 +238,7 @@ Hasta ahora no hemos encontrado ningún dato vinculado a la incineración de sel
 
 **El Director General de Correos Eusebio Toledo, vendió alevosa-mente en 1903 a un comerciante de Nueva York una fuerte cantidad de contramarcas falsas de 1877.
 
-También llama la atención el hecho que si el sobre se recibió en Nueva Orleans el 18 de junio de 1892, se puede decir que éste fue despachado de Trujillo alrededor del 12 del mismo mes (considerando una travesía marítima normal de 6 días), y habiendo sido asesinado Muñoz el 25 de julio, esta carta haya sido una de las últimas escritas por él, y definiti-vamente la última dirigida a Seebeck. Aunque el propósito de la misiva por ahora queda en suspenso, está claro una vez más que la filatelia es capaz de penetrar en lo más profundo de los eventos históricos patrios.
+También llama la atención el hecho que si el sobre se recibió en Nueva Orleans el 18 de junio de 1892, se puede decir que éste fue despachado de Trujillo alrededor del 12 del mismo mes (considerando una travesía marítima normal de 6 días), y habiendo sido asesinado Muñoz el 25 de julio, esta carta haya sido una de las últimas escritas por él, y definitivamente la última dirigida a Seebeck. Aunque el propósito de la misiva por ahora queda en suspenso, está claro una vez más que la filatelia es capaz de penetrar en lo más profundo de los eventos históricos patrios.
 
 Como colofón, es propicio apuntar que la memoria del coronel Muñoz perdura a través del colegio que lleva su nombre en la aldea Las Manza-nas, en San José, Comayagua; aunque dudo que los locales conozcan los trágicos detalles tras el personaje que caracteriza a su institución.
 
@@ -312,7 +312,7 @@ Se sabe muy poco de él, solamente que a temprana edad se enroló en el ejércit
 
 Liderando fuerzas que defendían el gobierno del general Rafael López Gutiérrez (1920-1924), durante esa revolución, el 18 de febrero de 1924 recuperó la plaza de la ciudad de La Paz después de un corto tiroteo contra las fuerzas revolucionarias que luchaban al mando del coronel Moisés Nazar, quien al día siguiente, en un contraataque la tomó nueva-mente, quedando esta plaza bajo control rebelde de manera definitiva.
 
-El 27 de abril de 1936 acaudilló un levantamiento rebelde en los depar-tamentos de Santa Bárbara y El Paraíso adversando el continuismo presidencial del general Tiburcio Carías Andino; acción de armas en la que falleció a consecuencia del bombardeo que se dio con el propósito de sofocar dicha rebelión.
+El 27 de abril de 1936 acaudilló un levantamiento rebelde en los departamentos de Santa Bárbara y El Paraíso adversando el continuismo presidencial del general Tiburcio Carías Andino; acción de armas en la que falleció a consecuencia del bombardeo que se dio con el propósito de sofocar dicha rebelión.
 
 Bibliografía consultada:
 

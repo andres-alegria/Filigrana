@@ -258,7 +258,7 @@ El 8 de septiembre de 1830 el gobierno de Honduras le pagó 6,971 pesos y 2 real
 
 Además de ser Juez de la Corte Suprema y Magistrado en Belice por 22 años (1798-1820) y poseer la mayor cantidad de esclavos de la zona, también era un importante comerciante mayorista, tanto de mercadería como de caoba. Fue socio del general Francisco Morazán a partir de 1835 en la explotación de caoba mediante la concesión otorgada a éste en la Costa Norte de Honduras, específicamente entre Omoa y el río Patuca. Afín a los mismos intereses, también estuvo asociado con el presidente de Guatemala Mariano Gálvez.
 
-Se comprobó posteriormente, que al tener conocimiento de la llegada de los colo-nos poyeros a Black River, visitó al Rey misquito con el propósito de indisponerlo contra esta amenaza a sus propios intereses, cosa que efectivamente logró.
+Se comprobó posteriormente, que al tener conocimiento de la llegada de los colonos poyeros a Black River, visitó al Rey misquito con el propósito de indisponerlo contra esta amenaza a sus propios intereses, cosa que efectivamente logró.
 
 En 1828 Bennett se retiró, hasta el resto de sus días, a vivir a Guatemala donde se convirtió en el más importante comerciante inglés con amplias inversiones en minería, navegación y manufactura a través de toda Centro América.
 
