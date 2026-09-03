@@ -56,16 +56,97 @@ export function formatBibliography(html: string): string {
 //     into a single gallery grid.
 const IMG_P_RE = /<p><img src="([^"]*)" alt="([^"]*)"[^>]*>\s*<\/p>/g;
 
-export function wrapImages(html: string): string {
+// A gallery listed in data/enhancements.ts renders as a coverflow slider: one
+// card in focus, neighbours receding either side, looping past the ends.
+// Markup is inert on its own — without JavaScript the track is simply a
+// horizontal scroller with snap points, which is a fine way to read seven
+// stamps. components/GallerySlider.astro upgrades it in the browser.
+function renderSlider(images: string[], caption: string): string {
+  const cards = images
+    .map(
+      (img, i) =>
+        `<li class="stamp-slider__card" data-index="${i}" aria-roledescription="diapositiva" ` +
+        `aria-label="${i + 1} de ${images.length}">${img}</li>`,
+    )
+    .join('');
+  return (
+    `<figure class="stamp-slider" data-slider>` +
+    `<div class="stamp-slider__viewport"><ul class="stamp-slider__track">${cards}</ul></div>` +
+    `<div class="stamp-slider__controls">` +
+    `<button type="button" class="stamp-slider__nav" data-slider-prev aria-label="Anterior">&#8249;</button>` +
+    `<span class="stamp-slider__status" data-slider-status aria-live="polite">1 / ${images.length}</span>` +
+    `<button type="button" class="stamp-slider__nav" data-slider-next aria-label="Siguiente">&#8250;</button>` +
+    `</div>` +
+    (caption ? `<figcaption>${caption}</figcaption>` : '') +
+    `</figure>`
+  );
+}
+
+// Long verbatim documents listed in data/enhancements.ts are folded into a
+// <details>, so the article's argument isn't pushed several screens down by
+// the document it argues about. Native <details> means it still opens with
+// JavaScript off, and the browser's own find-in-page can reveal it.
+// Matches a whole top-level blockquote, including one that wraps a nested
+// pull quote. A plain non-greedy `[\s\S]*?</blockquote>` would stop at the
+// inner closing tag and cut a pull quote in half.
+const BLOCKQUOTE_RE =
+  /<blockquote>(?:(?!<\/?blockquote>)[\s\S]|<blockquote>[\s\S]*?<\/blockquote>)*<\/blockquote>/g;
+
+export function collapseQuotes(
+  html: string,
+  specs: { blockquote: number; label: string; previewChars?: number }[] = [],
+): string {
+  if (!specs.length) return html;
+  let n = 0;
+  return html.replace(BLOCKQUOTE_RE, (block) => {
+    // A pull quote is a nested blockquote — decoration, not a document — so it
+    // is neither counted nor collapsed.
+    if (block.slice('<blockquote>'.length).includes('<blockquote>')) return block;
+    const spec = specs.find((s) => s.blockquote === n++);
+    if (!spec) return block;
+
+    const plain = block.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+    const limit = spec.previewChars ?? 300;
+    let preview = plain.slice(0, limit);
+    if (plain.length > limit) {
+      // cut on a word boundary so the extract doesn't end mid-word
+      preview = preview.replace(/\s+\S*$/, '') + '…';
+    }
+    return (
+      `<details class="longquote">` +
+      `<summary class="longquote__summary">` +
+      `<span class="longquote__preview">${preview}</span>` +
+      `<span class="longquote__toggle" data-label="${spec.label}"></span>` +
+      `</summary>${block}</details>`
+    );
+  });
+}
+
+export function wrapImages(html: string, sliderGalleries: number[] = []): string {
   let out = '';
   let lastEnd = 0;
   let galleryBuf: string[] = [];
+  let galleryIndex = 0;
 
   const flushGallery = () => {
-    if (galleryBuf.length) {
+    if (!galleryBuf.length) return;
+    const isSlider = sliderGalleries.includes(galleryIndex);
+    galleryIndex += 1;
+    if (isSlider) {
+      // The caption sits in the paragraph just above, where the print edition
+      // put it; lift it into the slider so it reads as the set's caption
+      // rather than an orphan line floating over a grid.
+      let caption = '';
+      const trailing = /<p>((?:(?!<p>)[\s\S])*?)<\/p>\s*$/.exec(out);
+      if (trailing && !/<img|<figure/.test(trailing[1])) {
+        caption = trailing[1].trim();
+        out = out.slice(0, trailing.index);
+      }
+      out += renderSlider(galleryBuf, caption);
+    } else {
       out += `<div class="article-gallery">${galleryBuf.join('')}</div>`;
-      galleryBuf = [];
     }
+    galleryBuf = [];
   };
 
   let m: RegExpExecArray | null;

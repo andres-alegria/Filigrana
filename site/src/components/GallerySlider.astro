@@ -1,0 +1,102 @@
+---
+// Upgrades any [data-slider] emitted by lib/content.ts into a coverflow:
+// the focused card sits centre and full size, its neighbours recede and fade
+// to either side, and the set loops past both ends.
+//
+// Progressive enhancement — the markup is a horizontal scroller on its own, so
+// with JavaScript off the images are still all there and still readable. The
+// script only takes over once it has run (it adds .is-ready).
+---
+
+<script>
+  // ---- feel: adjust the coverflow here -------------------------------
+  const STEP = 0.62;   // horizontal spacing between neighbours, in card widths
+  const SCALE = 0.76;  // size of each successive neighbour (compounds)
+  const FADE = 0.55;   // opacity of each successive neighbour (compounds)
+  const DEPTH = 60;    // px pushed back per step, for the receding feel
+  const SPAN = 3;      // neighbours rendered either side of centre
+  // --------------------------------------------------------------------
+
+  type Slider = {
+    cards: HTMLElement[];
+    index: number;
+    apply: () => void;
+  };
+
+  function setup(root: HTMLElement) {
+    const track = root.querySelector<HTMLElement>('.stamp-slider__track');
+    const cards = Array.from(root.querySelectorAll<HTMLElement>('.stamp-slider__card'));
+    const status = root.querySelector<HTMLElement>('[data-slider-status]');
+    if (!track || cards.length < 2) return;
+
+    const n = cards.length;
+    const s: Slider = {
+      cards,
+      index: 0,
+      apply() {
+        cards.forEach((card, i) => {
+          // shortest signed distance around the loop, so the set has no ends
+          let d = i - s.index;
+          if (d > n / 2) d -= n;
+          if (d < -n / 2) d += n;
+          const far = Math.abs(d) > SPAN;
+          const k = Math.abs(d);
+          card.style.transform =
+            `translate(-50%, -50%) translateX(${d * STEP * 100}%) ` +
+            `translateZ(${-k * DEPTH}px) scale(${SCALE ** k})`;
+          card.style.opacity = far ? '0' : String(FADE ** k);
+          card.style.zIndex = String(n - k);
+          card.style.pointerEvents = far ? 'none' : 'auto';
+          card.classList.toggle('is-current', d === 0);
+          // only the focused image is reachable by keyboard/AT
+          card.setAttribute('aria-hidden', d === 0 ? 'false' : 'true');
+        });
+        if (status) status.textContent = `${s.index + 1} / ${n}`;
+      },
+    };
+
+    const go = (delta: number) => {
+      s.index = (s.index + delta + n) % n;
+      s.apply();
+    };
+
+    root.querySelector('[data-slider-prev]')?.addEventListener('click', () => go(-1));
+    root.querySelector('[data-slider-next]')?.addEventListener('click', () => go(1));
+    cards.forEach((card, i) =>
+      card.addEventListener('click', () => {
+        if (i !== s.index) {
+          let d = i - s.index;
+          if (d > n / 2) d -= n;
+          if (d < -n / 2) d += n;
+          go(d);
+        }
+      }),
+    );
+
+    // keyboard: arrows move the slider when it has focus
+    root.tabIndex = 0;
+    root.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowLeft') { go(-1); e.preventDefault(); }
+      if (e.key === 'ArrowRight') { go(1); e.preventDefault(); }
+    });
+
+    // drag / swipe
+    let startX = 0;
+    let dragging = false;
+    const down = (x: number) => { startX = x; dragging = true; };
+    const up = (x: number) => {
+      if (!dragging) return;
+      dragging = false;
+      const dx = x - startX;
+      if (Math.abs(dx) > 40) go(dx < 0 ? 1 : -1);
+    };
+    root.addEventListener('pointerdown', (e) => down(e.clientX));
+    root.addEventListener('pointerup', (e) => up(e.clientX));
+    root.addEventListener('pointercancel', () => { dragging = false; });
+
+    root.classList.add('is-ready');
+    s.apply();
+  }
+
+  document.querySelectorAll<HTMLElement>('[data-slider]').forEach(setup);
+</script>

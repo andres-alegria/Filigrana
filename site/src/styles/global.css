@@ -205,6 +205,62 @@ nav.site a:hover{color:var(--green)}
 .article-body .bibliography li{position:relative;padding-left:1.3em;margin-bottom:.85em}
 .article-body .bibliography li::before{content:"—";position:absolute;left:0;color:var(--gold)}
 
+/* ---- coverflow gallery (data/enhancements.ts SLIDER_GALLERIES) ----------
+   Before the script runs this is a plain horizontal scroller, which is the
+   whole no-JavaScript fallback. .is-ready switches it to the stacked
+   coverflow. Adjust card size, frame and controls here; the motion itself
+   (spacing, scale, fade) lives in components/GallerySlider.astro */
+.stamp-slider{margin:2.6em 0;max-width:900px}
+.stamp-slider__viewport{overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;
+  -webkit-overflow-scrolling:touch}
+.stamp-slider__track{display:flex;gap:16px;list-style:none;margin:0;padding:0}
+.stamp-slider__card{flex:0 0 auto;width:min(300px,62vw);scroll-snap-align:center}
+.stamp-slider__card img{width:100%;height:auto;display:block;border:1px solid var(--line);
+  background:var(--paper-lit)}
+.stamp-slider__controls{display:flex;align-items:center;justify-content:center;gap:18px;
+  margin-top:18px}
+.stamp-slider__nav{font:400 20px/1 'Fraunces',serif;color:var(--green);cursor:pointer;
+  background:none;border:1px solid var(--line);border-radius:50%;width:38px;height:38px;
+  transition:border-color .18s ease,color .18s ease}
+.stamp-slider__nav:hover{border-color:var(--gold);color:var(--gold)}
+.stamp-slider__status{font-family:'IBM Plex Mono',monospace;font-size:11.5px;
+  letter-spacing:.1em;color:var(--ink-soft)}
+.stamp-slider figcaption{font-size:13.5px;color:var(--ink-soft);margin-top:14px;
+  line-height:1.55;font-style:italic;font-family:'Fraunces',serif;text-align:center}
+/* upgraded state */
+.stamp-slider.is-ready{outline:none}
+.stamp-slider.is-ready .stamp-slider__viewport{overflow:visible;height:min(360px,58vw);
+  position:relative;perspective:1100px}
+.stamp-slider.is-ready .stamp-slider__track{display:block;height:100%}
+.stamp-slider.is-ready .stamp-slider__card{position:absolute;top:50%;left:50%;
+  width:min(260px,46vw);cursor:pointer;
+  transition:transform .5s var(--ease),opacity .5s var(--ease)}
+.stamp-slider.is-ready .stamp-slider__card img{box-shadow:0 10px 30px rgba(28,26,21,.18)}
+.stamp-slider.is-ready .stamp-slider__card.is-current{cursor:default}
+.stamp-slider.is-ready .stamp-slider__card.is-current img{border-color:var(--gold)}
+@media (prefers-reduced-motion:reduce){
+  .stamp-slider.is-ready .stamp-slider__card{transition:none}
+}
+
+/* ---- collapsed long document (data/enhancements.ts COLLAPSED_QUOTES) ----
+   A native <details>, so it still opens with JavaScript off. The extract is
+   the summary; the full blockquote follows once unfolded. Adjust the extract's
+   look and the control here */
+.longquote{margin:1.8em 0}
+.longquote__summary{cursor:pointer;list-style:none;padding:4px 28px;
+  border-left:3px solid var(--gold);font-style:italic;color:var(--ink-soft)}
+.longquote__summary::-webkit-details-marker{display:none}
+.longquote[open] .longquote__preview{display:none}
+.longquote[open] .longquote__summary{border-left-color:transparent;padding-top:0;
+  padding-bottom:0}
+.longquote__toggle{display:block;margin-top:.9em;font-family:'IBM Plex Mono',monospace;
+  font-style:normal;font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--green)}
+.longquote__toggle::before{content:"▸ Leer " attr(data-label)}
+.longquote[open] .longquote__toggle::before{content:"▾ Ocultar " attr(data-label)}
+.longquote__summary:hover .longquote__toggle{color:var(--gold)}
+.longquote > blockquote{margin-top:0}
+
 /* verbatim quoted material (a letter, a contract, transcribed word for
    word) — write it as a normal Markdown blockquote (a `>` before each
    line) and it renders like this automatically */

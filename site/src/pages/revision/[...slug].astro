@@ -13,7 +13,9 @@ import { getCollection } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import { publishQueue, isDraft, findEntry } from '../../data/publish';
 import { routeSlug } from '../../lib/routing';
-import { stripLeadingTitle, formatBibliography, wrapImages } from '../../lib/content';
+import { stripLeadingTitle, formatBibliography, wrapImages, collapseQuotes } from '../../lib/content';
+import { SLIDER_GALLERIES, COLLAPSED_QUOTES } from '../../data/enhancements';
+import GallerySlider from '../../components/GallerySlider.astro';
 
 export async function getStaticPaths() {
   if (!import.meta.env.DEV) return [];
@@ -35,8 +37,13 @@ export async function getStaticPaths() {
 }
 
 const { entry, drafts } = Astro.props;
+const key = entry ? routeSlug(entry) : '';
 const bodyHtml = entry
-  ? wrapImages(formatBibliography(stripLeadingTitle(entry.rendered?.html ?? '')))
+  ? wrapImages(
+      collapseQuotes(formatBibliography(stripLeadingTitle(entry.rendered?.html ?? '')),
+                     COLLAPSED_QUOTES[key]),
+      SLIDER_GALLERIES[key],
+    )
   : '';
 ---
 <Layout title={entry ? `Revisión · ${entry.data.title_es}` : 'Revisión'}>
@@ -57,6 +64,7 @@ const bodyHtml = entry
           <div class="byline">POR {entry.data.author.toUpperCase()}</div>
         </header>
         <div class="article-body" set:html={bodyHtml} />
+      <GallerySlider />
         <p style="margin-top:40px"><a href="/revision/" class="revision-back">← Todos los borradores</a></p>
       </article>
     ) : (

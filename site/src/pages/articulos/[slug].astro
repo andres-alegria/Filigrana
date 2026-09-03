@@ -4,7 +4,9 @@ import Layout from '../../layouts/Layout.astro';
 import ShareBar from '../../components/ShareBar.astro';
 import { publishQueue, isPublished, findEntry } from '../../data/publish';
 import { routeSlug } from '../../lib/routing';
-import { stripLeadingTitle, formatBibliography, wrapImages } from '../../lib/content';
+import { stripLeadingTitle, formatBibliography, wrapImages, collapseQuotes } from '../../lib/content';
+import { SLIDER_GALLERIES, COLLAPSED_QUOTES } from '../../data/enhancements';
+import GallerySlider from '../../components/GallerySlider.astro';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
@@ -33,7 +35,12 @@ const onlineLabel = new Date(publishDate + 'T00:00:00').toLocaleDateString('es-H
   year: 'numeric', month: 'long', day: 'numeric',
 });
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).toString();
-const bodyHtml = wrapImages(formatBibliography(stripLeadingTitle(entry.rendered?.html ?? '')));
+const key = routeSlug(entry);
+const bodyHtml = wrapImages(
+  collapseQuotes(formatBibliography(stripLeadingTitle(entry.rendered?.html ?? '')),
+                 COLLAPSED_QUOTES[key]),
+  SLIDER_GALLERIES[key],
+);
 ---
 <Layout title={title_es} description={entry.data.summary_es}>
   <article>
@@ -52,6 +59,7 @@ const bodyHtml = wrapImages(formatBibliography(stripLeadingTitle(entry.rendered?
 
     <div class="wrap">
       <div class="article-body" set:html={bodyHtml} />
+      <GallerySlider />
     </div>
   </article>
 </Layout>
