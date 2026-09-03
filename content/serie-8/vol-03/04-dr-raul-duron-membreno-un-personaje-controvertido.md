@@ -64,7 +64,7 @@ Presente
 
 Mi estimado señor:
 
-En contestación a su nota de 1º. de los corrientes, me es grato manifestar a usted que los sellos oficiales para servicio aéreo que se ha proporcionado a algunos coleccionistas y agentes filatélicos de la localidad, no al público en general, fueron recibidos por la Contaduría de Especies en dos lotes, entre los cuales y por una mera casualidad descubrimos algunos valores sobrecargados en otros valores, constituyendo lo que los filatelistas llaman variedades, los cuales no han afectado en ninguna forma el valor de franqueo de dichos sellos. Todas las variedades, sin excepción, se han usado y se usan para franquear la correspondencia aérea oficial. Los sellos que usted me adjunta en su nota, y que figuran adheridos a esta certificación son de los que se han recibido en esta oficina, los que conceptúo como legítimos.
+> En contestación a su nota de 1º. de los corrientes, me es grato manifestar a usted que los sellos oficiales para servicio aéreo que se ha proporcionado a algunos coleccionistas y agentes filatélicos de la localidad, no al público en general, fueron recibidos por la Contaduría de Especies en dos lotes, entre los cuales y por una mera casualidad descubrimos algunos valores sobrecargados en otros valores, constituyendo lo que los filatelistas llaman variedades, los cuales no han afectado en ninguna forma el valor de franqueo de dichos sellos. Todas las variedades, sin excepción, se han usado y se usan para franquear la correspondencia aérea oficial. Los sellos que usted me adjunta en su nota, y que figuran adheridos a esta certificación son de los que se han recibido en esta oficina, los que conceptúo como legítimos.
 
 De Ud. atento servidor
 

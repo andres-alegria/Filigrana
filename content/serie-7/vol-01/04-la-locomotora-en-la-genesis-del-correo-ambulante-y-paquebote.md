@@ -30,7 +30,7 @@ Decreto No. 76 del 18 de febrero de 1896.
 
 Artículo XXIV:
 
-La compañía se obliga a conducir, en sus trenes ordinarios, el correo nacional de Honduras desde que abra el al servicio público los ferrocarriles que construya, sin recibir por tal motivo estipendio o compensación alguna, pero sin sujetarse á responsabilidad por daños ó pérdidas que sufra la correspondencia. El Gobierno podrá, si lo prefiere, nombrar en cualquier tiempo agentes postales que se hagan cargo de la correspondencia, y en tal caso la Compañía suministrará gratis compartimientos postales especiales para el uso exclusivo de tales agentes
+> La compañía se obliga a conducir, en sus trenes ordinarios, el correo nacional de Honduras desde que abra el al servicio público los ferrocarriles que construya, sin recibir por tal motivo estipendio o compensación alguna, pero sin sujetarse á responsabilidad por daños ó pérdidas que sufra la correspondencia. El Gobierno podrá, si lo prefiere, nombrar en cualquier tiempo agentes postales que se hagan cargo de la correspondencia, y en tal caso la Compañía suministrará gratis compartimientos postales especiales para el uso exclusivo de tales agentes
 
 La primera emisión postal que estreno este servicio fue la de La Locomotora, que había sido puesta en circulación el 1 de agosto de 1898, pocos meses antes de que se fundara la plaza de correo ambulante según queda establecido en este Acuerdo:
 

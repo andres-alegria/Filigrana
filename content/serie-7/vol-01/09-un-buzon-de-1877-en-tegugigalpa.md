@@ -24,7 +24,7 @@ Nos hemos encontrado con esta histórica fotografía que muestra un antiguo edif
 
 *Guía Postal de Honduras* del 31 de marzo de 1877, Artículo 2º:
 
-“Toda correspondencia que llegue después de la hora que los cuadros de entrada y salidas fijan para el despacho de correos, quedará para remitirse por el inmediato: en tal virtud, una vez dada la hora no se admitirá correspondencia en la Administraciones, pudiendo si ser depositadas en los buzones de las mismas”.
+> “Toda correspondencia que llegue después de la hora que los cuadros de entrada y salidas fijan para el despacho de correos, quedará para remitirse por el inmediato: en tal virtud, una vez dada la hora no se admitirá correspondencia en la Administraciones, pudiendo si ser depositadas en los buzones de las mismas”.
 
 Ley de Correos de 1883, Artículo 57:
 

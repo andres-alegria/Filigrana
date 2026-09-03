@@ -206,7 +206,7 @@ Tras ser sometido a consejo de guerra, el 3 de septiembre de 1892 se le condenó
 
 Este malestar era general en todo el país, ya que tras décadas de montoneras inútiles y destructivas, la gente de bien deseaba una paz permanente. La animadversión a estas acciones se patentiza en parte de la siguiente nota aparecida el 30 de julio de 1892 en el diario “*La República*” a cargo del renombrado historiador y exsacerdote Antonio Ramón Vallejo:
 
-“…para evitar la anarquía y las continuas conspiraciones que arruinarán por completo el país, para evitar las constantes rebeliones y atentados contra la paz y el orden, para que todos los ciudadanos puedan dedicarse exclusivamente al trabajo, fuente principal del adelanto y progreso de los países, es preciso que se dicten enérgicas medidas, es absolutamente indispensable que se aplique la ley en todo su rigor, sin distinción de personas ni clases, a los ambiciosos perturbadores de la paz que buscan en el desorden el lucro y las venganzas.
+> “…para evitar la anarquía y las continuas conspiraciones que arruinarán por completo el país, para evitar las constantes rebeliones y atentados contra la paz y el orden, para que todos los ciudadanos puedan dedicarse exclusivamente al trabajo, fuente principal del adelanto y progreso de los países, es preciso que se dicten enérgicas medidas, es absolutamente indispensable que se aplique la ley en todo su rigor, sin distinción de personas ni clases, a los ambiciosos perturbadores de la paz que buscan en el desorden el lucro y las venganzas.
 
 Esperamos que el Gobierno para poner completo término a tantos bochinches, impondrá un ejemplar castigo a los revoltosos.”
 
@@ -220,7 +220,7 @@ En la cláusula 11 del contrato con Seebeck se estipula que “…El Gobierno, e
 
 Entonces ¿Qué asunto se traía entre manos el coronel Muñoz? Definitivamente no se trataba de una simple devolución de sellos sobrantes, pues el membrete del sobre indica que era correspondencia de carácter personal y no oficial. ¿Acaso trataba de negociar algo particular con Seebeck? ¿Contaba con algún remanente de sellos en su poder? Si este era el propósito, es poco probable, que fuesen sellos de las emisiones Seebeck, ya que el coronel Muñóz como firmante del contrato no podía soslayar que por Ley estaba obligado a devolverlos y no cometería la desfachatez de tratar de venderlos a su legítimo propietario. Sin embargo podían ser sellos de la emisión de 1865 o sus contramarcas de 1877, pues de estos existía un buen remanente dada su exigua circulación. Esto, en base al acuerdo emitido el 31 de marzo de 1877 en La Paz por el presidente Marco Aurelio Soto, que textualmente reza:
 
-“En consideración a que los sellos postales de la Re., de las clases que existen en la actualidad, se han empleado en diferentes épocas para hacer pagos de sueldos de empleados, etc., etc.: a que por esta causa, o por otras que sería largo enumerar, la renta de correos ha sido nominal, i por lo mismo, no ha alcanzado a satisfacer ni aún las necesidades más urgentes de la Administración del ramo, por tanto el Presidente Provisional, Acuerda.
+> “En consideración a que los sellos postales de la Re., de las clases que existen en la actualidad, se han empleado en diferentes épocas para hacer pagos de sueldos de empleados, etc., etc.: a que por esta causa, o por otras que sería largo enumerar, la renta de correos ha sido nominal, i por lo mismo, no ha alcanzado a satisfacer ni aún las necesidades más urgentes de la Administración del ramo, por tanto el Presidente Provisional, Acuerda.
 
 Que los sellos postales que no lleven la marca del nuevo precio que se les ha fijado en la Guía Postal, sean de ningún valor: Que en esa virtud los administradores departamentales de correos, al recibir los recursos de los sellos marcados, remitan a la Dirección General todos los que tengan en su poder, i que provisionalmente se haga uso, en toda la Rep. de los sellos modificados con las marca del precio, entre tanto llegan los que el Gobierno ha pedido a los Estado Unidos de América.
 
@@ -284,7 +284,7 @@ Comayagua
 
 Señor:
 
-Deseo respetuosamente hacer mención al Su Excelencia el Presidente y al Ministro de Guerra del caso de P. S. Brubaker un ciudadano de los Estados Unidos, quien está ahora confinado en la prisión de Omoa, habiendo sido juzgado y condenado a siete años de prisión por su participación en la última revolución, acaudillada por el coronel Leonardo Nuila.
+> Deseo respetuosamente hacer mención al Su Excelencia el Presidente y al Ministro de Guerra del caso de P. S. Brubaker un ciudadano de los Estados Unidos, quien está ahora confinado en la prisión de Omoa, habiendo sido juzgado y condenado a siete años de prisión por su participación en la última revolución, acaudillada por el coronel Leonardo Nuila.
 
 He observado que con fecha de 18 de Noviembre, pasado, el Presidente emitió un decreto concediéndole al general Manuel Bonilla amnistía absoluta, decreto que fue publicado en “La Gaceta” del 29 de Noviembre. No conozco las razones que motivaron la emisión de este decreto, pero no creo que Brubaker sea más culpable que el general Bonilla, y que la amnistía en un caso justificaría la amnistía en el otro.
 

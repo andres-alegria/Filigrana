@@ -42,7 +42,7 @@ Es notable en la Ley que precede que la edad para ejercer el cargo se reduce de 
 
 La misma *Ley Orgánica de Correos*, en su Artículo 228 también puntualiza sobre la rapidez en la entrega de las cartas:
 
-“La correspondencia que se recoja de los buzones y que esté destinada a la misma localidad no podrá en ningún caso retenerse en la oficina más que el tiempo absolutamente necesario para hacer su registro, matar las estampillas y poner el sello fechador, lo mismo que el número de buzón, en el acto de recogerla, si esto fuere posible. Hecho esto, los carteros deben salir inmediatamente a hacer su distribución”.
+> “La correspondencia que se recoja de los buzones y que esté destinada a la misma localidad no podrá en ningún caso retenerse en la oficina más que el tiempo absolutamente necesario para hacer su registro, matar las estampillas y poner el sello fechador, lo mismo que el número de buzón, en el acto de recogerla, si esto fuere posible. Hecho esto, los carteros deben salir inmediatamente a hacer su distribución”.
 
 Entre las disposiciones más importantes de los reglamentos postales destaca que debían contar con un sueldo fijo. Pero un privilegio aún más importante era que dado los casi continuos levantamientos armados que azolaban al país, estaban exonerados del servicio militar.
 

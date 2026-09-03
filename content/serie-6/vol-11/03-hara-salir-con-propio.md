@@ -26,7 +26,7 @@ Nos hemos encontrado con el siguiente Decreto, ordenando en 1856 el traslado tem
 
 El Supremo Poder Ejecutivo del Estado, se ha servido emitir el Decreto que sigue:
 
-El Presidente del estado de Honduras, con presencia de los sucesos ocurridos en la ciudad de León el 12 del mes próximo pasado que demandan la asistencia y cooperación de Honduras en la lucha emprendida entre aquel pueblo y sus opresores; deseoso de remover los obstáculos que se presenten a ese respecto y considerando que la ciudad de Tegucigalpa es mas adecuada por su inmediación y relaciones
+> El Presidente del estado de Honduras, con presencia de los sucesos ocurridos en la ciudad de León el 12 del mes próximo pasado que demandan la asistencia y cooperación de Honduras en la lucha emprendida entre aquel pueblo y sus opresores; deseoso de remover los obstáculos que se presenten a ese respecto y considerando que la ciudad de Tegucigalpa es mas adecuada por su inmediación y relaciones
 
 DECRETA
 

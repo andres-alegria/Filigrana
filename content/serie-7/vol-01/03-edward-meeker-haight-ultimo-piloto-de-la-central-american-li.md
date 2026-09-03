@@ -88,7 +88,7 @@ Falleció el 5 de diciembre de 1975 en el Veterans Administration Hospital en As
 
 Medalla de plata otorgada por su participación en la I Guerra Mundial.
 
-“El Presidente de los Estados Unidos de América, autorizado por el Decreto del Congreso del 9 de julio de 1918, tiene el placer de otorgarle la Medalla de Plata, al teniente Primero (Fuerza Aérea) Edward Meeker Haight, Fuerza Aérea de los Estados Unidos, por su valor en acción mientras servía en el 139 Escuadrón Aéreo de las Fuerzas Expedicionarias Norteamericanas, en acción el 28 de septiembre de 1918 en Verdún”.
+> “El Presidente de los Estados Unidos de América, autorizado por el Decreto del Congreso del 9 de julio de 1918, tiene el placer de otorgarle la Medalla de Plata, al teniente Primero (Fuerza Aérea) Edward Meeker Haight, Fuerza Aérea de los Estados Unidos, por su valor en acción mientras servía en el 139 Escuadrón Aéreo de las Fuerzas Expedicionarias Norteamericanas, en acción el 28 de septiembre de 1918 en Verdún”.
 
 Tarjeta para encomiendas aéreas de la Central American Line, con fecha del 21 de febrero de 1927 en un vuelo a Siguatepeque.
 

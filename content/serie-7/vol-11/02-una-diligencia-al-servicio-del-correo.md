@@ -34,7 +34,7 @@ Vista la anterior solicitud, y el Dictamen del Fiscal General de Hacienda, y Con
 
 ACUERDA:
 
-1.- Autorizar a los señores Bertie Cecil, R. S. De Leon y Charles F. Jeffs, para que formen una compañía anónima, con el capital de doscientos mil pesos oro la cual se denominará “The Honduras Mail Stage Coach and Express Company Limited”, y establecerá dicho servicio de diligencias para la conducción de pasajeros, transporte de carga, malas\*, etc. entre San Pedro Sula y San Lorenzo, vía Trinidad, Santa Bárbara, Comayagua, Tegucigalpa y demás pueblos situados a lo largo de la ruta.
+> 1.- Autorizar a los señores Bertie Cecil, R. S. De Leon y Charles F. Jeffs, para que formen una compañía anónima, con el capital de doscientos mil pesos oro la cual se denominará “The Honduras Mail Stage Coach and Express Company Limited”, y establecerá dicho servicio de diligencias para la conducción de pasajeros, transporte de carga, malas\*, etc. entre San Pedro Sula y San Lorenzo, vía Trinidad, Santa Bárbara, Comayagua, Tegucigalpa y demás pueblos situados a lo largo de la ruta.
 
 2.- Conceder a dichos señores Cecil, De Leon y Jeffs, ó a la compañía que funden con el objeto arriba expresado, el derecho exclusivo de hacer el tráfico en diligencias, por la ruta indicada, por diez años, y el de extender dicho tráfico á cualesquiera otros lugares de la República, por las rutas que lleguen á abrirse.
 
@@ -120,7 +120,7 @@ El posterior silencio histórico de este evento nos hace concluir que tampoco tu
 
 Por otro lado, el laureado escritor Rafael Heliodoro Valle en una de sus publicaciones nos hace una semblanza de los medios de transporte en la Tegucigalpa de finales del siglo XIX de la siguiente manera:
 
-En tiempo de Soto un médico español y doña Tomasa de Figueroa fueron los primeros propietarios de coche. A doña Celestina, la esposa del Presidente, la condujeron en litera desde San Lorenzo, a manera de los obispos de la diócesis, que todavía, hasta monseñor Vélez, se hacían llevar en hombros de sus feligreses. En Tegucigalpa, el primer Presidente que se dio el lujo de gastar carruaje fue el general Bográn, y no se nos olvida el landó del general Sierra, tirado por caballos.
+> En tiempo de Soto un médico español y doña Tomasa de Figueroa fueron los primeros propietarios de coche. A doña Celestina, la esposa del Presidente, la condujeron en litera desde San Lorenzo, a manera de los obispos de la diócesis, que todavía, hasta monseñor Vélez, se hacían llevar en hombros de sus feligreses. En Tegucigalpa, el primer Presidente que se dio el lujo de gastar carruaje fue el general Bográn, y no se nos olvida el landó del general Sierra, tirado por caballos.
 
 Anuncio requiriendo mano de obra masiva para construir la transnacional carretera de Norte a Sur.
 
@@ -132,7 +132,7 @@ Artículo 84.- Dichas empresas están estrictamente obligadas a sujetarse en un 
 
 Arrancando 1903, el Gobierno del general Terencio Sierra (1899-1903), ingeniero egresado de universidad norteamericana y con educación militar prusiana en el entonces Imperio Austro-húngaro, decide tomar en sus propias manos la acometida de tan necesario servicio de transporte. Originario de la sureña ciudad de Coray (hoy en el departamento de Valle), el general no albergaba duda alguna acerca de los beneficios que se desprenderían de esta obra, que de alguna manera somera paliaría las moribundas esperanzas de ver llegar el ferrocarril a ese extremo del territorio patrio. A este efecto, en el mensaje dirigido al Soberano Congreso Nacional el 1 de enero de 1903, el presidente Sierra informaba:
 
-La carretera del Sur alcanza á La Venta, y la nivelación de dos metros de ancho, á Moramulca. En este río está iniciada la construcción de un puente de mampostería. Con el propósito de facilitar á los pasajeros un viaje cómodo en la parte de carretera construida, se pidió una diligencia para hacer regulares viajes de esta capital á las poblaciones del tránsito. Son los automóviles de ruedas lisas los destinados á reemplazar los vehículos empleados hoy.
+> La carretera del Sur alcanza á La Venta, y la nivelación de dos metros de ancho, á Moramulca. En este río está iniciada la construcción de un puente de mampostería. Con el propósito de facilitar á los pasajeros un viaje cómodo en la parte de carretera construida, se pidió una diligencia para hacer regulares viajes de esta capital á las poblaciones del tránsito. Son los automóviles de ruedas lisas los destinados á reemplazar los vehículos empleados hoy.
 
 Casi un mes antes de la comparecencia del presidente Sierra ante el Congreso Nacional, la diligencia, comprada en Alemania (lo más probable adquirida a través de una de las casas comerciales alemanas asentadas en Amapala) ya estaba en San Lorenzo, para lo cual se contrataron los servicios especializados del señor Eugenio Paquet para su traslado a Tegucigalpa:
 

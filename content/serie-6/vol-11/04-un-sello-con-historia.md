@@ -36,7 +36,7 @@ En cierta ocasión Cortés exclamó: “Después de Dios, le debemos la victoria
 
 El cronista y compañero de armas de Cortés, Bernal Díaz del Castillo, anota en su detallada narración “*La Conquista de Nueva España*” como habiendo llegado a Trujillo, Cortés repartió los primeros cerdos (*Pecari tajacu*), popularmente conocidos en Honduras como sajinos):
 
-“…y luego envió á llamar a todos los pueblos comarcanos, y como tuvieron nueva que era el capitán Malinche, que así le llamaban, y sabían que había conquistado a México, luego vinieron á su llamada y le trajeron pescado de bastimentos…y Cortés les mandó dar unas puercas y un berraco que se halló en Trujillo, y de los que traía de México, para que hiciesen casta, porque le dijo un español que era buena tierra para multiplicar con soltarles en las isletas sin ponerles guarda; y ansí fue como dijo, que dentro en dos años hubo muchos puercos y los iban a montear.”
+> “…y luego envió á llamar a todos los pueblos comarcanos, y como tuvieron nueva que era el capitán Malinche, que así le llamaban, y sabían que había conquistado a México, luego vinieron á su llamada y le trajeron pescado de bastimentos…y Cortés les mandó dar unas puercas y un berraco que se halló en Trujillo, y de los que traía de México, para que hiciesen casta, porque le dijo un español que era buena tierra para multiplicar con soltarles en las isletas sin ponerles guarda; y ansí fue como dijo, que dentro en dos años hubo muchos puercos y los iban a montear.”
 
 HUMBERTO PRATS
 

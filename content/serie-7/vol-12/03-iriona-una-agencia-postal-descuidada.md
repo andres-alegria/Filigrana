@@ -32,7 +32,7 @@ Carta del coronel Burchard, de Iriona a Trujillo el 28 de julio de 1895, portead
 
 Una detallada descripción del entorno social de esa zona costera nos lo da el ilustre Dr. Antonio R. Vallejo cuando en su *Primer Anuario Estadístico de 1893*, apunta lo siguiente:
 
-Sus habitantes, con pocas excepciones, son morenos y muy negados al trabajo. La generalidad vive en la vagancia, a pretexto de que están dedicados a la extracción de hule y la zarza, de que suelen llevar a Trujillo algunas pequeñas cantidades: son muy afectos al licor, desobedientes a la autoridad y propensos al desorden, según consta en documentos oficiales. En la actualidad no tiene Iriona escuelas de ningún sexo.
+> Sus habitantes, con pocas excepciones, son morenos y muy negados al trabajo. La generalidad vive en la vagancia, a pretexto de que están dedicados a la extracción de hule y la zarza, de que suelen llevar a Trujillo algunas pequeñas cantidades: son muy afectos al licor, desobedientes a la autoridad y propensos al desorden, según consta en documentos oficiales. En la actualidad no tiene Iriona escuelas de ningún sexo.
 
 Sus ideas religiosas son incomprensibles, porque en sus prácticas se observa una mezcla de espiritismo, cristianismo y de otras. Se bautizan, casan y entierran, según el rito romano, se casan con una de las polígamas, de conformidad con sus costumbres, y se subordinan a ellas todas las otras, que concurren muy contentas a la celebración de este matrimonio que efectúan con la mayor pompa.
 

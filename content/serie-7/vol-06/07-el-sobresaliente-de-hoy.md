@@ -36,7 +36,7 @@ El coronel Jeffs viajando por Honduras.
 
 En su libro *Tres Gringos en Venezuela y Centroamérica*, el escritor y periodista norteamericano Richard Harding Davis a su paso por Honduras narra lo siguiente:
 
-Fue allí en Puerto Cortés donde conocimos a Jeffs llamándole la atención a nuestros maleteros, que no tenían derecho a robarnos solamente porque éramos gringos, y así logramos economizar varios dólares. Le dijimos que íbamos hacia la capital, contestándonos que él tenía que hacer ciertos negocios allá también y que le gustaría tomar un par de días cazando en el camino, le pedimos si quería venir con nosotros y ser nuestro guía; aceptando de inmediato.
+> Fue allí en Puerto Cortés donde conocimos a Jeffs llamándole la atención a nuestros maleteros, que no tenían derecho a robarnos solamente porque éramos gringos, y así logramos economizar varios dólares. Le dijimos que íbamos hacia la capital, contestándonos que él tenía que hacer ciertos negocios allá también y que le gustaría tomar un par de días cazando en el camino, le pedimos si quería venir con nosotros y ser nuestro guía; aceptando de inmediato.
 
 Nuestro viaje de Puerto Cortés a San Pedro Sula en ferrocarril duró cuatro horas, a pesar de que la distancia son solo 37 millas y la única línea férrea, que le dio a Honduras una deuda de $27.992,850.00 dólares cuyos intereses no han sido pagados desde 1872.
 

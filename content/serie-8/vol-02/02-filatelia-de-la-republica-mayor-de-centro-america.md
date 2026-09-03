@@ -32,7 +32,7 @@ El 15 de septiembre de 1896, en la reunión del primer aniversario del Tratado e
 
 El periódico filatélico alemán *Der Philatelist*, en una edición de finales de 1896, comentaba que:
 
-Nosotros esperamos que este proyecto sea exitoso, sin necesidad de obligar a los dos estados remanentes a unirse por la fuerza de las armas. Si se usan medios bélicos, la confederación ciertamente se desintegrará rápidamente. Desde el punto de vista filatélico, ¿Cuál será el probable resultado de tal unión? Nosotros imaginamos que resultará que la República de Centro América emitirá sellos postales para el correo internacional, pero continuará con el uso de los sellos de los estados miembros para la correspondencia doméstica. Una sexta serie de sellos sería bienvenida en adición a las cinco actuales.
+> Nosotros esperamos que este proyecto sea exitoso, sin necesidad de obligar a los dos estados remanentes a unirse por la fuerza de las armas. Si se usan medios bélicos, la confederación ciertamente se desintegrará rápidamente. Desde el punto de vista filatélico, ¿Cuál será el probable resultado de tal unión? Nosotros imaginamos que resultará que la República de Centro América emitirá sellos postales para el correo internacional, pero continuará con el uso de los sellos de los estados miembros para la correspondencia doméstica. Una sexta serie de sellos sería bienvenida en adición a las cinco actuales.
 
 El Decreto Ejecutivo del Pacto de Amapala estipulaba:
 

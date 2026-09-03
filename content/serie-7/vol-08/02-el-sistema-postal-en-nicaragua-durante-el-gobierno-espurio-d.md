@@ -228,7 +228,7 @@ Fue llevada por Wines hasta San Juan del Norte y de allí el 6 de octubre por el
 
 El contenido parcial de la carta nos revela las dificultades de comunicación en el interior del país, así como las ilusas expectativas de los filibusteros:
 
-“…He estado por algún tiempo muy alejado de cualquier servicio postal regular al grado de que nuestra correspondencia ha sido muy irregular pero espero que a partir de ahora nosotros podamos intercambiar correspondencia con mayor regularidad… Pienso que el General Walker se mantendrá en este país sin duda alguna y si lo hace, mi conocimiento del idioma español me dará tales ventajas como para establecerme bien aquí y probablemente volverme independiente a corto plazo… Fabel Belcher”
+> “…He estado por algún tiempo muy alejado de cualquier servicio postal regular al grado de que nuestra correspondencia ha sido muy irregular pero espero que a partir de ahora nosotros podamos intercambiar correspondencia con mayor regularidad… Pienso que el General Walker se mantendrá en este país sin duda alguna y si lo hace, mi conocimiento del idioma español me dará tales ventajas como para establecerme bien aquí y probablemente volverme independiente a corto plazo… Fabel Belcher”
 
 ![1856. San Miguel–San Juan del Sur–San Juan del Norte–Nueva York.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image38.webp)
 

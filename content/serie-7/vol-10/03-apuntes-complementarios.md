@@ -38,13 +38,13 @@ La omisión aludida por el ministro Fiallos repercutió en la posterior emisión
 
 Las planchas habían quedado guardadas. Siendo ésta la primera emisión elaborada localmente, no existía un precedente para su proceder, algo que se tomó en consideración cortos tres años después al establecerse la *Ley Orgánica de Correos de 1899*, que en su Artículo 593 dejaba establecido:
 
-Las planchas matrices que hayan sido grabadas para la emisión de los valores postales, cuando ella se haya hecho, se guardarán y custodiarán de tal modo que no sea posible su pérdida o extravío. Con estas mismas planchas se podrán grabar después sellos de una emisión pasada para la formación y venta de las colecciones que se pidan.
+> Las planchas matrices que hayan sido grabadas para la emisión de los valores postales, cuando ella se haya hecho, se guardarán y custodiarán de tal modo que no sea posible su pérdida o extravío. Con estas mismas planchas se podrán grabar después sellos de una emisión pasada para la formación y venta de las colecciones que se pidan.
 
 Aun cuando las planchas se reutilizaron tras once meses de permanecer guardadas (no sabemos bajo qué condiciones) hasta hoy no ha sido posible establecer diferencia alguna entre ambas emisiones. El autor ha estudiado todos los ejemplares a la mano de *Arias* sin haber podido encontrar rasgos distintivos permanentes que den lugar a una clara separación de ambas. Esperemos que futuras pesquisas arrojen luz al respecto.
 
 Es oportuno señalar que el citado Artículo 593, alude explícitamente a la reimpresión de emisiones como una evidente secuela de la lección dejada por Seebeck respecto a la venta de sellos a coleccionistas. Esto queda reafirmado en el Artículo 594 de la misma ley:
 
-Pasada una emisión, el Ministerio de Hacienda recogerá todos los valores postales existentes y entregará a la Dirección del Ramo un número conveniente de colecciones, y las demás las pondrá a la venta pública. La Dirección del Ramo dará los avisos correspondientes y recogerá las propuestas que se le hagan para ponerlas en conocimiento del Ministerio de Hacienda; lo mismo hará con las solicitudes de grabados de sellos de una emisión pasada.
+> Pasada una emisión, el Ministerio de Hacienda recogerá todos los valores postales existentes y entregará a la Dirección del Ramo un número conveniente de colecciones, y las demás las pondrá a la venta pública. La Dirección del Ramo dará los avisos correspondientes y recogerá las propuestas que se le hagan para ponerlas en conocimiento del Ministerio de Hacienda; lo mismo hará con las solicitudes de grabados de sellos de una emisión pasada.
 
 La única ocasión conocida de venta de sobrantes de la serie de *Arias* sucedió en 1897, para lo cual y con el propósito de evitar su circulación postal, las series completas vendidas se cancelaron con un matasello de siete barras color negro (2-3-2) con “HONDURAS” al centro. Hasta hoy se desconoce el Acuerdo que autorizó dicha venta.
 

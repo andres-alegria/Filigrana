@@ -28,7 +28,7 @@ En Honduras se han realizado 19 censos de población, si consideramos como tales
 
 RECUENTO DE POBLACIÓN DE 1791.
 
-“La población de 1791 es el resumen general de diocesanos que resultó de la visita que hizo por los años de 1798 y 1791 a los pueblos de nuestra diócesis el ilustrísimo señor obispo fray Fernando de Cardiñanos y de la que dio cuenta al Rey por medio del Real y Supremo Consejo de las Indias el año últimamente citado. La diócesis se componía de 135 poblaciones y 231 valles con 96,421 almas distribuidas en la jurisdicción de 35 curatos”.
+> “La población de 1791 es el resumen general de diocesanos que resultó de la visita que hizo por los años de 1798 y 1791 a los pueblos de nuestra diócesis el ilustrísimo señor obispo fray Fernando de Cardiñanos y de la que dio cuenta al Rey por medio del Real y Supremo Consejo de las Indias el año últimamente citado. La diócesis se componía de 135 poblaciones y 231 valles con 96,421 almas distribuidas en la jurisdicción de 35 curatos”.
 
 CENSO DE POBLACIÓN DE 1881.
 
