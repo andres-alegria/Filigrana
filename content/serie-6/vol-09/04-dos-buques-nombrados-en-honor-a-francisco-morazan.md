@@ -11,7 +11,7 @@ feature_type: investigacion
 page_start: 24
 page_end: 29
 image_count: 4
-summary_es: "Recopilación por Edgardo Alegría Reichmann El SS Morazan fue un Buque de 2,984 toneladas, construido en 1908. En 1922 fue comprado a la Booth Line por la Vaccaro Brothers Steamship Company, que se había constituido legalmente en 1923 en Honduras como la…"
+summary_es: "El SS Morazan fue un Buque de 2,984 toneladas, construido en 1908. En 1922 fue comprado a la Booth Line por la Vaccaro Brothers Steamship Company, que se había constituido legalmente en 1923 en Honduras como la…"
 is_featured: false
 has_exhibition: false
 has_audio: false
@@ -20,7 +20,6 @@ review: []
 ---
 
 # Dos buques nombrados en honor a Francisco Morazán
-Recopilación por Edgardo Alegría Reichmann
 
 El SS Morazan fue un Buque de 2,984 toneladas, construido en 1908. En 1922 fue comprado a la Booth Line por la Vaccaro Brothers Steamship Company, que se había constituido legalmente en 1923 en Honduras como la Standard Steamship and Fruit Company. La propiedad del Morazán pasó a su filial Mexican American Fruit and Steamship Company. En 1927 el nombre de la compañía cambió a American Fruit and Steamship Company. En 1933 el buque fue transferido a la Seaboard Steamship Company, subsidiaria de la Standard Fruit Company. El barco continuó asignado al transporte de bananos entre Honduras y Nueva Orleans, teniendo como domicilio el puerto de La Ceiba. Cada viaje de ida y vuelta en esta ruta tomaba 12 días.
 
