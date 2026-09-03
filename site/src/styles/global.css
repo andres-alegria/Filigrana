@@ -166,7 +166,7 @@ nav.site a:hover{color:var(--green)}
   color:var(--gold);margin-top:16px}
 .article-head .repro-note{font-family:'Fraunces',serif;font-style:italic;font-weight:300;
   font-size:13.5px;color:var(--ink-soft);margin-top:10px}
-.article-body{padding:36px 0 60px;font-size:17.5px;line-height:1.75;max-width:70ch}
+.article-body{text-align:justify;padding:36px 0 60px;font-size:17.5px;line-height:1.75;max-width:70ch}
 .article-body p{margin-bottom:1.3em}
 /* Links in prose — the global reset makes <a> inherit its colour, so body
    copy needs its own treatment or links vanish into the text */
