@@ -58,7 +58,7 @@ Seebeck sacó provecho de un excelente contacto que tenía para Centroamérica e
 
 El contrato con Honduras fue firmado el 20 de abril de 1889 entre Seebeck y Roque Jacinto Muñoz, entonces Director General de Rentas, y publicado en el diario oficial La Gaceta el 29 siguiente.
 
-El primer trabajo de Seebeck para Honduras fue reimprimir en 1889 la reimpresión de la serie “Francisco Morazán” (emitida en julio de 1878) poniéndola en circulación ese mismo año. En total Seebeck imprimió para Honduras 49 sellos regulares y 22 oficiales; además de enteros postales como parte de las distintas emisiones, siendo éstos: 18 sobres, 16 bandas para periódicos y 10 tarjetas.
+El primer trabajo de Seebeck para Honduras fue reimprimir en 1889 la reimpresión de la serie “*Francisco Morazán*” (emitida en julio de 1878) poniéndola en circulación ese mismo año. En total Seebeck imprimió para Honduras 49 sellos regulares y 22 oficiales; además de enteros postales como parte de las distintas emisiones, siendo éstos: 18 sobres, 16 bandas para periódicos y 10 tarjetas.
 
 Mediante Acuerdo del Ministerio de Hacienda del 1 de agosto de 1891, fue autorizada la circulación de la serie “Luis Bográn” a partir de esta fecha hasta el 31 de julio de 1892. La serie comprendía tarjetas timbradas de 2c y 3c para uso interno y externo respectivamente, sobres con valores impresos de 1c, 5c, 10c, 20c y 25c. y sellos de 1c, 2c, 5c, 10c, 20c, 25c, 30c, 40c, 50c, 75c, 1, 2, 5 y 10 pesos.
 
