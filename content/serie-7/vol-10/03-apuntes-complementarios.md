@@ -63,7 +63,7 @@ Fue oportuno que entre ambos eventos transcurrieran más de tres años, dando lu
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-10/03-apuntes-complementarios/image16.webp)
+![Por Acuerdo ministerial del 28 de enero fueron puestos en circulación los valores postales usados durante el año actual; la emisión careció de bandas timbradas para periódicos, y por consiguiente el consumo de valores 1y2 centavos ha sobrepasado al ordinario.](/img/serie-7/vol-10/03-apuntes-complementarios/image16.webp)
 
 ![](/img/serie-7/vol-10/03-apuntes-complementarios/image17.webp)
 

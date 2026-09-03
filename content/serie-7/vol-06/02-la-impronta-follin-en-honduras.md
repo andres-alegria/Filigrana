@@ -585,26 +585,26 @@ Tegucigalpa, Honduras.
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image2.webp)
+![1900. Con membrete de negocio de la familia Follin radicada en Charleston.](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image2.webp)
 
-![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image3.webp)
+![Miriam Florence Follin](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image3.webp)
 
-![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image4.webp)
+![Ephraim George Squier](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image4.webp)
 
-![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image5.webp)
+![Consulado norteamericano en Omoa a mediados del siglo XIX.](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image5.webp)
 
-![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image6.webp)
+![Charles Richard Follín](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image6.webp)
 
 ![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image7.webp)
 
-![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image8.webp)
+![Carolina Follin Bardales](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image8.webp)
 
-![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image9.webp)
+![Ricardo Collier Lazo](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image9.webp)
 
 ![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image10.webp)
 
-![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image11.webp)
+![Sobre con membrete comercial de Ricardo Collier, circulado de San Pedro Sula a Nueva York en diciembre de 1903.](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image11.webp)
 
-![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image12.webp)
+![Esta carta dirigida en enero 14 de 1940 a Carolina viuda de Collier por su hijo Zadik, indica que en ese año ya estaba de regreso en Honduras. Tenía 72 años.](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image12.webp)
 
 ![](/img/serie-7/vol-06/02-la-impronta-follin-en-honduras/image13.webp)

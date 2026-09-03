@@ -143,11 +143,11 @@ LO EXTRAÑAREMOS ING. PRATS
 
 ![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image13.webp)
 
-![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image14.webp)
+![Tarjeta para encomiendas aéreas de la Central American Line, con fecha del 21 de febrero de 1927 en un vuelo a Siguatepeque.](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image14.webp)
 
-![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image15.webp)
+![Detalle de la tarjeta anterior donde](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image15.webp)
 
 ![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image16.webp)
 
-![](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image17.webp)
+![Viñetas comerciales privadas con valor de 50 cts.](/img/serie-7/vol-01/03-edward-meeker-haight-ultimo-piloto-de-la-central-american-li/image17.webp)
 

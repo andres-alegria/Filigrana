@@ -33,4 +33,4 @@ Almacén de la Casa Maier en San Pedro Sula, en una postal emitida por ellos.
 
 ![](/img/serie-6/vol-10/05-el-sobresaliente-de-hoy/image41.webp)
 
-![](/img/serie-6/vol-10/05-el-sobresaliente-de-hoy/image42.webp)
+![Almacén de la Casa Maier en San Pedro Sula, en una postal emitida por ellos.](/img/serie-6/vol-10/05-el-sobresaliente-de-hoy/image42.webp)

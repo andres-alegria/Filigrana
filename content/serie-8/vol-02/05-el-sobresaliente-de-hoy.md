@@ -57,6 +57,6 @@ Grabado del Siglo XIX mostrando el antiguo Puerto Franco de Amapala.
 
 ![](/img/serie-8/vol-02/05-el-sobresaliente-de-hoy/image69.webp)
 
-![](/img/serie-8/vol-02/05-el-sobresaliente-de-hoy/image70.webp)
+![Puerto Franco](/img/serie-8/vol-02/05-el-sobresaliente-de-hoy/image70.webp)
 
-![](/img/serie-8/vol-02/05-el-sobresaliente-de-hoy/image71.webp)
+![Grabado del Siglo XIX mostrando el antiguo Puerto Franco de Amapala.](/img/serie-8/vol-02/05-el-sobresaliente-de-hoy/image71.webp)

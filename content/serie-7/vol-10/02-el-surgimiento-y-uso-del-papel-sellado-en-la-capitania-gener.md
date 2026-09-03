@@ -179,11 +179,11 @@ Leiva, Héctor M. (1991). *Documentos Coloniales de Honduras*. Imprenta del Cent
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image3.webp)
+![Capitanía General de Guatemala en el año 1650.](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image3.webp)
 
 ![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image4.webp)
 
-![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image5.webp)
+![Encabezado de papel sellado de tercera categoría de 1641.](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image5.webp)
 
 ![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image6.webp)
 
@@ -199,8 +199,8 @@ Leiva, Héctor M. (1991). *Documentos Coloniales de Honduras*. Imprenta del Cent
 
 ![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image12.webp)
 
-![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image13.webp)
+![Documento de 1827 redactado en papel originalmente emitido para el bienio 1810-11. Luego revalidado para 1811-12 (reinado de Fernando VII), luego para el de 1823-24, otro para el mismo periodo durante el reinado de Agustín Iturbide, y tres más durante la época de post independencia.](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image13.webp)
 
 ![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image14.webp)
 
-![](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image15.webp)
+![Encabezado del Acta de Independencia de Centro América con fecha del 14 de septiembre de 1821.](/img/serie-7/vol-10/02-el-surgimiento-y-uso-del-papel-sellado-en-la-capitania-gener/image15.webp)

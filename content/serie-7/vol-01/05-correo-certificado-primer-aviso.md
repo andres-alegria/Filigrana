@@ -53,6 +53,6 @@ Con esta muestra Pilar nos invita a adentrarnos en la esencia del Correo, abiert
 
 ![](/img/serie-7/vol-01/05-correo-certificado-primer-aviso/image27.webp)
 
-![](/img/serie-7/vol-01/05-correo-certificado-primer-aviso/image28.webp)
+![Tres pinturas con motivos postales.](/img/serie-7/vol-01/05-correo-certificado-primer-aviso/image28.webp)
 
-![](/img/serie-7/vol-01/05-correo-certificado-primer-aviso/image29.webp)
+![Ensamblaje artístico inspirado en casillas de apartados postales.](/img/serie-7/vol-01/05-correo-certificado-primer-aviso/image29.webp)

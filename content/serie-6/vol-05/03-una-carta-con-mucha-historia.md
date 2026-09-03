@@ -89,15 +89,15 @@ El editor agradece la colaboración del historiador hondureño Lic. Ismael Zeped
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image10.webp)
+![“C. Ramon Guzman Governador comandante de la plaza de Omoa”*](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image10.webp)
 
-![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image11.webp)
+![(Texto original que se transcribe a continuación)](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image11.webp)
 
-![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image12.webp)
+![Vista panorámica de un sector de El Corpus](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image12.webp)
 
-![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image13.webp)
+![General Francisco Morazán](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image13.webp)
 
-![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image14.webp)
+![Fortaleza San Fernando de Omoa](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image14.webp)
 
 ![](/img/serie-6/vol-05/03-una-carta-con-mucha-historia/image15.webp)
 

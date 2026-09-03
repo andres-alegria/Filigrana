@@ -99,18 +99,18 @@ Se agradece a los señores Marcio Carías, Ricardo de Jesús Calderón y Christi
 
 ![](/img/serie-7/vol-11/06-un-sello-con-historia/image76.webp)
 
-![](/img/serie-7/vol-11/06-un-sello-con-historia/image77.webp)
+![El Dr. Soto y su esposa doña Celestina Mijango](/img/serie-7/vol-11/06-un-sello-con-historia/image77.webp)
 
-![](/img/serie-7/vol-11/06-un-sello-con-historia/image78.webp)
+![Mansión de Marco Aurelio](/img/serie-7/vol-11/06-un-sello-con-historia/image78.webp)
 
-![](/img/serie-7/vol-11/06-un-sello-con-historia/image79.webp)
+![Actual Hotel Raphael Paris, otrora residencia de la familia Soto Mijango.](/img/serie-7/vol-11/06-un-sello-con-historia/image79.webp)
 
 ![](/img/serie-7/vol-11/06-un-sello-con-historia/image80.webp)
 
-![](/img/serie-7/vol-11/06-un-sello-con-historia/image81.webp)
+![Mausoleo del Dr. Soto y su cónyuge en el Cementerio de Passy en Paris.](/img/serie-7/vol-11/06-un-sello-con-historia/image81.webp)
 
-![](/img/serie-7/vol-11/06-un-sello-con-historia/image82.webp)
+![Acta de defunción del Dr. Marco Aurelio Soto.](/img/serie-7/vol-11/06-un-sello-con-historia/image82.webp)
 
-![](/img/serie-7/vol-11/06-un-sello-con-historia/image83.webp)
+![Registro sepulcral de la familia Soto en el Cementerio de Passi.](/img/serie-7/vol-11/06-un-sello-con-historia/image83.webp)
 
 ![](/img/serie-7/vol-11/06-un-sello-con-historia/image84.webp)

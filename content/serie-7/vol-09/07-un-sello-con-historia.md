@@ -29,4 +29,4 @@ Frente a esa posición, el Dr. Bonilla sustentó una tesis contraria: La legisla
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-09/07-un-sello-con-historia/image3.webp)
+![Dr. Policarpo Bonilla](/img/serie-7/vol-09/07-un-sello-con-historia/image3.webp)

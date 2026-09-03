@@ -101,4 +101,4 @@ RECIBA NUESTRA MAS CORDIAL BIENVENIDA
 
 ![](/img/serie-7/vol-03/05-sellos-postales-involucrados-en-historico-timo/image44.webp)
 
-![](/img/serie-7/vol-03/05-sellos-postales-involucrados-en-historico-timo/image45.webp)
+![Cupòn de respuesta usado internacionalmente por la UPU](/img/serie-7/vol-03/05-sellos-postales-involucrados-en-historico-timo/image45.webp)

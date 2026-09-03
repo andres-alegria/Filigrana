@@ -135,9 +135,9 @@ EL
 
 ![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image31.webp)
 
-![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image32.webp)
+![Personal de la casa Kohncke posando frente a sus instalaciones, junto a los sacos de café esperando a ser embarcados.](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image32.webp)
 
-![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image33.webp)
+![1911. Interior de la farmacia administrada por uno de sus deudos.](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image33.webp)
 
 ![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image34.webp)
 
@@ -151,7 +151,7 @@ EL
 
 ![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image39.webp)
 
-![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image40.webp)
+![Aplicación de los sellos.](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image40.webp)
 
 ![](/img/serie-7/vol-09/05-los-permitase-de-la-casa-kohncke/image41.webp)
 

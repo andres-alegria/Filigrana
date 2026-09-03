@@ -429,7 +429,7 @@ Ley Orgánica de Correos. 1899. Tipografía Nacional. Tegucigalpa, Honduras.
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image3.webp)
+![EUA 1879 – 1897](/img/serie-7/vol-12/02-correspondencia-multada/image3.webp)
 
 ![](/img/serie-7/vol-12/02-correspondencia-multada/image4.webp)
 
@@ -471,19 +471,19 @@ Ley Orgánica de Correos. 1899. Tipografía Nacional. Tegucigalpa, Honduras.
 
 ![](/img/serie-7/vol-12/02-correspondencia-multada/image23.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image24.webp)
+![3 de agosto de 1890. Multada con el doble de la tarifa corriente de 10 cts.](/img/serie-7/vol-12/02-correspondencia-multada/image24.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image25.webp)
+![12 de mayo de 1895. De Puerto Cortés a Inglaterra. Se anuló localmente la multa al percatarse que el porte de 10 cts. era correcto.](/img/serie-7/vol-12/02-correspondencia-multada/image25.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image27.webp)
+![29 de enero 1896. De Puerto Cortés a Nueva York. Franqueo “facultativo”, aunque aquí se le cobró al destinatario sólo la tarifa corriente de 10 cts.](/img/serie-7/vol-12/02-correspondencia-multada/image27.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image28.webp)
+![Reverso mostrando cómo la multa se contabilizó mediante un sello de multa de 10 cts. aplicado en Brooklyn, Nueva York.](/img/serie-7/vol-12/02-correspondencia-multada/image28.webp)
 
 ![](/img/serie-7/vol-12/02-correspondencia-multada/image29.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image31.webp)
+![Circulado el 28 de agosto de 1899. Multa estampada en Tegucigalpa y cobrada correctamente en Nueva York por el duplo del faltante de 1 ct.](/img/serie-7/vol-12/02-correspondencia-multada/image31.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image32.webp)
+![1902. Multada con 10 cts. por el faltante de 5 en la tarifa doble de 30 cts.](/img/serie-7/vol-12/02-correspondencia-multada/image32.webp)
 
 ![](/img/serie-7/vol-12/02-correspondencia-multada/image33.webp)
 
@@ -493,37 +493,37 @@ Ley Orgánica de Correos. 1899. Tipografía Nacional. Tegucigalpa, Honduras.
 
 ![](/img/serie-7/vol-12/02-correspondencia-multada/image36.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image37.webp)
+![De El Paraíso, Cortés. Ostenta una “T” manuscrita, invalidando los 5 cts. del bisecado, cobrados posteriormente en Los Ángeles, California.](/img/serie-7/vol-12/02-correspondencia-multada/image37.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image38.webp)
+![A EUA el 2 de febrero de 1911. La deficiencia en el porte no fue detectada localmente, pero en el destino sí cobraron el duplo de los 2 cts. faltantes.](/img/serie-7/vol-12/02-correspondencia-multada/image38.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image39.webp)
+![2 de enero de 1924.](/img/serie-7/vol-12/02-correspondencia-multada/image39.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image40.webp)
+![3 de febrero de 1926.](/img/serie-7/vol-12/02-correspondencia-multada/image40.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image41.webp)
+![21 de noviembre de 1929. De Tegucigalpa. Por motivos de la circulación de sellos no autorizados de la emisión de 1927, el 14 de octubre de 1929 el Gobierno ordenó contramarcar dicha emisión con la inscripción “1929 á 1930”. El sobre fue multado por su franqueo con sellos desautorizados.](/img/serie-7/vol-12/02-correspondencia-multada/image41.webp)
 
 ![](/img/serie-7/vol-12/02-correspondencia-multada/image42.webp)
 
 ![](/img/serie-7/vol-12/02-correspondencia-multada/image43.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image44.webp)
+![26 de noviembre de 1956. De La Lima (Cortés). Porteada con 17 cts. cuando debió haber pagado una tarifa doble de 24 cts., por lo que se le multó con los 14 cts. correspondientes al doble de la diferencia.](/img/serie-7/vol-12/02-correspondencia-multada/image44.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image45.webp)
+![25 de junio de 1951. De Tegucigalpa. La multa se aplicó en San Pedro Sula al no tomarse en cuenta el valor de 8 cts. por ser éste un timbre telegráfico.](/img/serie-7/vol-12/02-correspondencia-multada/image45.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image46.webp)
+![9 de septiembre de 1958. De Tegucigalpa a EUA. Se despachó sin franqueo (“facultativo”), por lo que al llegar a Chicago se selló y se le adhirió una banda (impronta), ambos con “Postage Due” por valor de 14 cts.](/img/serie-7/vol-12/02-correspondencia-multada/image46.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image47.webp)
+![7 de enero 1961. De Tegucigalpa a EUA. Multada T A DEBE (aunque no se hizo efectiva) por exceder los 15 grs. permitidos en la tarifa base de 12 cts.](/img/serie-7/vol-12/02-correspondencia-multada/image47.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image48.webp)
+![18 de septiembre de 1966. De Naranjito (Santa Bárbara) a Siguatepeque. Multa improcedente pues la tarifa base de 1963 establecía 10 cts. /15 grs.](/img/serie-7/vol-12/02-correspondencia-multada/image48.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image49.webp)
+![Octubre de 1966.De La Entrada (Copán) a Tegucigalpa. De los pocos casos donde, mediante un sello de 10 cts., es evidente el cobro posterior de la multa para completar el porte de 12 cts.](/img/serie-7/vol-12/02-correspondencia-multada/image49.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image50.webp)
+![17 de diciembre de 1902. De Brooklyn, Nueva York, en donde se estamparon las dos marcas circulares de la multa de 15 cts., aplicando en Tegucigalpa la “T” (a la derecha) y, manuscrito en crayón, el valor a cobrar.](/img/serie-7/vol-12/02-correspondencia-multada/image50.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image51.webp)
+![De Wisconsin a Puerto Cortés el 27 de abril de 1903. Entero postal multado por el faltante de 3 cts. para completar la tarifa de 5 cts.](/img/serie-7/vol-12/02-correspondencia-multada/image51.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image52.webp)
+![De Massachussets a Tegucigalpa el 10 de febrero de 1907. Multada con 4 cts. para completar el faltante de 2 cts. en la tarifa de 3 cts. para postales.](/img/serie-7/vol-12/02-correspondencia-multada/image52.webp)
 
 ![](/img/serie-7/vol-12/02-correspondencia-multada/image53.webp)
 
@@ -531,7 +531,7 @@ Ley Orgánica de Correos. 1899. Tipografía Nacional. Tegucigalpa, Honduras.
 
 ![](/img/serie-7/vol-12/02-correspondencia-multada/image55.webp)
 
-![](/img/serie-7/vol-12/02-correspondencia-multada/image56.webp)
+![12 11 = 1.09](/img/serie-7/vol-12/02-correspondencia-multada/image56.webp)
 
 ![](/img/serie-7/vol-12/02-correspondencia-multada/image57.webp)
 

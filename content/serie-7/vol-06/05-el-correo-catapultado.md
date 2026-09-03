@@ -55,9 +55,9 @@ Aguilar Andrade, Juan Pablo. *Actualidad Filatélica*. Marzo 2016.
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-06/05-el-correo-catapultado/image21.webp)
+![El avión al momento de ser eyectado por la catapulta.](/img/serie-7/vol-06/05-el-correo-catapultado/image21.webp)
 
-![](/img/serie-7/vol-06/05-el-correo-catapultado/image22.webp)
+![Estampilla de Gambia (Scott 242), que conmemora elservicio Transatlántico desde Alemania, que utilizabaGambia como punto de partida hacia Sudamérica.](/img/serie-7/vol-06/05-el-correo-catapultado/image22.webp)
 
 ![](/img/serie-7/vol-06/05-el-correo-catapultado/image23.webp)
 

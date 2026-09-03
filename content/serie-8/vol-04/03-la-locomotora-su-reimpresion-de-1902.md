@@ -76,7 +76,7 @@ En esta reimpresión también fueron inevitables los errores de perforación, ta
 
 ![31 de diciembre de 1902. Franqueada con sellos reimpresos lista para ser enviada de Amapala a Inglaterra en el último día de vigencia de ambas emisiones, original y reimpresión.](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image59.webp)
 
-![](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image60.webp)
+![31 de diciembre de 1902. Franqueada con sellos reimpresos lista para ser enviada de Amapala a Inglaterra en el último día de vigencia de ambas emisiones, original y reimpresión.](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image60.webp)
 
 ![19 de noviembre de 1906. Certificado de San Pedro Sula a Francia. Inicialmente se intentó cubrir el porte con sellos obsoletos de 1902 de “La Locomotora” (con marca de agua), pero al ser rechazado, el remitente se vio obligado a usar los sellos vigentes de “Santos Guardiola”, cubriendo así correctamente el porte corriente exterior de 15¢ más el Certificado de 10¢.](/img/serie-8/vol-04/03-la-locomotora-su-reimpresion-de-1902/image61.webp)
 

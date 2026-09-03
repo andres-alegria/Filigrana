@@ -179,10 +179,10 @@ Colección de Edgardo Alegría R.
 
 ![](/img/serie-6/vol-02/04-los-censos-en-honduras/image21.webp)
 
-![](/img/serie-6/vol-02/04-los-censos-en-honduras/image22.webp)
+![Sobre circulado de Tegucigalpa a Tela el 24 de febrero](/img/serie-6/vol-02/04-los-censos-en-honduras/image22.webp)
 
-![](/img/serie-6/vol-02/04-los-censos-en-honduras/image23.webp)
+![Sobre circulado de Tegucigalpa a USA en 1974con](/img/serie-6/vol-02/04-los-censos-en-honduras/image23.webp)
 
-![](/img/serie-6/vol-02/04-los-censos-en-honduras/image24.webp)
+![Sobre circulado localmente en Tegucigalpa en 1974](/img/serie-6/vol-02/04-los-censos-en-honduras/image24.webp)
 
 ![](/img/serie-6/vol-02/04-los-censos-en-honduras/image25.webp)

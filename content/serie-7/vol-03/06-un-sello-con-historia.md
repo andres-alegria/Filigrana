@@ -77,5 +77,5 @@ EL
 
 ![](/img/serie-7/vol-03/06-un-sello-con-historia/image47.webp)
 
-![](/img/serie-7/vol-03/06-un-sello-con-historia/image48.webp)
+![Un avión Lockheed P-38 F5B Lightning similar al de Antoine de Saint-Exupéry](/img/serie-7/vol-03/06-un-sello-con-historia/image48.webp)
 

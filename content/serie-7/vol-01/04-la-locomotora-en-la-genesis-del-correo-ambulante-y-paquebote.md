@@ -61,7 +61,7 @@ También han surgido sellos matasellados como paquebotes, como los presentados a
 
 ![](/img/serie-7/vol-01/04-la-locomotora-en-la-genesis-del-correo-ambulante-y-paquebote/image19.webp)
 
-![](/img/serie-7/vol-01/04-la-locomotora-en-la-genesis-del-correo-ambulante-y-paquebote/image20.webp)
+![(Se ha ampliado la imagen para una mejor apreciación).](/img/serie-7/vol-01/04-la-locomotora-en-la-genesis-del-correo-ambulante-y-paquebote/image20.webp)
 
 ![](/img/serie-7/vol-01/04-la-locomotora-en-la-genesis-del-correo-ambulante-y-paquebote/image22.webp)
 

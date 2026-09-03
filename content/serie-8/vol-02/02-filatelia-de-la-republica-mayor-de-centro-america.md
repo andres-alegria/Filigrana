@@ -70,11 +70,11 @@ El matasello usado, tal como figura seguidamente, es muy fácil de detectar, pue
 
 ![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image11.webp)
 
-![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image12.webp)
+![Timbres cancelados con matasello toledano falso de siete barras (2-2-3).](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image12.webp)
 
 ![Timbre cancelado “de favor” con fechador genuino de la época. Por lo general los sellos fechadores no se aplicaban como matasellos, al menos que se careciera de estos últimos.](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image13.webp)
 
-![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image14.webp)
+![Timbre cancelado “de favor” con fechador genuino de la época. Por lo general los sellos fechadores no se aplicaban como matasellos, al menos que se careciera de estos últimos.](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image14.webp)
 
 En el aspecto administrativo, en el *Diario Oficial La Gaceta* del 14 de octubre de 1896, el Gobierno daba a conocer el siguiente mandato:
 
@@ -88,11 +88,11 @@ Membrete de papel sellado de 10 c. bueno para el cuatrienio 1897-1900, con el Es
 
 ![Enviada de Puerto Cortés a Francia el 5 de octubre de 1897, marcada con el sello circular (poco legible) de la República Mayor de Centro América.](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image18.webp)
 
-![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image19.webp)
+![Enviada de Puerto Cortés a Francia el 5 de octubre de 1897, marcada con](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image19.webp)
 
 ![Sobre con membrete de la Presidencia de la República Mayor de Centro América despachado de Tegucigalpa a Francia el 2 de julio de 1897, pagando correctamente 10 cts. de porte más 15 cts. del Certificado con AR. Fue redestinada a Pau, localidad ubicada en los Pirineos.](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image20.webp)
 
-![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image21.webp)
+![Sobre con membrete de la Presidencia de la República Mayor de Centro América despachado de Tegucigalpa a Francia el 2 de julio de 1897, pagando correctamente 10 cts. de porte más 15 cts. del Certificado con AR. Fue redestinada a Pau, localidad ubicada en los Pirineos.](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image21.webp)
 
 9 de octubre de 1897. Despachado de Amapala a San Francisco, California, pagando un porte sencillo de 10 cts. más los 15 cts. del Certificado AR refrendado con una etiqueta con texto “Rep. Mayor de C. A.”
 
@@ -118,7 +118,7 @@ Enviada desde el puerto de El Triunfo a los Estado Unidos de América el 26 de m
 
 ![Scott No. 183](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image28.webp)
 
-![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image29.webp)
+![Scott No. 183](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image29.webp)
 
 ![Scott No. O139](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image30.webp)
 
@@ -126,7 +126,7 @@ Entero de 2 cts. con complemento de 1 ct. para ajustar el porte correcto exterio
 
 ![Entero de 13 cts. despachado desde Santa Ana a Londres, vía Panamá y Nueva York, el 15 de febrero de 1898.](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image31.webp)
 
-![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image32.webp)
+![Entero de 13 cts. despachado desde Santa Ana a Londres, vía Panamá y Nueva York, el 15 de febrero de 1898.](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image32.webp)
 
 En el aspecto fiscal, se emitieron timbres municipales de varios valores.
 
@@ -134,7 +134,7 @@ En el aspecto fiscal, se emitieron timbres municipales de varios valores.
 
 ![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image34.webp)
 
-![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image35.webp)
+![Timbres municipales de 25, 50 y 100 pesos emitidos en 1898.](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image35.webp)
 
 Congruente con la política unificadora, Nicaragua emitió en 1898 una serie de 11 sellos ordinarios de 1, 2, 4, 5, 10, 15, 20, 50 cts. y 1, 2y5 pesos (Scott 99–109), de los cuales se contramarcó una parte para uso oficial (Scott O118-128). Al igual que El Salvador, también ambas emisiones fueron reimpresas posteriormente usando papel de distinto grosor con y sin marca de agua.
 

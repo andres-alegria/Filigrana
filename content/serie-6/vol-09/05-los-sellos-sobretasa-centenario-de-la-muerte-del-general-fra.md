@@ -213,11 +213,11 @@ Sobre de primer día del primer sello de la Cruz Roja Hondureña.
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image32.webp)
+![Bloquecito de pruebas de la sobretasa morazánica Honduras Scott RA2.](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image32.webp)
 
-![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image33.webp)
+![Sobre de primer día de circulación el 1 de agosto de 1941](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image33.webp)
 
-![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image34.webp)
+![Sobre circulado el 1 de diciembre de 1944 haciendo uso extemporáneo de la sobretasa “Centenario de la muerte del General Francisco Morazán”.](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image34.webp)
 
 ![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image35.webp)
 
@@ -233,4 +233,4 @@ Sobre de primer día del primer sello de la Cruz Roja Hondureña.
 
 ![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image41.webp)
 
-![](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image42.webp)
+![Sobre de primer día del primer sello de la Cruz Roja Hondureña.](/img/serie-6/vol-09/05-los-sellos-sobretasa-centenario-de-la-muerte-del-general-fra/image42.webp)

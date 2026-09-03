@@ -309,11 +309,11 @@ ENTRADA GRATIS
 
 ![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image2.webp)
 
-![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image3.webp)
+![Jeffs cabalgando por Honduras.](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image3.webp)
 
-![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image4.webp)
+![Jeffs en sus últimos años.](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image4.webp)
 
-![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image5.webp)
+![Carta comercial enviada desde Puerto Cortés el 4 de noviembre de 1887 por la empresa De Leon y Alger, que también actuaba como agente de la Royal Mail Steamship Co.](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image5.webp)
 
 ![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image6.webp)
 
@@ -321,11 +321,11 @@ ENTRADA GRATIS
 
 ![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image8.webp)
 
-![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image9.webp)
+![Puente sobre el río Moramulca, conectando parte de la carretera del Sur.](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image9.webp)
 
-![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image10.webp)
+![Primer segmento Tegucigalpa-Sabanagrande en la Carretera del Sur.](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image10.webp)
 
-![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image11.webp)
+![Típica diligencia con un tiro de cuatro caballos, con capacidad para seis personas en el interior y dos en el pescante.](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image11.webp)
 
 ![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image12.webp)
 
@@ -333,15 +333,15 @@ ENTRADA GRATIS
 
 ![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image14.webp)
 
-![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image15.webp)
+![Reverso del único sobre hoy conocido enviado de La Venta hacia](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image15.webp)
 
-![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image16.webp)
+![Parte frontal donde se lee: “Correspondencia dirigida por el de La Venta”.](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image16.webp)
 
 ![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image17.webp)
 
 ![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image18.webp)
 
-![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image19.webp)
+![Don Julio Villars en Tegucigalpa en 1905.](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image19.webp)
 
-![](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image20.webp)
+![Anuncio de transporte motorizado publicado en Tegucigalpa en 1905.](/img/serie-7/vol-11/02-una-diligencia-al-servicio-del-correo/image20.webp)
 

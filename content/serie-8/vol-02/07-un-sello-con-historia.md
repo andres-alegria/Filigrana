@@ -35,4 +35,4 @@ Tropas revolucionarias en San Pedro Sula a punto de partir, acompañadas de su b
 
 ![](/img/serie-8/vol-02/07-un-sello-con-historia/image75.webp)
 
-![](/img/serie-8/vol-02/07-un-sello-con-historia/image76.webp)
+![Tropas revolucionarias en San Pedro Sula a punto de partir, acompañadas de su botín en cajas y sacos, de seguro algunos conteniendo sellos postales.](/img/serie-8/vol-02/07-un-sello-con-historia/image76.webp)

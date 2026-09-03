@@ -115,18 +115,18 @@ Pero el más notorio de estos fugitivos fue el mayor Edward A. Burke, quien en 1
 
 ![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image2.webp)
 
-![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image3.webp)
+![Bono estatal de Nueva Orleans de 1895 firmado por E. A. Burke](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image3.webp)
 
 ![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image4.webp)
 
-![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image5.webp)
+![Edificio de la Lotería de Louisiana en Puerto Cortés mostrado en una tarjeta postal impresa en Honduras y enviada de Tegucigalpa a California el 22 de julio de 1909.](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image5.webp)
 
 ![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image6.webp)
 
-![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image7.webp)
+![Carta despachada el 11 de septiembre de 1896 desde Nueva York a Tegucigalpa, dirigida al mayor Burke, quien para entonces tenía ya tres años de residir en el país.](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image7.webp)
 
-![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image8.webp)
+![Número de 0.25 cts. de la “Honduras National Lottery Company” para e1 sorteo del 5 de abril de 1905. Su tamaño original era de 1x6 pulgadas.](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image8.webp)
 
-![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image9.webp)
+![Carta enviada en el vapor Breakwater por el coronel Charles Jeffs a su madre, desde Puerto Cortés a Grand Rapids, Michigan, vía Nueva Orleans el 14 de noviembre de 1894.](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image9.webp)
 
 ![](/img/serie-6/vol-09/02-la-controversial-presencia-de-edward-a-burke-en-honduras-y-s/image10.webp)

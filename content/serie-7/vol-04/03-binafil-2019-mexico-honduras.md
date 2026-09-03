@@ -129,17 +129,17 @@ EL
 
 ![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image41.webp)
 
-![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image42.webp)
+![Llegada al aeropuerto de Querétaro](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image42.webp)
 
-![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image43.webp)
+![Montaje de los marcos](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image43.webp)
 
-![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image44.webp)
+![Actos de inauguración.](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image44.webp)
 
-![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image45.webp)
+![Cena de Palmares](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image45.webp)
 
 ![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image46.webp)
 
-![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image47.webp)
+![Premios especiales](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image47.webp)
 
-![](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image48.webp)
+![Entrega de premios en Tegucigalpa.](/img/serie-7/vol-04/03-binafil-2019-mexico-honduras/image48.webp)
 

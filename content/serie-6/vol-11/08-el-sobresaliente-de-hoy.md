@@ -39,6 +39,6 @@ El sobre que presentamos a continuación tiene la rareza de haber sido cancelado
 
 ![](/img/serie-6/vol-11/08-el-sobresaliente-de-hoy/image31.webp)
 
-![](/img/serie-6/vol-11/08-el-sobresaliente-de-hoy/image32.webp)
+![(Colección de Nikolai Peronius)](/img/serie-6/vol-11/08-el-sobresaliente-de-hoy/image32.webp)
 
 ![](/img/serie-6/vol-11/08-el-sobresaliente-de-hoy/image33.webp)

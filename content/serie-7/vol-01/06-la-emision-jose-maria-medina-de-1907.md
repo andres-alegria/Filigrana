@@ -127,6 +127,6 @@ Bibliografía: Johnson, Kathryn J. Colección “A Traditional Exibit of the Gua
 
 ![](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image40.webp)
 
-![](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image41.webp)
+![Circulado de La Ceiba a Alemania el 31 de diciembre de 1910, con porte de 15 cts. (10 cts. atrás) en el último día de su vigencia.](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image41.webp)
 
-![](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image42.webp)
+![Paquebote Puerto Cortés a USA el 26 de septiembre 1919, fecha más tardía conocida de su uso. Esto debido a que los agentes (pursers) en los barcos usaban los sellos hasta agotarlos, ajenos a su caducidad.](/img/serie-7/vol-01/06-la-emision-jose-maria-medina-de-1907/image42.webp)

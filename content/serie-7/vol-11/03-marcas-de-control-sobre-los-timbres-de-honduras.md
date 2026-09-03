@@ -64,7 +64,7 @@ La efímera República Mayor de Centro América dio lugar a que por segunda vez 
 
 ![Fragmento de un telegrama de origen, despachado desde](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image26.webp)
 
-![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image27.webp)
+![Fragmento de un telegrama de origen, despachado desde](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image27.webp)
 
 Amapala como “URGENTE, No. 2”, redactado en papel corriente.
 

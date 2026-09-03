@@ -99,9 +99,9 @@ Si hubiese algo rescatable del nefasto episodio de Durón Membreño, sería la p
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image17.webp)
+![Tarjeta postal usada por Durón Membreño para promocionar su negocio.](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image17.webp)
 
-![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image18.webp)
+![Sobre circulado de Tegucigalpa a Cuba el 3 de marzo de 1934, conteniendo en su franqueo (señalado al centro) un sello “Taca” con “1932” invertido.](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image18.webp)
 
 ![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image19.webp)
 
@@ -119,11 +119,11 @@ Si hubiese algo rescatable del nefasto episodio de Durón Membreño, sería la p
 
 ![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image26.webp)
 
-![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image28.webp)
+![Desde muy temprano Durón Membreño estableció con el comerciante neoyorquino John Luff una estrecha relación de beneficio mutuo. Aquí tenemos un entero dirigido por él a Luff, con un sello del Dr. Vicente M. C.](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image28.webp)
 
 ![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image29.webp)
 
-![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image30.webp)
+![1932. Sobre con dos sellos de 10¢ con la contramarca T. S. de C. invertida, y uno de 6¢ con contramarca doble. En un intento por no degradar el sobre, el nombre del remitente, Raúl Durón Membreño, fue obliterado en negro.](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image30.webp)
 
 ![](/img/serie-8/vol-03/04-dr-raul-duron-membreno-un-personaje-controvertido/image31.webp)
 

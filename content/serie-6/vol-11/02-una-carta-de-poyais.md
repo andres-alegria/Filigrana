@@ -283,20 +283,20 @@ HUMOR FILATÉLICO
 
 ![](/img/serie-6/vol-11/02-una-carta-de-poyais/image5.webp)
 
-![](/img/serie-6/vol-11/02-una-carta-de-poyais/image6.webp)
+![Mapa ubicando Poyais en la costa atlántica de Honduras.](/img/serie-6/vol-11/02-una-carta-de-poyais/image6.webp)
 
-![](/img/serie-6/vol-11/02-una-carta-de-poyais/image7.webp)
+![Portada de un certificado poyero por la concesión de 250 acres.](/img/serie-6/vol-11/02-una-carta-de-poyais/image7.webp)
 
 ![](/img/serie-6/vol-11/02-una-carta-de-poyais/image8.webp)
 
 ![](/img/serie-6/vol-11/02-una-carta-de-poyais/image9.webp)
 
-![](/img/serie-6/vol-11/02-una-carta-de-poyais/image10.webp)
+![Un dólar de Poyais](/img/serie-6/vol-11/02-una-carta-de-poyais/image10.webp)
 
-![](/img/serie-6/vol-11/02-una-carta-de-poyais/image11.webp)
+![Rey Fernando VII](/img/serie-6/vol-11/02-una-carta-de-poyais/image11.webp)
 
 ![](/img/serie-6/vol-11/02-una-carta-de-poyais/image12.webp)
 
-![](/img/serie-6/vol-11/02-una-carta-de-poyais/image13.webp)
+![(Colección de Sergio Bendeck)](/img/serie-6/vol-11/02-una-carta-de-poyais/image13.webp)
 
 ![](/img/serie-6/vol-11/02-una-carta-de-poyais/image14.webp)

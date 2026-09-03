@@ -117,11 +117,11 @@ Skinner, Hubert y Eno, Amos: *United States Cancellations 1845-1869*. USA.
 
 ![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image8.webp)
 
-![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image9.webp)
+![Paquebote con la particularidad que procede del interior de Honduras, San Juancito, cerca de Tegucigalpa. Recibido en Mobile el 1 de marzo de 1915, cancelado de manera limpia y bastante definida con un matasello de fantasía de 24 segmentos.](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image9.webp)
 
 ![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image10.webp)
 
-![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image11.webp)
+![Sellos con marca cuarteada de llegada a Mobile el 5 de junio de 1907.](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image11.webp)
 
 ![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image12.webp)
 
@@ -129,19 +129,19 @@ Skinner, Hubert y Eno, Amos: *United States Cancellations 1845-1869*. USA.
 
 ![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image15.webp)
 
-![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image16.webp)
+![Marca de 8 aristas, con llegada a Mobile en 1907.](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image16.webp)
 
-![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image17.webp)
+![25 diciembre 1907, marca anterior con señales de deterioro incipiente.](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image17.webp)
 
-![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image18.webp)
+![Con marca de llegada a Mobile el 13 de noviembre de 1913.](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image18.webp)
 
 ![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image19.webp)
 
-![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image20.webp)
+![Con marca de llegada a Mobile el 29 de abril de 1911.](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image20.webp)
 
-![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image21.webp)
+![Marca circular bastante deteriorada aplicada en agosto de 1910.](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image21.webp)
 
-![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image22.webp)
+![1927. De Tela a Canadá. Este es el uso más tardío conocido de las marcas de fantasía aplicadas en el puerto de Mobile.](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image22.webp)
 
 ![](/img/serie-7/vol-05/02-correo-paquebote-de-honduras-con-matasellos-de-fantasia-nort/image23.webp)
 

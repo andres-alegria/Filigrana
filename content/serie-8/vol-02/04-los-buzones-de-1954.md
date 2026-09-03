@@ -327,9 +327,9 @@ Sábado 25 de enero de 1969. De Santa Fe (depositada en Trujillo) a EUA.
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-8/vol-02/04-los-buzones-de-1954/image49.webp)
+![Dr. Raúl Agüero Vega](/img/serie-8/vol-02/04-los-buzones-de-1954/image49.webp)
 
-![](/img/serie-8/vol-02/04-los-buzones-de-1954/image50.webp)
+![Buzón No. 13 otrora ubicado en lo que fueron las oficinas del Tribunal Superior de Cuentas, costado Norte del Parque Central en Tegucigalpa.](/img/serie-8/vol-02/04-los-buzones-de-1954/image50.webp)
 
 ![](/img/serie-8/vol-02/04-los-buzones-de-1954/image51.webp)
 
@@ -349,18 +349,18 @@ Sábado 25 de enero de 1969. De Santa Fe (depositada en Trujillo) a EUA.
 
 ![](/img/serie-8/vol-02/04-los-buzones-de-1954/image59.webp)
 
-![](/img/serie-8/vol-02/04-los-buzones-de-1954/image60.webp)
+![Sábado 18 de abril 1959. Tegucigalpa (Hotel Boston, Bo. Abajo) a EUA.](/img/serie-8/vol-02/04-los-buzones-de-1954/image60.webp)
 
-![](/img/serie-8/vol-02/04-los-buzones-de-1954/image61.webp)
+![18 de agosto 1959. De Tegucigalpa (Hotel Savoy, Bo. La Ronda) a EUA.](/img/serie-8/vol-02/04-los-buzones-de-1954/image61.webp)
 
-![](/img/serie-8/vol-02/04-los-buzones-de-1954/image62.webp)
+![12 de septiembre 1964. Tegucigalpa (Banco Central, Bo. El Centro) a EUA.](/img/serie-8/vol-02/04-los-buzones-de-1954/image62.webp)
 
-![](/img/serie-8/vol-02/04-los-buzones-de-1954/image63.webp)
+![13 de octubre 1955. De La Ceiba (Hospital D´Antoni, Av. Morazán) a EUA.](/img/serie-8/vol-02/04-los-buzones-de-1954/image63.webp)
 
-![](/img/serie-8/vol-02/04-los-buzones-de-1954/image64.webp)
+![28 de junio de 1956. De Tela (Bo. El Centro) a los EUA.](/img/serie-8/vol-02/04-los-buzones-de-1954/image64.webp)
 
-![](/img/serie-8/vol-02/04-los-buzones-de-1954/image65.webp)
+![19 de septiembre de 1958. De Juticalpa (Iglesia Evangélica) a los EUA.](/img/serie-8/vol-02/04-los-buzones-de-1954/image65.webp)
 
-![](/img/serie-8/vol-02/04-los-buzones-de-1954/image66.webp)
+![6 de septiembre de 1956. De Comayagua a San Pedro Sula.](/img/serie-8/vol-02/04-los-buzones-de-1954/image66.webp)
 
-![](/img/serie-8/vol-02/04-los-buzones-de-1954/image67.webp)
+![Sábado 25 de enero de 1969. De Santa Fe (depositada en Trujillo) a EUA.](/img/serie-8/vol-02/04-los-buzones-de-1954/image67.webp)

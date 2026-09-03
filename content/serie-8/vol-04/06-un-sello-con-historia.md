@@ -35,4 +35,4 @@ república León Cortés Castro (1936-1940).
 
 ![](/img/serie-8/vol-04/06-un-sello-con-historia/image65.webp)
 
-![](/img/serie-8/vol-04/06-un-sello-con-historia/image66.webp)
+![Ubicación geográfica de](/img/serie-8/vol-04/06-un-sello-con-historia/image66.webp)

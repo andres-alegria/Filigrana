@@ -95,12 +95,12 @@ DR. ÁNGEL RAÚL DURÓN MEMBREÑO,
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image12.webp)
+![Francisco Morazán Moncada](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image12.webp)
 
-![](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image13.webp)
+![Entero postal enviado desde Chinandega a Corinto el 5 de abril de1897.](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image13.webp)
 
-![](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image14.webp)
+![Reverso del entero postal firmado “F. Morazán”.](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image14.webp)
 
 ![](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image15.webp)
 
-![](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image16.webp)
+![Acuerdo Gubernamental del 26 de marzo de 1878.](/img/serie-8/vol-03/03-emerge-tarjeta-postal-de-1897-enviada-por-un-hijo-del-genera/image16.webp)

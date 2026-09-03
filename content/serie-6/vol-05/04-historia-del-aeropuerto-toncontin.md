@@ -121,17 +121,17 @@ FRENTE AL PARQUE LA LIBERTAD, COMAYAGUELA M. D. C.
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image20.webp)
+![El Bristol en Toncontín](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image20.webp)
 
-![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image21.webp)
+![El Espíritu de San Luis aterrizando en Toncontín](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image21.webp)
 
-![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image22.webp)
+![Terminal de TACA en Toncontín 1934](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image22.webp)
 
-![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image23.webp)
+![Terminal aérea de Toncontín 1948](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image23.webp)
 
-![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image24.webp)
+![El Super Constellation de PAA](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image24.webp)
 
-![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image25.webp)
+![Corsario de la FAH](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image25.webp)
 
-![](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image26.webp)
+![Douglas C-47 de la FAH](/img/serie-6/vol-05/04-historia-del-aeropuerto-toncontin/image26.webp)
 

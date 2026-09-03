@@ -81,7 +81,7 @@ Martínez Castillo, Mario Felipe. *Los Últimos Días de Lempira*. Editorial Uni
 
 ![](/img/serie-7/vol-06/08-un-sello-con-historia/image35.webp)
 
-![](/img/serie-7/vol-06/08-un-sello-con-historia/image36.webp)
+![Parte de la probanza de méritos donde se menciona al cacique Lempira.](/img/serie-7/vol-06/08-un-sello-con-historia/image36.webp)
 
 ![](/img/serie-7/vol-06/08-un-sello-con-historia/image37.webp)
 

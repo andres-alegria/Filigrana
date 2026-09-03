@@ -75,7 +75,7 @@ Aunque no se sabe la resolución final sobre esta petición ni tampoco contamos 
 
 ![](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image39.webp)
 
-![](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image40.webp)
+![Entero telegráfico de 2 reales mostrando en la parte inferior los dos sellos de control del Tribunal Superior de Cuentas.](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image40.webp)
 
 ![](/img/serie-8/vol-03/07-surgimiento-de-los-enteros-telegraficos-de-15-y-20-centavos/image41.webp)
 

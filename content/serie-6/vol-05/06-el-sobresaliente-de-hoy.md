@@ -65,8 +65,8 @@ NUESTRA MÁS CORDIAL BIENVENIDA
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-6/vol-05/06-el-sobresaliente-de-hoy/image31.webp)
+![Casas y caminos de madera en Pilottown, 1938](/img/serie-6/vol-05/06-el-sobresaliente-de-hoy/image31.webp)
 
 ![](/img/serie-6/vol-05/06-el-sobresaliente-de-hoy/image32.webp)
 
-![](/img/serie-6/vol-05/06-el-sobresaliente-de-hoy/image33.webp)
+![Un Bote Volador Curtis MF en Pilottown](/img/serie-6/vol-05/06-el-sobresaliente-de-hoy/image33.webp)

@@ -183,6 +183,6 @@ Hoja completa mostrando la ubicación del bloque anterior. Entre paréntesis se 
 
 ![](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image9.webp)
 
-![](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image10.webp)
+![Movido hacia arriba Normal](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image10.webp)
 
 ![](/img/serie-8/vol-03/02-variedades-en-la-emision-de-celeo-arias/image11.webp)

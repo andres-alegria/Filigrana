@@ -89,9 +89,9 @@ Loading...
 
 ![](/img/serie-7/vol-02/06-el-sobresaliente-de-hoy/image36.webp)
 
-![](/img/serie-7/vol-02/06-el-sobresaliente-de-hoy/image38.webp)
+![Parte del territorio hondureño insular en el Mar Caribe.](/img/serie-7/vol-02/06-el-sobresaliente-de-hoy/image38.webp)
 
-![](/img/serie-7/vol-02/06-el-sobresaliente-de-hoy/image39.webp)
+![Vista panorámica de Cayo Vivorillos](/img/serie-7/vol-02/06-el-sobresaliente-de-hoy/image39.webp)
 
 ![](/img/serie-7/vol-02/06-el-sobresaliente-de-hoy/image40.webp)
 

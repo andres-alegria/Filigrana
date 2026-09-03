@@ -130,7 +130,7 @@ El ejemplar de censura alemana que a continuación se presenta, se caracteriza p
 
 ![9 de enero de 1941. Abierto por la censura inglesa desde su origen en Canadá, previo a continuar hacia Tegucigalpa, San Pedro Sula y La Lima.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image9.webp)
 
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image10.webp)
+![9 de enero de 1941. Abierto por la censura inglesa desde su origen en Canadá, previo a continuar hacia Tegucigalpa, San Pedro Sula y La Lima.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image10.webp)
 
 ![Está claro que desde el comienzo de la guerra, la correspondencia hondureña, al igual que el resto, fue sometida a censura bajo la operatividad establecida allende sus fronteras. Sin embargo, a medida que el sistema se fue afianzando, cada país aliado fue asumiendo este papel de manera individual, capacitando e incorporando en alguna medida a personal civil nacional, siempre bajo observación norteamericana.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image11.webp)
 
@@ -140,7 +140,7 @@ El ejemplar de censura alemana que a continuación se presenta, se caracteriza p
 
 ![27 de enero de 1942. El sobre más temprano conocido de Honduras hacia el exterior. Examinado a su paso por Nueva York (5505), así como a su llegada a Londres (5399) por el “Postal Censor 90”.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image14.webp)
 
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image15.webp)
+![27 de enero de 1942. El sobre más temprano conocido de Honduras hacia](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image15.webp)
 
 El personal de la Oficina de Censura norteamericana aumentó a 14,462 personas en febrero de 1943 en las oficinas que se habían abierto en las ciudades de Nueva York, Miami, Nueva Orleans, San Antonio, Laredo, Brownsville, El Paso, Nogales, Los Ángeles, San Francisco, Seattle, Chicago, San Juan, Charlotte Amalie, Balboa, Cristóbal, David, Panamá, Honolulú, Pago Pago y Washington D.C.
 
@@ -420,7 +420,7 @@ La evidencia postal de la censura más temprana encontrada hasta ahora en Hondur
 
 ![6.7x2.6 cm en papel dentado.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image31.webp)
 
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image32.webp)
+![6.7x2.6 cm en papel dentado.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image32.webp)
 
 ![Además de las características que ya distinguen al sobre anterior, también se ve gratificado con la rara marca “V”, estampada en color violeta en su ciudad de origen Olanchito, esto último, deducido en base a la comparación del color de la tinta con las demás marcas de salida.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image33.webp)
 
@@ -432,7 +432,7 @@ La evidencia postal de la censura más temprana encontrada hasta ahora en Hondur
 
 ![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image37.webp)
 
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image38.webp)
+![4 de abril de 1944. Con cierre transparente colocado en Nueva York (50185) y cierre de papel dentado (6.7x2.6 cm) colocado en Honduras.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image38.webp)
 
 ![24 de agosto de 1944. Doble censura. Cierre de papel blanco sin dentar hondureño y cierre de cinta (2012) transparente aplicado en Nueva Orleans.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image39.webp)
 
@@ -444,7 +444,7 @@ En un inicio las etiquetas de cierre eran marcadas a mano en tiras de papel, par
 
 ![28 de junio de 1945. De Tegucigalpa a Costa Rica, con banda de papel sin dentar. Última fecha conocida de un despacho censurado hacia el exterior.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image42.webp)
 
-![](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image43.webp)
+![28 de junio de 1945. De Tegucigalpa a Costa Rica, con banda de papel sin dentar. Última fecha conocida de un despacho censurado hacia el exterior.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image43.webp)
 
 ![Esta pieza con fecha del 7 de agosto de 1945, es la única pieza censurada conocida circulada localmente; además de esto, muestra la fecha de despacho más tardía. Fue enviada de Danlí a Tegucigalpa, cerrada con banda de papel sin dentar. (Aunque la guerra ya había finalizado en Europa el 7 de mayo, ésta aún continuaba contra el imperio japonés. El día anterior a la fecha de esta carta, ya había caído la bomba atómica sobre Hiroshima).](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image44.webp)
 

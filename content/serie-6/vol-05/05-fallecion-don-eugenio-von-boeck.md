@@ -35,5 +35,5 @@ EL
 
 ![](/img/serie-6/vol-05/05-fallecion-don-eugenio-von-boeck/image28.webp)
 
-![](/img/serie-6/vol-05/05-fallecion-don-eugenio-von-boeck/image29.webp)
+![El autor y el Jurado Von Boeck durante el palmares de EXFILHON 88](/img/serie-6/vol-05/05-fallecion-don-eugenio-von-boeck/image29.webp)
 

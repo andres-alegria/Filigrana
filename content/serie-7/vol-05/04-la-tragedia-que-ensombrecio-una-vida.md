@@ -301,23 +301,23 @@ Un agradecimiento muy especial a mi amigo el poeta/historiador José González P
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image26.webp)
+![Consulado británico en Omoa en 1873.](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image26.webp)
 
-![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image27.webp)
+![El Niobe atacando Omoa](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image27.webp)
 
 ![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image28.webp)
 
 ![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image29.webp)
 
-![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image30.webp)
+![Sello de la minera Zurcher & Streber](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image30.webp)
 
-![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image31.webp)
+![Firma del general Streber](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image31.webp)
 
-![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image32.webp)
+![El general Streber en el apogeo de su vida](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image32.webp)
 
 ![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image33.webp)
 
-![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image35.webp)
+![Sobre circulado de Tegucigalpa a Yuscarán el 1 de junio de 1897.](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image35.webp)
 
 ![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image36.webp)
 
@@ -325,9 +325,9 @@ Un agradecimiento muy especial a mi amigo el poeta/historiador José González P
 
 ![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image38.webp)
 
-![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image39.webp)
+![Carta dirigida desde Tegucigalpa a Fernando Ricardo](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image39.webp)
 
-![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image40.webp)
+![Carta despachada de Tegucigalpa a Nueva York el 2 de](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image40.webp)
 
 ![](/img/serie-7/vol-05/04-la-tragedia-que-ensombrecio-una-vida/image41.webp)
 

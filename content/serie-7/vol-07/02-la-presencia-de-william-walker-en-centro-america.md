@@ -21,7 +21,7 @@ review: []
 
 # La presencia de William Walker en Centro América
 
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image2.webp)
+![“El cumplimiento de nuestro destino manifiesto es extendernos por todo el continente que nos ha sido asignado por la Providencia, para el desarrollo del gran experimento de libertad y autogobierno”.](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image2.webp)
 Desde nuestros años de secundaria empezamos a escuchar acerca de la historia de William Walker tratando de conquistar el territorio centroamericano con propósitos anexionistas a la Federación Norteamericana. En menor o mayor detalle se conocía de la generalidad de esta aventura que se aprovechaba de la pobreza y permanentes conflictos internos de las cinco repúblicas; sin embargo, al tener hoy en día acceso a los archivos digitales de la Biblioteca Latinoamericana de Tulane (LAL) y tener la oportunidad de leer las cartas cruzadas entre los varios protagonistas, se aclaran aún más las circunstancias que vivieron ambos bandos en el desarrollo de este conflicto. Como es de esperarse, el aspecto filatélico epistolar de este artículo será el hilo conductor que saque a luz una gama de detalles y situaciones que hasta el presente ha permanecido para muchos desconocida.
 
 Los norteamericanos de los 1850s habían conquistado ya un continente y ansiaban conquistar otras tierras. El aislamiento en que se criaron no les engendró ese respeto por las fronteras, cosa que no hubiese sucedido de haber tenido vecinos igualmente fuertes; pues durante medio siglo se estuvieron apoderando a como diera lugar de tierras inmediatas a las suyas. California les quedó como botín de guerra, compraron Luisiana, Texas y el Oeste de Florida, además de arrebatarle a México más de la mitad de su territorio. La división moral entre el pillaje público y el privado de una parte del territorio de una nación más débil era apenas una idea tenue.
@@ -104,7 +104,7 @@ El 11 de abril de 1856 se da la segunda batalla de Rivas en la cual los filibust
 
 ![Ramón Belloso Juan Santamaría](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image9.webp)
 
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image10.webp)
+![Ramón Belloso Juan Santamaría](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image10.webp)
 
 El desaliento común empujó a muchos oficiales de Walker a la bebida y la francachela menoscabando la disciplina en general. Entre los disolutos se contaba Norvell Walker, capitán y hermano de Walker, a quien lo degradó a soldado raso. El castigo produjo buen efecto.
 
@@ -168,7 +168,7 @@ A principios de febrero ancló en San Juan del Sur la corbeta USS Saint Mary al 
 
 ![Capitán Charles H. Davis USS Saint Mary](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image18.webp)
 
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image19.webp)
+![Capitán Charles H. Davis USS Saint Mary](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image19.webp)
 
 El 28 de abril Walker visitó a lo tropa en sus cuarteles. Les habló asegurándoles haber recibido noticias que de un momento a otro llegarían nuevas tropas. Se sabía que ese día Walker había recibido correspondencia, lo que dio a los hombres esperanzas de que lo dicho por él fuese cierto. Sin embargo, nada ocurrió, hasta el anochecer del 30 en que un ayudante de campo del general Mora llevó a Walker una carta del capitán Davis. Este, viendo que la situación de Walker era insostenible, se presentaba en carácter de mediador entre filibusteros y centroamericanos con miras a poner fin al conflicto llevándose del país a los primeros.
 
@@ -196,7 +196,7 @@ El *USS Saratoga* condujo 139 de los invasores a los Estados Unidos y el USS Wab
 
 ![Comodoro H. Paulding](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image21.webp)
 
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image22.webp)
+![Comodoro H. Paulding](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image22.webp)
 
 USS Wabash
 
@@ -250,7 +250,7 @@ El 19 de agosto entró al puerto la fragata británica HMS Icarus al mando del c
 
 ![Capitán Nowell Salmon HMS Icarus](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image31.webp)
 
-![](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image32.webp)
+![Capitán Nowell Salmon HMS Icarus](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image32.webp)
 
 Haciendo caso omiso a la petición de Nowell, la falange abandonó la fortaleza persistiendo en la fantasía de unirse a Cabañas. Mientras tanto las tropas hondureñas habían iniciado la persecución. El 23 les dieron alcance atacándolos en el sitio conocido como La Ceibita. Los hondureños fueron rechazados, pero Walker tuvo un muerto y varios heridos, sufriendo él mismo una herida en la cara. Siempre huyendo y perseguidos llegaron a un abandonado campamento de corte de caoba en donde los indios caribes les suministraron provisiones. Llegados al Río Negro siguieron por sus orillas hasta unos nueve kilómetros de su boca. Allí descansaron en otro campamento.
 

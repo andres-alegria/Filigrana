@@ -43,7 +43,7 @@ Claudia Fúnez de American A.
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-03/03-primer-vuelo-de-american-airlines-de-tegucigalpa-a-dallas/image40.webp)
+![Imagen 1. Airbus A319 en Toncontín. (Cortesía de American Airlines).](/img/serie-7/vol-03/03-primer-vuelo-de-american-airlines-de-tegucigalpa-a-dallas/image40.webp)
 
 ![](/img/serie-7/vol-03/03-primer-vuelo-de-american-airlines-de-tegucigalpa-a-dallas/image41.webp)
 

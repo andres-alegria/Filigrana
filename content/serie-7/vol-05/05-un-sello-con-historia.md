@@ -179,17 +179,17 @@ EL
 
 ![](/img/serie-7/vol-05/05-un-sello-con-historia/image44.webp)
 
-![](/img/serie-7/vol-05/05-un-sello-con-historia/image45.webp)
+![El Bristol a su llegada al campo de aterrizaje Toncontín en Tegucigalpa.](/img/serie-7/vol-05/05-un-sello-con-historia/image45.webp)
 
 ![](/img/serie-7/vol-05/05-un-sello-con-historia/image46.webp)
 
-![](/img/serie-7/vol-05/05-un-sello-con-historia/image47.webp)
+![El Bristol tras accidentarse en El Salvador.](/img/serie-7/vol-05/05-un-sello-con-historia/image47.webp)
 
-![](/img/serie-7/vol-05/05-un-sello-con-historia/image48.webp)
+![Aeroplano Christofferson Pusher similar al que voló Lamb.](/img/serie-7/vol-05/05-un-sello-con-historia/image48.webp)
 
 ![](/img/serie-7/vol-05/05-un-sello-con-historia/image50.webp)
 
 ![](/img/serie-7/vol-05/05-un-sello-con-historia/image51.webp)
 
-![](/img/serie-7/vol-05/05-un-sello-con-historia/image53.webp)
+![El mayor Lamb al momento de comparecer ante la Corte.](/img/serie-7/vol-05/05-un-sello-con-historia/image53.webp)
 

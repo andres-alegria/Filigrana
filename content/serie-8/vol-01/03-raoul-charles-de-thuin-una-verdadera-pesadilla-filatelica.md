@@ -172,7 +172,7 @@ Como muestra, seguidamente presentamos uno de los membretes espurios, el HO 125-
 
 ![Membrete falso clasificado por la APS como HO 125-C](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image32.webp)
 
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image33.webp)
+![Membrete falso clasificado por la APS como HO 125-C](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image33.webp)
 
 Además de Centro América, de Thuin se especializó de igual manera en contramarcas de Sudamérica y México, convirtiendo así sellos comunes en rarezas. También copió ilustraciones que había visto en revistas, repitiendo a veces los errores del ilustrador original cuando no tenía un ejemplar original como modelo. Por otro lado, él ponía especial empeño en producir piezas históricas que ya no tenían validez para ser utilizadas en el correo ordinario. Los comerciantes y coleccionistas de sellos recuerdan que en su momento de máxima actividad, residiendo en México desde donde operó por 26 años, de Thuin solía viajar con un laboratorio ambulante distribuido en tres maletas de enormes dimensiones.
 
@@ -190,7 +190,7 @@ El pináculo de su carrea se dio entre 1958 y 1964, pues ya para 1965 los efecto
 
 La agonía de su pernicioso emprendimiento se desprende de la correspondencia circulada en esta última etapa, entre la cual figura la siguiente carta de 1973 relacionada con la oferta de ejemplares falsos hondureños a un coleccionista. (Debido a que no era su lengua natal, la gramática de su inglés es bastante defectuosa, por lo que al traducirla nos hemos apegado lo más posible a la redacción original):
 
-![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image34.webp)
+![Raoul de Thuin Nov. 23th-73](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image34.webp)
 
 > Raoul de Thuin Nov. 23th-73
 >

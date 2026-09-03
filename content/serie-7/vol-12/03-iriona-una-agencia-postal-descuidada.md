@@ -83,7 +83,7 @@ Entero de 3 cts. circulado el 7 de marzo de 1904 cuando esta emisión de La Loco
 
 ![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image67.webp)
 
-![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image68.webp)
+![Carta del coronel Burchard, de Iriona a Trujillo el 28 de julio de 1895, porteada con 5 ct., o sea con deficiencia de 1 ct. de la tarifa interna de 6 ct.](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image68.webp)
 
 ![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image69.webp)
 
@@ -95,10 +95,10 @@ Entero de 3 cts. circulado el 7 de marzo de 1904 cuando esta emisión de La Loco
 
 ![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image73.webp)
 
-![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image74.webp)
+![Para Alemania, agosto 6, 1895 con porte de 5 cts., la mitad del requerido.](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image74.webp)
 
-![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image75.webp)
+![Los efectos de la lejanía son claros en este entero enviado el 17 septiembre de 1898 cuando esta emisión ya había caducado el 1 de agosto anterior.](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image75.webp)
 
-![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image76.webp)
+![Entero postal de 2 cts. despachado para Alemania el 23 de octubre de 1900, 1 ct. corto de la tarifa exterior vigente de 3 cts.](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image76.webp)
 
-![](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image77.webp)
+![Entero de 3 cts. circulado el 7 de marzo de 1904 cuando esta emisión de La Locomotora ya había caducado hacía más de un año, el 1 de enero 1903.](/img/serie-7/vol-12/03-iriona-una-agencia-postal-descuidada/image77.webp)

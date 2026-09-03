@@ -28,7 +28,7 @@ Cisne Grande tiene casi 3.2 kms. de longitud con una elevación máxima de 68 pi
 
 ![Emisiones Scott No. C679 y C1112 referentes a las Islas del Cisne. En la estampilla izquierda aparecen nombradas como Isla Grande e Isla Pequeña.](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image2.webp)
 
-![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image3.webp)
+![Emisiones Scott No. C679 y C1112 referentes a las Islas del Cisne. En la estampilla izquierda aparecen nombradas como Isla Grande e Isla Pequeña.](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image3.webp)
 
 ![Postal editada para fine s educativos en 1904 por el Gobierno del general Manuel Bonilla mostrando las Islas como “Cayos del Guano”](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image4.webp)
 
@@ -66,7 +66,7 @@ Dado que en las Islas del Cisne no existía oficina postal, en muchos casos, si 
 
 ![Tarjeta del radio aficionado John W. Collie estacionado en Swan Island en 1954, que aunque carece de marcas postales, si tiene un interesante sello administrativo como indicación de haber sido recibida en ese lugar.](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image9.webp)
 
-![](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image10.webp)
+![Tarjeta del radio aficionado John W. Collie estacionado en Swan Island en 1954, que aunque carece de marcas postales, si tiene un interesante sello administrativo como indicación de haber sido recibida en ese lugar.](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image10.webp)
 
 ![Sobre paquebote despachado a Illinois desde el buque USC & GS Explorer (United States Coast and Geodetic Survey Explorer) el 19 de marzo de 1960 a su paso por las Islas del Cisne, época en que todavía se encontraba bajo ocupación de los Estados Unidos. Este era un barco usado para exploraciones costeras y geodésicas.](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image11.webp)
 

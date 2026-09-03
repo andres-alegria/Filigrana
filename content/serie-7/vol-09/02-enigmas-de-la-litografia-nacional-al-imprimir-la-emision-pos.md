@@ -459,27 +459,27 @@ Sanso, Aro. (1997). *Policarpo Bonilla. Apuntes Biográficos*. Tegucigalpa, Hond
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image3.webp)
+![Dr. Policarpo Bonilla](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image3.webp)
 
-![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image4.webp)
+![Grl. Luis Bográn](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image4.webp)
 
-![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image5.webp)
+![Grl. Ponciano Leiva](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image5.webp)
 
 ![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image6.webp)
 
-![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image7.webp)
+![Entero simple de 2 centavos para uso interior. Primera impresión.](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image7.webp)
 
 ![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image8.webp)
 
 ![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image9.webp)
 
-![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image10.webp)
+![Indicia de la primera impresión indicia de la segunda impresión](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image10.webp)
 
 ![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image11.webp)
 
-![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image12.webp)
+![Reverso, cuyo texto expone el carácter filatélico del remitente.](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image12.webp)
 
-![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image13.webp)
+![Entero simple de 3 centavos para uso exterior. Primera impresión.](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image13.webp)
 
 ![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image14.webp)
 
@@ -487,7 +487,7 @@ Sanso, Aro. (1997). *Policarpo Bonilla. Apuntes Biográficos*. Tegucigalpa, Hond
 
 ![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image16.webp)
 
-![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image17.webp)
+![La Tipografía Nacional en la avenida Miguel de Cervantes.](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image17.webp)
 
 ![](/img/serie-7/vol-09/02-enigmas-de-la-litografia-nacional-al-imprimir-la-emision-pos/image18.webp)
 

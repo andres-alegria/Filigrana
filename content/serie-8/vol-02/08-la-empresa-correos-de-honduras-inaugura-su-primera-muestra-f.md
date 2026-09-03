@@ -29,4 +29,4 @@ La Lic. Alvarado posando junto a una parte de lo que fue su proyecto hecho reali
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-8/vol-02/08-la-empresa-correos-de-honduras-inaugura-su-primera-muestra-f/image77.webp)
+![La Lic. Alvarado posando junto a una parte](/img/serie-8/vol-02/08-la-empresa-correos-de-honduras-inaugura-su-primera-muestra-f/image77.webp)

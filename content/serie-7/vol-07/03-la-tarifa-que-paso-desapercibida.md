@@ -69,6 +69,6 @@ Washburn, Richard. *The Honduras Corner*. *The Oxcart*, No. 268, diciembre
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-07/03-la-tarifa-que-paso-desapercibida/image35.webp)
+![Figura 1. De Puerto Cortés para Alemania 22 de febrero de 1900.](/img/serie-7/vol-07/03-la-tarifa-que-paso-desapercibida/image35.webp)
 
-![](/img/serie-7/vol-07/03-la-tarifa-que-paso-desapercibida/image36.webp)
+![Figura 2. De Puerto Cortés para Alemania 28 de septiembre de 1898.](/img/serie-7/vol-07/03-la-tarifa-que-paso-desapercibida/image36.webp)

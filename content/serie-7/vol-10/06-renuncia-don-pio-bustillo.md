@@ -59,6 +59,6 @@ EL
 
 ![](/img/serie-7/vol-10/06-renuncia-don-pio-bustillo/image64.webp)
 
-![](/img/serie-7/vol-10/06-renuncia-don-pio-bustillo/image65.webp)
+![Señor Ministro General del](/img/serie-7/vol-10/06-renuncia-don-pio-bustillo/image65.webp)
 
 ![](/img/serie-7/vol-10/06-renuncia-don-pio-bustillo/image66.webp)

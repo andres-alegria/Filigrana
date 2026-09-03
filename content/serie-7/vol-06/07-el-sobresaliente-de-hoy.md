@@ -65,8 +65,8 @@ Harding Davis, Richard. Three Gringos in Venezuela and Central America. Harper &
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-06/07-el-sobresaliente-de-hoy/image31.webp)
+![Sobre con membrete de la Honduras Railroad Company*](/img/serie-7/vol-06/07-el-sobresaliente-de-hoy/image31.webp)
 
-![](/img/serie-7/vol-06/07-el-sobresaliente-de-hoy/image32.webp)
+![El coronel Jeffs viajando por Honduras.](/img/serie-7/vol-06/07-el-sobresaliente-de-hoy/image32.webp)
 
-![](/img/serie-7/vol-06/07-el-sobresaliente-de-hoy/image33.webp)
+![Henry, Richard y Lloyd posando frente a la locomotora](/img/serie-7/vol-06/07-el-sobresaliente-de-hoy/image33.webp)

@@ -53,4 +53,4 @@ Carta enviada en 1845 “con propio” de León, Nicaragua, a Comayagua, al “S
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-6/vol-11/03-hara-salir-con-propio/image15.webp)
+![Carta enviada en 1845 “con propio” de León, Nicaragua, a Comayagua, al “Sr. Francisco Ferrera General en Jefe del Estado de Honduras”.](/img/serie-6/vol-11/03-hara-salir-con-propio/image15.webp)

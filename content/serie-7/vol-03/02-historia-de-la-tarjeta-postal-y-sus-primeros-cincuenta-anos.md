@@ -255,7 +255,7 @@ San Pedro Sula
 
 ![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image2.webp)
 
-![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image3.webp)
+![Primera tarjeta postal navideña aparecida en 1843.](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image3.webp)
 
 ![](/img/serie-7/vol-03/02-historia-de-la-tarjeta-postal-y-sus-primeros-cincuenta-anos/image4.webp)
 

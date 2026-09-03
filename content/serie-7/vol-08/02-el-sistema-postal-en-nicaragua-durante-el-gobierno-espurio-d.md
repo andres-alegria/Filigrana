@@ -42,7 +42,7 @@ Nueva York–Filadelfia. Porte de 5 cts. a cobrar. Esta tarifa estuvo vigente de
 
 En 1849 había sólo una oficina postal en San Francisco. Al compás de la creciente inmigración, muchas otras oficinas abrieron en las ciudades principales y luego en los pueblos. Sin embargo, los mineros en la mayoría de los casos se encontraban dispersos en campos alejados del servicio postal al tiempo que se veían imposibilitados de alejarse de sus minas para recibir o enviar cartas. De esta manera fue que empresarios visionarios, individualmente o en sociedad, establecieron compañías de correo expreso para explotar este prometedor nicho comercial.
 
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image6.webp)
+![Nueva York–Filadelfia. Porte de 5 cts. a cobrar. Esta tarifa estuvo vigente del 1 de julio de 1851 hasta el 31 de marzo de 1855.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image6.webp)
 
 Las compañías de servicio expreso iniciaron en los Estados Unidos el 31 de agosto de 1852. Algunas de estas empresas californianas, apreciando las ventajas de una entrega más rápida de correspondencia, comenzaron a utilizar la nueva ruta por Nicaragua. La primera de estas fue la *Gregory's California and New York Express*.
 
@@ -60,7 +60,7 @@ Carta interna circulada en 1855 de León a La Virgen. Con porte franco.
 
 ![Ruta terrestre de León al puerto de La Virgen.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image9.webp)
 
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image10.webp)
+![Ruta terrestre de León al puerto de La Virgen.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image10.webp)
 
 En los Estados Unidos el prepago de la correspondencia se volvió obligatorio a partir del 1 de abril de 1855 con la siguiente tarifa y emisiones:
 
@@ -140,7 +140,7 @@ Luego, el Sierra Nevada zarpó de San Juan del Sur el 6 de febrero 1856, atraca
 
 ![31 de enero de 1856. San Francisco–Nueva York–Baltimore.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image25.webp)
 
-![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image26.webp)
+![31 de enero de 1856. San Francisco–Nueva York–Baltimore.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image26.webp)
 
 Al reverso se le estampó la marca ovalada en azul:
 

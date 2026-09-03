@@ -89,7 +89,7 @@ Como colofón, no está de más señalar que al examinar los sobres habría que 
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image31.webp)
+![Instalaciones de la Casa Kohncke frente a la playa en Amapala.](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image31.webp)
 
 ![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image32.webp)
 
@@ -109,7 +109,7 @@ Como colofón, no está de más señalar que al examinar los sobres habría que 
 
 ![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image40.webp)
 
-![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image41.webp)
+![Lingotes de oro/plata apilados en el muelle de Amapala.](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image41.webp)
 
 ![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image42.webp)
 
@@ -137,11 +137,11 @@ Como colofón, no está de más señalar que al examinar los sobres habría que 
 
 ![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image54.webp)
 
-![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image55.webp)
+![Salida de Amapala.](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image55.webp)
 
 ![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image56.webp)
 
-![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image57.webp)
+![Llegada a Nueva York.](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image57.webp)
 
 ![](/img/serie-7/vol-10/05-el-caso-excepcional-del-correo-encaminado-en-honduras/image58.webp)
 

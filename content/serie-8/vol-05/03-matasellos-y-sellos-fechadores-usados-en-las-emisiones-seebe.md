@@ -237,41 +237,41 @@ Si bien hemos tratado de que este estudio sea lo más inclusivo en cuanto a las 
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image31.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image32.webp)
+![24 de junio de 1882 de Amapala a Inglaterra.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image32.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image33.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image34.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image35.webp)
+![1893, de Comayagua a los Estados Unidos de América.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image35.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image36.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image37.webp)
+![9 de agosto de 1888, de Tegucigalpa a los Estados Unidos de América.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image37.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image38.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image39.webp)
+![16 de mayo de 1901. De Utila a Nueva York. El matasello “Estrella en Negativo” estuvo en uso en el país hasta 1892; sin embargo, en Utila se continuó usando por algunos años después.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image39.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image40.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image41.webp)
+![28 de marzo de 1884 de San Pedro Sula para Alemania.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image41.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image42.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image43.webp)
+![18 de junio de 1892 de Trujillo a Nueva York.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image43.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image44.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image45.webp)
+![11 de abril de 1882, de Comayagua a Santa Fe, Nuevo México.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image45.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image46.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image47.webp)
+![Despachada el 1 de diciembre de 1894 de San Pedro Sula para Alemania](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image47.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image48.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image49.webp)
+![Enviada el 9 de julio de 1886 de San Pedro Sula a Nueva York.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image49.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image50.webp)
 
@@ -281,7 +281,7 @@ Si bien hemos tratado de que este estudio sea lo más inclusivo en cuanto a las 
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image53.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image54.webp)
+![22 de mayo de 1890 de Yuscarán para Alemania.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image54.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image55.webp)
 
@@ -297,25 +297,25 @@ Si bien hemos tratado de que este estudio sea lo más inclusivo en cuanto a las 
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image61.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image62.webp)
+![Despachada en junio de 1890 de Pespire a Yuscarán.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image62.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image63.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image64.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image65.webp)
+![Despachada el 13 de abril de 1891 de Amapala para Alemania.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image65.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image66.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image67.webp)
+![14 de agosto de 1896 de Puerto Cortés a los Estados Unidos de América.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image67.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image68.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image69.webp)
+![24 de abril de 1894 de Santa Bárbara a los Estados Unidos de América.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image69.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image70.webp)
 
-![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image72.webp)
+![Despachado el 15 de mayo de 1886 de Puerto Cortés a Francia.](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image72.webp)
 
 ![](/img/serie-8/vol-05/03-matasellos-y-sellos-fechadores-usados-en-las-emisiones-seebe/image73.webp)
 

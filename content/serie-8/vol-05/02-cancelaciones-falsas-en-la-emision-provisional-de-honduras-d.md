@@ -147,4 +147,4 @@ Parejita “Tegucigalpa” de un real en rojo con matasello y fechador falsos.
 
 ![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image23.webp)
 
-![](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image24.webp)
+![Parejita “Tegucigalpa” de un real en rojo con matasello y fechador falsos.](/img/serie-8/vol-05/02-cancelaciones-falsas-en-la-emision-provisional-de-honduras-d/image24.webp)

@@ -97,36 +97,36 @@ Un sincero agradecimiento al amigo Guillermo Gallegos por los datos aportados.
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image2.webp)
+![Figura No. 1](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image2.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image3.webp)
+![Figura No. 2](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image3.webp)
 
 ![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image4.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image5.webp)
+![Figura No. 4](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image5.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image7.webp)
+![Figura No. 6](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image7.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image8.webp)
+![Figura No. 7](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image8.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image9.webp)
+![Figura No. 8](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image9.webp)
 
 ![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image10.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image11.webp)
+![Figura No. 9](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image11.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image12.webp)
+![Figura No. 11](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image12.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image13.webp)
+![Figura No. 12](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image13.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image14.webp)
+![Dos mensajes escritos al reverso.](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image14.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image15.webp)
+![Figura No. 14](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image15.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image16.webp)
+![Figura No. 15](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image16.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image18.webp)
+![Figura No. 17](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image18.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image20.webp)
+![Figura No. 19](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image20.webp)
 
-![](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image21.webp)
+![Figura No. 20](/img/serie-7/vol-02/02-enteros-postales-con-respuesta-pagada-exterior-usada-de-regr/image21.webp)

@@ -45,15 +45,15 @@ EL
 
 <!-- Imágenes sin posición asignada — mueve cada línea al lugar del texto que le corresponda, o bórrala si no aplica. -->
 
-![](/img/serie-6/vol-10/04-los-matasellos-doane/image33.webp)
+![1ª., 2ª., y 3ª. edición de los matasellos Doane.](/img/serie-6/vol-10/04-los-matasellos-doane/image33.webp)
 
-![](/img/serie-6/vol-10/04-los-matasellos-doane/image34.webp)
+![Tarjeta despachada de USA a Honduras donde se puede apreciar una nueva edición de matasello Doane aplicado en Nueva York el 26 de febrero de 1912, Mostrando el numeral “1”.](/img/serie-6/vol-10/04-los-matasellos-doane/image34.webp)
 
 ![](/img/serie-6/vol-10/04-los-matasellos-doane/image35.webp)
 
-![](/img/serie-6/vol-10/04-los-matasellos-doane/image36.webp)
+![Matasellos duplex aplicados regularmente a la correspondencia ambulante del tren de las compañías bananeras en la Costa Norte.](/img/serie-6/vol-10/04-los-matasellos-doane/image36.webp)
 
-![](/img/serie-6/vol-10/04-los-matasellos-doane/image37.webp)
+![Matasello duplex aplicado en Tegucigalpa el 16 de junio de 1939. Uno de los pocos y raros ejemplos del uso efímero de esta ventajosa mecánica.](/img/serie-6/vol-10/04-los-matasellos-doane/image37.webp)
 
 ![](/img/serie-6/vol-10/04-los-matasellos-doane/image38.webp)
 

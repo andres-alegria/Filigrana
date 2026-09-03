@@ -162,7 +162,7 @@ Es notable el escudo de armas que la adorna, circundado por la leyenda: GOBIERNO
 
 ![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image12.webp)
 
-![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image13.webp)
+![A continuación la transcripción del texto y la respuesta del Gobierno. Se aclara que se ha respetado la ortografía del original:](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image13.webp)
 
 A continuación la transcripción del texto y la respuesta del Gobierno. Se aclara que se ha respetado la ortografía del original:
 

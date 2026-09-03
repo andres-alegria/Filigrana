@@ -81,5 +81,5 @@ EL
 
 ![](/img/serie-7/vol-02/05-un-sello-con-historia/image33.webp)
 
-![](/img/serie-7/vol-02/05-un-sello-con-historia/image34.webp)
+![Rendición de Granada (Scott C200)](/img/serie-7/vol-02/05-un-sello-con-historia/image34.webp)
 
