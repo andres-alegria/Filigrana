@@ -22,7 +22,7 @@ review: []
 # Surge un nuevo filatelista en la historia de Honduras
 Recientemente estuvo en venta el siguiente entero postal de Honduras de la serie “La Locomotora” circulado de Tegucigalpa a San José, Costa Rica, el 3 de diciembre de 1902. Desde el punto de vista postal podemos decir que no muestra nada extraordinario comparado a otros enteros de la misma emisión; sin embargo, el remitente lo caracteriza de una manera muy particular.
 
-Carlos Hartling, quien incursionó en la historia patria como compositor de nuestro Himno Nacional, aquí nos da a conocer que también era filatelista, deseoso de establecer relaciones de canje con otros interesados.
+Carlos Hartling, quien incursionó en la historia patria como compositor de nuestro Himno Nacional, aquí nos da a conocer que también *era* filatelista, deseoso de establecer relaciones de canje con otros interesados.
 
 Desde que en 1840 Rowland Hill ideó el uso de la estampilla postal, el coleccionarlas se volvió casi de inmediato una afición, especialmente en *Europa*, donde el nivel cultural les abría un nuevo espacio. Enviar y recibir correspondencia ponía al alcance de la amplia población culta la correspondencia porteada con las deseadas estampillas (lastimosamente entonces coleccionadas separadas de los sobres).
 

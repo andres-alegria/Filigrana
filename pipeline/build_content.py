@@ -63,9 +63,40 @@ def _emphasize(text, bold, italic):
     trail = text[len(text.rstrip()):]
     return f'{lead}{marker}{text.strip()}{marker}{trail}'
 
-def para_segments(p):
+def character_styles(z):
+    """styleId -> (bold, italic) for character styles, following basedOn.
+
+    Emphasis is not always direct formatting: these documents lean on Word's
+    built-in character styles ("Strong", "Emphasis"), where the run carries
+    only an rStyle and the boldness lives in styles.xml."""
+    try:
+        st = ET.fromstring(z.read('word/styles.xml'))
+    except KeyError:
+        return {}
+    raw = {}
+    for s in st.iter(W + 'style'):
+        if s.get(W + 'type') != 'character':
+            continue
+        rpr = s.find(W + 'rPr')
+        based = s.find(W + 'basedOn')
+        get = lambda tag: (_rpr_on(rpr.find(W + tag))
+                           if rpr is not None and rpr.find(W + tag) is not None else None)
+        raw[s.get(W + 'styleId')] = (get('b'), get('i'),
+                                     based.get(W + 'val') if based is not None else None)
+
+    def resolve(sid, seen=()):
+        if sid not in raw or sid in seen:
+            return False, False
+        b, i, base = raw[sid]
+        pb, pi = resolve(base, seen + (sid,)) if base else (False, False)
+        return (pb if b is None else b), (pi if i is None else i)
+
+    return {sid: resolve(sid) for sid in raw}
+
+def para_segments(p, styles=None):
     """The paragraph as [text, bold, italic] runs, adjacent like-formatted runs
     already merged. Shared with the one-off apply_emphasis.py pass."""
+    styles = styles or {}
     segs = []
     for r in p.iter(W + 'r'):
         t = ''.join(x.text or '' for x in r.iter(W + 't'))
@@ -74,8 +105,17 @@ def para_segments(p):
         rpr = r.find(W + 'rPr')
         bold = ital = False
         if rpr is not None:
-            bold = _rpr_on(rpr.find(W + 'b'))
-            ital = _rpr_on(rpr.find(W + 'i'))
+            rs = rpr.find(W + 'rStyle')
+            if rs is not None:
+                bold, ital = styles.get(rs.get(W + 'val'), (False, False))
+            # b and i are toggle properties: used as *direct* formatting they
+            # set the absolute state, so they override the character style.
+            # These files are full of Strong runs carrying an explicit
+            # b val="0" — 107 of them — which are not bold at all.
+            if rpr.find(W + 'b') is not None:
+                bold = _rpr_on(rpr.find(W + 'b'))
+            if rpr.find(W + 'i') is not None:
+                ital = _rpr_on(rpr.find(W + 'i'))
         # Word splits runs mid-word for reasons of its own (spell-check state,
         # rsid tracking); merge neighbours that share formatting so a single
         # phrase emits one pair of markers instead of several.
@@ -98,9 +138,9 @@ def para_segments(p):
             i += 1
     return segs
 
-def para_markdown(p):
+def para_markdown(p, styles=None):
     """Paragraph text with Word's bold/italic runs carried over as Markdown."""
-    return ''.join(_emphasize(*s) for s in para_segments(p))
+    return ''.join(_emphasize(*s) for s in para_segments(p, styles))
 
 def strip_md(s):
     """Plain text of a Markdown string — for matching, keys and heuristics."""
@@ -297,6 +337,7 @@ def load_blocks(path):
     rid2media = {r.get('Id'): 'word/' + r.get('Target').replace('../', '')
                  for r in rels if 'image' in r.get('Type', '')}
     root = ET.fromstring(z.read('word/document.xml'))
+    styles = character_styles(z)
     body = root.find(W + 'body')
     mhash = {}
     def img_hash(target):
@@ -316,7 +357,7 @@ def load_blocks(path):
         # 'text' stays plain — every heading match, TOC key and heuristic in
         # this file reads it. 'md' is the same paragraph with emphasis, and is
         # what actually gets written out.
-        blocks.append({'text': text, 'md': para_markdown(p), 'images': imgs,
+        blocks.append({'text': text, 'md': para_markdown(p, styles), 'images': imgs,
                        'pagenum': pagenum, 'hashes': [img_hash(t) for t in imgs]})
     fulltext = ' '.join(t.text or '' for t in root.iter(W + 't'))
     return z, blocks, fulltext

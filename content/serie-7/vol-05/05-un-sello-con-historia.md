@@ -98,7 +98,7 @@ En 1919 combatió como mercenario en Honduras y Guatemala. Se le reconoce oficia
 
 Lamb también clama haber sido comandante de escuadrón durante la Guerra Civil del Paraguay entre 1922 y 1923, asegurando haber detenido dos “invasiones y rebeliones menores” con el uso del poder aéreo, siendo estos algunos de los primeros ejemplos de fuerza aérea contra levantamientos civiles armados.
 
-El diario Daily Eagle de Nueva York, en 1928 reportaba:
+El diario *Daily Eagle* de Nueva York, en 1928 reportaba:
 
 “El general* Dean Ivan Lamb, un pionero de la aviación e infame soldado de fortuna, descubrió los Pisco Sours en 1922 en el Bar Morris**. Se creó la fama de haber ingerido demasiados, y a raíz de la resultante destrucción que produjo en el bar, se aceleró su salida del Perú”.
 

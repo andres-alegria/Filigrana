@@ -48,7 +48,7 @@ Un cordial saludo desde acá. Richard
 
 A su esposa Mérida y a sus hijos nuestras más sentidas condolencias.
 
-EXFILHON 1986. *izquierda a derecha*: Reinaldo Baide S. (*Director de Correos*) Edgardo Alegría R. (*Expositor*) Ignacio Agurcia (*Expositor*) Richard Washburn (Jurado) Issac Bakal (*Jurado. México*)
+EXFILHON 1986. *izquierda a derecha*: Reinaldo Baide S. (*Director de Correos*) Edgardo Alegría R. (*Expositor*) Ignacio Agurcia (*Expositor*) Richard Washburn (*Jurado*) Issac Bakal (*Jurado. México*)
 
 ---
 

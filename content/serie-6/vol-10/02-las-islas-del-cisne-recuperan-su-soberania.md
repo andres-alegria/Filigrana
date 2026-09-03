@@ -22,7 +22,7 @@ review: []
 # Las Islas del Cisne recuperan su soberanía
 Las Islas del Cisne, conocidas también como San Millán, Santanilla o Santillana, están ubicadas en un relativo aislamiento en el Mar Caribe occidental a una latitud de 17 grados 24’ latitud Norte y 83 grados 56’ longitud Oeste, aproximadamente a 150 kms. de la Costa Norte de Honduras.
 
-Son tres islas con una superficie aproximada de 8 kms2 llamadas Cisne Grande, Cisne Pequeño y Cayo Pájaro Bobo, ligadas al último viaje en 1502 del almirante Cristóbal Colón, quien debió realizar en ese punto una parada de descanso y abastecimiento de agua, antes de descubrir Guanaja y Punta Caxinas. Los arrecifes periféricos desarrollados alrededor de las islas constituyen el más amplio crecimiento de arrecifes a lo largo de este litoral.
+Son tres islas con una superficie aproximada de 8 kms2 llamadas Cisne Grande, Cisne Pequeño y Cayo Pájaro Bobo, ligadas al último viaje en 1502 del almirante *Cristóbal Colón*, quien debió realizar en ese punto una parada de descanso y abastecimiento de agua, antes de descubrir Guanaja y Punta Caxinas. Los arrecifes periféricos desarrollados alrededor de las islas constituyen el más amplio crecimiento de arrecifes a lo largo de este litoral.
 
 Cisne Grande tiene casi 3.2 kms. de longitud con una elevación máxima de 68 pies. Cisne Pequeño es de aproximadamente 2.5 kms. de largo por 0.5 km. de ancho, con una elevación máxima de 78 pies. Cayo Pájaro Bobo es un pequeño cayo situado en la punta suroeste de Cisne Grande, de solamente 100 metros de largo. De aquí se puede llegar a pie a Cisne Grande durante la marea baja.
 
@@ -76,7 +76,7 @@ Poco después de esto, el gobierno del presidente John F. Kennedy comenzó las n
 
 ![Sobre enviado vía aérea en el “Northeast Special Airline Jet” desde Islas del Cisne el 16 de marzo de 1961, dirigido a la exposición fila-télica INTERPEX, organizada ese año en la ciudad de Nueva York, con viñeta y sello publicitario de Radio Swan, Indias Occidentales.](/img/serie-6/vol-10/02-las-islas-del-cisne-recuperan-su-soberania/image12.webp)
 
-La alegación de Honduras para la recuperación de las Islas del Cisne echó mano, entre otros datos, del relato que el hijo de Cristóbal Colón, Hernando Colón, hiciese en la página 272 de su obra “*Vida del Almirante don Cristóbal Colón*” donde apunta:
+La alegación de Honduras para la recuperación de las Islas del Cisne echó mano, entre otros datos, del relato que el hijo de *Cristóbal Colón*, Hernando Colón, hiciese en la página 272 de su obra “*Vida del Almirante don Cristóbal Colón*” donde apunta:
 
 > "De aquí (puerto del Brasil que los indios llamaban Yaquimo) partió después a 14 de julio, con tanta bonanza que no pudiendo seguir el camino que quería, lo echaron las muchas corrientes a ciertas islas muy pequeñas y arenosas que están cerca de Jamaica, a las cuales llamó Las Pozas, porque no hallando agua en ellas, se hicieron muchas pozas en la arena, de las que nos abastecimos para el servicio de los navíos. Luego navegando hacia tierra firme por la ruta del Mediodía, llegamos a ciertas islas donde no tocamos tierra sino en la mayor, que se llamaba Guanaja."
 

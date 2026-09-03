@@ -324,13 +324,13 @@ El SS Pacific, al mando del capitán George W. Staples, zarpó de Portland hacia
 
 Una guerra de tarifas de barcos de vapor se desató en la costa Oeste de los Estados Unidos en la década de 1860. Con el fin de reducir la competencia en las rutas de San Francisco a los puntos del Norte, la Compañía Steamship de California, Oregón y México adquirió a mediados de 1867 seis barcos, incluido el *SS Pacífic*, el cual naufragó el 4 de noviembre de 1875al colisionar con el *SS Orpheus*.
 
-El SS George Law. Vapor de 2,141 toneladas construido en 1853 para la United States Mail Steamship Co. y bautizado con el nombre del presidente de la compañía. Fue construido para navegar la ruta Nueva York-Panamá durante la fiebre de oro de California. En su viaje inaugural de regreso desde Panamá, trajo 465 pasajeros y $872,831.00 en oro a Nueva York. En más de 40 viajes bimensuales el Law promedió menos de nueve días por etapa. En 1857 encalló, siendo llevado a un dique seco para una revisión exhaustiva.
+El *SS George Law*. Vapor de 2,141 toneladas construido en 1853 para la United States Mail Steamship Co. y bautizado con el nombre del presidente de la compañía. Fue construido para navegar la ruta Nueva York-Panamá durante la fiebre de oro de California. En su viaje inaugural de regreso desde Panamá, trajo 465 pasajeros y $872,831.00 en oro a Nueva York. En más de 40 viajes bimensuales el Law promedió menos de nueve días por etapa. En 1857 encalló, siendo llevado a un dique seco para una revisión exhaustiva.
 
 George Law
 
 ![(25 octubre 1806–18 nov. 1881)](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image38.webp)
 
-Durante sus días como SS George Law, el barco recorrió la ruta atlántica Nueva York-San Francisco realizando 43 viajes de ida y vuelta entre la ciudad de Nueva York y Panamá. En promedio le tomó entre 19 y 24 días completar el viaje redondo. Hizo este viaje hasta 1857, teniendo la distinción de transportar casi un tercio de la producción total de la fiebre de oro californiana valorada en 150 millones de dólares
+Durante sus días como *SS George Law*, el barco recorrió la ruta atlántica Nueva York-San Francisco realizando 43 viajes de ida y vuelta entre la ciudad de Nueva York y Panamá. En promedio le tomó entre 19 y 24 días completar el viaje redondo. Hizo este viaje hasta 1857, teniendo la distinción de transportar casi un tercio de la producción total de la fiebre de oro californiana valorada en 150 millones de dólares
 
 Durante su reconstrucción el nom-bre del Law fue cambiado a Central America, posiblemente para reflejar su ruta habitual y porque George Law había vendido sus intereses en la compañía. En su segundo viaje, el 3 de septiembre de 1875, con 477 pasajeros y 101 tripulantes a bordo zarpó del puerto panameño de Colón, navegando hacia Nueva York bajo el mando del capitán William Lewis Herndon.
 

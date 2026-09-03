@@ -50,7 +50,7 @@ BH52 . . . *san serif* letras 5-5.5mm.
 
 2-1-2 líneas.
 
-BH53 . . . serif letras 3mm.
+BH53 . . . *serif* letras 3mm.
 
 2-1-2 líneas.
 
@@ -58,19 +58,19 @@ BH60 . . . *san serif* letras 3mm.
 
 2-2-2 líneas.
 
-BH70 . . . serif letras 3mm
+BH70 . . . *serif* letras 3mm
 
 2-3-2 líneas.
 
 “HONDURAS” elevada.
 
-BH71... serif letras 3.0 mm 2-3-2 líneas tercer espacio desde abajo es más ancho.
+BH71... *serif* letras 3.0 mm 2-3-2 líneas tercer espacio desde abajo es más ancho.
 
-BH72 . . . serif letras 4.5mm
+BH72 . . . *serif* letras 4.5mm
 
 2-3-2 líneas
 
-BH73 . . . serif letras 3mm
+BH73 . . . *serif* letras 3mm
 
 2-3-2 líneas.
 
@@ -84,7 +84,7 @@ BH81 . . . *san serif* letras 3mm.
 
 3-2-3 líneas.
 
-BH82 . . . serif letras 4.5mm.
+BH82 . . . *serif* letras 4.5mm.
 
 3-2-3 líneas.
 

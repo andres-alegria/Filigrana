@@ -44,7 +44,7 @@ En pocos meses, el italiano era millonario y tenía una buena cantidad de emplea
 
 Centenares de personas que esperaban ansiosas con su dinero en la mano debieron regresar a sus casas decepcionadas cuando él anunció que no seguiría recibiendo depósitos. Para entonces, este italiano que había emigrado a los Estados Unidos con los bolsillos casi vacíos se había convertido en un potentado.
 
-"Llegué a este país con $2.50 en efectivo y $1,000,000.00 en esperanzas y esas esperanzas nunca me abandonaron", declaró Ponzi a finales de julio de 1920 al diario The New York Times.
+"Llegué a este país con $2.50 en efectivo y $1,000,000.00 en esperanzas y esas esperanzas nunca me abandonaron", declaró Ponzi a finales de julio de 1920 al diario *The New York Times*.
 
 Por aquellos días, ese carismático empresario se vio envuelto en una gran polémica. Las autoridades habían abierto una investigación en torno a su empresa para tratar de entender cómo en el plazo de unos siete meses había recibido millones de dólares de parte de miles de inversores y, sobre todo, cómo era capaz de ofrecerles un interés de 50% a 90 días plazo. El buen sentido indicaba que no importa cuán lucrativa y atractiva pueda ser una inversión, siempre hay un límite al número de inversores que se pueda atraer. Cada período que pasa requiere de una mayor inversión que el periodo precedente para permitir a la organización devolver a los inversores anteriores su inversión y el beneficio con los cuales la organización está atrayendo a los nuevos. Por lo tanto, el esquema comienza a desmoronarse cuando la cantidad de nueva inversión deja de crecer.
 

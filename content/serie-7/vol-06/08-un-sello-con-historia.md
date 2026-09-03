@@ -22,11 +22,11 @@ review: []
 # Un sello con historia
 Leyenda y Mito Sobre la Muerte del Cacique Lempira
 
-Lempira fue un aguerrido capitán del pueblo lenca que luchó contra los conquistadores españoles durante la década de 1530. El nombre Lempira, según sostienen Jorge Lardé y Larín, proviene de la palabra Lempaera, que a su vez procede de dos vocablos de la lengua lenca: de lempa, que significa "señor", título de alta dignidad o jerarquía, y de era, que significa “cerro o sierra”. Así pues, Lempira vendría a significar “Señor de la Sierra” o “Señor del Cerro”.
+Lempira fue un aguerrido capitán del pueblo lenca que luchó contra los conquistadores españoles durante la década de 1530. El nombre Lempira, según sostienen Jorge Lardé y Larín, proviene de la palabra *Lempaera*, que a su vez procede de dos vocablos de la lengua lenca: de *lempa*, que significa "señor", título de alta dignidad o jerarquía, y de era, que significa “cerro o sierra”. Así pues, Lempira vendría a significar “Señor de la Sierra” o “Señor del Cerro”.
 
-Se calcula que nació alrededor de la década de 1490 y se forjó en las montañas de Cerquín, donde los indígenaslencas, en su intento de resistir el avance de los conquistadores se refugiaban en estas altas y rocosas montañas llevando consigo a sus mujeres, hijos y provisiones. A estos bastiones indígenas los españoles les llamaban “peñoles”.
+Se calcula que nació alrededor de la década de 1490 y se forjó en las montañas de Cerquín, donde los indígenaslencas, en su intento de resistir el avance de los conquistadores se refugiaban en estas altas y rocosas montañas llevando consigo a sus mujeres, hijos y provisiones. A estos bastiones indígenas los españoles les llamaban “*peñoles*”.
 
-De acuerdo a la historia vernácula Lempira fue comisionado por Entepica para que organizara la resistencia a la penetración de las tropas españolas en 1537, teniendo como base el cerro de Cerquín (declarado monumento histórico en el actual departamento de Lempira). Cuando los españoles llegaron a Cerquín, Lempira se encontraba luchando contra caciques vecinos, pero debido a esta amenaza, se alió con el subgrupo lenca de los Cares consiguiendo reunir un ejército de casi 30,000 soldados, procedentes de 200 pueblos aledaños. Animados por este acontecimiento, otros grupos se alzaron también en armas en el valle de Comayagua y en Olancho. Los intentos españoles para derrotarles, dirigidos por el Adelantado Francisco de Montejo y su lugarteniente Alonso de Cáceres, resultaron infructuosos antes de 1537.
+De acuerdo a la historia vernácula Lempira fue comisionado por Entepica para que organizara la resistencia a la penetración de las tropas españolas en 1537, teniendo como base el cerro de Cerquín (declarado monumento histórico en el actual departamento de Lempira). Cuando los españoles llegaron a Cerquín, Lempira se encontraba luchando contra caciques vecinos, pero debido a esta amenaza, se alió con el subgrupo lenca de los *Cares* consiguiendo reunir un ejército de casi 30,000 soldados, procedentes de 200 pueblos aledaños. Animados por este acontecimiento, otros grupos se alzaron también en armas en el valle de Comayagua y en Olancho. Los intentos españoles para derrotarles, dirigidos por el Adelantado Francisco de Montejo y su lugarteniente Alonso de Cáceres, resultaron infructuosos antes de 1537.
 
 Historia Tradicional de la Muerte de Lempira.
 
@@ -42,7 +42,7 @@ A continuación la versión de Herrera y Tordesillas sobre dicho evento:
 
 Evidencia en el Archivo General de Indias.
 
-Existe otra versión sobre la muerte de Lempira, encontrada en una Probanza de Méritos, un documento de más de 90 folios redactado en México el 18 de enero de 1558 por el soldado Rodrigo Ruiz, y descubierto en los 1970´s por el historiador hondureño Mario Felipe Martínez Castillo (1932-2012) en el Archivo General de Indias en Sevilla.
+Existe otra versión sobre la muerte de Lempira, encontrada en una *Probanza de Méritos*, un documento de más de 90 folios redactado en México el 18 de enero de 1558 por el soldado Rodrigo Ruiz, y descubierto en los 1970´s por el historiador hondureño Mario Felipe Martínez Castillo (1932-2012) en el Archivo General de Indias en Sevilla.
 
 Este documento trata del servicio que prestó el soldado Rodrigo Ruiz en la temprana conquista de Honduras bajo las órdenes del Adelantado Francisco de Montejo y su subalterno Alonso de Cáceres, a fin de hacerse acreedor de favores reales. En el se afirma que el capitán Elempira murió en combate con Ruiz en medio de una "guazavara" (algazara o batalla inesperada) tras la cual Ruiz le cortó la cabeza al cacique como prueba fehaciente de su muerte. El texto incluye como testigos a Alonso de Maldonado y a Catalina de Montejo quienes corroboran dichos hechos.
 

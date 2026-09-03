@@ -20,6 +20,28 @@ the source. Individual phrases still do.
 
     python3 pipeline/apply_emphasis.py            # dry run, prints a report
     python3 pipeline/apply_emphasis.py --apply    # write the changes
+    python3 pipeline/apply_emphasis.py --bold     # same, for bold runs
+
+A NOTE ON --bold, WHICH WAS DELIBERATELY NOT RUN
+------------------------------------------------
+Bold does not survive this treatment and the mode is kept for inspection
+only. Two things came out of trying it:
+
+1. Almost all the bold in these magazines is structural — article titles,
+   section headings, the masthead's board listing — and those are whole
+   paragraphs, already filtered out. What survives the filters is mostly
+   place names that happen to be bold in a heading somewhere: a dry run
+   marks "Honduras" 40 times and "Cayo Vivorillo" 21, out of 78 marks.
+
+2. The bold this was meant to rescue turned out not to be bold at all.
+   These files apply Word's "Strong" character style and then override it
+   with an explicit b val="0" on the run — 107 times across the corpus.
+   Because b is a toggle property, direct formatting sets the absolute
+   state, so those runs render upright. "¡Che peccato!" and the vendor's
+   advert copy are both of this kind.
+
+The genuinely style-driven emphasis (43 italic runs, 4 bold) is now picked
+up, since both this pass and the converter resolve character styles.
 """
 import sys, os, re, glob, zipfile, importlib.util
 import xml.etree.ElementTree as ET
@@ -68,18 +90,29 @@ def docx_for(series, volume):
     return None
 
 
-def italic_phrases(docx):
-    """Every distinct phrase Word set in italic in this issue."""
-    root = ET.fromstring(zipfile.ZipFile(docx).read('word/document.xml'))
+def emphasis_phrases(docx, want='i'):
+    """Every distinct phrase Word set in italic (want='i') or bold ('b').
+
+    The wholly-formatted test matters even more for bold than for italic: the
+    magazines set every article title, section heading and the masthead's
+    board listing in bold, and those are whole paragraphs. Requiring
+    substantive un-bold text in the same paragraph leaves only bold used for
+    emphasis inside a sentence.
+    """
+    idx = 2 if want == 'i' else 1
+    z = zipfile.ZipFile(docx)
+    styles = bc.character_styles(z)      # emphasis is often a character style
+    root = ET.fromstring(z.read('word/document.xml'))
     found = {}
     for p in root.iter(W + 'p'):
-        segs = bc.para_segments(p)
-        # does this paragraph carry substantive text that is NOT italic?
-        plain_here = sum(len(t.strip()) for t, _b, i in segs if not i)
+        segs = bc.para_segments(p, styles)
+        # does this paragraph carry substantive text that is NOT emphasized?
+        plain_here = sum(len(t.strip()) for t, *f in segs if not f[idx - 1])
         if plain_here < 12:
-            continue                      # wholly-italic: caption or document
-        for text, _bold, ital in segs:
-            if not ital:
+            continue                      # wholly-set: heading, caption, document
+        for seg in segs:
+            text = seg[0]
+            if not seg[idx]:
                 continue
             t = re.sub(r'\s+', ' ', text).strip().strip('“”"\'()[[]].,;:')
             if not (MIN_LEN <= len(t) <= MAX_LEN):
@@ -126,7 +159,7 @@ def protected_spans(line):
     return spans
 
 
-def mark_line(line, phrases):
+def mark_line(line, phrases, mark='*'):
     """Italicize each phrase where it appears as a standalone run of words."""
     # Headings, image lines and tables are not prose. Blockquotes are skipped
     # too: verbatim quotations and pull quotes are already set in italic by
@@ -140,7 +173,7 @@ def mark_line(line, phrases):
     # to such a line can pair with the existing one and italicize the span
     # between them instead. Those lines are left alone; there are 91 in the
     # corpus and they are better handled by eye.
-    if '*' in line:
+    if '*' in re.sub(r'\*{1,3}[^*]+\*{1,3}', '', line):
         return line, 0
     n = 0
     for ph in phrases:
@@ -154,8 +187,8 @@ def mark_line(line, phrases):
             if any(s <= m.start() < e for s, e in protected_spans(line)):
                 pos = m.end()
                 continue
-            line = line[:m.start()] + '*' + m.group(0) + '*' + line[m.end():]
-            pos = m.end() + 2
+            line = line[:m.start()] + mark + m.group(0) + mark + line[m.end():]
+            pos = m.end() + 2 * len(mark)
             n += 1
     return line, n
 
@@ -166,7 +199,7 @@ def body_lines(text):
     return (text[:m.end()], text[m.end():]) if m else ('', text)
 
 
-def main(apply_changes):
+def main(apply_changes, want='i'):
     total_files = total_marks = 0
     report, ambiguous = [], []
     for md in sorted(glob.glob(os.path.join(ROOT, 'content', 'serie-*', 'vol-*', '*.md'))):
@@ -179,7 +212,7 @@ def main(apply_changes):
         docx = docx_for(int(m_s.group(1)), int(m_v.group(1)))
         if not docx:
             continue
-        phrases = italic_phrases(docx)
+        phrases = emphasis_phrases(docx, want)
         if not phrases:
             continue
         phrases, skipped = safe_phrases(body, phrases)
@@ -188,8 +221,9 @@ def main(apply_changes):
             continue
 
         out, marks = [], 0
+        mark = '*' if want == 'i' else '**'
         for line in body.split('\n'):
-            line, n = mark_line(line, phrases)
+            line, n = mark_line(line, phrases, mark)
             out.append(line)
             marks += n
         if not marks:
@@ -210,10 +244,13 @@ def main(apply_changes):
             print(f'  {p!r} — {h}x in {f}, italic {t}x in source')
 
     verb = 'applied' if apply_changes else 'would apply'
-    print(f'\n{verb} {total_marks} italic marks across {total_files} files')
+    kind = 'italic' if want == 'i' else 'bold'
+    print(f'\n{verb} {total_marks} {kind} marks across {total_files} files')
     if not apply_changes:
         print('re-run with --apply to write them')
 
 
 if __name__ == '__main__':
-    main('--apply' in sys.argv)
+    # --bold re-marks bold runs instead of italic; run italic first, since the
+    # bold pass will not touch a phrase already inside an emphasis span.
+    main('--apply' in sys.argv, 'b' if '--bold' in sys.argv else 'i')
