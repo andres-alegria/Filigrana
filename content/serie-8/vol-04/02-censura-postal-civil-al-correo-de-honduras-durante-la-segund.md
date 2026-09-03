@@ -48,51 +48,51 @@ Tipo de Correo a
 
 Königsberg
 
-Estados Bálticos, Unión Soviética b
+## Estados Bálticos, Unión Soviética b
 
 Berlín
 
-Correo en tránsito, Sur y Norte América, Finlandia c
+## Correo en tránsito, Sur y Norte América, Finlandia c
 
 Colonia
 
-Países Bajos, Bélgica, Luxemburgo, Francia d
+## Países Bajos, Bélgica, Luxemburgo, Francia d
 
 Múnich
 
-Italia, Portugal, España, Suiza e
+## Italia, Portugal, España, Suiza e
 
 Frankfurt
 
-Suiza, Sur y Norte América, sur de Francia f
+## Suiza, Sur y Norte América, sur de Francia f
 
 Hamburgo
 
-Países Escandinavos, correo no-aéreo g
+## Países Escandinavos, correo no-aéreo g
 
 Viena
 
-Balcanes, Hungría, Turquía h
+## Balcanes, Hungría, Turquía h
 
 Berlín
 
-Prisioneros de Guerra (POW) hasta 1944 k
+## Prisioneros de Guerra (POW) hasta 1944 k
 
 Copenhague
 
-Suecia, Noruega, Finlandia l
+## Suecia, Noruega, Finlandia l
 
 Lion
 
-Hacia y del sur de Francia, correo de tránsito n
+## Hacia y del sur de Francia, correo de tránsito n
 
 Nancy
 
-Sur de Francia y zona neutral o
+## Sur de Francia y zona neutral o
 
 Oslo
 
-Suecia, Finlandia, Dinamarca t
+## Suecia, Finlandia, Dinamarca t
 
 Trondheim
 
@@ -100,11 +100,11 @@ Suecia x
 
 Paris
 
-Correo de la Cruz Roja, Bélgica y Países Bajos y
+## Correo de la Cruz Roja, Bélgica y Países Bajos y
 
 Burdeos
 
-Hacia y del sur de Francia, correo de tránsito
+## Hacia y del sur de Francia, correo de tránsito
 
 En el pico de operaciones, la Oficina de Censura norteamericana tenía estaciones postales de distrito en Nueva York, Miami, Nueva Orleans, San Antonio, El Paso, Los Ángeles, San Francisco, Seattle y Chicago, así como estaciones en el extranjero en San Juan, Puerto Rico; Balboa, Zona del Canal y Honolulu, Hawái. La mayor parte del correo que pasaba por las estaciones de los Estados Unidos continental o que se originaba o estaba destinado en última instancia a puntos de este país, se denominaba correo terminal de los Estados Unidos. La Estación de Nueva York examinaba parte del correo entre América Latina y los EUA, siendo la puerta de entrada para el correo con los países neutrales europeos. La estación de Miami procesaba el correo de América del Sur y todo el correo hacia y desde el área del Caribe. Nueva Orleans manejaba la mayor parte del correo marítimo hacia y desde Sudamérica, ya que durante la amenaza submarina alemana en el Atlántico este correo entraba y salía de Nueva Orleans en lugar de Nueva York. San Antonio y Laredo manejaban el correo mexicano y el correo aéreo centroamericano. Las subestaciones a lo largo de la frontera mexicana se ocupaban de examinar los documentos de viajeros transfronterizos. Las de El Paso y Los Ángeles se concentraban en el correo hacia y desde México. En San Francisco se examinaban los correos provenientes del Pacífico, y en la frontera norte, Chicago y Seattle se encargaban del correo canadiense y del proveniente de Alaska.
 
@@ -186,7 +186,7 @@ CIUDAD
 
 1000
 
-Nueva York, prisioneros
+## Nueva York, prisioneros
 
 3501
 
@@ -318,7 +318,7 @@ Charlotte
 
 3000
 
-Censura postal en jefe
+## Censura postal en jefe
 
 15001
 
@@ -340,7 +340,7 @@ Chicago
 
 Nueva Orleans
 
-Cristóbal: 13503-13580 y 59009-59049
+## Cristóbal: 13503-13580 y 59009-59049
 
 David: 75014-75060
 
@@ -384,7 +384,7 @@ AVISO POSTAL
 
 Post Office Department. – Second Assistant Postmaster General. Washington, November 7, 1942.- IH-G-hd No. 76173.
 
-Director General of Posts - Tegucigalpa, Republic of Honduras.
+## Director General of Posts - Tegucigalpa, Republic of Honduras.
 
 Señor Director:
 
@@ -394,7 +394,7 @@ Muy atentamente
 
 Smith V. Purdum,
 
-Segundo Asistente del Director General.
+## Segundo Asistente del Director General.
 
 Orden del Director General No. 18605.- Restricciones a la Correspondencia Aérea.- Asuntos destinados para fuera del área continental de los Estados Unidos.
 

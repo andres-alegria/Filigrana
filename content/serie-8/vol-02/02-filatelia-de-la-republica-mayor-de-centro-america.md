@@ -142,7 +142,7 @@ Congruente con la política unificadora, Nicaragua emitió en 1898 una serie de 
 
 ![Scott No. O123](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image37.webp)
 
-La marca de agua se puede encontrar en dos posiciones:
+## La marca de agua se puede encontrar en dos posiciones:
 
 ![Horizontal](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image38.webp)
 
@@ -154,7 +154,7 @@ Aunque la emisión estaba prevista (tal como sucedió) para empezar a circular e
 
 ![Excepcional sobre circulado el 9 de octubre de 1897, multado por carecer de porte](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image41.webp)
 
-Circulación interna (5 cts.) de Corinto a Managua el 8 de enero 1898.
+## Circulación interna (5 cts.) de Corinto a Managua el 8 de enero 1898.
 
 ![Se conoce que los valores de la emisión ordinaria hasta 10 cts. fueron destinados para uso postal. Algunos de estos valores y los superiores a 10 cts. fueron contramarcados localmente con la palabra “Telégrafo”; en dos variedades:](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image42.webp)
 
@@ -180,6 +180,6 @@ La FFRH tiene disponible para la venta los siguientes números anteriores de *Ho
 
 Por favor comunicarse a través de: ffrh@hotmail.com
 
-Serie 5: Volumen 1, 2, 3, 4, 5, 6, 10, 12
+## Serie 5: Volumen 1, 2, 3, 4, 5, 6, 10, 12
 
-Serie 7: Volumen 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12
+## Serie 7: Volumen 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12

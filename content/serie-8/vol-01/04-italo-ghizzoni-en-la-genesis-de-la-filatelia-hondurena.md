@@ -68,7 +68,7 @@ A la postre Ghizzoni renunció a su cargo de director de la Litografía Nacional
 
 Bibliografía
 
-Alegría, Edgardo R. Colección privada. Tegucigalpa. 2024.
+## Alegría, Edgardo R. Colección privada. Tegucigalpa. 2024.
 
 García, Miguel Ángel. *La Imprenta en Honduras 1828–1975*. Editorial Universitaria, Tegucigalpa. Primera edición, mayo 1988.
 

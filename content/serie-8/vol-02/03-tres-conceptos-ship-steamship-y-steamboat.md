@@ -58,6 +58,6 @@ Cartas “Steamboat” eran transportadas a través de medios fluviales por un n
 
 Bibliografía:
 
-Alegría R., Edgardo. Colección Paquebote. Tegucigalpa, Honduras.
+## Alegría R., Edgardo. Colección Paquebote. Tegucigalpa, Honduras.
 
 Epting, Charles. *Of Ships, Steamships, and Steamboats*. The American Philatelist, EUA, diciembre de 2023.

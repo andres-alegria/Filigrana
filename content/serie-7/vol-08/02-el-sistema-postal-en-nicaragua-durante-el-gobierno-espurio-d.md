@@ -56,7 +56,7 @@ El correo recibido por el cónsul Green era matasellado con un sello circular qu
 
 Antes de 1857, todo el correo inglés que partía de Greytown hacia puertos extranjeros era transportado de forma gratuita. En agosto de 1857, Green fue nombrado “Packet Agent” (Agente de Paquete). Su salario era de 50 libras anuales. A todo esto el correo interno nicaragüense continuaba funcionando bajo el mismo esquema heredado de la colonia española.
 
-Carta interna circulada en 1855 de León a La Virgen. Con porte franco.
+## Carta interna circulada en 1855 de León a La Virgen. Con porte franco.
 
 ![Ruta terrestre de León al puerto de La Virgen.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image9.webp)
 
@@ -64,9 +64,9 @@ Carta interna circulada en 1855 de León a La Virgen. Con porte franco.
 
 En los Estados Unidos el prepago de la correspondencia se volvió obligatorio a partir del 1 de abril de 1855 con la siguiente tarifa y emisiones:
 
-Hasta 3,000 millas, por ½ oz.: 3 centavos.
+## Hasta 3,000 millas, por ½ oz.: 3 centavos.
 
-Más de 3,000 millas, por ½ oz.: 10 centavos.
+## Más de 3,000 millas, por ½ oz.: 10 centavos.
 
 ![10 cts. 1855 5 cts. 1857 3 cts. 1857 12 cts. 1857](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image11.webp)
 
@@ -110,7 +110,7 @@ G. H. Wines & Co. fue fundada en 1855, con servicio entre San Francisco y Sacram
 
 Con uno de los membretes más ornamentados de la época.
 
-Porte exterior de 10 cts. Circulada totalmente fuera del sistema postal.
+## Porte exterior de 10 cts. Circulada totalmente fuera del sistema postal.
 
 (Los primeros enteros postales de 10 cts. circularon el 25 de abril de 1855).
 
@@ -154,13 +154,13 @@ El Nicaragüense del 31 de mayo de 1856:
 
 Wines & Co. por este medio notifica que en el futuro TODAS LAS CARTAS DEBEN SER PAGADAS POR ADELANTADO. La tarifa será de *veinte centavos*, incluyendo las estampillas. Las estampillas pueden ser adquiridas en la oficina de Wines & Co., con o sin sobre.
 
-J. A. RUGGLES, Agente de Wines & Co.
+## J. A. RUGGLES, Agente de Wines & Co.
 
-Granada 31 de mayo de 1856.
+## Granada 31 de mayo de 1856.
 
 La frase “incluyendo las estampillas” se ha prestado en más de una ocasión para especular que posiblemente existieron estampillas provisionales locales para las cartas originadas en Nicaragua. Esto está muy lejos de la realidad, siendo que las primeras estampillas se emitieron hasta 1862 y nunca se ha sabido de emisiones anteriores. Lo cierto es que el servicio de mensajería de Wines & Co., al cobrar los 20 cts. cubría los 3 cts. de franqueo obligado (y 17 cts. para la empresa) a fin de poder ingresar la carta al sistema postal de los Estados Unidos tan pronto arribara; así que para agilizar el servicio las agencias en Nicaragua vendían las estampillas norteamericanas de manera integral.
 
-Anuncio en el periódico *Daily Alta California*, 15 de octubre de 1856:
+## Anuncio en el periódico *Daily Alta California*, 15 de octubre de 1856:
 
 ![“Nuestros expresos van siempre acompañados de mensajeros competentes y experimentados…”](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image28.webp)
 
@@ -182,7 +182,7 @@ G. H. Wines and Co. era conocida también como "The Atlantic, California and Ore
 
 Con marca lineal “Wines & Co’s Express” y marca ovalada: “REPUBLICA DE NICARAGUA/ADMON DE CORREOS DE GRANADA”. Circulada fuera del sistema.
 
-Libre traducción del inglés de una parte del texto de la carta:
+## Libre traducción del inglés de una parte del texto de la carta:
 
 “Granada Mayo 1ro. 1856
 
@@ -200,7 +200,7 @@ El Nicaragüense del 16 de febrero de 1856.
 
 ![El monopolio postal quedó de manifiesto cuando Wines & Co. publicó este anuncio: “El Expreso de arriba, el único conveniente fuera del Gobierno, en este país para el transporte de cartas…”](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image32.webp)
 
-J. A. Ruggles falleció por intoxicación alcohólica en agosto de 1856.
+## J. A. Ruggles falleció por intoxicación alcohólica en agosto de 1856.
 
 ![Noticia.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image33.webp)
 

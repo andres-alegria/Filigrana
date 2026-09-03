@@ -96,9 +96,9 @@ En San Pedro Sula, el 22 de noviembre de 1971, el representante del presidente R
 
 En 1975 los operadores de la estación meteorológica en las Islas del Cisne, Spencer Bennett y Randolph Moore, fueron condecorados con una medalla de oro como reconocimiento a su participación en el rescate de muchas vidas. Ellos fueron reconocidos por su acción heroica durante una tormenta el 10 de diciembre de 1974 durante la cual rescataron a 19 pescadores náufragos poniendo en riesgo sus propias vidas y demostrando excelentes habilidades náuticas en un mar picado. El pesquero hondureño *Lucky Girl* se había topado con una fuerte tormenta a 32 kms. al noroeste de las Islas del Cisne. El casco se rompió y el barco empezó a hundirse rápidamente. El capitán envió un SOS y luego ordenó a toda la tripulación abandonar la nave. La señal de auxilio fue captada por la estación y el personal respondió inmediatamente utilizando dos pequeñas embarcaciones de motor lanzadas en pos de los náufragos, los cuales fueron localizados con éxito, siendo remolcados a la isla en varias canoas ocupadas por 18 hombres.
 
-APÉNDICE
+## APÉNDICE
 
-Radio Swan.
+## Radio Swan.
 
 La importancia de las Islas del Cisne residía en su cercanía a la isla de Cuba dado que el 17 de marzo de 1960, el Presidente de los Estados Unidos Dwight D. Eisenhower aprobó operaciones encubiertas para derrocar el gobierno de Fidel Castro. Estas islas eran reclamadas por los gobiernos de Honduras y de los Estados Unidos, aunque estaban *de facto* en poder de la Agencia Central de Inteligencia. La persona que reclamaba su propiedad ante la prensa era Sumner Smith, de Boston. El era presidente de la Abington Textile and Manufacturing Works además de accionista de la Gibraltar Steamship Co., de Nueva York. Sumner Smith era benefactor de la Biblioteca de la Universidad de Yale y cercano a la comunidad de inteligencia de los Estados Unidos.
 

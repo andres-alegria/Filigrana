@@ -24,7 +24,7 @@ En casi todas las ocasiones en que las autoridades tomaron la decisión de imple
 
 Aunque eran saqueadas por igual, sin embargo, las especies timbradas, dada las diferencias para su uso, circulaban en mucha menor cuantía que las postales; por ende, sobreviviendo estas contramarcas hasta nuestros días con un mayor grado de rareza. Por esta razón encuentro oportuno presentar una recopilación de todos los timbres hasta hoy conocidos que fueron objeto de las marcas de control.
 
-Marca de la Oficina General de Cuentas.
+## Marca de la Oficina General de Cuentas.
 
 Esta primera marca de control, fue autorizada a través del Decreto del 30 de Septiembre de 1896, que textualmente rezaba:
 
@@ -66,7 +66,7 @@ La efímera República Mayor de Centro América dio lugar a que por segunda vez 
 
 ![Fragmento de un telegrama de origen, despachado desde](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image27.webp)
 
-Amapala como “URGENTE, No. 2”, redactado en papel corriente.
+## Amapala como “URGENTE, No. 2”, redactado en papel corriente.
 
 Burulé de 1903.
 
@@ -88,7 +88,7 @@ Al fracasar los intentos entre los partidos en contienda por alcanzar un acuerdo
 
 ![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image33.webp)
 
-Contramarca del Tribunal Superior de Cuentas.
+## Contramarca del Tribunal Superior de Cuentas.
 
 Seis meses después de haber sido puesta en circulación la nueva emisión de sellos postales del 2 de enero de 1931 (Scott 298-306), el Tribunal Superior de Cuentas, con sede en Tegucigalpa, descubrió que una buena cantidad de sellos había sido sustraída ilegalmente del inventario bajo su custodia. La investigación fue entorpecida tras encontrar al Contador General muerto de un balazo en el pecho.
 
@@ -110,7 +110,7 @@ Durante la revolución armada de 1932, conocida como la “Revuelta de las Traic
 
 Para mayor detalle, a continuación se presenta la parte medular del decreto emitido:
 
-Tegucigalpa, 5 de mayo de 1933.
+## Tegucigalpa, 5 de mayo de 1933.
 
 El Presidente de la República
 
@@ -158,7 +158,7 @@ Las siguientes firmas se encuentran documentadas sobre timbres fiscales de las e
 
 ![Manuel Centeno Miralda](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image47.webp)
 
-Juticalpa (Olancho). 3 de febrero de 1933 al 15 de julio de 1934.
+## Juticalpa (Olancho). 3 de febrero de 1933 al 15 de julio de 1934.
 
 ![Manuel Andara](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image48.webp)
 
@@ -166,27 +166,27 @@ El Paraíso. 3 de febrero de 1933 a diciembre de 1934.
 
 ![Carlos Fúnez Víafranca](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image49.webp)
 
-Comayagua. 24 de abril de 1933 a junio de 1936.
+## Comayagua. 24 de abril de 1933 a junio de 1936.
 
 ![Eduardo Guillén y Guillén](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image50.webp)
 
-Choluteca. 4 de noviembre de 1933 al 8 de agosto de 1934.
+## Choluteca. 4 de noviembre de 1933 al 8 de agosto de 1934.
 
 ![Luis Felipe Lardizábal](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image51.webp)
 
-Amapala (Valle). 14 de enero de 1934 a julio de 1936.
+## Amapala (Valle). 14 de enero de 1934 a julio de 1936.
 
 ![Alfonso Gallardo](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image52.webp)
 
-San Pedro Sula (Cortés). 15 de junio de 1934 a febrero de 1939.
+## San Pedro Sula (Cortés). 15 de junio de 1934 a febrero de 1939.
 
-Firmas Facsímiles de 1948.
+## Firmas Facsímiles de 1948.
 
 Alrededor de 1948, al realizar una auditoría en la Administración General de Rentas y Aduanas del Distrito Central (Tegucigalpa y Comayagüela), se descubrió un faltante en la cantidad de especies fiscales bajo custodia, por lo que se procedió a contramarcar el remanente con el facsímil de los administradores de rentas de turno. Los timbres que estaban vigentes eran los de la Renta del Timbre de 1928 impresos por la American Bank Note Company, en valores de 1, 2, 3, 5, 6, 10, 12, 25, 50 centavos, y 1, 2, 5 y 10 pesos; así como el timbre telegráfico de 4 cts. de 1934 y los de contratación de 50 centavos, 1y5 lempiras de la emisión de 1948, estos dos últimos impresos por la Waterlow & Sons Limited. Litho.
 
 ![José María Valladares](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image53.webp)
 
-Tegucigalpa (Francisco Morazán).
+## Tegucigalpa (Francisco Morazán).
 
 ![Jesús María López. En esta ocasión el legendario Administrador de Rentas de Tegucigalpa (perduró 15 de los 16 años del periodo del general Carías) utilizó un facsímil más grueso que el de 1932.](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image54.webp)
 
@@ -194,19 +194,19 @@ Tegucigalpa (Francisco Morazán).
 
 ![Carlos Hidalgo](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image56.webp)
 
-San Pedro Sula (Cortés).
+## San Pedro Sula (Cortés).
 
 ![Juan Ángel Zelaya](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image57.webp)
 
 ![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image58.webp)
 
-Comayagüela (Francisco Morazán).
+## Comayagüela (Francisco Morazán).
 
 ![Edmundo Álvarez](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image59.webp)
 
 ![](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image60.webp)
 
-Tegucigalpa (Francisco Morazán).
+## Tegucigalpa (Francisco Morazán).
 
 ![Contramarca del 5 de junio de 1987.](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image61.webp)
 

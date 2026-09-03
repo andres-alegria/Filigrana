@@ -136,7 +136,7 @@ Los costarricenses recientemente habían artillado un bergantín rebautizándolo
 
 Capitán del Granada
 
-Antonio Valle-Riestra
+## Antonio Valle-Riestra
 
 ![Capitán del 11 de Abil](/img/serie-7/vol-07/02-la-presencia-de-william-walker-en-centro-america/image13.webp)
 

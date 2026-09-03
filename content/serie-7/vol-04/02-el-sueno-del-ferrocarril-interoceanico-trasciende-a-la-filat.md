@@ -114,7 +114,7 @@ Las rutas marítimas vía Panamá y Nicaragua fueron un importante eslabón en e
 
 La Pacific Mail Steamship Co. en sus primeros años no prestó servicio a los puertos del Pacífico centroamericano, pues su negocio era el tráfico directo Panamá-San Francisco. El primer contrato para el transporte del correo marítimo centroamericano se firmó con la Compañía del Ferrocarril de Panamá en 1856, convenio en que ésta se comprometía a poner en operación un vapor en la ruta Panamá-puertos de Centro América. En 1873 esta compañía se asoció con la Pacific Mail Steamship Co. A partir de entonces los contratos anuales fueron otorgados por los gobiernos a la “Mala del Pacífico”, tal como popularmente se le conocía en la época. CargandoCargando...Cargando...
 
-Carta No. 2:Cargando...
+## Carta No. 2:Cargando...
 
 ![Marcada como la No. 6, fue despachada de Las Piedras el 8 de octubre 1857 vía Omoa de donde parte el 18 de octubre, arribando a Nueva York el 14 de noviembre. Se le aplica una cancelación de llegada de 5 cts. y una viñeta provisional de multa de 5 cts.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image11.webp)
 
@@ -158,7 +158,7 @@ Carta No. 3:
 
 ![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image20.webp)
 
-Campo Naranja, Honduras, Jueves Nov. 26th/57
+## Campo Naranja, Honduras, Jueves Nov. 26th/57
 
 > Querida hermana.
 >
@@ -196,9 +196,9 @@ Carta No. 4:
 
 ![](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image26.webp)
 
-Aguanqueterique, Hond.
+## Aguanqueterique, Hond.
 
-Domingo, Enero 17, 1858
+## Domingo, Enero 17, 1858
 
 > Querida hermana
 >
@@ -272,7 +272,7 @@ Habiendo sufrido una penosa enfermedad que lo mantuvo paralítico por siete año
 
 APÉNDICE
 
-Comodoro William Nicholson Jeffers.
+## Comodoro William Nicholson Jeffers.
 
 Nació en Swedesboro, Nueva Jersey 6 de octubre de 1824 y falleció en Washington D. C. el 23 de julio de 1883.
 
@@ -280,21 +280,21 @@ El 23 de septiembre de 1840 es nombrado Guardiamarina de la Armada Americana, si
 
 Sirvió en el *USS Vixen* durante la Guerra Mexicana, activo en el asalto a Alvarado, la captura de Tabasco y el bombardeo a Veracruz.
 
-Instructor en la Academia Naval de los Estados Unidos, 1848-1849.
+## Instructor en la Academia Naval de los Estados Unidos, 1848-1849.
 
 Entre 1852 y 1853 y en 1857 sirvió en el Golfo de México en el barco *USS Honduras* haciendo el estudio para la ruta interoceánica.
 
 Entre 1853 y 1856 comandó el *USS Water Witch*, como parte de la escuadra en Brasil para estudiar los ríos Paraná y La Plata.
 
-Promovido a teniente en 1855.
+## Promovido a teniente en 1855.
 
 Hidrógrafo en el estudio para el canal a través del istmo de Panamá y Honduras, 1859-1860.
 
-Comandante del *USS Filadelfia* en el río Potomac, 1861.
+## Comandante del *USS Filadelfia* en el río Potomac, 1861.
 
 Durante la década de 1870 y principios de 1880 se desempeñó como Jefe de la Oficina de Artillería del ejército de los USA.
 
-Pacific Mail Steamship Company (PMSC).
+## Pacific Mail Steamship Company (PMSC).
 
 ![William Henry Aspinwall](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image35.webp)
 

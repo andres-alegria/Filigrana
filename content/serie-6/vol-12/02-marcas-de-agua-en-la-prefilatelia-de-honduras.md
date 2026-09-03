@@ -24,13 +24,13 @@ La prefilatelia de Honduras abarca todo el periodo colonial y el republicano has
 
 La filigrana, llamada también correctamente marca de agua, es un elemento distintivo, de seguridad, consistente en letras, un nombre, un emblema alegórico o un escudo colocado en la hoja, invisible a primera vista, pero muy claro cuando se observa al trasluz, revelando la ciudad o el molino donde se elaboró el papel. Su visibilidad se debe a un menor espesor del papel. La variación del espesor es el resultado de aplicar un hilo metálico sobre la forma que genera la hoja, formando un dibujo. Cuando el maestro papelero introducía la forma en la suspensión de fibras contenidas en la tina y lo sacaba para formar la hoja, el agua se escurría rápidamente dejando las fibras sobre la forma con ayuda de rápidos movimientos que el papelero realizaba para nivelar las fibras. Éstas se repartían de forma homogénea excepto donde se encontraba el hilo metálico de la filigrana quedando su impronta debido a que el espesor de la hoja resultaba inferior a causa del espesor del hilo. La filigrana fue introducida en Fabriano, Italia, alrededor del año 1276. Hoy en día, además de ser objeto de colección, las marcas de agua aportan un importante elemento de juicio en la datación de documentos a fin de establecer la autenticidad de los mismos.
 
-La Fabricación de Papel en el Contexto Histórico.
+## La Fabricación de Papel en el Contexto Histórico.
 
 Por aproximadamente 500 años el arte de producir papel estuvo confinado a China, pero en el 610 fue introducido a Japón, y en el 750 a Asia Central. La tradición señala que fabricantes de papel chinos fueron capturados por los árabes en una batalla cerca de Samarkanda en el 751 D. C., expandiendo luego el arte hacia Occidente. En el 793 había una fábrica funcionando en Bagdad, con operarios chinos llevados por Haroun-el-Raschid. El próximo lugar de producción conocido fue Damasco, que surtiría Europa por varios siglos. El papel apareció en Egipto alrededor del año 800 pero no se fabricó aquí sino hasta el 900; luego el conocimiento fue llevado a Marruecos y más tarde a Europa por los moros. Fue en Fabriano, pequeña ciudad del interior de la región de Las Marcas, donde inició el proceso. El por qué se emplaza aquí, lo cual hace de Fabriano el centro más  importante de producción de papel en Europa, se debe seguramente a su proximidad con Ancona, puerto que tenía intercambios comerciales con el mundo árabe.
 
 En Europa, el texto más antiguo escrito sobre papel fue escrito en España antes del 1036. Se trata del *Breviarium y Missale Mozarabicum*, escrito sobre papel árabe en el convento de Santo Domingo de Silos en Burgos. En el área alemana, la *Recopilación de Registros Jurídicos*, comenzado en el 1246, de Alberto Behaim, procedente del convento bávaro de Aldersbach, se considera el documento más antiguo escrito sobre papel. La fabricación del papel en España aparece antes de 1150 y en Italia antes de 1230. Dada la penuria crónica de materia prima, en los centros de producción estaba vigente el monopolio de la recogida de los trapos de los cuales se prohibía, por regla general, su exportación. Una vez recogidos los trapos, se clasificaban y ponían a macerar para luego ser pasados a las pilas de mazos accionadas por una rueda de molino que los reducía a pulpa. Para poder realizar la segunda fase y fabricar papel a partir de la pulpa así obtenida, era necesario disponer de un mecanismo constituido por un molde y una malla metálica. Esta malla estaba compuesta por un gran número de hilos horizontales y paralelos llamados puntizones y otros más distantes y perpendiculares a ellos, llamados corondeles. Tanto unos como otros quedaban marcados en el papel, dando así origen al nombre de “papel listado”. La trama era tan densa que, cuando la forma se llenaba con la pulpa de la tina, el agua se colaba depositándose sobre el tamiz una ligera capa de fibras. En el lugar en que la pulpa se depositaba sobre los alambres, la cantidad era menor respecto a la depositada en los espacios libres. Lo mismo ocurría donde estaba la filigrana unida en el interior de la forma. El procedimiento se desarrollaba por dos operarios que lo realizaban “a ciclo continuo”, utilizando dos formas; el “levador” tenía la misión de sumergir la primera forma en la pulpa y agitarla con movimientos regulares, para que las fibras se distribuyesen uniformemente. El “ponedor”, mientras el levador realizaba la misma operación con la segunda forma, cogía la que tenia la hoja de papel acabada de hacer y la giraba depositándola sobre un rectángulo de fieltro preparado expresamente. La hoja de papel todavía mojada se recubría con otro fieltro que impedía que el siguiente folio se adhiriese al anterior. Para agilizar la eficacia del procedimiento, el trabajo se realizaba con un par de formas, y por lo tanto también las filigranas eran dos, colocadas respectivamente sobre la mitad derecha e izquierda de la forma. Con deliberada intención y a pesar de que el tema representado fuese el mismo, los dibujos eran siempre ligeramente diferentes, de modo que las hojas de papel realizadas de esta manera contienen siempre dos variantes de la misma filigrana. Podemos, por lo tanto, hablar de verdaderas “filigranas gemelas” en la medida que estaban reunidas en la misma partida de papel y por consecuencia, en los documentos que han llegado hasta nuestros días.
 
-Orígenes del Papel en España.
+## Orígenes del Papel en España.
 
 Cuando en el año 711 los árabes llegaron a España aun no se conocía la fabricación de papel. Se supone que se introdujo a Córdova a mediados del siglo X, época en que la ciudad vivió una época de gran esplendor cultural. Si Bagdad, Damasco, El Cairo, como grandes centros culturales que eran, ya poseían molinos papeleros ¿Por qué no los iba a tener Córdoba, que contaba con un gran río, trapos, almidón y las bibliotecas y archivos del Califato? Por lo tanto, en la España musulmana debieron existir molinos papeleros en Córdoba, Sevilla, Granada y Toledo durante los siglos X y XI. Todo esto entra en el terreno de la conjetura ya que Jàtiva fue la primera población de Occidente que se sabe tuvo industria papelera. En 1154, el geógrafo árabe El Edrisi nos dice: “Játiva es una bonita villa con castillos... se fabrica papel como no se encuentra otro en el mundo. *Se expide a Oriente y Occidente*”. El papel hispano-árabe más antiguo que se conserva es el del Glosario de Leyde, elaborado en los primeros años del siglo X, y conservado en las Bibliotecas Nacionales de París. En España existe en el monasterio benedictino de Santo Domingo de Silos, el Misal Mozárabe, escrito sobre papel fabricado antes de 1036, ya que en este año el rito mozárabe fue sustituido por el gregoriano.
 
@@ -42,7 +42,7 @@ En Europa, a mediados del siglo XIV se había iniciado un resurgir cultural prop
 
 La imprenta llega a España hacia 1472, es decir pocos años después de haberse establecido en Venecia, Nápoles y Florencia. A pesar de ello, en España la producción sería modesta, limitándose al mercado nacional e incluso puede decirse que local, siendo frecuente la importación desde Francia o Italia de ejemplares de ediciones para los que no existía una demanda interna suficiente.
 
-La Corona Española Proveedora de Papel en Hispanoamérica.
+## La Corona Española Proveedora de Papel en Hispanoamérica.
 
 Los españoles que se desplazaron a América para la conquista, evangelización y gobierno de los nuevos territorios muy pronto sintieron la necesidad de tener libros, ya sea los misioneros como instrumento de trabajo para la conversión de los indios o los funcionarios para el buen orden administrativo y todos ellos para su uso personal; por ello la fecha de la introducción de la imprenta en Hispanoamérica es muy temprana, anterior a muchos países europeos y casi dos siglos antes que en los Estados Unidos de América.
 
@@ -68,7 +68,7 @@ Próxima a los molinos estaba "La Balsa", una fuente natural que manaba tres mil
 
 Beceite.
 
-Localizada en la comarca de Matarraña, provincia de Teruel, en España.
+## Localizada en la comarca de Matarraña, provincia de Teruel, en España.
 
 El papa Benedicto XIII, el 1 de diciembre de 1411 concedió a su médico particular el converso Jerónimo de Santa Fe los derechos del “molino para paños en Bezeyt”, perteneciente a la mesa arzobispal de Zaragoza.  Esta es la primera referencia sobre los molinos en Beceite. Las referencias posteriores las proporciona el cura de la población Joaquín de Liedana que escribió en los libros parroquiales a finales del siglo XVIII y principios del XIX sobre la floreciente industria del papel. En 1804 se inauguró la última de un total de nueve fábricas. La subida arancelaria sobre el trapo (con el que hacían el papel) impuesta por los borbones durante el siglo XVIII estimuló a los burgueses de la época, de modo que empresarios aragoneses y catalanes pusieron en funcionamiento en Beceite y Valderrobres sus molinos papeleros.
 
@@ -116,7 +116,7 @@ Aunque data de tres años posteriores a la prefilatelia, pero considerando la ag
 >
 > Alvino C. Cruz
 
-Nota del editor: Se ha respetado la ortografía del texto original.
+## Nota del editor: Se ha respetado la ortografía del texto original.
 
 La anterior evidencia las peripecias para obtener papel de calidad, teniendo que recurrir a los proveedores ingleses en Belice.
 
@@ -124,11 +124,11 @@ A continuación se presentan en orden cronológico las filigranas hasta ahora de
 
 Fabricante: Propietario o arrendatario del molino. Hay que tomar en cuenta que en varios casos los hijos heredaban el negocio manteniendo la misma marca como símbolo de prestigio y originalidad.
 
-Lugar: Ciudad o zona donde estaba establecido el molino.
+## Lugar: Ciudad o zona donde estaba establecido el molino.
 
-Año: la fundación del molino o fecha más antigua encontrada.
+## Año: la fundación del molino o fecha más antigua encontrada.
 
-Referencia: la pieza estudiada al efecto.
+## Referencia: la pieza estudiada al efecto.
 
 Es oportuno señalar que a partir de la Independencia Patria (1821) es notable encontrar piezas con filigranas procedentes de fabricantes en Inglaterra, Francia, y Holanda, países previamente proscritos del comercio colonial y que ahora, en el caso de los dos primeros, reemplazaban el consabido contrabando por una activa participación tanto en el campo económico como en el político. Por otra parte, está claro que estas filigranas sólo representan una fracción de las muchas que están pendientes de salir a la luz en el epistolario nacional, y que bien podrían dar pie al montaje de una interesante colección, lo mismo que para la datación y/o expertización de documentos y libros de la época.
 
@@ -136,7 +136,7 @@ Es oportuno señalar que a partir de la Independencia Patria (1821) es notable e
 
 ![Fabricante: W. S. Hodgkinson & Co.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image3.webp)
 
-Lugar: Wookey Hole, Inglaterra.
+## Lugar: Wookey Hole, Inglaterra.
 
 Año: 1610.
 
@@ -146,31 +146,31 @@ Referencia: Carta oficial remitida de Los Llanos de Santa Rosa a Chiquimula (Gua
 
 ![Fabricante: F. P.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image4.webp)
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: 1701.
 
-Referencia: Carta oficial remitida (circa 1787) desde Comayagua a Guatemala.
+## Referencia: Carta oficial remitida (circa 1787) desde Comayagua a Guatemala.
 
 3.
 
 ![Fabricante: Ramón Guarro Costa.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image5.webp)
 
-Lugar: Torre de Claramunt, España.
+## Lugar: Torre de Claramunt, España.
 
 Año: 1702.
 
-Referencia: Carta particular remitida de Omoa a Guatemala. (Sin fecha).
+## Referencia: Carta particular remitida de Omoa a Guatemala. (Sin fecha).
 
 4.
 
 ![Fabricante: Ramón Guarro Costa.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image6.webp)
 
-Lugar: Torre de Claramunt, España.
+## Lugar: Torre de Claramunt, España.
 
 Año: 1702.
 
-Referencia: Impreso oficial remitido desde Comayagua en 1836.
+## Referencia: Impreso oficial remitido desde Comayagua en 1836.
 
 5.
 
@@ -180,7 +180,7 @@ Lugar: Italia.
 
 Año: 1705.
 
-Referencia: Carta oficial remitida de Santa Bárbara a Comayagua el
+## Referencia: Carta oficial remitida de Santa Bárbara a Comayagua el
 
 18 de diciembre de 1851.
 
@@ -188,11 +188,11 @@ Referencia: Carta oficial remitida de Santa Bárbara a Comayagua el
 
 ![Fabricante: Jacob Honig & Zoonen.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image8.webp)
 
-Lugar: Zaandyk, Holanda.
+## Lugar: Zaandyk, Holanda.
 
 Año: 1708.
 
-Referencia: Carta particular remitida de Comayagua a Guatemala en 1858.
+## Referencia: Carta particular remitida de Comayagua a Guatemala en 1858.
 
 7.
 
@@ -202,7 +202,7 @@ Lugar: España.
 
 Año: 1740.
 
-Referencia: Carta oficial remitida de Comayagua a Tegucigalpa en 1809.
+## Referencia: Carta oficial remitida de Comayagua a Tegucigalpa en 1809.
 
 8.
 
@@ -220,21 +220,21 @@ Referencia: Carta oficial remitida de Jocoro (El Salvador) a San Miguel el 1 de 
 
 ![Fabricante: Ramón Romaní.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image11.webp)
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: circa 1760.
 
-Referencia: Carta oficial remitida de Río Tinto a Guatemala en 1788.
+## Referencia: Carta oficial remitida de Río Tinto a Guatemala en 1788.
 
 10.
 
 ![Fabricante: A. E.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image12.webp)
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: circa 1763.
 
-Referencia: Carta oficial remitida (circa 1814) desde Guatemala a Tegucigalpa.
+## Referencia: Carta oficial remitida (circa 1814) desde Guatemala a Tegucigalpa.
 
 11.
 
@@ -250,21 +250,21 @@ Referencia: Carta oficial remitida de Langue a Nacaome el 28 de diciembre de 178
 
 ![Fabricante: G. B. Fabiani.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image14.webp)
 
-Lugar: Liguria, Italia.
+## Lugar: Liguria, Italia.
 
 Año: 1774.
 
-Referencia: Carta oficial remitida de Tegucigalpa a Guatemala en 1790.
+## Referencia: Carta oficial remitida de Tegucigalpa a Guatemala en 1790.
 
 13.
 
 ![Fabricante: Familia Lluciá.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image15.webp)
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: circa 1780.
 
-Referencia: Carta oficial remitida (circa 1805) desde Tegucigalpa a Olancho.
+## Referencia: Carta oficial remitida (circa 1805) desde Tegucigalpa a Olancho.
 
 14.
 
@@ -272,13 +272,13 @@ Referencia: Carta oficial remitida (circa 1805) desde Tegucigalpa a Olancho.
 
 Año: 1782.
 
-Referencia: Carta oficial circulada localmente en Comayagua (circa 1866).
+## Referencia: Carta oficial circulada localmente en Comayagua (circa 1866).
 
 15.
 
 ![Fabricante: Giorgio y Domenico Magnani.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image17.webp)
 
-Lugar: Pescia, Italia.
+## Lugar: Pescia, Italia.
 
 Año: 1783.
 
@@ -288,17 +288,17 @@ Referencia: Carta particular remitida de Comayagua a Trujillo el 3 de julio de 1
 
 ![Fabricante: Molino de la Villa.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image18.webp)
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: 1787.
 
-Referencia: Carta particular remitida a Comayagua el 3 de enero de 1856.
+## Referencia: Carta particular remitida a Comayagua el 3 de enero de 1856.
 
 17.
 
 ![Fabricante: Desconocido.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image19.webp)
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: 1787.
 
@@ -308,51 +308,51 @@ Referencia: Carta militar remitida de Comayagua a Guatemala el 25 de enero de 18
 
 ![Fabricante: Richard Webster.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image20.webp)
 
-Lugar: Nueva York, USA.
+## Lugar: Nueva York, USA.
 
 Año: 1792.
 
-Referencia: Carta particular remitida de Omoa a Izabal (Guatemala) en
+## Referencia: Carta particular remitida de Omoa a Izabal (Guatemala) en
 
 1832.
 
 19.
 
-Fabricante: Richard de Bas.
+## Fabricante: Richard de Bas.
 
-Lugar: Ambert, Auvergne, Francia.
+## Lugar: Ambert, Auvergne, Francia.
 
 Año: 1793.
 
-Referencia: Carta oficial remitida de Santa Bárbara a Comayagua el
+## Referencia: Carta oficial remitida de Santa Bárbara a Comayagua el
 
 7 de abril de 1843.
 
 20.
 
-Fabricante: Giormani Magnani.
+## Fabricante: Giormani Magnani.
 
-Lugar: Pescia, Italia.
+## Lugar: Pescia, Italia.
 
 Año: 1798.
 
-Referencia: Carta oficial remitida de Cedros a Comayagua. S/F.
+## Referencia: Carta oficial remitida de Cedros a Comayagua. S/F.
 
 21.
 
 ![Fabricante: Pau Antoni Miguel.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image23.webp)
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: Desconocido.
 
-Referencia: Carta oficial remitida (circa 1798) desde La Habana a Trujillo.
+## Referencia: Carta oficial remitida (circa 1798) desde La Habana a Trujillo.
 
 22.
 
 ![Fabricante: Torres y Brugada.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image24.webp)
 
-Lugar: Madrid, España.
+## Lugar: Madrid, España.
 
 Año: circa 1798.
 
@@ -362,27 +362,27 @@ Referencia: Carta oficial remitida (circa 1806) desde Guatemala a Tegucigalpa v�
 
 ![Fabricante: J. P. Costas.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image25.webp)
 
-Lugar: Beceite, España.
+## Lugar: Beceite, España.
 
 Año: circa 1800.
 
-Referencia: Carta oficial remitida de Olancho a Comayagua. S/F.
+## Referencia: Carta oficial remitida de Olancho a Comayagua. S/F.
 
 24.
 
 ![Fabricante: Ramón Romani Puigdengolas.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image26.webp)
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: 1801.
 
-Referencia: Carta oficial remitida de Choluteca a Guatemala en 1810.
+## Referencia: Carta oficial remitida de Choluteca a Guatemala en 1810.
 
 25.
 
-Fabricante: Casa De Vall.
+## Fabricante: Casa De Vall.
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: circa 1804
 
@@ -392,19 +392,19 @@ Referencia: Carta particular remitida desde San Antonio del Norte a Comayagua el
 
 26.
 
-Fabricante: James Fellows.
+## Fabricante: James Fellows.
 
-Lugar: Buckinghamshire, Inglaterra.
+## Lugar: Buckinghamshire, Inglaterra.
 
 Año: 1804.
 
-Referencia: Carta oficial remitida de Belice a Omoa el 19 de marzo 1824.
+## Referencia: Carta oficial remitida de Belice a Omoa el 19 de marzo 1824.
 
 27.
 
-Fabricante: James Fellows.
+## Fabricante: James Fellows.
 
-Lugar: Buckinghamshire, Inglaterra.
+## Lugar: Buckinghamshire, Inglaterra.
 
 Año: 1804.
 
@@ -418,15 +418,15 @@ Lugar: España.
 
 Año: 1805.
 
-Referencia: Carta oficial remitida de Gracias a Dios a Guatemala.
+## Referencia: Carta oficial remitida de Gracias a Dios a Guatemala.
 
 (Sin fecha).
 
 29.
 
-Fabricante: Antonio Ferrer.
+## Fabricante: Antonio Ferrer.
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: circa 1805.
 
@@ -434,9 +434,9 @@ Referencia: Impreso oficial remitido de Guatemala a Yuscarán el 8 de agosto de 
 
 30.
 
-Fabricante: Antonio Ferrer.
+## Fabricante: Antonio Ferrer.
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: 1805.
 
@@ -446,17 +446,17 @@ Referencia: Carta oficial remitida (circa 1811) desde Tegucigalpa a Guatemala. (
 
 ![Fabricante: Giovanni e Cosino Cini.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image33.webp)
 
-Lugar: San Marcello, Pistoia, Italia.
+## Lugar: San Marcello, Pistoia, Italia.
 
 Año: 1807.
 
-Referencia: Carta particular de Tru- jillo a Omoa el 27 de marzo de 1832.
+## Referencia: Carta particular de Tru- jillo a Omoa el 27 de marzo de 1832.
 
 32.
 
 Fabricante: Grillo.
 
-Lugar: Génova, Italia.
+## Lugar: Génova, Italia.
 
 Año: circa 1820.
 
@@ -464,17 +464,17 @@ Referencia: Carta oficial remitida de Los Llanos de Santa Rosa a Comayagua. (Sin
 
 33.
 
-Fabricante: Antica Cartiera Amalfina.
+## Fabricante: Antica Cartiera Amalfina.
 
-Lugar: Pucara, Italia.
+## Lugar: Pucara, Italia.
 
 Año: Desconocido.
 
-Referencia: Carta particular remitida
+## Referencia: Carta particular remitida
 
 (circa 1861) de Tegucigalpa a
 
-Guatemala. (Sin fecha).
+## Guatemala. (Sin fecha).
 
 34.
 
@@ -484,17 +484,17 @@ Lugar: Desconocido.
 
 Año: Desconocido.
 
-Referencia: Carta oficial remitida
+## Referencia: Carta oficial remitida
 
 (circa 1811) desde Tegucigalpa a
 
-Guatemala. (Sin fecha).
+## Guatemala. (Sin fecha).
 
 35.
 
 ![Fabricante: Benito Picardo.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image37.webp)
 
-Lugar: Liguria, Italia.
+## Lugar: Liguria, Italia.
 
 Año: 1813.
 
@@ -506,7 +506,7 @@ Referencia: Carta militar remitida de Colomoncagua a Guarita el 30 de octubre de
 
 ![](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image39.webp)
 
-Lugar: Pescia, Italia.
+## Lugar: Pescia, Italia.
 
 Año: 1813.
 
@@ -516,7 +516,7 @@ Referencia: Carta particular circulada localmente en Tegucigalpa el 26 de mayo d
 
 ![Fabricante: Giorgio y Domenico Magnani.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image40.webp)
 
-Lugar: Pescia, Italia.
+## Lugar: Pescia, Italia.
 
 Año: 1820.
 
@@ -526,11 +526,11 @@ Referencia: Carta oficial remitida de Comayagua a Guatemala el 12 de noviembre d
 
 ![Fabricante: Francisco Romani.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image41.webp)
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: circa 1821.
 
-Referencia: Carta particular remitida de Trujillo a Guatemala. (Sin fecha).
+## Referencia: Carta particular remitida de Trujillo a Guatemala. (Sin fecha).
 
 39.
 
@@ -540,7 +540,7 @@ Lugar: Desconocido.
 
 Año: circa 1820.
 
-Referencia: Plica remitida de Guatemala a Tegucigalpa. (Sin fecha).
+## Referencia: Plica remitida de Guatemala a Tegucigalpa. (Sin fecha).
 
 40.
 
@@ -550,17 +550,17 @@ Lugar: Desconocido.
 
 Año: circa 1820
 
-Referencia: Plica remitida de Guatemala a Tegucigalpa. (Sin fecha).
+## Referencia: Plica remitida de Guatemala a Tegucigalpa. (Sin fecha).
 
 41.
 
 ![Fabricante: John Mathers?](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image44.webp)
 
-Lugar: Gales, Reino Unido.
+## Lugar: Gales, Reino Unido.
 
 Año: 1822.
 
-Referencia: Carta particular remitida (circa 1823) de Belice a Omoa.
+## Referencia: Carta particular remitida (circa 1823) de Belice a Omoa.
 
 42.
 
@@ -576,13 +576,13 @@ Referencia: Carta particular remitida de Cantarranas a Comayagua el 25 de noviem
 
 ![Fabricante: Laroche y Joubert.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image46.webp)
 
-Lugar: Angouleme, Francia.
+## Lugar: Angouleme, Francia.
 
 Año: 1841.
 
-Referencia: Carta oficial remitida de
+## Referencia: Carta oficial remitida de
 
-Olancho a Comayagua el 11 de octubre de 1864.
+## Olancho a Comayagua el 11 de octubre de 1864.
 
 44.
 
@@ -592,9 +592,9 @@ Lugar: España.
 
 Año: Desconocido.
 
-Referencia: Carta oficial remitida de
+## Referencia: Carta oficial remitida de
 
-Tegucigalpa a Comayagua en marzo de 1804.
+## Tegucigalpa a Comayagua en marzo de 1804.
 
 45.
 
@@ -604,7 +604,7 @@ Lugar: Desconocido.
 
 Año: Desconocido.
 
-Referencia: Carta oficial remitida (circa 1822) desde Comayagua a
+## Referencia: Carta oficial remitida (circa 1822) desde Comayagua a
 
 Yoro.
 
@@ -612,11 +612,11 @@ Yoro.
 
 ![Fabricante: Antonio Camps y Munseny.](/img/serie-6/vol-12/02-marcas-de-agua-en-la-prefilatelia-de-honduras/image49.webp)
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: Desconocido.
 
-Referencia: Carta militar remitida (circa 1824) de Danlí a Tegucigalpa.
+## Referencia: Carta militar remitida (circa 1824) de Danlí a Tegucigalpa.
 
 47.
 
@@ -624,7 +624,7 @@ Referencia: Carta militar remitida (circa 1824) de Danlí a Tegucigalpa.
 
 Munseny.
 
-Lugar: Capellades, España.
+## Lugar: Capellades, España.
 
 Año: Desconocido.
 
@@ -642,9 +642,9 @@ Referencia: Carta particular remitida de Guatemala a Trujillo el 6 de julio de 1
 
 49.
 
-Fabricante: Desconocido.
+## Fabricante: Desconocido.
 
-Lugar: Cataluña, España.
+## Lugar: Cataluña, España.
 
 Año: Desconocido.
 
@@ -652,13 +652,13 @@ Referencia: Carta oficial remitida de Comayagua a Trujillo el 7 de marzo de 1846
 
 50.
 
-Fabricante: D. Andre.
+## Fabricante: D. Andre.
 
 Lugar: Desconocido.
 
 Año: Desconocido.
 
-Referencia: Carta oficial remitida de Comayagua a Olancho. (Sin fecha).
+## Referencia: Carta oficial remitida de Comayagua a Olancho. (Sin fecha).
 
 NOTA DEL EDITOR: Por razones de espacio, el tamaño de las marcas de agua fue reducido según el caso a un 20% y a un 30%.
 

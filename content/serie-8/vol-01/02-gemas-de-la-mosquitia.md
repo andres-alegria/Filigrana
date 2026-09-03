@@ -46,13 +46,13 @@ El nombramiento de Hodgson en dos ocasiones fue una sinecura resultante de ser h
 
 Robert Hogdson II (nacido en 1737) se había casado en 1766 con Elizabeth Pitt en Londres, retornando sola a Black River hasta donde luego la alcanzó su esposo en 1768. De este matrimonio resultaron cuatro hijos:
 
-William (Billy) Pitt Hodgson (1767-1800).
+## William (Billy) Pitt Hodgson (1767-1800).
 
-Robert (Bob) Hodgson III (1769-1808).
+## Robert (Bob) Hodgson III (1769-1808).
 
 Martha María Hodgson (1774-1850). (A la edad de 3 años fue enviada a Bristol, Inglaterra).
 
-Elizabeth Ariadne (Ari) Hodgson (1776-1792).
+## Elizabeth Ariadne (Ari) Hodgson (1776-1792).
 
 Establecido en Bluefields en 1751, Hodgson II logró gran poder y fortuna. Poseía una amplia servidumbre y era propietario de más de 200 esclavos.
 
@@ -86,7 +86,7 @@ Por seis meses no he tenido noticias de Rose o de la Costa.
 
 Amor y bendiciones
 
-Guatemala. Junio 2º. 1791.
+## Guatemala. Junio 2º. 1791.
 
 Tu apasionado
 
@@ -142,7 +142,7 @@ Está claro que este fue un caso *sui generis* probablemente irrepetible a lo la
 
 Los zambos continuaron gobernando hasta el 12 de febrero de 1894, fecha en que el general nicaragüense Rigoberto Cabezas, por medio de una acción militar en Bluefields disuelve el reino misquito, anexando esa parte del territorio a la República de Nicaragua. A consecuencia de este suceso el último de los reyes, Robert Henry Clarence, se exilió en Jamaica. A pesar de lo irreversible del asunto, algunos líderes misquitos rehusaron aceptar el triste final de su extinto reino, de manera tal que las revueltas tendentes a exigir el retorno de su Rey se sucedieron estérilmente a lo largo de la primera década del siglo XX.
 
-Robert Henry Clarence.
+## Robert Henry Clarence.
 
 ![Último rey Mosco (1890-1894).](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image8.webp)
 
@@ -188,7 +188,7 @@ A continuación la transcripción del texto y la respuesta del Gobierno. Se acla
 >
 > Vale
 
-Borrador de la respuesta enviada por el Gobierno:
+## Borrador de la respuesta enviada por el Gobierno:
 
 > Gobierno S. del Estado
 >
@@ -258,9 +258,9 @@ Si bien el Estado de Honduras había consolidado sus derechos territoriales de m
 
 Bibliografía
 
-Alegría R., Edgardo. Colección privada. Tegucigalpa, Honduras.
+## Alegría R., Edgardo. Colección privada. Tegucigalpa, Honduras.
 
-Bendeck D., Sergio. Colección *Prefilatelia de Honduras*. Tegucigalpa, Honduras.
+## Bendeck D., Sergio. Colección *Prefilatelia de Honduras*. Tegucigalpa, Honduras.
 
 Floyd, Troy S. *La Mosquitia, un conflicto de imperios*. Centro Editorial. San Pedro Sula, Honduras. 1990.
 
@@ -268,12 +268,12 @@ Floyd, Troy S. *La Mosquitia, un conflicto de imperios*. Centro Editorial. San P
 
 *Revista de Indias*, Volumen LXVII, Número 241. Madrid, España. 2007.
 
-Kouri, Yamil. Colección privada. Florida, EUA.
+## Kouri, Yamil. Colección privada. Florida, EUA.
 
 Vallejo, Antonio Ramón. *Primer Anuario Estadístico de Honduras*. Tipografía Nacional. Tegucigalpa, Honduras. 1893.
 
-XX EXPOSICIÓN FILATÉLICA INTERNACIONAL
+## XX EXPOSICIÓN FILATÉLICA INTERNACIONAL
 
-DEL 19 AL 24 DE NOVIEMBRE DEL 2024
+## DEL 19 AL 24 DE NOVIEMBRE DEL 2024
 
-INSTITUTO HONDUREÑO DE CULTURA HISPÁNICA, TEGUCIGALPA
+## INSTITUTO HONDUREÑO DE CULTURA HISPÁNICA, TEGUCIGALPA

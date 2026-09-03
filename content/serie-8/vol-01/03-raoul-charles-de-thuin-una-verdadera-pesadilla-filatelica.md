@@ -44,9 +44,9 @@ A los 41 años de Thuin salió huyendo de Europa perseguido por la policía belg
 
 Es poco lo que podemos decir acerca de su vida personal en Tegucigalpa; no obstante, si podemos afirmar que a pesar de que de Thuin tenía fichas policiales abiertas en media docena de países, y aún con todas las posibles deficiencias de nuestro entorno judicial, este fue el único país donde, en 1935, puso los pies en la cárcel. Eventualmente sería expulsado en 1936. A continuación presentamos lo pertinente al proceso incoado en su contra por la justicia hondureña:
 
-DENUNCIA DE HURTO DE UNA CANTIDAD DE SELLOS USADOS
+## DENUNCIA DE HURTO DE UNA CANTIDAD DE SELLOS USADOS
 
-Señor Juez de Paz 2º de lo Criminal.
+## Señor Juez de Paz 2º de lo Criminal.
 
 El suscrito en su carácter de Juez de Letras 1º. de lo Criminal de este departamento, denuncia ante usted, el delito de hurto de estampillas usadas, decomisadas a Raúl De Thuin, y verificado en el Despacho de este Juzgado en el tiempo transcurrido antes del 1º. de abril del corriente año.…
 
@@ -74,17 +74,17 @@ Al analizar las fechas del juicio se puede concluir que de Thuin por alguna raz�
 
 Con el uso de sus alias para despistar el origen fraudulento de su negocio, también trataba de eludir las denuncias de fraude formuladas en su contra. Entre sus varios pseudónimos y cómplices, se incluían:
 
-Belize´s French Stores
+## Belize´s French Stores
 
 Maya Shop
 
 Raoul Ch. de Thuin
 
-Gilda Rivero Mendoza
+## Gilda Rivero Mendoza
 
-Gilda Rivero de Thuin
+## Gilda Rivero de Thuin
 
-Gilda Rivero Mendoza de Thuin
+## Gilda Rivero Mendoza de Thuin
 
 Thelma Salazar
 
@@ -92,13 +92,13 @@ Blanca Soberanis
 
 Socorro Duran M.
 
-Belgian Export Company
+## Belgian Export Company
 
-French Philatelic Agency
+## French Philatelic Agency
 
-Free French Philatelic Agency
+## Free French Philatelic Agency
 
-Agencia Filatélica de Mérida
+## Agencia Filatélica de Mérida
 
 R. G. Knapenn
 
@@ -108,7 +108,7 @@ El siguiente es un sobre, con su carta incluida, despachado de Mérida a los EUA
 
 ![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image29.webp)
 
-FRENCH PHILATELIC AGENCY
+## FRENCH PHILATELIC AGENCY
 
 APARTADO POSTAL 404
 
@@ -116,25 +116,25 @@ MERIDA
 
 Republic of México
 
-Mérida 10 February 1942
+## Mérida 10 February 1942
 
 BANKS: BANCOS
 
-ROYAL BANK OF CANADA. BELICE.
+## ROYAL BANK OF CANADA. BELICE.
 
-BANCO DE YUCATAN. MERIDA.
+## BANCO DE YUCATAN. MERIDA.
 
-MIEMBRO DE: MEMBER OF:
+## MIEMBRO DE: MEMBER OF:
 
 GUIANA HOBBY CLUB
 
 LIBRE ECHANGE
 
-CLUB FILAT. DEL BRASIL
+## CLUB FILAT. DEL BRASIL
 
-ASOCIACION FILAT. SINALOENSE
+## ASOCIACION FILAT. SINALOENSE
 
-MANIZALES FILATELICO
+## MANIZALES FILATELICO
 
 AMERICAN POST
 
@@ -154,7 +154,7 @@ Por favor denos referencias e inmediatamente que las hayamos controlado enviarem
 
 De usted muy atentamente,
 
-FRENCH PHILATELIC AGENCY
+## FRENCH PHILATELIC AGENCY
 
 ![1939. Despachada a Inglaterra durante su estadía en Belice, dirigida a Tommy Allen, conocido comerciante de rarezas coloniales inglesas.](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image30.webp)
 
@@ -232,7 +232,7 @@ I am interested to buy a few reprints of Gibbons Salvador sets (watmk andunwtmk)
 
 SALES: In Salvador I can supply all rare stamps (excellent fakes listed inScott and, from these listed in Gibbons excellent rare fake (one of each)Nos: 65 ($11-) and the rarest 65a ($15) I have too for sale some genuine English colonies as Br. Guiana, Cape, etc.
 
-Awaiting your early news, with my very best regards,
+## Awaiting your early news, with my very best regards,
 
 Sincerely yours,
 
@@ -272,15 +272,15 @@ La esposa Blanche E. Andrade Bowen de Thuin, la hija Diane de Sousa, los hermano
 
 ![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image35.webp)
 
-Raoul Charles de Thuin Kanappen
+## Raoul Charles de Thuin Kanappen
 
 Cumplen con el penoso deber de comunicar a sus amigos, relacionados y a los que fueron del extinto, su sensible fallecimiento acaecido el día 23 de abril. Sus restos mortales se encuentran velando en Callejón Sin Nombre 106, entre Chambers y Rosendo Avilés, hasta su traslado a Río de Janeiro en donde será inhumado.
 
-NOTA: El pésame se recibe por tarjetas.
+## NOTA: El pésame se recibe por tarjetas.
 
-Obituario publicado en el periódico El Universo
+## Obituario publicado en el periódico El Universo
 
-Guayaquil, Ecuador, el 25 de abril de 1975.
+## Guayaquil, Ecuador, el 25 de abril de 1975.
 
 COLOFÓN
 
