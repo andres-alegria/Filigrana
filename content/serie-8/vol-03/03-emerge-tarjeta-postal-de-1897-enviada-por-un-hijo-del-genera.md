@@ -76,9 +76,7 @@ Autor: José Mejía Lacayo Magazine:
 
 Revista: *Temas Nicaragüenses* No. 69 / página 144.
 
-Artículo: General Francisco Morazán Prócer de la Unidad de la
-
-República Centroamericana
+Artículo: General Francisco Morazán Prócer de la Unidad de la República Centroamericana
 
 Autor: Hugo J. Vélez Astacio
 

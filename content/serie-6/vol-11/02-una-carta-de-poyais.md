@@ -26,9 +26,7 @@ Tengo el honor de enviar a V. E. una copia de las propuestas que estoy encargado
 
 Calle de Arenal No. 1 Th. Irving
 
-Madrid 14 de octubre 1822 Asistente y Comisionado de
-
-S. A. el Cacique de Poyais”
+Madrid 14 de octubre 1822 Asistente y Comisionado de S. A. el Cacique de Poyais”
 
 La que precede es una carta enviada a la Corte del rey Fernando VII, apenas un año después de la independencia de Centro América, por Thomas Irving, Secretario de Su Majestad el Cacique de Poyais Gregor MacGregor, dándole seguimiento a las intenciones de este sujeto de retornar la región al colonialismo español. A continuación la increíble historia que se desprende de esta misiva, y como se desarrolló tan descabellada propuesta.
 

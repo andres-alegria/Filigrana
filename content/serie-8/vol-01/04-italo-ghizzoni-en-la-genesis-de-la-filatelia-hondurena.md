@@ -58,9 +58,7 @@ En cuanto al destinatario, Miguel Gálvez J., había nacido en Loja el 7 de abri
 
 ![](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image39.webp)
 
-El primer negocio dedicado a la filatelia en la capital española fue fundado en 1868 por Leopoldo López en la Calle de la
-
-Cruz, No. 1. Corría el año de 1895 cuando el señor López traspasó el negocio a Miguel Gálvez, cambiando éste su denominación comercial por el de *Filatelia Gálvez*.
+El primer negocio dedicado a la filatelia en la capital española fue fundado en 1868 por Leopoldo López en la Calle de la Cruz, No. 1. Corría el año de 1895 cuando el señor López traspasó el negocio a Miguel Gálvez, cambiando éste su denominación comercial por el de *Filatelia Gálvez*.
 
 Es indiscutible la importancia de Miguel Gálvez en el desarrollo y conocimiento de la filatelia española, sobre todo en sus primeros tiempos. Su obra literaria es prolija y variada, destacando la publicación de diferentes catálogos como el *Catálogo de España y Colonias*, su *Primer Catálogo Universal* o el especializado de *Pruebas y Ensayos de España*.
 

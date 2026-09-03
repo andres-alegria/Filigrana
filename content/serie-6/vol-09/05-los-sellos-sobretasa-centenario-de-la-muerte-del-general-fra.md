@@ -60,9 +60,7 @@ Acuerdo No. 1569
 
 Tegucigalpa D. C., 21 de abril de 1941
 
-En cumplimiento de lo mandado en el Decreto Legislativo No. 99, de 27 de febrero recién pasado, por el cual se autoriza la emisión de un sello postal conmemorativo del Primer Centenario de la muerte del General Francisco Morazán, que tendrá lugar el 15 de septiembre de 1942, obligatorio para la correspondencia interior y exterior y cuyo producto se destinará a cubrir los gastos que demanden los actos cívicos que se tributarán a la memoria del Gran Prócer; y
-
-Considerando que es un deber del Estado y del pueblo hondureño celebrar dignamente el “Centenario de la muerte del general Morazán, héroe de la Unión de Centro América.
+En cumplimiento de lo mandado en el Decreto Legislativo No. 99, de 27 de febrero recién pasado, por el cual se autoriza la emisión de un sello postal conmemorativo del Primer Centenario de la muerte del General Francisco Morazán, que tendrá lugar el 15 de septiembre de 1942, obligatorio para la correspondencia interior y exterior y cuyo producto se destinará a cubrir los gastos que demanden los actos cívicos que se tributarán a la memoria del Gran Prócer; y Considerando que es un deber del Estado y del pueblo hondureño celebrar dignamente el “Centenario de la muerte del general Morazán, héroe de la Unión de Centro América.
 
 Por tanto, el Presidente de la República
 
@@ -152,9 +150,7 @@ Acuerdo No. 1568
 
 Tegucigalpa 21de abril de 1941
 
-En cumplimiento del Decreto Legislativo No. 66, de 7 de febrero del corriente año, por el cual se crea una renta denominada ”Renta del Sello de la Cruz Roja Hondureña”, con el exclusivo objeto de promover y practicar la beneficencia pública en todas sus manifestaciones, por medio de una emisión de sellos, y
-
-Considerando que con la emisión de los sellos en referencia se contribuirá al desarrollo de la beneficencia pública, poniendo en práctica tan noble finalidad concebida en los altruistas términos del decreto ya mencionado; y de conformidad con lo que establece el Art. 61 de la Ley Orgánica de Correos, el inc. 39 del Art. 106 del Reglamento de Ejecución de la Convención Postal Universal, de acuerdo con lo resuelto por la Convención Postal Universal de Buenos Aires, República Argentina.
+En cumplimiento del Decreto Legislativo No. 66, de 7 de febrero del corriente año, por el cual se crea una renta denominada ”Renta del Sello de la Cruz Roja Hondureña”, con el exclusivo objeto de promover y practicar la beneficencia pública en todas sus manifestaciones, por medio de una emisión de sellos, y Considerando que con la emisión de los sellos en referencia se contribuirá al desarrollo de la beneficencia pública, poniendo en práctica tan noble finalidad concebida en los altruistas términos del decreto ya mencionado; y de conformidad con lo que establece el Art. 61 de la Ley Orgánica de Correos, el inc. 39 del Art. 106 del Reglamento de Ejecución de la Convención Postal Universal, de acuerdo con lo resuelto por la Convención Postal Universal de Buenos Aires, República Argentina.
 
 Por lo tanto el Presidente de la República
 

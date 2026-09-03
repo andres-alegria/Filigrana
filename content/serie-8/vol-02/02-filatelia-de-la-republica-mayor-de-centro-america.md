@@ -48,9 +48,7 @@ Perseverante en su ideal unionista, veinte años después el Dr. Policarpo Bonil
 
 Tal como se mencionó antes, el Estado de Honduras fue el único de los tres que no emitió sellos postales alusivos, pues recién había rescindido su contrato con la casa impresora Hamilton Bank Note Co. No obstante puso en circulación en 1897 una serie provisional de 10 timbres fiscales producidos localmente con valores de 1,
 
-2, 5, 10, y 50 cts., y de1, 2, 5, 10 y 50 pesos, todos impresos sobre papel blanco, sin marca de agua. En
-
-1898 se produjo la impresión definitiva con los mismos valores y diseño usando esta vez papel de distinto color para cada denominación. Para la ocasión, también se emitió papel sellado.
+2, 5, 10, y 50 cts., y de1, 2, 5, 10 y 50 pesos, todos impresos sobre papel blanco, sin marca de agua. En 1898 se produjo la impresión definitiva con los mismos valores y diseño usando esta vez papel de distinto color para cada denominación. Para la ocasión, también se emitió papel sellado.
 
 ![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image7.webp)
 

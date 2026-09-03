@@ -44,9 +44,7 @@ Hace más o menos 30 años un tren interoceánico fue concebido, desde Cortés h
 
 Mis dos compañeros Griscom y Somerset* en cuanto descubrieron la ocupación de estos asistentes, les compraron sus posiciones y en la primera parada intercambiaron lugar hasta el final del viaje. Fue un paseo maravilloso y emocionante mejor que esos trencitos de Coney Island o esos otros alrededor de París. Era interesante y temerario ver cada riel mohoso levantarse un poco con el peso de la máquina, que a veces parecía que iba a volar en nuestras caras,  pero al pasarle por encima la locomotora volvía a su lugar; cuando la velocidad aumentaba, los rieles se abrían casi medio pie a ambos lados, lo cual eso sí nos asustó; pero lo que sí en verdad nos llenó de miedo, fue cuando los venados aparecían en medio de los rieles al final de un túnel boscoso formado por la
 
-*Henry Somerset, era un adolescente trotamundos que a su corta edad ya había cubierto más kilómetros que muchos experimentados viajeros; mientras que a
-
-Lloyd Griscom, attaché de la Legación Norteamericana en Londres, su médico le había recomendado viajar al Sur.
+*Henry Somerset, era un adolescente trotamundos que a su corta edad ya había cubierto más kilómetros que muchos experimentados viajeros; mientras que a Lloyd Griscom, attaché de la Legación Norteamericana en Londres, su médico le había recomendado viajar al Sur.
 
 naturaleza, que nos hacía sentir que estábamos al otro lado de un telescopio, viendo crecer la imagen del animal más y más hacia nosotros mientras el tren avanzaba. Pero siempre se apartaban hacia un lado al último momento, antes de matar a uno de nosotros y lo hacían por el bullicio de la campana, el pito, los sonidos de la máquina más nuestros gritos de desesperación. Ahora discutimos ¿Qué hubiera sido lo mejor, si saltar del tren o morir en nuestro puesto, con nuestras manos llenas de arena?”
 

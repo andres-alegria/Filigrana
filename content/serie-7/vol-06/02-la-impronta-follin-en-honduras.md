@@ -36,9 +36,7 @@ Picardie, Francia; se casó con Marie Francoise Juneau (1755-1813) Nueva
 
 Orleans, quien falleció en Charleston, Carolina del Sur.
 
-Francois Michel Auguste Follin se había trasladado a la colonia francesa de
-
-San Nicolás en St. Domingue*. Durante la revuelta de esclavos en ese lugar se refugió con su familia en Charleston, Carolina del Sur.
+Francois Michel Auguste Follin se había trasladado a la colonia francesa de San Nicolás en St. Domingue*. Durante la revuelta de esclavos en ese lugar se refugió con su familia en Charleston, Carolina del Sur.
 
 Tuvieron tres hijos y una hija:
 
@@ -512,9 +510,7 @@ Paulina Follin B. (1864-1936) nacida en Omoa. Se casó con José Dolores
 
 Pérez-Gómez (1861-1931) sobrino del generalísimo Máximo Gómez-Báez,
 
-Comandante General del Ejército de Liberación cubano, quien aliado con
-
-José Martí, luchaba por la independencia cubana de España. El capitán
+Comandante General del Ejército de Liberación cubano, quien aliado con José Martí, luchaba por la independencia cubana de España. El capitán
 
 Pérez-Gómez había viajado a Honduras con su tío Máximo Gómez en busca de apoyo para la revolución. Una vez establecido en San Pedro Sula se dedicó al comercio y a la ganadería, llegando a convertirse en Alcalde (1889-1893)
 
@@ -534,15 +530,11 @@ Celia Regina Pérez Follin (de Bonner) (1907-1998).
 
 (2) Augustus Follin Bardales (1866-?); casado con Felipa Estrada. Por un tiempo la familia vivió en Nueva Orleans. Tras la muerte de Augustus la viuda y sus hijos se mudaron a Los Ángeles, California.
 
-(3) Carolina Follin Bardales (1868-?). Nacida en Omoa. Contrajo matrimonio con
-
-Ricardo Collier Lazo (1860-1910) originario de Guatemala e hijo del irlandés
+(3) Carolina Follin Bardales (1868-?). Nacida en Omoa. Contrajo matrimonio con Ricardo Collier Lazo (1860-1910) originario de Guatemala e hijo del irlandés
 
 George Collier (establecido en el mineral de Yuscarán) y de Francisca Lazo.
 
-Ricardo Collier fue alcalde de San Pedro Sula en 1897 y miembro fundador en
-
-1910, en esa misma ciudad, de la logia masónica Eureka No. 9.
+Ricardo Collier fue alcalde de San Pedro Sula en 1897 y miembro fundador en 1910, en esa misma ciudad, de la logia masónica Eureka No. 9.
 
 Carolina Follin Bardales
 

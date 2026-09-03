@@ -30,9 +30,7 @@ Dada la importancia medular que la primera concesión ha tenido para darle pie a
 
 Tegucigalpa 29 de octubre de 1891
 
-Vista la anterior solicitud, y el Dictamen del Fiscal General de Hacienda, y
-
-Considerando: Que es de gran importancia para el país el establecimiento del servicio de diligencias que hagan el tráfico entre algunos puntos de la República, el Presidente:
+Vista la anterior solicitud, y el Dictamen del Fiscal General de Hacienda, y Considerando: Que es de gran importancia para el país el establecimiento del servicio de diligencias que hagan el tráfico entre algunos puntos de la República, el Presidente:
 
 ACUERDA:
 

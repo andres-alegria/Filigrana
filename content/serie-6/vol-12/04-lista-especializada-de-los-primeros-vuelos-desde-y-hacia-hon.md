@@ -570,9 +570,7 @@ AEREO / TEGUCIGALPA”.
 
 6= Primer despacho de correo aéreo de El Salvador.
 
-7= De Nassau a Miami por FAM-7, de Miami a Brownsville por tierra. De
-
-Brownsville a San Lorenzo por avión.
+7= De Nassau a Miami por FAM-7, de Miami a Brownsville por tierra. De Brownsville a San Lorenzo por avión.
 
 8= Primer despacho oficial de correo aéreo de El Salvador que conecta con la ruta FAM-5 en San Lorenzo.
 

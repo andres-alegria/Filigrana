@@ -42,9 +42,7 @@ Al resurgir la novedad del puente, me interesé por examinar con detenimiento la
 
 > > "Tendría que pasar más de un siglo para que un catastrófico huracán viniera a poner al descubierto su atrevida decisión."
 
-¿Entonces? Lo cierto es que hasta ahora caímos en la cuenta que el Puente de
-
-Pimienta más conocido como “Puente Negro”, tristemente nunca tuvo una estampilla, sino una simple alusión al mismo.
+¿Entonces? Lo cierto es que hasta ahora caímos en la cuenta que el Puente de Pimienta más conocido como “Puente Negro”, tristemente nunca tuvo una estampilla, sino una simple alusión al mismo.
 
 ![El único otro puente de su tipo y de 6 torres (mostrado a la izquierda), que cruza el río Chamelecón, es el de Baracoa, más al Norte, con la salvedad de que éste fue construido mucho después, en 1950.](/img/serie-7/vol-06/03-el-puente-ulua-en-una-estampilla/image19.webp)
 

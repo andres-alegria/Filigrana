@@ -76,9 +76,7 @@ Fokker D. VII
 
 Dun-sur-Meuse
 
-Después de la Guerra, sirvió en Kelly Field y Brooks Field, Texas, hasta que fue dado de baja el 23 de noviembre de 1923, pasando a la Reserva del
-
-Servicio Aéreo de los USA. Pasada la Guerra, hizo carrera en los servicios aéreos del país, aunque interrumpió esta actividad por un periodo de seis años. Se trasladó a Honduras a trabajar como piloto, manteniendo siempre su status de reservista.
+Después de la Guerra, sirvió en Kelly Field y Brooks Field, Texas, hasta que fue dado de baja el 23 de noviembre de 1923, pasando a la Reserva del Servicio Aéreo de los USA. Pasada la Guerra, hizo carrera en los servicios aéreos del país, aunque interrumpió esta actividad por un periodo de seis años. Se trasladó a Honduras a trabajar como piloto, manteniendo siempre su status de reservista.
 
 En Honduras, en 1927, fue contratado por el pionero del correo aéreo, Dr. Thomas C. Pounds, como piloto de la Central America Line, en un tercer intento por sacar adelante su proyecto de transporte aéreo. En esta ocasión, la ruta aérea se limitaba a vuelos internos entre Siguatepeque, Tegucigalpa y Yuscarán. Sin embrago, al igual que sus dos empresas anteriores [1925 Central American Airlines (CAA), 1926 Vías Aéreas Nacionales (VAN)], ésta tampoco pudo mantenerse en operación más allá de unos pocos meses.
 
