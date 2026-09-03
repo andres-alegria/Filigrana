@@ -41,13 +41,13 @@ El Francisco Morazán era un buque de carga de 1,442 toneladas botado en junio d
 
 ![SS Francisco Morazán](/img/serie-6/vol-09/04-dos-buques-nombrados-en-honor-a-francisco-morazan/image30.webp)
 
-Historia
+## Historia
 
 En 1940, el *Elbing* fue requisado por la armada alemana para su uso como barco carbonero en la Operación León Marino. En marzo de 1941 fue incendiado después de ser bombardeado por el HMS *Tartar* durante la Operación Claymore y varado en Solvær, Noruega. Posteriormente fue reparado y destinado a servicio en aguas de Noruega. En 1942 fue entregado a la empresa Kohlen-Import und Poseidon Schiffahrt. Fue dañado después de ser bombardeado por la artillería terrestre y varado en la isla Schweinesand. En mayo de 1945 el *Elbing* fue capturado en el río Elba. De aquí pasó al Ministerio de Guerra inglés, rebautizándolo como *Empire Congress*. Su puerto de registro fue cambiado a Londres, colocándolo bajo la dirección de la Chine Trading Co. Ltd.
 
 En 1946, el *Empire Congress* fue asignado al gobierno noruego, pasando a llamarse *Brunes*. Fue operado bajo la dirección de Kr Jebsen. En 1947 fue vendido a R Mithassel, Noruega, y rebautizado *Skuld*. En 1948 Mithassel fue absorbida por la Birger Ekerholt y el barco fue rebautizado *Ringas*. El 30 de junio de 1952, la nave belga *Victoria Mahenge* colisionó con el barco francés *Liberte Granville* al norte de Alderney, Islas del Canal. *Ringas* rescató 46 tripulantes y 3 pasajeros del *Mahenge*, que se hundió. El *Granville* fue gravemente dañado he incendiado. Después de extinguir el fuego fue remolcado a Cherburgo, Francia. En 1952 el *Ringas* hizo su primer viaje a los Grandes Lagos para la entrega en Muskegon, Michigan, de un cargamento de caolín. En 1953 transportó un cargamento de madera para pulpa a Port Huron, Michigan. En 1958 fue vendido a un armador griego y rebautizado *Los Mayas*. Fue operado con bandera panameña bajo la dirección de Moa Navegación S.A. *Los Mayas* visitó los Grandes Lagos en 1958 donde encalló cerca de Muskegon, logrando ser reflotado. En 1959 fue vendido a la empresa TC Trapezountios, de Monrovia, Liberia, y pasó a llamarse Francisco Morazán. Fue operado por la Compañía de Transporte de las Indias Occidentales de Nueva York & Monrovia y fletado para la Interamerican Marine Operators, con sede también en Nueva York.
 
-Pérdida
+## Pérdida
 
 El capitán de 24 años Eduardo Trivizas y un equipo multinacional de 13 hombres componían la tripulación. El capitán Trivizas, graduado de la Escuela de la Marina Griega tenía cinco años de experiencia. Su esposa y compañera de viaje Anastasia, de 29 años de edad, estaba embarazada.
 
@@ -59,7 +59,7 @@ Durante la noche del 28 de noviembre, una tormenta de nieve y la espesa niebla r
 
 Dos helicópteros, un avión anfibio y los botes de la Guardia Costera *Sundew* y *Mesquite* fueron enviados en su auxilio. La esposa embarazada del capitán fue llevada fuera de la nave y transferida a uno de los botes para luego ser trasladada en helicóptero a Traverse City, Michigan. El capitán y los 12 tripulantes permanecieron a bordo ya que no estaban en peligro de hundimiento. El 30 de noviembre dos agentes fueron llevados a la nave por los aseguradores. Se decidió que la nave no era rescatable, aunque se pensaba que si era posible rescatar su cargamento. La empresa Roan Salvage, de Sturgeon Bay, Wisconsin, fue contratada para la recuperación de la carga. El remolcador de salvamento *John Roan V* y la barcaza *Maintland* fueron enviados a la escena. Durante los próximos cinco días la nave fue azotada por una tormenta y comenzó a resquebrajarse. Todo el personal a bordo fue rescatado el 4 de diciembre. Roan Salvage abandonó su intención de recuperar la carga y sus barcos regresaron a puerto.
 
-Consecuencias
+## Consecuencias
 
 En enero de 1961, los representantes de las aseguradoras de la carga adjudicaron un contrato a la empresa Lake Michigan Hardwood Co. para el rescate de la carga. A su vez esta empresa sub-contrató a la George Grosvenor de Leland, Michigan, para ayudar en la operación. Grosvenor poseía un pequeño bote, *Smile Thru*, que era capaz de operar en aguas someras. El plan era que la carga recuperada fuese transferida desde el *Smile Thru* a la Lake Michigan Hardwood Co. para su entrega en Leland, desde donde sería llevada por tierra a Chicago. Sólo alrededor de 5 toneladas de pollo enlatado y pieles fueron recuperadas antes de que la operación fuese abandonada por completo debido a las tormentas.
 
