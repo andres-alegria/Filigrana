@@ -118,7 +118,7 @@ Argueta, Mario. (1992). *Los Alemanes en Honduras*. Tegucigalpa, Honduras. Edito
 
 Infante, Segisfredo. (1993). *Los Alemanes en el Sur*. Tegucigalpa, Honduras. Editorial Universitaria.
 
-Spears, John R. (1895). *Honduras at Peace and War*. Nueva York, EUA.* New York Sun*.
+Spears, John R. (1895). *Honduras at Peace and War*. Nueva York, EUA. *New York Sun*.
 
 EL
 

@@ -39,7 +39,7 @@ Todo comenzó el 23 de diciembre de 1970 con la visita de la empresa Italcambio 
 >
 > Pasaporte No. BG442505
 
-Estalla el escándalo.
+## Estalla el escándalo
 
 Desde el mismo momento que la Federación Filatélica de la República de Honduras (FFRH) tuvo conocimiento del Acuerdo y del contrato ya citados, puso la voz de alerta a través de los medios hablados y escritos como Radio América, diarios La Tribuna y El Heraldo en Tegucigalpa, y Diario La Prensa en San Pedro Sula, así como a través de la solidaridad de federaciones amigas que se pronunciaron oportunamente, tal es el caso de la Federación Filatélica de Colombia que difundió la noticia con tremendo artículo en la entrega del 19 de julio de 1981 del prestigioso diario El Espectador, y la Asociación Filatélica de Costa Rica a través del recordado don Ricardo Álvarez P. con su respectivo artículo publicado en el número de enero-febrero de 1982 de su boletín informativo Panorama. Asimismo, de connotados especialistas en filatelia hondureña residiendo en el extranjero como el señor Richard Washburn, quien con fecha de 5 de febrero de 1980 hizo llegar al Director General de Correos su enérgico rechazo a dicha emisión. De igual manera en el volumen 1 serie 2 correspondiente al primer trimestre de 1980 de la revista *Honduras Filatélica*, el entonces editor Gunther Wiese B. publicó un frontal análisis sobre el desvergonzado vasallaje a que estaba siendo sometido el país.
 
@@ -49,11 +49,11 @@ Nuestra Federación cerró filas y se puso en pie de lucha armada únicamente co
 
 Lo siguiente fue que una vez desatada la tormenta al poner al descubierto el contrato leonino y la expresión indignada del pueblo en general, las autoridades involucradas empezaron a dispararse notas entre si tratando de desmarcarse de las responsabilidades atenientes y de alguna manera salir ilesos del conflicto creado.
 
-Un pingue negocio.
+## Un pingue negocio
 
 Al hacer un poco de matemáticas nos damos cuenta de las fabulosas cantidades de dólares que entraban al juego. Es decir 36 sellos distintos, 2 millones de cada uno con un valor facial de L.17.00 hacen un total de mil doscientos veinticuatro millones de lempiras. Para Honduras el 7% o sea L. 85,680,000.00, quedando una utilidad bruta para Italcambio de mil ciento treinta y ocho millones trescientos veinte mil lps. vendiendo el total de réplicas al cabo de cuatro años. Aún si Italcambio vendiese sólo una buena parte y rebajando los costos, las utilidades siempre serían multimillonarias.
 
-Cronología de los eventos.
+## Cronología de los eventos
 
 Todo indica que las negociaciones empezaron en firme el 23 de diciembre de 1979, cuando se conoce una resolución del Oficial Mayor de Correos, Héctor Orlando Cruz, quien da la autorización para que se platique sobre la emisión de los sellos con la firma extranjera Italcambio. El 9 de enero de 1980, a raíz de la reunión sostenida con los directivos de la FFRH, el Director de Correos le envía al ministro Flores Theresin una ambivalente nota (tildada de “gallo-gallina” por La Tribuna) en los siguientes términos: “Para su aprobación, si lo tiene a bien, adjunto a la presente remito a esa superioridad el contrato que deberá suscribirse con la firma Italcambio C. A., para la fabricación, por su cuenta, de sellos postales emisión de oro de la República de Honduras. Asimismo me permito hacer las siguientes observaciones: a) Los artículos 172 y 173 de la Ley de Correos expresamente dicen: ‘172. Los valores o especies postales de la República son los siguientes: sellos postales ordinarios, terrestres y aéreos. Sellos postales conmemorativos, sobres, fajas, tarjetas postales. 173. El manejo, venta y aplicación de estas especies estará a cargo de la Secretaría de Hacienda, mientras no se organice la Caja del Correo.’ Tal observación se formula en vista de que el Ministerio de Hacienda no manejará ni aplicará estas especies. b) Por otra parte, el contrato relacionado deberá ser suscrito por el Procurador General de la República, en representación del Gobierno y la firma Italcambio de conformidad con el Artículo 23, numerales 1y2 de las disposiciones generales del Presupuesto General de Ingresos y Egresos de la nación. A esto debe agregarse lo dispuesto en el Artículo 29 del mismo cuerpo de leyes citado, en el sentido que el contratista está obligado a rendir la caución correspondiente.
 
@@ -106,7 +106,7 @@ Las siete réplicas de oro hondureñas
 
 ![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro/goldenreplica-7.webp)
 
-No todo lo que brilla es oro.
+## No todo lo que brilla es oro
 
 Los sellos de oro se emitieron en muchos países, teniendo su auge principalmente entre los 1970’s-1990’s, sueltos, en elaboradas hojas descriptivas, en álbumes o pegados en sobres, mostrando las imágenes de personas o eventos importantes. Uno de los primeros surgió en Inglaterra en noviembre de 1965, como replica de un sello conmemorativo a Sir Winston Churchill.
 
@@ -134,7 +134,7 @@ O tal vez le impresione esta venta reciente:
 
 La oferta anterior se vendió recientemente en internet por US$60.00. De aquí se puede desprender que el costo por cada réplica resultó casi de $0.50 (esto es justipreciando el álbum en $25.00, lo que nos deja $45.00 divididos entre 71). Prácticamente, donde el comerciante logró su ganancia fue en la venta del álbum en sí.
 
-¿Entonces cuál es el valor de una réplica de oro de una estampilla?
+## ¿Entonces cuál es el valor de una réplica de oro de una estampilla?
 
 Casi nada. Desde el punto de vista técnico, más o menos oro de alguna calidad (entre 18 y 24k, aunque algunos fabricantes usan oro de menos quilates a sabiendas que nadie se va a molestar en verificarlo) se procesa como algo similar a la electrólisis. Por lo general estas réplicas tienen una capa de oro sobre aluminio que es un átomo o dos de gruesa, una fracción de un micrón (una milésima de un milímetro). La superficie de oro resultante es tan delgada que se vuelve inútil intentar medir su contenido áureo. En otras palabras se necesitarían toneladas de réplicas para obtener una cantidad de oro que valga la pena. Sin embargo, el costo de extraerles el oro resultaría mucho más elevado de lo que valdría el producto final. Así que en cuanto a oro, prácticamente no tienen nada, como tampoco absolutamente ningún valor filatélico o numismático. Su valor por naturaleza no es más que especulativo y orientado a tentar la codicia de los incautos que se regocijan pensando en hacer un pingue negocio.
 

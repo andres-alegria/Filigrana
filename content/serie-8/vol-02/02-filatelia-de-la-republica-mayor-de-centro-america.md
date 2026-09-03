@@ -174,9 +174,9 @@ Bibliografía:
 
 Alegría R., Edgardo. Colección República Mayor de Centro América. Tegucigalpa, Honduras.
 
-Schriber, Michael. Blampied, William.* Nicaragua to 1940: A Philatelic Handbook*. Segunda edición. Nicaragua Study Group. EUA. 2023.
+Schriber, Michael. Blampied, William. *Nicaragua to 1940: A Philatelic Handbook*. Segunda edición. Nicaragua Study Group. EUA. 2023.
 
-La FFRH tiene disponible para la venta los siguientes números anteriores de Honduras Filatélica a un valor de L50.00 (US$2.50) cada uno, más el costo de envío. Los pedidos se atenderán de acuerdo a la orden de llegada, ya que de algunos ejemplares sólo quedan 1o2.
+La FFRH tiene disponible para la venta los siguientes números anteriores de *Honduras Filatélica* a un valor de L50.00 (US$2.50) cada uno, más el costo de envío. Los pedidos se atenderán de acuerdo a la orden de llegada, ya que de algunos ejemplares sólo quedan 1o2.
 
 Por favor comunicarse a través de: ffrh@hotmail.com
 

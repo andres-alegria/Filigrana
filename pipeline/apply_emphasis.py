@@ -114,7 +114,18 @@ def emphasis_phrases(docx, want='i'):
             text = seg[0]
             if not seg[idx]:
                 continue
-            t = re.sub(r'\s+', ' ', text).strip().strip('“”"\'()[[]].,;:')
+            # Strip whitespace and edge punctuation alternately until stable:
+            # doing it in one pass lets ". Nicaragua to 1940" lose its period
+            # and keep the space, and a marker placed before a space cannot
+            # open emphasis in Markdown — it renders as a literal asterisk.
+            t = re.sub(r'\s+', ' ', text)
+            while True:
+                t2 = t.strip().strip('“”"\'()[].,;:')
+                if t2 == t:
+                    break
+                t = t2
+            if t != t.strip():
+                continue
             if not (MIN_LEN <= len(t) <= MAX_LEN):
                 continue
             if len(t.split()) > MAX_WORDS or not LETTER.search(t):

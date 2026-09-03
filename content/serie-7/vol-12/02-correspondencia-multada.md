@@ -274,9 +274,9 @@ Circulado el 28 de agosto de 1899. Multa estampada en Tegucigalpa y cobrada corr
 
 1902. Multada con 10 cts. por el faltante de 5 en la tarifa doble de 30 cts.
 
-*En el original las marcas *“T”* y *“DUE 15 Cents” son del mismo color rojo, indicativo que ambas fueron aplicadas en los EUA. Se cobró el porte completo de 15 cts. al ver los dos sellos obsoletos de “La Locomotora” usados como cierre, obviando que el porte de 40 cts. con sellos vigentes de “Santos Guardiola” cubría en exceso de 15 cts. la tarifa exterior de 15 cts. más los 10 cts. del Certificado, cuyo tratamiento pasó desapercibido por haber sido estampado en el reverso y sin la etiqueta correspondiente.
+*En el original las marcas* “T” y “DUE 15 Cents” son del mismo color rojo, indicativo que ambas fueron aplicadas en los EUA. Se cobró el porte completo de 15 cts. al ver los dos sellos obsoletos de “La Locomotora” usados como cierre, obviando que el porte de 40 cts. con sellos vigentes de “Santos Guardiola” cubría en exceso de 15 cts. la tarifa exterior de 15 cts. más los 10 cts. del Certificado, cuyo tratamiento pasó desapercibido por haber sido estampado en el reverso y sin la etiqueta correspondiente.
 
-12 de agosto de 1908. Se multó en La Ceiba por el faltante de 1 ct. pero en Nueva York se cobró la tarifa completa de 3 cts. para postales, pasando por alto que el sello de 2 cts. estaba vigente. Lo anterior se nota en la diferencia en el color de las tintas, “T”* (negra) y el *“DUE 3 CENTS” (roja).
+12 de agosto de 1908. Se multó en La Ceiba por el faltante de 1 ct. pero en Nueva York se cobró la tarifa completa de 3 cts. para postales, pasando por alto que el sello de 2 cts. estaba vigente. Lo anterior se nota en la diferencia en el color de las tintas, “T” (negra) y el “DUE 3 CENTS” (*roja*).
 
 De El Paraíso, Cortés. Ostenta una “T” manuscrita, invalidando los 5 cts. del bisecado, cobrados posteriormente en Los Ángeles, California.
 
