@@ -20,7 +20,7 @@ review: []
 ---
 
 # El Sobresaliente de Hoy
-Un sobre muy especial, pues refleja el celo profesional del agente postal de la agencia de Balfate (Colón) al no admitir la carta por estar franqueada con sellos de la emisión de 1915 que recién había quedado obsoleta, por lo que procedió a invalidarlos anotando sobre ellos: “Emisión pasada – No valen”. De manera que el usuario tuvo que adherir un sello vigente de 15 cts. de la emisión “Estatua de Morazán” puesta en circulación el 21 de enero de 1919.
+Un sobre muy especial, pues refleja el celo profesional del agente postal de la agencia de Balfate (Colón) al no admitir la carta por estar franqueada con sellos de la emisión de 1915 que recién había quedado obsoleta, por lo que procedió a invalidarlos anotando sobre ellos: “*Emisión pasada – No valen*”. De manera que el usuario tuvo que adherir un sello vigente de 15 cts. de la emisión “*Estatua de Morazán*” puesta en circulación el 21 de enero de 1919.
 
 El Reglamento de Correos de la época establecía:
 

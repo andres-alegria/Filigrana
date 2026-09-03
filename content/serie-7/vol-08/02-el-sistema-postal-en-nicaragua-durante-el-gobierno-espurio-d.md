@@ -24,19 +24,19 @@ En la entrega anterior publicamos un artículo sobre la presencia de William Wal
 
 Desde la Costa Este de los Estados Unidos había dos maneras de alcanzar las tierras auríferas de California; por caravana o vía Panamá. La primera era más directa, pero ofrecía mayor cantidad de peligros – temibles indios y traicioneras montañas nevadas. La segunda, aunque más larga era menos complicada, salvo viajar apretujados en un barco, el escorbuto y cruzar las zonas palúdicas y pantanosas del istmo. Si esta segunda opción pudiese acortarse, aún con sus dificultades, se volvería mucho más aceptable. Cornelio Vanderbilt fue uno de los que así pensó al respecto. Él vio las posibilidades de establecer una línea de vapores que acortara la distancia y el tiempo cruzando del Pacífico al Atlántico. Nicaragua era la mejor opción. El país era transitable durante todo el año. La mano de obra, al igual que las provisiones, era barata y abundante. En agosto de 1849, Vanderbilt, asociado con un grupo de banqueros, firmó un contrato con la República de Nicaragua, el cual no llegó a concretarse. Dos años después, en 1851, un nuevo y modificado acuerdo se llevó a cabo, bajo términos más favorables para los inversionistas.
 
-La nueva empresa, conocida como la Accessory Transit Company, obtuvo el derecho exclusivo de una línea que partiría de Greytown (San Juan de Norte), en la costa Atlántica, hasta San Juan del Sur, el puerto más cercano en el Pacífico, acortando el trayecto de esta manera por casi 800 kilómetros (4a5 días menos) comparado al de Panamá. Este emprendimiento inició con todas las señales de ser un negocio exitoso.
+La nueva empresa, conocida como la *Accessory Transit Company*, obtuvo el derecho exclusivo de una línea que partiría de Greytown (San Juan de Norte), en la costa Atlántica, hasta San Juan del Sur, el puerto más cercano en el Pacífico, acortando el trayecto de esta manera por casi 800 kilómetros (4a5 días menos) comparado al de Panamá. Este emprendimiento inició con todas las señales de ser un negocio exitoso.
 
 ![Ulises Vanderbilt](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image3.webp)
 
 ![San Francisco-Nueva Orleans-Nueva York](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image4.webp)
 
-El 14 de julio de 1851 se inauguró la ruta con el SS Prometheus partiendo de Nueva York en dirección a San Juan del Norte. Se cruzaba el istmo por el Rio San Juan partiendo de San Carlos, luego a través del Lago Nicaragua hasta La Virgen y de allí 16 kms por tierra en diligencias hasta San Juan del Sur, donde se abordaban los vapores rumbo a San francisco.
+El 14 de julio de 1851 se inauguró la ruta con el *SS Prometheus* partiendo de Nueva York en dirección a San Juan del Norte. Se cruzaba el istmo por el Rio San Juan partiendo de San Carlos, luego a través del Lago Nicaragua hasta La Virgen y de allí 16 kms por tierra en diligencias hasta San Juan del Sur, donde se abordaban los vapores rumbo a San francisco.
 
 ![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image5.webp)
 
-En la misma fecha partió de San Francisco a San Juan del Sur el SS Pacific.
+En la misma fecha partió de San Francisco a San Juan del Sur el *SS Pacific*.
 
-Es oportuno señalar que previo al zarpe de Walker con sus 57 “inmortales” a bordo del Vespa el 3 de mayo de 1855, la Accessory Transit Company. se había negado a brindarles transporte.
+Es oportuno señalar que previo al zarpe de Walker con sus 57 “inmortales” a bordo del *Vespa* el 3 de mayo de 1855, la *Accessory Transit Company*. se había negado a brindarles transporte.
 
 Nueva York–Filadelfia. Porte de 5 cts. a cobrar. Esta tarifa estuvo vigente del 1 de julio de 1851 hasta el 31 de marzo de 1855.
 
@@ -44,7 +44,7 @@ En 1849 había sólo una oficina postal en San Francisco. Al compás de la creci
 
 ![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image6.webp)
 
-Las compañías de servicio expreso iniciaron en los Estados Unidos el 31 de agosto de 1852. Algunas de estas empresas californianas, apreciando las ventajas de una entrega más rápida de correspondencia, comenzaron a utilizar la nueva ruta por Nicaragua. La primera de estas fue la Gregory's California and New York Express.
+Las compañías de servicio expreso iniciaron en los Estados Unidos el 31 de agosto de 1852. Algunas de estas empresas californianas, apreciando las ventajas de una entrega más rápida de correspondencia, comenzaron a utilizar la nueva ruta por Nicaragua. La primera de estas fue la *Gregory's California and New York Express*.
 
 ![El 21 de octubre de 1851 fue entregada en Nueva York a Gregory’s Express donde se le estampó en el reverso “Gregory’s Atlantic and Pacific Express, Forwarded by Thompson & Hitchcock 149 Pearl St., N.Y”. De aquí fue despachada en el SS Daniel Webster de la Vanderbilt Line, que zarpó el 22 de octubre y llegó a San Juan del Norte el 4 de noviembre. Al siguiente día cruzó el istmo para ser despachada de San Juan del Sur hacia San Francisco donde arribó el 16 de noviembre. Este fue el quinto viaje de la línea, haciéndolo en tan sólo 26 días.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image7.webp)
 
@@ -96,9 +96,9 @@ Afortunadamente se ha conservado la carta remitida junto a este sobre, en la que
 
 A finales de 1855, Edmund Randolph, hombre de confianza de Walker, comienza a maniobrar con la intención de apoderarse de la Ruta de Tránsito, al tenor de lo cual Walker le concede los derechos exclusivos para el transporte de pasajeros y carga a través de Nicaragua. Randolph logra captar el interés de Cornelio K. Garrison para que se le uniera en la operación de la ruta. A su vez Garrison involucra en la aventura a Charles Morgan, con el fin primordial de proveerle a Walker transporte gratuito de refuerzos, armas y provisiones procedentes de los Estados Unidos.
 
-El 18 de febrero de 1856 el presidente Patricio Rivas, bajo la influencia de Walker, revoca la concesión a la Accessory Transit Company al tiempo que le confisca sus bienes. Entre los argumentos de mayor peso estaba el hecho de que una de las cláusulas concesionarias establecía el pago al gobierno nicaragüense de un canon de $10,000.00 anuales, además del pago de un porcentaje de las utilidades percibidas por la Compañía. Lo primero se cumplió, pero la obligación porcentual se evadió por años. Toda la documentación contable de la Compañía se manejaba en Nueva York, evitando de esta manera poner a la vista del gobierno nicaragüense cualquier evidencia de los ingresos. Según Walker, la Compañía había actuado fraudulentamente, adeudándole a su gobierno muchos miles de dólares, lo que bastaba para rescindir el contrato.
+El 18 de febrero de 1856 el presidente Patricio Rivas, bajo la influencia de Walker, revoca la concesión a la *Accessory Transit Company* al tiempo que le confisca sus bienes. Entre los argumentos de mayor peso estaba el hecho de que una de las cláusulas concesionarias establecía el pago al gobierno nicaragüense de un canon de $10,000.00 anuales, además del pago de un porcentaje de las utilidades percibidas por la Compañía. Lo primero se cumplió, pero la obligación porcentual se evadió por años. Toda la documentación contable de la Compañía se manejaba en Nueva York, evitando de esta manera poner a la vista del gobierno nicaragüense cualquier evidencia de los ingresos. Según Walker, la Compañía había actuado fraudulentamente, adeudándole a su gobierno muchos miles de dólares, lo que bastaba para rescindir el contrato.
 
-La nueva Nicaragua Steamship Company de Morgan y Garrison inició operaciones en abril de 1856 (cerrando en marzo de 1857), poniendo al servicio de Walker el Sierra Nevada en el Pacífico, y más tarde el Orizaba en el sector Atlántico. Este último eventualmente fue asignado a la ruta del Pacífico. Otros vapores que operaron mensualmente en el Atlántico fueron el Cahawba, el Texas y el Tennessee.
+La nueva *Nicaragua Steamship Company* de Morgan y Garrison inició operaciones en abril de 1856 (cerrando en marzo de 1857), poniendo al servicio de Walker el Sierra Nevada en el Pacífico, y más tarde el *Orizaba* en el sector Atlántico. Este último eventualmente fue asignado a la ruta del Pacífico. Otros vapores que operaron mensualmente en el Atlántico fueron el *Cahawba, el Texas* y el *Tennessee*.
 
 A todo esto, el comodoro Vanderbilt no se quedó de brazos cruzados. Siendo una de las personas más ricas e influyentes de la Unión Americana, dedicó tiempo y dinero a contrarrestar las actividades invasoras, quedando al final comprobado que Walker se había metido con la persona equivocada
 
@@ -116,15 +116,15 @@ Porte exterior de 10 cts. Circulada totalmente fuera del sistema postal.
 
 Dentro del efímero plan de gobierno de Walker estaba la organización postal. En algún momento su ejército llegó a rondar los mil hombres; habiendo concurrido al escenario, entre 1855 y 1857, de manera intermitente, alrededor de cinco mil mercenarios. Estando lejos de casa, esto implicaba recibir y enviar mucha correspondencia; mucha más de la que habitualmente se manejaba a nivel nacional. La situación exigía contar con una empresa capaz de manejar el inusual volumen epistolar y a su vez modernizar el antiguo y obsoleto sistema postal para que los usuarios sintieran a su favor el beneficio oportuno de comunicarse con los suyos.
 
-Aquí entra en escena la Wines and Co.'s Express, que vino a ejercer un monopolio del manejo postal en Nicaragua. Pronto pusieron manos a la obra, estableciendo agentes en las ciudades más importantes del país. El 8 de febrero de 1856, uno de ellos, J. A. Ruggles, es nombrado Director General de Correos.
+Aquí entra en escena la *Wines and Co.'s Express*, que vino a ejercer un monopolio del manejo postal en Nicaragua. Pronto pusieron manos a la obra, estableciendo agentes en las ciudades más importantes del país. El 8 de febrero de 1856, uno de ellos, J. A. Ruggles, es nombrado Director General de Correos.
 
 Entre 1851 y 1853, Ruggles había trabajado como agente de Vanderbilt en Castillo Viejo. Una vez a cargo del correo ordenó, tal como recientemente se había instituido en los Estados Unidos, que todas las cartas debían ser pre-franqueadas; asimismo, entró en funciones un buque paquete entre Greytown y Nueva York. Anteriormente en Nicaragua todo el correo se transportaba de la manera más rudimentaria, por peatones y en canoas. Ruggles demostró su eficiencia al organizar y hacer funcional a corto plazo todo el aparato postal.
 
 ![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image21.webp)
 
-Hay que hacer énfasis en que el correo nicaragüense prácticamente se privatizó, pues del Acuerdo anterior se deduce que Ruggles no cesó como agente de Wines, de modo que todos los ingresos generados eran para la empresa, y no cabe duda que los generados por el movimiento interno igualmente quedaban fuera de la economía nacional, así que: del mismo cuero las correas.
+Hay que hacer énfasis en que el correo nicaragüense prácticamente se privatizó, pues del Acuerdo anterior se deduce que Ruggles no cesó como agente de Wines, de modo que todos los ingresos generados eran para la empresa, y no cabe duda que los generados por el movimiento interno igualmente quedaban fuera de la economía nacional, así que: *del mismo cuero las correas*.
 
-Anuncio del 10 de noviembre de 1855 publicado en el Daily Placer Times & Transcript de San Francisco.
+Anuncio del 10 de noviembre de 1855 publicado en el *Daily Placer Times & Transcript* de San Francisco.
 
 ![“Los remitentes pueden estar seguros que sus cartas y documentos serán entregados a sus amigos en el ejército de Walker, doquiera se encuentren, sin demora”.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image22.webp)
 
@@ -132,7 +132,7 @@ Anuncio del 10 de noviembre de 1855 publicado en el Daily Placer Times & Transcr
 
 San Francisco–San Juan del Sur–San Francisco. Salió de San Francisco el 21 de enero de 1856 a bordo del SS Sierra Nevada de la Vanderbilt Line, llegando a San Juan del Sur el 1 de febrero. El destinatario, Samuel Morrison, había regresado a California; así que el agente en San Juan del Sur la reenvió a San Francisco, marcándola para su control como la No. 14.
 
-Luego, el Sierra Nevada zarpó de San Juan del Sur el 6 de febrero 1856, atracando en San Francisco el 19 entrante. Al siguiente día fue depositada en el sistema postal de esta ciudad. La indicia del entero postal con valor de 3 cts. se tomó en cuenta al cobrar los 7 cts. (DUE7) adicionales para completar la tarifa extranjera de 10 cts.
+Luego, el Sierra Nevada zarpó de San Juan del Sur el 6 de febrero 1856, atracando en San Francisco el 19 entrante. Al siguiente día fue depositada en el sistema postal de esta ciudad. La *indicia* del entero postal con valor de 3 cts. se tomó en cuenta al cobrar los 7 cts. (DUE7) adicionales para completar la tarifa extranjera de 10 cts.
 
 ![](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image24.webp)
 
@@ -152,7 +152,7 @@ El Nicaragüense del 31 de mayo de 1856:
 
 ![Importante para Escritores de Cartas.](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image27.webp)
 
-Wines & Co. por este medio notifica que en el futuro TODAS LAS CARTAS DEBEN SER PAGADAS POR ADELANTADO. La tarifa será de veinte centavos, incluyendo las estampillas. Las estampillas pueden ser adquiridas en la oficina de Wines & Co., con o sin sobre.
+Wines & Co. por este medio notifica que en el futuro TODAS LAS CARTAS DEBEN SER PAGADAS POR ADELANTADO. La tarifa será de *veinte centavos*, incluyendo las estampillas. Las estampillas pueden ser adquiridas en la oficina de Wines & Co., con o sin sobre.
 
 J. A. RUGGLES, Agente de Wines & Co.
 
@@ -160,7 +160,7 @@ Granada 31 de mayo de 1856.
 
 La frase “incluyendo las estampillas” se ha prestado en más de una ocasión para especular que posiblemente existieron estampillas provisionales locales para las cartas originadas en Nicaragua. Esto está muy lejos de la realidad, siendo que las primeras estampillas se emitieron hasta 1862 y nunca se ha sabido de emisiones anteriores. Lo cierto es que el servicio de mensajería de Wines & Co., al cobrar los 20 cts. cubría los 3 cts. de franqueo obligado (y 17 cts. para la empresa) a fin de poder ingresar la carta al sistema postal de los Estados Unidos tan pronto arribara; así que para agilizar el servicio las agencias en Nicaragua vendían las estampillas norteamericanas de manera integral.
 
-Anuncio en el periódico Daily Alta California, 15 de octubre de 1856:
+Anuncio en el periódico *Daily Alta California*, 15 de octubre de 1856:
 
 ![“Nuestros expresos van siempre acompañados de mensajeros competentes y experimentados…”](/img/serie-7/vol-08/02-el-sistema-postal-en-nicaragua-durante-el-gobierno-espurio-d/image28.webp)
 
@@ -242,16 +242,16 @@ Como ya sabemos, William Walker fue capturado el 1 de mayo de 1857, abandonando 
 
 Bibliografía:
 
--Biblioteca Virtual Enrique Bolaños. William Walker el Predestinado. 1995.
+-Biblioteca Virtual Enrique Bolaños. *William Walker el Predestinado*. 1995.
 
 -Gallegos, Guillermo F. Historia Postal de El Salvador. 2017. España.
 
--Schreiber, Michael. The Route Across Nicaragua 1849-1868 and Plans for a Nicaragua Canal 1886-1902. Nicarao. Abril 2016. Vol. 25, No. 2. USA.
+-Schreiber, Michael. The Route Across Nicaragua 1849-1868 and Plans for *a Nicaragua Canal 1886-1902. Nicarao*. Abril 2016. Vol. 25, No. 2. USA.
 
--Scroggs, William. Filibusteros y Financieros. La Historia de William Walker y sus Asociados. Papelera Industrial de Nicaragua. 1974. Nicaragua.
+-Scroggs, William. *Filibusteros y Financieros*. *La Historia de William Walker* *y sus Asociados*. Papelera Industrial de Nicaragua. 1974. Nicaragua.
 
--Washburn, Richard; Madden, Henry. The Philatelic Trail of William Walker.
+-Washburn, Richard; Madden, Henry. *The Philatelic Trail of William Walker*.
 
-The American Philatelist. Octubre 1987. USA.
+*The American Philatelist*. Octubre 1987. USA.
 
 ---

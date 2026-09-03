@@ -32,7 +32,7 @@ Al llegar al Aeropuerto de Dallas-Fort Worth los sobres fueron fechados por Amer
 
 Agradecimientos:
 
-Le agradezco a la lic. Claudia Fúnez de American Airlines por toda su colaboración en el transporte de los sobres (Imagen 3).
+Le agradezco a la lic. Claudia Fúnez de American Airlines por toda su colaboración en el transporte de los sobres (*Imagen 3*).
 
 El autor recibiendo los sobres y un obsequio por parte de la lic.
 

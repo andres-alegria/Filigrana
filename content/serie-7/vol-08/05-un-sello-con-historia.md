@@ -20,13 +20,13 @@ review: []
 ---
 
 # Un sello con historia
-Gracias a la gentil colaboración de mi particular amigo José González, presentamos este ejemplar rescatado de la Revista Renacimiento, Año VI, Número 58, editada en Tegucigalpa el 29 de febrero de 1923, siendo su Director el periodista Mario Rivas de Cantruy. En efecto, el gobierno del presidente Rafael López Gutiérrez (1821-1824) se aprestaba a emitir este sello postal de 2 centavos como una sobretasa a ser aplicada a la correspondencia nacional con el propósito de recaudar fondos para la construcción de un nuevo y elegante edificio que albergaría las dependencias del Correo Nacional en Tegucigalpa. Tan encomiable labor no logró concretarse debido a la inestabilidad política que afectó la gobernabilidad del país durante la segunda parte del periodo presidencial y que culminó con la cruenta revolución de 1924.
+Gracias a la gentil colaboración de mi particular amigo José González, presentamos este ejemplar rescatado de la *Revista Renacimiento*, Año VI, Número 58, editada en Tegucigalpa el 29 de febrero de 1923, siendo su Director el periodista Mario Rivas de Cantruy. En efecto, el gobierno del presidente Rafael López Gutiérrez (1821-1824) se aprestaba a emitir este sello postal de 2 centavos como una sobretasa a ser aplicada a la correspondencia nacional con el propósito de recaudar fondos para la construcción de un nuevo y elegante edificio que albergaría las dependencias del Correo Nacional en Tegucigalpa. Tan encomiable labor no logró concretarse debido a la inestabilidad política que afectó la gobernabilidad del país durante la segunda parte del periodo presidencial y que culminó con la cruenta revolución de 1924.
 
 La revista anunciaba la novedad de la manera siguiente: “Dibujo del sello postal que se pondrá en circulación con el fin de obtener los fondos necesarios para la construcción de un nuevo edificio de Correos. El dibujo es obra de los conocidos artistas Augusto Monterroso y Valero Lecha”.
 
 Es oportuno hacer también una referencia acerca de estos dos personajes que por circunstancias de la vida vivieron durante algunos años en nuestra Capital.
 
-Augusto Monterroso Lobos nació en Guatemala en 1896 y falleció a los 86 años en esa misma ciudad el 28 de marzo de 1982. Durante su estadía en tierra hondureña se desempeñó como caricaturista de la revista tegucigalpense La Semana Ilustrada, que circuló alrededor de 1916. En 1961 fungió como Cónsul General de Guatemala en San Francisco, California.
+Augusto Monterroso Lobos nació en Guatemala en 1896 y falleció a los 86 años en esa misma ciudad el 28 de marzo de 1982. Durante su estadía en tierra hondureña se desempeñó como caricaturista de la revista tegucigalpense *La Semana Ilustrada*, que circuló alrededor de 1916. En 1961 fungió como Cónsul General de Guatemala en San Francisco, California.
 
 Valero Lecha Alquezar nació el 4 de marzo de 1894 en Alcorisa, provincia de Teruel, España. Falleció el 20 de agosto de 1976 en El Salvador. Es considerado el padre de la pintura salvadoreña.
 
@@ -48,7 +48,7 @@ Un cordial saludo desde acá. Richard
 
 A su esposa Mérida y a sus hijos nuestras más sentidas condolencias.
 
-EXFILHON 1986. izquierda a derecha: Reinaldo Baide S. (Director de Correos) Edgardo Alegría R. (Expositor) Ignacio Agurcia (Expositor) Richard Washburn (Jurado) Issac Bakal (Jurado. México)
+EXFILHON 1986. *izquierda a derecha*: Reinaldo Baide S. (*Director de Correos*) Edgardo Alegría R. (*Expositor*) Ignacio Agurcia (*Expositor*) Richard Washburn (Jurado) Issac Bakal (*Jurado. México*)
 
 ---
 

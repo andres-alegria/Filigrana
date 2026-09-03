@@ -22,7 +22,7 @@ review: []
 # Un sello con historia
 Sello (Scott C130) impreso por la Security Banknote Company, de Filadelfia, emitido el 14 de septiembre de 1943 como parte de una serie de 15 sellos dando a conocer la riqueza agrícola y ganadera del país. En relación a esto último pasamos a exponer una breve reseña sobre sus orígenes.
 
-El primer embarque de ganado vacuno (Bos taurus) al Nuevo Mundo se re-monta al segundo viaje de Colón en 1493, con destino a la Española (República Dominicana/Haití). La isla de Gomera, en Canarias, era el lugar de parada y abastecimiento habitual tal como lo describe fray Bartolomé de las Casas a la llegada de Colón el 5 de Octubre de 1493: “Tomó la isla de la Gomera, donde estuvo 2 días, en los cuales se proveyó á mucha priesa de algunos ganados, que él, y los que venian, compraban, como becerras, y cabras, y ovejas; y entre otros, ciertos de los que venian allí compraron ocho puercas á 70 maravedís la piezas. Destas ocho puercas se han multiplicado todos los puercos que, hasta hoy, ha habido y hay en todas estas Indias que han sido y son infinito”.
+El primer embarque de ganado vacuno (*Bos taurus*) al Nuevo Mundo se re-monta al segundo viaje de Colón en 1493, con destino a la Española (República Dominicana/Haití). La isla de Gomera, en Canarias, era el lugar de parada y abastecimiento habitual tal como lo describe fray Bartolomé de las Casas a la llegada de Colón el 5 de Octubre de 1493: “Tomó la isla de la Gomera, donde estuvo 2 días, en los cuales se proveyó á mucha priesa de algunos ganados, que él, y los que venian, compraban, como becerras, y cabras, y ovejas; y entre otros, ciertos de los que venian allí compraron ocho puercas á 70 maravedís la piezas. Destas ocho puercas se han multiplicado todos los puercos que, hasta hoy, ha habido y hay en todas estas Indias que han sido y son infinito”.
 
 La expansión vacuna fue bastante lenta pues Diego Colón, Gobernador de la Nueva España, había prohibido la salida de bovinos para evitar la disminución del número de animales en la Isla por el excesivo traslado de ejemplares a otras islas y a tierra firme. Ante tal medida, la importación oficial de ganado a otros lugares del nuevo continente se produce hasta treinta años después.
 
@@ -34,7 +34,7 @@ Capitán Hernán Cortés
 
 En cierta ocasión Cortés exclamó: “Después de Dios, le debemos la victoria a nuestros caballos”.
 
-El cronista y compañero de armas de Cortés, Bernal Díaz del Castillo, anota en su detallada narración “La Conquista de Nueva España” como habiendo llegado a Trujillo, Cortés repartió los primeros cerdos (Pecari tajacu), popularmente conocidos en Honduras como sajinos):
+El cronista y compañero de armas de Cortés, Bernal Díaz del Castillo, anota en su detallada narración “*La Conquista de Nueva España*” como habiendo llegado a Trujillo, Cortés repartió los primeros cerdos (*Pecari tajacu*), popularmente conocidos en Honduras como sajinos):
 
 “…y luego envió á llamar a todos los pueblos comarcanos, y como tuvieron nueva que era el capitán Malinche, que así le llamaban, y sabían que había conquistado a México, luego vinieron á su llamada y le trajeron pescado de bastimentos…y Cortés les mandó dar unas puercas y un berraco que se halló en Trujillo, y de los que traía de México, para que hiciesen casta, porque le dijo un español que era buena tierra para multiplicar con soltarles en las isletas sin ponerles guarda; y ansí fue como dijo, que dentro en dos años hubo muchos puercos y los iban a montear.”
 

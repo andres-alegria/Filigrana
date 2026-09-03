@@ -86,7 +86,7 @@ Jeffs se graduó de Ingeniero en Minas, llegando a Honduras alrededor de 1885. P
 
 Durante su estadía en Tegucigalpa, producto de sus amores con Pastora Lozano, en 1890 nació en el cercano mineral de Santa Lucía, Natividad María Amalia Carlota Lozano Jeffs, quien el 12 de enero de 1913 se casó con el cónsul norteamericano Edward Dennis, evento que tuvo lugar en Tegucigalpa en el Hotel Progreso.
 
-Su cercanía al presidente Bográn se encuentra manifiesta en una gacetilla de un corresponsal itinerante del periódico californiano San Francisco Call quien en la edición del 3 de abril de 1892 relató:
+Su cercanía al presidente Bográn se encuentra manifiesta en una gacetilla de un corresponsal itinerante del periódico californiano *San Francisco Call* quien en la edición del 3 de abril de 1892 relató:
 
 En Santa Bárbara, Honduras, visitamos al Sr. Luis Bográn, Presidente retirado de la República. Es una persona popular y de buen talante. Su tío, don Ponciano Leiva le sucedió en el Poder. Charles Jeffs, un norteamericano, está instalando un sistema de agua potable en Santa Bárbara.
 
@@ -238,7 +238,7 @@ Tres días después se contrataba al cochero:
 
 Un día después, el 29 de diciembre, para completar la operatividad del servicio se contrata al caballericero Enrique Cole:
 
-Una vez armado todo el paquete, el servicio estaba listo para despegar, por lo que el 3 de enero se publica la novedad en el Diario de Honduras:
+Una vez armado todo el paquete, el servicio estaba listo para despegar, por lo que el 3 de enero se publica la novedad en el *Diario de Honduras*:
 
 Según todo lo antes apuntado, el servicio de diligencia entre Tegucigalpa y Sabanagrande en efecto se hizo realidad; se contaba con el vehículo, el cochero, el encargado de las bestias y un reglamento para operar. Desafortunadamente, desde la perspectiva filatélica, no se implementó ninguna marca postal que lo identificara como tal, siendo así imposible establecer qué piezas, ya de por sí muy escasas las circuladas en este trayecto, fueron llevadas por la diligencia.
 
@@ -288,7 +288,7 @@ Gobierno de Honduras. Reglamento de Policía. 1888. Tipografía Nacional. Teguci
 
 Gobierno de Honduras. Ley Orgánica de Correos. 1899. Tipografía Nacional. Tegucigalpa, Honduras.
 
-Infante, Segisfredo. Los Alemanes en el Sur. 1993. Editorial Universitaria. Tegucigalpa, Honduras.
+Infante, Segisfredo. *Los Alemanes en el Sur*. 1993. Editorial Universitaria. Tegucigalpa, Honduras.
 
 Valle, Rafael Heliodoro. Memorias de Honduras. ¿1947? Imprenta Calderón. Tegucigalpa, Honduras.
 

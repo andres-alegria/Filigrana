@@ -30,7 +30,7 @@ Ambos salieron de Ciudad de México hacia Acapulco y de allí a Guatemala a tra
 
 Una vez en Honduras, llegaron a la hacienda La Herradura en San Marcos de Ocotepeque, propiedad de Cándido Mejía, quien fuera su alumno en la Escuela Normal de Varones en Ciudad Guatemala.
 
-Desde San Marcos de Ocotepeque, siguieron por Sensenti, Corquín, Santa Rosa de Copán, Nueva Arcadia, Sula, Quimistán, Cofradía y San Pedro Sula. En Puerto Cortés el matrimonio tomó una embarcación para navegar hasta la ciudad de La Ceiba y desde allí al puerto de Trujillo, donde el 28 de agosto de 1878 abordaron el vapor SS Nueva Barcelona rumbo a Cuba, sumando un total de 31 días en territorio hondureño.
+Desde San Marcos de Ocotepeque, siguieron por Sensenti, Corquín, Santa Rosa de Copán, Nueva Arcadia, Sula, Quimistán, Cofradía y San Pedro Sula. En Puerto Cortés el matrimonio tomó una embarcación para navegar hasta la ciudad de La Ceiba y desde allí al puerto de Trujillo, donde el 28 de agosto de 1878 abordaron el vapor *SS Nueva Barcelona* rumbo a Cuba, sumando un total de 31 días en territorio hondureño.
 
 En La Ceiba varios cubanos residentes en ese puerto agasajaron a la joven pareja con una cena.
 

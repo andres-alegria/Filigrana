@@ -30,7 +30,7 @@ Liao Ning Pr
 
 China
 
-Correo electrónico: shaoebay2010@aliyun.com
+Correo electrónico: *shaoebay2010@aliyun.com*
 
 Solicita: canje a valor facial de sellos nuevos de Honduras, 10 series de cada emisión u hojas completas.
 
@@ -46,7 +46,7 @@ Guy Barbé
 
 Bélgica
 
-Correo electrónico: guybarbe@yahoo.rf
+Correo electrónico: *guybarbe@yahoo.rf*
 
 Solicita: sellos nuevos de Honduras, en series completas.
 

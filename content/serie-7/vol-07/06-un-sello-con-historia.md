@@ -52,13 +52,13 @@ En una ocasión cuando los indios que habitaban la misión iniciaron desordenes,
 
 A lo largo de todo un año se dedicó a la construcción de una balandra, llamada Triunfo de la Cruz. Se botó el 14 de septiembre y navegó por 25 años realizando más de 100 travesías por el Mar de Cortés. En ella fray Ugarte alcanzó la desembocadura del Río Colorado y vivió múltiples aventuras como cuando en 1721 a consecuencia de los fuertes vientos y corrientes contrarias se perdió el lanchón en que viajaba con sus ocho marineros, quienes luego aparecieron sanos y salvos en Loreto. En sus navegaciones, fray Ugarte visitó a los indios en Sonora y descubrió la Bahía de San Felipe, hoy Puerto San Felipe.
 
-Además de las responsabilidades adquiridas, se tomó el tiempo para fundar la Misión de San José de Comondú e iniciar la de Guasinapí. Ya fatigado y añoso escribió dos obras documentales: “Noticia del Viaje de la Balandra Nombrada El Triunfo de la Cruz, Hecho en 1709 al Golfo de Californias y Costa del Sur de América Septentrional”, y “Diario, Relaciones y Cartas de las Cosas de Californias”.
+Además de las responsabilidades adquiridas, se tomó el tiempo para fundar la Misión de *San José* de Comondú e iniciar la de Guasinapí. Ya fatigado y añoso escribió dos obras documentales: “Noticia del Viaje de la Balandra Nombrada El Triunfo de la Cruz, Hecho en 1709 al Golfo de Californias y Costa del Sur de América Septentrional”, y “Diario, Relaciones y Cartas de las Cosas de Californias”.
 
 Falleció a los 68 años en la Misión de San Francisco Javier el 8 de diciembre de 1730. En su honor el 5 de julio de 1993 el instituto bicultural de La Paz, Baja California, fue nombrado Instituto Juan de Ugarte.
 
 Bibliografía:
 
-Blog Renacentista. El Padre Juan de Ugarte. 2008. México.
+Blog Renacentista. *El Padre Juan de Ugarte*. 2008. México.
 
 ---
 

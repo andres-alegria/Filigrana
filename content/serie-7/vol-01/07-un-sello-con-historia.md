@@ -60,7 +60,7 @@ Estos objetos, junto a otros recuperados el día del naufragio y los que han sid
 
 Las películas tomadas en el fondo del mar, después de que los restos del navío fueron ubicados, permiten ver la oficina y bodega del correo donde se pueden observar cientos de sacas con correspondencia, que quizás, algún día, podrán ser recuperadas.
 
-Tomado del libro HISTORIAS con HISTORIA
+Tomado del libro *HISTORIAS con HISTORIA*
 
 Autor: Manuel Mariño R.
 

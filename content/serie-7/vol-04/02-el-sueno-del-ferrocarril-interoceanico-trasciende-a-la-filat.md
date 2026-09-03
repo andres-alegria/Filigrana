@@ -26,7 +26,7 @@ Las cartas fueron remitidas por uno de los ingenieros que conformaba el equipo c
 
 Hijo de un ministro, Ephraim George Squier nació en Belén, Nueva York, el 17 de junio de 1821, dedicándose al estudio de ingeniería, propósito que abandonó para dedicarse al periodismo, desempeñán-dose también como diplomático y arqueólogo aficionado.
 
-Trabajó como redactor en el rotativo Perla Literaria en Charlton, Nueva York, y posteriormente colaboró en la revista New York State Mechanic de Albany en 1841. En Hartford, Connecticut, fue editor del diario Whig. En ese tiempo apoyaba al candidato presidencial Henry Clay, quien perdió las elecciones de 1844. Cuando el medio cerró operaciones se trasladó en 1845 a Chillicothe, Ohio donde se convirtió en editor del semanario Gazeta de Scioto, dedicando tiempo también al estudio de montículos indígenas. Producto de sus investigaciones es el libro Monumentos Antiguos del Valle del Misisipi (1848) elaborado junto a Edwin Davis, siendo la primera obra publicada por el Instituto Smithsoniano. En 1849 fue nombrado por el gobierno estadounidense, bajo la presidencia de Zacarías Taylor, como encargado de asuntos relacionados para América Central. Gracias a sus buenos oficios, persuadió al gobierno británico para que se firmase el Tratado Clayton-Bulwer. Paralelamente, durante su estadía se avocó al estudio de las civilizaciones antiguas de la región, editando varios libros, a decir: Nicaragua: Su Gente, Paisajes y Monumentos (1852); Viajes por Centroamérica, Particularmente Nicaragua (1853); Waikna, o Aventuras en la Costa de la Mosquitia (1855); Apuntes Sobre Centro América (1857, revisada en 1870); Honduras, Descripción, Historia, y Estadísticas (1870); y Perú, Incidentes de Viaje y Exploración en la Tierra de los Incas (1877).
+Trabajó como redactor en el rotativo *Perla Literaria* en Charlton, Nueva York, y posteriormente colaboró en la revista *New York State Mechanic* de Albany en 1841. En Hartford, Connecticut, fue editor del diario *Whig*. En ese tiempo apoyaba al candidato presidencial Henry Clay, quien perdió las elecciones de 1844. Cuando el medio cerró operaciones se trasladó en 1845 a Chillicothe, Ohio donde se convirtió en editor del semanario *Gazeta de* Scioto, dedicando tiempo también al estudio de montículos indígenas. Producto de sus investigaciones es el libro *Monumentos Antiguos del Valle del Misisipi* (1848) elaborado junto a Edwin Davis, siendo la primera obra publicada por el Instituto Smithsoniano. En 1849 fue nombrado por el gobierno estadounidense, bajo la presidencia de Zacarías Taylor, como encargado de asuntos relacionados para América Central. Gracias a sus buenos oficios, persuadió al gobierno británico para que se firmase el Tratado Clayton-Bulwer. Paralelamente, durante su estadía se avocó al estudio de las civilizaciones antiguas de la región, editando varios libros, a decir: *Nicaragua: Su Gente, Paisajes y Monumentos* (1852); Viajes por Centroamérica, Particularmente Nicaragua (1853); Waikna, o Aventuras en la Costa de la Mosquitia (1855); *Apuntes Sobre Centro América* (1857, revisada en 1870); Honduras, Descripción, Historia, y Estadísticas (1870); y Perú, Incidentes de Viaje y Exploración en la Tierra de los Incas (1877).
 
 Fue Secretario de la Compañía del Ferrocarril Interoceánico en Honduras. En 1862 el presidente Abraham Lincoln lo nombró Comisionado del Gobierno Estadounidense en Perú. Posteriormente, en 1868, se le nombró Cónsul General en ese país.
 
@@ -80,7 +80,7 @@ John Cresson Trautwine (1810-1883), ingeniero consultor de varios proyectos ferr
 
 Sucesos políticos como el golpe de estado perpetrado por el general Juan F. López Aguirre contra el presidente José Trinidad Cabañas, la guerra de Italia, la Guerra Civil de USA y la invasión de Francia a México causaron terrible mella en los ánimos de los inversionistas, haciendo que las acciones cayeran estrepitosamente.
 
-Casualmente en 1857, procedente de El Salvador y siendo Presidente Santos Guardiola, el Cólera Morbus apareció de nuevo en Honduras, quedando la coordinación de las acciones sanitarias a cargo del Dr. Manuel Fernández, quien estableció su centro de operaciones en la ciudad de La Paz. Varios pueblos, entre ellos Aguanqueterique, Chinada, Lamaní, Intibucá, Erandique y La Paz presentaron casos esporádicos que causaron enorme pánico entre la población y las autoridades. El 29 de septiembre de 1857 fallecieron en Comayagua el obispo Hipólito Casiano Flores y su secretario el padre Valentín. Se trató sin ninguna duda de dos casos agudos de cólera por la sintomatología; sin embargo debido a que existían diferencias entre la Iglesia y el Estado, algunos insistían en la comisión de un crimen político por envenenamiento. Lo más probable y en consonancia con el diagnóstico del médico inglés George Holland, a la sazón residiendo en la ciudad de La Paz como integrante del Real Cuerpo de Ingenieros que hacía estudios sobre la posibilidad de construir el ferrocarril interoceánico, es que los prelados se infectaron luego de una reciente gira pastoral por el Sur del país en donde se encontraban las tropas hondureñas que jefeadas por el general Florencio Xatruch, tras combatir al filibustero William Walker, regresaban de Nicaragua trayendo consigo el flagelo de aquella nación, seriamente afectada también.
+Casualmente en 1857, procedente de El Salvador y siendo Presidente Santos Guardiola, el *Cólera Morbus* apareció de nuevo en Honduras, quedando la coordinación de las acciones sanitarias a cargo del Dr. Manuel Fernández, quien estableció su centro de operaciones en la ciudad de La Paz. Varios pueblos, entre ellos Aguanqueterique, Chinada, Lamaní, Intibucá, Erandique y La Paz presentaron casos esporádicos que causaron enorme pánico entre la población y las autoridades. El 29 de septiembre de 1857 fallecieron en Comayagua el obispo Hipólito Casiano Flores y su secretario el padre Valentín. Se trató sin ninguna duda de dos casos agudos de cólera por la sintomatología; sin embargo debido a que existían diferencias entre la Iglesia y el Estado, algunos insistían en la comisión de un crimen político por envenenamiento. Lo más probable y en consonancia con el diagnóstico del médico inglés George Holland, a la sazón residiendo en la ciudad de La Paz como integrante del Real Cuerpo de Ingenieros que hacía estudios sobre la posibilidad de construir el ferrocarril interoceánico, es que los prelados se infectaron luego de una reciente gira pastoral por el Sur del país en donde se encontraban las tropas hondureñas que jefeadas por el general Florencio Xatruch, tras combatir al filibustero William Walker, regresaban de Nicaragua trayendo consigo el flagelo de aquella nación, seriamente afectada también.
 
 En una carta fechada en diciembre de 1857 el Dr. Holland expresaba lo siguiente: "En cuanto a la primera pregunta, puedo asegurar que aunque fui llamado demasiado tarde a asistir a los dos casos, que por consiguiente no pude observar su estado incipiente ni su desarrollo para persuadirme de que mis esfuerzos salvarían esas dos importantes vidas, no habiendo dejado los lechos de los pacientes sino pocos momentos, hasta que exhalaron el último suspiro, tuve oportunidad de formar una perfecta opinión del verdadero carácter de la enfermedad y, sin vacilar, enfáticamente declaro que fueron casos violentos de Cólera Asiático".
 
@@ -276,21 +276,21 @@ Comodoro William Nicholson Jeffers.
 
 Nació en Swedesboro, Nueva Jersey 6 de octubre de 1824 y falleció en Washington D. C. el 23 de julio de 1883.
 
-El 23 de septiembre de 1840 es nombrado Guardiamarina de la Armada Americana, sirviendo en las fragatas USS Congress y USS United States.
+El 23 de septiembre de 1840 es nombrado Guardiamarina de la Armada Americana, sirviendo en las fragatas *USS Congress* y *USS United States*.
 
-Sirvió en el USS Vixen durante la Guerra Mexicana, activo en el asalto a Alvarado, la captura de Tabasco y el bombardeo a Veracruz.
+Sirvió en el *USS Vixen* durante la Guerra Mexicana, activo en el asalto a Alvarado, la captura de Tabasco y el bombardeo a Veracruz.
 
 Instructor en la Academia Naval de los Estados Unidos, 1848-1849.
 
-Entre 1852 y 1853 y en 1857 sirvió en el Golfo de México en el barco USS Honduras haciendo el estudio para la ruta interoceánica.
+Entre 1852 y 1853 y en 1857 sirvió en el Golfo de México en el barco *USS Honduras* haciendo el estudio para la ruta interoceánica.
 
-Entre 1853 y 1856 comandó el USS Water Witch, como parte de la escuadra en Brasil para estudiar los ríos Paraná y La Plata.
+Entre 1853 y 1856 comandó el *USS Water Witch*, como parte de la escuadra en Brasil para estudiar los ríos Paraná y La Plata.
 
 Promovido a teniente en 1855.
 
 Hidrógrafo en el estudio para el canal a través del istmo de Panamá y Honduras, 1859-1860.
 
-Comandante del USS Filadelfia en el río Potomac, 1861.
+Comandante del *USS Filadelfia* en el río Potomac, 1861.
 
 Durante la década de 1870 y principios de 1880 se desempeñó como Jefe de la Oficina de Artillería del ejército de los USA.
 
@@ -302,7 +302,7 @@ Fue fundada en Nueva York el 18 de abril de 1848 por los comer-ciantes William H
 
 Afortunadamente para Aspinwall y demás socios, la PMSC estaba en una posición ideal para aprovechar el gran flujo humano a raíz de la fiebre del oro desatada en 1849.
 
-A pesar de lo peligroso de la ruta, el plan superó los medios tradicionales de transportar carga entre las costas del Atlántico y el Pacífico. Aun así, el emprendimiento involucraba un gran riesgo.  Con una pequeña población de 20,000 esparcidos sobre 4,500 kms., el Oeste no tenía carbón, no tenía medios para proveer o mantener vapores y solamente contaba con facilidades portuarias rudimentarias. Había muchos críticos que condenaban la aventura al fracaso. Sin embargo, Aspinwall perseveró y su buque el S. S. California fue el primero de su tipo en atracar en el puerto de San Francisco el 28 de febrero de 1849.
+A pesar de lo peligroso de la ruta, el plan superó los medios tradicionales de transportar carga entre las costas del Atlántico y el Pacífico. Aun así, el emprendimiento involucraba un gran riesgo.  Con una pequeña población de 20,000 esparcidos sobre 4,500 kms., el Oeste no tenía carbón, no tenía medios para proveer o mantener vapores y solamente contaba con facilidades portuarias rudimentarias. Había muchos críticos que condenaban la aventura al fracaso. Sin embargo, Aspinwall perseveró y su buque el *S. S. California* fue el primero de su tipo en atracar en el puerto de San Francisco el 28 de febrero de 1849.
 
 ![Anuncio de la PMSC con su itinerario San Francisco- NewYork.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image36.webp)
 
@@ -318,11 +318,11 @@ El SS Pacific. Vapor de 876 toneladas, botado el 24 de septiembre de 1850 para l
 
 Cornelius Vanderbilt hizo su fortuna en la navegación a vapor regional en el área de Nueva York. Cuando la fiebre del oro de California hizo rentable el tránsito a través de Panamá, vio una oportunidad de mejorar. Él creía que una ruta a través de Nicaragua, que estaba más cerca de los Estados Unidos, resultaría un camino más rápido y barato a los campos de oro de California. No pudo conseguir el financiamiento de un canal como esperaba, sino que utilizó una ruta que incluía el río San Juan y el lago de Nicaragua. Según los informes, el tiempo de tránsito de Nueva York a San Francisco en la nueva ruta de Nicaragua era de 2a5 días más rápido que la ruta por Panamá. Vanderbilt comenzó a comprar y alquilar barcos tanto en el Atlántico como en el Pacífico para implementar la ruta por Nicaragua. Charteó el SS Pacific para la sección de Nicaragua a San Francisco.
 
-El SS Pacific fue retirado del servicio nicaragüense a principios de 1856 saliendo en ese momento de los registros contemporáneos. Es posible que su permiso no se renovara por la confusión que se apoderó de las operaciones de Vanderbilt después de la confiscación de sus propiedades nicaragüenses por el filibustero William Walker. En 1858 reaparece navegando para la Pacific Mail Steamship Co. entre San Francisco, Portland, Puget Sound y Victoria (Columbia Británica). Parte de su negocio, y tal vez la razón de su reactivación, fue transportar mineros de California al “Fraser Canyon Gold Rush”. En 1859, el SS Pacífic fue comprado por la California Steam Navigation Company, para continuar navegando la misma ruta.
+El SS Pacific fue retirado del servicio nicaragüense a principios de 1856 saliendo en ese momento de los registros contemporáneos. Es posible que su permiso no se renovara por la confusión que se apoderó de las operaciones de Vanderbilt después de la confiscación de sus propiedades nicaragüenses por el filibustero William Walker. En 1858 reaparece navegando para la Pacific Mail Steamship Co. entre San Francisco, Portland, Puget Sound y Victoria (Columbia Británica). Parte de su negocio, y tal vez la razón de su reactivación, fue transportar mineros de California al “Fraser Canyon Gold Rush”. En 1859, el *SS Pacífic* fue comprado por la California Steam Navigation Company, para continuar navegando la misma ruta.
 
-El SS Pacific, al mando del capitán George W. Staples, zarpó de Portland hacia Columbia Británica el 17 de julio de 1861 en dirección a San Francisco. A las 2:00 a. m. golpeó Coffin Rock. La roca golpeó su proa y las inundaciones fueron inmediatas y graves. El capitán Staples intentó llegar a Astoria, pero la inundación era demasiado severa. El SS Pacífic continuó río abajo durante unas diez millas y fue varado a un lado del río en Washington. Cuando se detuvo, su popa estaba sumergida hasta la segunda cubierta. Había 70 pasajeros a bordo en el momento. No se perdieron vidas, pero gran parte de la carga fue destruida. El barco fue reflotado el 2 de agosto de 1861 llevándolo a Astoria para su reparación. A finales de año estaba de vuelta en servicio, navegando su ruta habitual.
+El SS Pacific, al mando del capitán George W. Staples, zarpó de Portland hacia Columbia Británica el 17 de julio de 1861 en dirección a San Francisco. A las 2:00 a. m. golpeó Coffin Rock. La roca golpeó su proa y las inundaciones fueron inmediatas y graves. El capitán Staples intentó llegar a Astoria, pero la inundación era demasiado severa. El *SS Pacífic* continuó río abajo durante unas diez millas y fue varado a un lado del río en Washington. Cuando se detuvo, su popa estaba sumergida hasta la segunda cubierta. Había 70 pasajeros a bordo en el momento. No se perdieron vidas, pero gran parte de la carga fue destruida. El barco fue reflotado el 2 de agosto de 1861 llevándolo a Astoria para su reparación. A finales de año estaba de vuelta en servicio, navegando su ruta habitual.
 
-Una guerra de tarifas de barcos de vapor se desató en la costa Oeste de los Estados Unidos en la década de 1860. Con el fin de reducir la competencia en las rutas de San Francisco a los puntos del Norte, la Compañía Steamship de California, Oregón y México adquirió a mediados de 1867 seis barcos, incluido el SS Pacífic, el cual naufragó el 4 de noviembre de 1875al colisionar con el SS Orpheus.
+Una guerra de tarifas de barcos de vapor se desató en la costa Oeste de los Estados Unidos en la década de 1860. Con el fin de reducir la competencia en las rutas de San Francisco a los puntos del Norte, la Compañía Steamship de California, Oregón y México adquirió a mediados de 1867 seis barcos, incluido el *SS Pacífic*, el cual naufragó el 4 de noviembre de 1875al colisionar con el *SS Orpheus*.
 
 El SS George Law. Vapor de 2,141 toneladas construido en 1853 para la United States Mail Steamship Co. y bautizado con el nombre del presidente de la compañía. Fue construido para navegar la ruta Nueva York-Panamá durante la fiebre de oro de California. En su viaje inaugural de regreso desde Panamá, trajo 465 pasajeros y $872,831.00 en oro a Nueva York. En más de 40 viajes bimensuales el Law promedió menos de nueve días por etapa. En 1857 encalló, siendo llevado a un dique seco para una revisión exhaustiva.
 
@@ -342,7 +342,7 @@ La pérdida contribuyó a alimentar el pánico financiero de 1857 que envió a l
 
 Al momento del naufragio, el SS Central America transportaba oro valorado en aproximadamente $8,000,000.00 (equivalente monetario moderno a $292 millones). La valoración del barco en sí fue sustancialmente menor a la pérdida en otros desastres del período, siendo ésta de $140,000.00 (equivalente hoy a $3,760,000.00). Los bancos que dependían de esos fondos no pudieron cumplir con sus obligaciones, los inversores perdieron la confianza y la crisis resultante fue conocida como el "Pánico de 1857".
 
-Comandante William Lewis Herndon. Un distinguido oficial que había servido durante la guerra entre México y Estados Unidos y había explorado el Valle del Amazonas, sucumbió con el SS Central America. Más tarde, dos barcos de la Armada de los Estados Unidos fueron nombrados USS Herndon en su honor, al igual que la ciudad de Herndon, Virginia. Dos años después de la tragedia, su hija Ellen se casó con Chester Alan Arthur, futuro vigésimo primer presidente de los Estados Unidos de América.
+Comandante William Lewis Herndon. Un distinguido oficial que había servido durante la guerra entre México y Estados Unidos y había explorado el Valle del Amazonas, sucumbió con el SS Central America. Más tarde, dos barcos de la Armada de los Estados Unidos fueron nombrados *USS Herndon* en su honor, al igual que la ciudad de Herndon, Virginia. Dos años después de la tragedia, su hija Ellen se casó con Chester Alan Arthur, futuro vigésimo primer presidente de los Estados Unidos de América.
 
 ![Capitán William Lewis Herndon](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image39.webp)
 
@@ -362,7 +362,7 @@ Omoa. La historia de Omoa comienza en el año de 1536, cuando el adelantado Pedr
 
 Puerto Caballos. Fue fundado 1524 por el capitán Gil González Dávila con el nombre de Villa de la Natividad de Nuestra Señora, en la zona que hoy se conoce como Cienaguita. En 1526 llega por mar Hernán Cortés a castigar al capitán Gil González Dávila. A causa de una tormenta estuvo a punto de naufragar y perdió 17 caballos, bautizando el lugar como Puerto Caballos. El nombre de Puerto Cortés lo adquiere a partir del 5 de marzo de 1869, siendo presidente el general José María Medina.
 
-Choloma. El poblado original de Tholoma estaba ubicado cerca de Conta y Cholula, pueblos indígenas en la ribera del río Balaliama o Choloma, documentado primero en la quinta carta Hernán Cortés sobre su conquista de la provincia de Honduras. También fue mencionado en la obra de Bernal Díaz del Castillo sobre los mismos eventos entre 1524 y 1525. En 1536 es mencionado en el documento sobre la fundación de San Pedro de Puerto de Caballos (hoy San Pedro Sula) pero no fue otorgado a ningún español en el repartimiento de San Pedro.
+Choloma. El poblado original de *Tholoma* estaba ubicado cerca de Conta y Cholula, pueblos indígenas en la ribera del río Balaliama o Choloma, documentado primero en la quinta carta Hernán Cortés sobre su conquista de la provincia de Honduras. También fue mencionado en la obra de Bernal Díaz del Castillo sobre los mismos eventos entre 1524 y 1525. En 1536 es mencionado en el documento sobre la fundación de San Pedro de Puerto de Caballos (hoy San Pedro Sula) pero no fue otorgado a ningún español en el repartimiento de San Pedro.
 
 Potrerillos. En 1843 Potrerillos, situado en la parte sur del Valle de Sula, en el departamento de Cortés, se conocía como un caserío formado por 18 champas perteneciente al municipio de Yojoa. El 3 de marzo de 1875 se elevó a la categoría de municipio.
 
@@ -374,7 +374,7 @@ Rancho Chiquito. Pueblo del municipio de la Villa de San Antonio en Comayagua. E
 
 Aguanqueterique. Se cree que su fundación data de 1500; en 1684 ya figuraba en la nómina de los pueblos de la provincia de Comayagua; en 1791 obtuvo su primer título con el nombre de San Pedro de Aguanqueterique; en la División de 1825, formaba parte del partido de Goascorán, que pertenecía a Comayagua; en la División Política Territorial de 1889 era un municipio del Distrito de San Antonio. Entre sus curas párrocos en los últimos años de la dominación española estuvo el sacerdote costarricense don José Joaquín de Alva-rado y Alvarado, firmante del Acta de Independencia de Costa Rica
 
-Tambla. Pueblo principal del municipio de Tambla en el departamento de Lempira. En la matrícula levantada en 1801 se le menciona como pueblo de indios perteneciente a la parroquia de Comayagua, con “105 almas”.
+Tambla. Pueblo principal del municipio de Tambla en el departamento de Lempira. En la matrícula levantada en 1801 se le menciona como pueblo de indios perteneciente a la parroquia de Comayagua, con “*105 almas*”.
 
 Campo Volcán. El volcán Yojoa es un campo volcánico al norte del Lago de Yojoa, el cual se extiende hasta el norte de Río Lindo. Aunque en las cercanías no existe una población denominada así, se deduce que el equipo topográfico usó el nombre como una referencia para sus notas de campo.
 
@@ -384,26 +384,26 @@ Caridad. Toma su nombre a raíz de la hacienda La Caridad y así figura en el re
 
 El Naranjo. La mención de este lugar por Godown tal vez haya sido una de las pocas ocasiones que alguien se ocupó de ello, pues con dicho nombre se denomina a un minúsculo caserío en el departamento de Valle, perteneciente a la aldea Los Llanos, municipio de Langue.
 
-San Lorenzo. Fue fundado por los españoles en 1522. Sin embargo, hay documentación que revela la existencia de este Puerto a partir de 1843 con el nombre de Puerto de La Paz. El 12 de abril de 1843 el Gobierno declaró el puerto de La Paz como puerto del Estado en el Pacífico. En el Anuario Estadístico de 1889 de Antonio Ramón Vallejo ya aparece como San Lorenzo, perteneciente al departamento de Choluteca. En 1893, al crearse el departamento de Valle, San Lorenzo queda bajo su jurisdicción.
+San Lorenzo. Fue fundado por los españoles en 1522. Sin embargo, hay documentación que revela la existencia de este Puerto a partir de 1843 con el nombre de Puerto de La Paz. El 12 de abril de 1843 el Gobierno declaró el puerto de La Paz como puerto del Estado en el Pacífico. En el *Anuario Estadístico de 1889* de Antonio Ramón Vallejo ya aparece como San Lorenzo, perteneciente al departamento de Choluteca. En 1893, al crearse el departamento de Valle, San Lorenzo queda bajo su jurisdicción.
 
 Bibliografía:
 
 Biblioteca Estatal de Indiana. División de Manuscritos y Libros Raros. USA. Septiembre 2012.
 
-Bourdeth Tosta, Julio Alberto. Revista Médica Hondureña. Vol. 63 - No. 2. Tegucigalpa, Honduras. 1995.
+Bourdeth Tosta, Julio Alberto. *Revista Médica Hondureña*. Vol. 63 - No. 2. Tegucigalpa, Honduras. 1995.
 
-Leiva, Héctor M. Documentos Coloniales de Honduras. Centro Asesor para el Desarrollo de los Recursos Humanos de Honduras. Tegucigalpa, Honduras. 1991.
+Leiva, Héctor M. *Documentos Coloniales de Honduras*. Centro Asesor para el Desarrollo de los Recursos Humanos de Honduras. Tegucigalpa, Honduras. 1991.
 
 Izaguirre, Ramón. Extranjeros Hacia Tegucigalpa (1857-1928). Tegucigalpa, Honduras. 2007.
 
-León Gómez, Alfredo. El Escándalo del Ferrocarril. Tegucigalpa, Honduras. 1978.
+León Gómez, Alfredo. *El Escándalo del Ferrocarril*. Tegucigalpa, Honduras. 1978.
 
-Squier, Ephraim George. Apuntes Sobre Centro América. Harper & Brothers P. Nueva York. USA. 1855.
+Squier, Ephraim George. *Apuntes Sobre Centro América*. Harper & Brothers P. Nueva York. USA. 1855.
 
-The Fort Wayne Sentinel. 21 de diciembre de 1911, página 1. Fort Wayne, Indiana, USA.
+*The Fort Wayne Sentinel*. 21 de diciembre de 1911, página 1. Fort Wayne, Indiana, USA.
 
 United States Postal Service. Correo Terrestre a California en los 1850s. USA. Agosto 2010.
 
-Vallejo, Antonio Ramón. Anuario Estadístico de Honduras. Litografía Nacional, Tegucigalpa, Honduras. 1889.
+Vallejo, Antonio Ramón. *Anuario Estadístico de Honduras*. Litografía Nacional, Tegucigalpa, Honduras. 1889.
 
 ---

@@ -96,7 +96,7 @@ Por ahora las piezas presentadas en este artículo se limitan a las que el autor
 
 Bibliografía:
 
-Skinner, Hubert y Eno, Amos: United States Cancellations 1845-1869. USA.
+Skinner, Hubert y Eno, Amos: *United States Cancellations 1845-1869*. USA.
 
 ---
 

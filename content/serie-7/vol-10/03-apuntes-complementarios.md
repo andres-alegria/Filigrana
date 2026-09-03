@@ -20,7 +20,7 @@ review: []
 ---
 
 # Apuntes complementarios
-En el número anterior de Honduras Filatélica publiqué un artículo referente a la emisión de Céleo Arias, en el cual abordaba las incidencias en torno a la reimpresión de la misma. Posteriormente me encontré con un dato que aclara con contundencia la razón que motivó la investigación del caso. Sin embargo, es oportuno refrescar que entre 1890 y 1895 se pusieron en circulación seis emisiones conocidas en el ámbito filatélico como emisiones “Seebeck”, impresas por la American Bank Note Co., las cuales, además de los sellos ordinarios, incluyeron en su conjunto los siguientes enteros postales: 18 sobres, 20 tarjetas y 16 bandas para periódico.
+En el número anterior de *Honduras Filatélica* publiqué un artículo referente a la emisión de *Céleo Arias*, en el cual abordaba las incidencias en torno a la reimpresión de la misma. Posteriormente me encontré con un dato que aclara con contundencia la razón que motivó la investigación del caso. Sin embargo, es oportuno refrescar que entre 1890 y 1895 se pusieron en circulación seis emisiones conocidas en el ámbito filatélico como emisiones “Seebeck”, impresas por la American Bank Note Co., las cuales, además de los sellos ordinarios, incluyeron en su conjunto los siguientes enteros postales: 18 sobres, 20 tarjetas y 16 bandas para periódico.
 
 Los sobres fueron de cuatro tipos, impresos para las emisiones de 1890, 1891, 1892 y 1893, con portes de 5, 10, 20 y 25 cts.; y sólo los valores de 5 y 10 cts. para la emisión de 1895.
 
@@ -32,11 +32,11 @@ Analizando lo anterior, destaca que para la última emisión de 1895 no se impri
 
 Por Acuerdo ministerial del 28 de enero fueron puestos en circulación los valores postales usados durante el año actual; la emisión careció de bandas timbradas para periódicos, y por consiguiente el consumo de valores 1y2 centavos ha sobrepasado al ordinario.
 
-El Ministro se refiere a la emisión de emergencia solicitada a Seebeck, conocida como La Justicia, puesta en circulación el 15 de febrero de 1895.
+El Ministro se refiere a la emisión de emergencia solicitada a Seebeck, conocida como *La Justicia*, puesta en circulación el 15 de febrero de 1895.
 
-La omisión aludida por el ministro Fiallos repercutió en la posterior emisión de la serie Céleo Arias, la cual se elaboró siguiendo el patrón de su predecesora, por lo que esta nueva emisión quedó igualmente huérfana de bandas para periódico, provocando que once meses se agotaran los sellos de menor denominación, y fuese necesario ordenar, el 23 de noviembre de 1896, una reimpresión de la misma.
+La omisión aludida por el ministro Fiallos repercutió en la posterior emisión de la serie *Céleo Arias*, la cual se elaboró siguiendo el patrón de su predecesora, por lo que esta nueva emisión quedó igualmente huérfana de bandas para periódico, provocando que once meses se agotaran los sellos de menor denominación, y fuese necesario ordenar, el 23 de noviembre de 1896, una reimpresión de la misma.
 
-Las planchas habían quedado guardadas. Siendo ésta la primera emisión elaborada localmente, no existía un precedente para su proceder, algo que se tomó en consideración cortos tres años después al establecerse la Ley Orgánica de Correos de 1899, que en su Artículo 593 dejaba establecido:
+Las planchas habían quedado guardadas. Siendo ésta la primera emisión elaborada localmente, no existía un precedente para su proceder, algo que se tomó en consideración cortos tres años después al establecerse la *Ley Orgánica de Correos de 1899*, que en su Artículo 593 dejaba establecido:
 
 Las planchas matrices que hayan sido grabadas para la emisión de los valores postales, cuando ella se haya hecho, se guardarán y custodiarán de tal modo que no sea posible su pérdida o extravío. Con estas mismas planchas se podrán grabar después sellos de una emisión pasada para la formación y venta de las colecciones que se pidan.
 
@@ -50,11 +50,11 @@ La única ocasión conocida de venta de sobrantes de la serie de Arias sucedió 
 
 58 x 18 mm
 
-Por lo menos en la siguiente emisión de 1898 de La Locomotora, y su reimpresión de 1902, ambas se distinguen por el tipo de papel usado, siendo papel avitelado (sin filigrana) para la primera y papel listado (con filigrana) para la segunda, ilustrada ésta última así:
+Por lo menos en la siguiente emisión de 1898 de *La Locomotora*, y su reimpresión de 1902, ambas se distinguen por el tipo de papel usado, siendo papel avitelado (sin filigrana) para la primera y papel listado (con filigrana) para la segunda, ilustrada ésta última así:
 
-Papel listado con filigrana vertical (corondeles) para los valores de 1, 2y5 cts.
+Papel listado con filigrana vertical (*corondeles*) para los valores de 1, 2y5 cts.
 
-Papel listado con la filigrana horizontal (puntizones) para los valores de 6 y 10 cts.
+Papel listado con la filigrana horizontal (*puntizones*) para los valores de 6 y 10 cts.
 
 Fue oportuno que entre ambos eventos transcurrieran más de tres años, dando lugar así a una muy buena probabilidad de haber adquirido un papel distinto, un hecho recurrente con diferencia de días en emisiones recientes.
 

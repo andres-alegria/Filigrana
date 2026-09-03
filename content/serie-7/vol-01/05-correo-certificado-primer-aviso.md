@@ -32,7 +32,7 @@ Gigantesco sello “URGENTE” tallado en madera.
 
 Algunas obras de la exhibición
 
-Con esta escueta pero, sin duda, rotunda declaración, Pilar manifiesta a priori ese respeto y admiración por dicha institución universal, como ella apostillaría “sin fronteras”.
+Con esta escueta pero, sin duda, rotunda declaración, Pilar manifiesta *a priori* ese respeto y admiración por dicha institución universal, como ella apostillaría “*sin fronteras*”.
 
 Su amor por el Correo es sencillamente la premisa esencial de esta exhibición; y por ende, su amor por Honduras constituye lugar indicado para que en tiempo y espacio ella nos invite desde su particular y especial poética a valorar la riqueza patrimonial de nuestro Correo Nacional.
 

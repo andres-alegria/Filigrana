@@ -68,13 +68,13 @@ Enlace: Historia de Honduras
 
 Website www.historiadehonduras.hh/heroesyproceres/morazan.html
 
-Revista: Temas Nicaragüenses, No. 37 / página 68.
+Revista: *Temas Nicaragüenses*, No. 37 / página 68.
 
 Artículo: Patricio Rivas y la Política de la Guerra Nacional
 
 Autor: José Mejía Lacayo Magazine:
 
-Revista: Temas Nicaragüenses No. 69 / página 144.
+Revista: *Temas Nicaragüenses* No. 69 / página 144.
 
 Artículo: General Francisco Morazán Prócer de la Unidad de la
 
@@ -82,11 +82,11 @@ República Centroamericana
 
 Autor: Hugo J. Vélez Astacio
 
-Códigos de la Legislación de Nicaragua. Tipografía Nacional. 1878.
+*Códigos de la Legislación de Nicaragua*. Tipografía Nacional. 1878.
 
 NOTA DEL EDITOR:
 
-El Sr. Erick J. Rodríguez es un avezado coleccionista de la filatelia nicaragüense, desempeñándose desde el 2023 como Presidente del Grupo de Estudio Filatélico de Nicaragua, con sede en los Estados Unidos de América, y a la vez como editor de la revista de difusión filatélica Nicarao.
+El Sr. Erick J. Rodríguez es un avezado coleccionista de la filatelia nicaragüense, desempeñándose desde el 2023 como Presidente del Grupo de Estudio Filatélico de Nicaragua, con sede en los Estados Unidos de América, y a la vez como editor de la revista de difusión filatélica *Nicarao*.
 
 Se le agradece la gentileza de habernos permitido publicar este artículo de alto contenido histórico para ambas naciones.
 

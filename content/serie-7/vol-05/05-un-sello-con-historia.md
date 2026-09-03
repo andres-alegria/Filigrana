@@ -84,13 +84,13 @@ En el arranque de su incipiente carrera aérea proclamaba haber sido protagonist
 
 *Phil Rader, tras servir en la fuerza aérea inglesa en 1914 y 1915, retornó a los USA para convertirse en instructor. Se mató en un accidente aéreo el 10 de junio de 1918 en el campo de aviación de la Curtiss en Búfalo, Nueva York.
 
-El 30 de noviembre de 1913 ambos se encontraron en los cielos naquenses. El evento lo describe Dean en sus memorias “El Filibustero Incurable” de la siguiente manera:
+El 30 de noviembre de 1913 ambos se encontraron en los cielos naquenses. El evento lo describe Dean en sus memorias “*El Filibustero Incurable*” de la siguiente manera:
 
 “Seguro era Phil Rader. Parecía que me había reconocido y cuando tratamos de acercarnos casi se traban las alas de ambos aviones. Rápidamente el me saludó levantando su puño al tiempo que se alejaba volando paralelamente. Él sacó su pistola y disparó apuntando bajo mi máquina. Por un segundo mi corazón se detuvo mientras sacaba mi propia pistola, pero antes de iniciar la acción, sucedió que él en realidad no me había apuntado, sino que dirigió sus disparos al vacío, por debajo. Siguiendo su ejemplo, disparé dos veces y mientras repentinamente giraba su aeroplano mi corazón subió a mi garganta pensando que por accidente le había atinado. Él se niveló nuevamente y copió mi ejemplo haciendo dos disparos”.
 
 Aeroplano Christofferson Pusher similar al que voló Lamb.
 
-Después de la “batalla aérea” el dúo partió hacia Naco donde repitieron el procedimiento haciéndose disparos de fantasía. Como un grand fínale, Dean disparó sobre el edificio de aduanas norteamericano al pensar que “los agentes aduaneros resultan ser siempre molestos”. Ambos pilotos nunca se encontraron en el aire nuevamente como enemigos, pero si años después como miembros de la Real Fuerza Aérea. Durante su servicio en la Primera Guerra Mundial, Dean fue acreditado con haber sido el primero en derribar un avión enemigo.
+Después de la “batalla aérea” el dúo partió hacia Naco donde repitieron el procedimiento haciéndose disparos de fantasía. Como un *grand fínale*, Dean disparó sobre el edificio de aduanas norteamericano al pensar que “los agentes aduaneros resultan ser siempre molestos”. Ambos pilotos nunca se encontraron en el aire nuevamente como enemigos, pero si años después como miembros de la Real Fuerza Aérea. Durante su servicio en la Primera Guerra Mundial, Dean fue acreditado con haber sido el primero en derribar un avión enemigo.
 
 Dean trabajó para el servicio postal aéreo norteamericano del 12 de septiembre de 1918 al 2 de junio de 1919.
 
@@ -156,17 +156,17 @@ El mayor Lamb falleció en la habitación de un hotel en Tucson, Arizona, a inic
 
 Bibliografía:
 
-Diario Brooklyn Daily Eagle. 1 de diciembre de 1944. Nueva York. USA.
+Diario *Brooklyn Daily Eagle*. 1 de diciembre de 1944. Nueva York. USA.
 
 Diario The Evening Times. 2 de diciembre de 1944. Sayre, Pensilvania, USA.
 
-historicwings.com. La Primera Batalla Aérea. Noviembre 2012. USA.
+historicwings.com. *La Primera Batalla Aérea*. Noviembre 2012. USA.
 
-Internet. Flight Stories. 30 de Noviembre de 2012. USA.
+Internet. *Flight Stories*. 30 de Noviembre de 2012. USA.
 
 Internet. Parte de la Historia de la Aviación de Honduras. 11 de enero de 2011. Honduras.
 
-U. S. Air Services, Volumen. 5, No. 1. Febrero 1921. USA.
+*U. S. Air Services*, Volumen. 5, No. 1. Febrero 1921. USA.
 
 EL
 

@@ -30,23 +30,23 @@ En la “ADVERTENCIA” nuevamente se enfatiza a los destinatarios a concurrir a
 
 En los Estados Unidos, entre 1794 y 1863 existía un cargo adicional por la entrega de cartas en la ciudad, el cual le quedaba al cartero. A partir de 1863, quedó establecido el sistema gratuito de entrega urbana de cartas, inicialmente cubriendo 49 ciudades y empleando un total de 440 carteros.
 
-En Honduras, la figura de cartero surge oficialmente por primera vez 20 años después, en la Ley de Correos de 1883, de la cual se presenta a continuación el título correspondiente:
+En Honduras, la figura de cartero surge oficialmente por primera vez 20 años después, en la *Ley de Correos* de 1883, de la cual se presenta a continuación el título correspondiente:
 
 La designación de carteros se determinaba por criterios de confianza y buena conducta, acreditados en los barrios donde se establecían, quedando su nombramiento a cargo del Director Departamental o de Distrito. La función primordial del cartero era garantizar la entrega directa de las cartas y demás documentos de una forma sistematizada, eliminando así los problemas de descuidos y olvidos. La correspondencia se repartía en los barrios, partiendo de los lugares cercanos a la administración, sin detenerse ni tener ninguna preferencia, de manera que “Concretarán su atención a este servicio, sin distraerla en ninguna otra cosa”.
 
 Por lo general, su zona de trabajo era la misma donde vivía, lo cual facilitaba las labores de entrega entre los vecinos porque ubicaba a sus posibles destinatarios y, de esta forma, era posible notificarles a aquellos que esperaban algún tipo de carta o, en su defecto, a los que podían tener correspondencia en la oficina de correos, pero lo desconocían. Asimismo, en caso de no encontrar al interesado, los carteros estaban obligados a investigar su paradero, ya sea para notificarle sobre su correspondencia o informarle a su nuevo cartero que se ocupara de repartirla.
 
-La próxima vez que se hace referencia a la labor de cartero la encontramos en la Ley Orgánica de Correos de 1899, la cual establece:
+La próxima vez que se hace referencia a la labor de cartero la encontramos en la *Ley Orgánica de Correos* de 1899, la cual establece:
 
 Es notable en la Ley que precede que la edad para ejercer el cargo se reduce de 21 a 16 años.
 
-La misma Ley Orgánica de Correos, en su Artículo 228 también puntualiza sobre la rapidez en la entrega de las cartas:
+La misma *Ley Orgánica de Correos*, en su Artículo 228 también puntualiza sobre la rapidez en la entrega de las cartas:
 
 “La correspondencia que se recoja de los buzones y que esté destinada a la misma localidad no podrá en ningún caso retenerse en la oficina más que el tiempo absolutamente necesario para hacer su registro, matar las estampillas y poner el sello fechador, lo mismo que el número de buzón, en el acto de recogerla, si esto fuere posible. Hecho esto, los carteros deben salir inmediatamente a hacer su distribución”.
 
 Entre las disposiciones más importantes de los reglamentos postales destaca que debían contar con un sueldo fijo. Pero un privilegio aún más importante era que dado los casi continuos levantamientos armados que azolaban al país, estaban exonerados del servicio militar.
 
-Ya entrado el siglo XX, el Proyecto de Presupuesto expuesto en las Memorias de Fomento, Obras Públicas, Agricultura y Trabajo de 1928, nos dan una idea exacta de la cobertura del sistema de carteros a nivel nacional. Aun cuando dicho Presupuesto arrojaba un déficit, el servicio se mantenía activo. Es notable en el mismo, que por la asignación del sueldo se puede determinar la importancia de la ciudad y por ende la intensidad de la labor postal, yendo de lo más básico como sucedía en Texiguat o Corquín con 3 pesos mensuales hasta las de mayor importancia como San Pedro Sula y Puerto Cortés (70 pesos); y Tegucigalpa, Comayagüela, Tela y La Ceiba (60 pesos).
+Ya entrado el siglo XX, el *Proyecto de Presupuesto* expuesto en las Memorias de Fomento, Obras Públicas, Agricultura y Trabajo de 1928, nos dan una idea exacta de la cobertura del sistema de carteros a nivel nacional. Aun cuando dicho Presupuesto arrojaba un *déficit*, el servicio se mantenía activo. Es notable en el mismo, que por la asignación del sueldo se puede determinar la importancia de la ciudad y por ende la intensidad de la labor postal, yendo de lo más básico como sucedía en Texiguat o Corquín con 3 pesos mensuales hasta las de mayor importancia como San Pedro Sula y Puerto Cortés (70 pesos); y Tegucigalpa, Comayagüela, Tela y La Ceiba (60 pesos).
 
 Lugar
 
@@ -494,7 +494,7 @@ De la última marca sólo conozco tres ejemplares, de los cuales el No. de carte
 
 En base a todo lo antes expuesto, podemos establecer que las marcas de carteros abarcan un periodo entre 1930 y el 2000. El hecho de que el uso de algunas de ellas se traspone en el tiempo con otras distintas, es debido a que algunas caían en desuso por razones de deterioro, siendo sustituidas por nuevas unidades fabricadas con algún grado de diferencia. Otro detalle consiste en el hecho de que he tomado las medidas de la manera más exacta posible; no obstante, a pesar de esto, puede mediar algún margen de error, pues el grosor de los bordes puede variar un poco dependiendo de la fuerza aplicada, el entintado o el desgaste de los mismos, tal como podría pasar con las marcas No. 3 y No. 4. Todo esto se irá aclarando en la medida de tener la oportunidad de estudiar ejemplares adicionales.
 
-Habiendo indagado con los carteros de mayor antigüedad todavía en servicio, y al tenor del material disponible, se desprende de que a partir del año 2000 al presente no se volvieron a aplicar marcas de cartero como control para la asignación de responsabilidades previo a la entrega de la correspondencia, así como para seguir la pista en caso de quejas de los destinatarios. Siendo que esta era una tarea que requería inversión de tiempo e insumos, elementos que pesaban frente al invariable déficit operativo de la entidad postal, se eliminó como medida de ahorro, que al final no probó ser paliativo para nada.
+Habiendo indagado con los carteros de mayor antigüedad todavía en servicio, y al tenor del material disponible, se desprende de que a partir del año 2000 al presente no se volvieron a aplicar marcas de cartero como control para la asignación de responsabilidades previo a la entrega de la correspondencia, así como para seguir la pista en caso de quejas de los destinatarios. Siendo que esta era una tarea que requería inversión de tiempo e insumos, elementos que pesaban frente al invariable *déficit* operativo de la entidad postal, se eliminó como medida de ahorro, que al final no probó ser paliativo para nada.
 
 Se agradece la información proporcionada por el señor Armando Cáceres, veterano y actual Jefe de Carteros de la Empresa de Correos de Honduras.
 
@@ -502,7 +502,7 @@ Bibliografía:
 
 Alegría R., Edgardo. Colección privada. 2021. Honduras.
 
-Ley Orgánica de Correos. Ministerio de Fomento. 1899. Honduras.
+*Ley Orgánica de Correos*. Ministerio de Fomento. 1899. Honduras.
 
 EL
 

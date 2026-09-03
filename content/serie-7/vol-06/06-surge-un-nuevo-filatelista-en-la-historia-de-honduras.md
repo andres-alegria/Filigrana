@@ -24,7 +24,7 @@ Recientemente estuvo en venta el siguiente entero postal de Honduras de la serie
 
 Carlos Hartling, quien incursionó en la historia patria como compositor de nuestro Himno Nacional, aquí nos da a conocer que también era filatelista, deseoso de establecer relaciones de canje con otros interesados.
 
-Desde que en 1840 Rowland Hill ideó el uso de la estampilla postal, el coleccionarlas se volvió casi de inmediato una afición, especialmente en Europa, donde el nivel cultural les abría un nuevo espacio. Enviar y recibir correspondencia ponía al alcance de la amplia población culta la correspondencia porteada con las deseadas estampillas (lastimosamente entonces coleccionadas separadas de los sobres).
+Desde que en 1840 Rowland Hill ideó el uso de la estampilla postal, el coleccionarlas se volvió casi de inmediato una afición, especialmente en *Europa*, donde el nivel cultural les abría un nuevo espacio. Enviar y recibir correspondencia ponía al alcance de la amplia población culta la correspondencia porteada con las deseadas estampillas (lastimosamente entonces coleccionadas separadas de los sobres).
 
 Tegucigalpa 3 de Diciembre 1902
 
@@ -46,7 +46,7 @@ El 27 de junio de 1896 viajó a Tegucigalpa contratado por el entonces president
 
 En 1903 se casa con Cecilia Guadalupe Ferrari Guardiola (1871-?, nieta del expresidente José Santos Guardiola) procreando a Enriqueta y Alicia Hartling F.
 
-El presidente Manuel Bonilla encargó al poeta Augusto Constantino Coello escribir un himno a Honduras, resultando el poema "Canto a Honduras" o "Canto a mi Patria" para el cual Hartling compuso el arreglo musical en 1903, quedando oficializado como Himno Nacional en 1915.
+El presidente Manuel Bonilla encargó al poeta Augusto Constantino Coello escribir un himno a Honduras, resultando el poema "*Canto a Honduras*" o "*Canto a mi Patria*" para el cual Hartling compuso el arreglo musical en 1903, quedando oficializado como Himno Nacional en 1915.
 
 Carlos Hartling falleció en la ciudad de Santa Tecla, El Salvador, el 13 de agosto de 1920.
 

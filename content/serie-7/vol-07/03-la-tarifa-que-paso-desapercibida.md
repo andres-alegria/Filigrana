@@ -54,13 +54,13 @@ Lo anterior nos indica que, debido al transporte marítimo, en lo concerniente a
 
 En realidad estos casos son más la excepción que la regla, ya que la gran mayoría de los enteros postales conocidos, circulados al exterior, están franqueados con 3 centavos. Entonces a qué podemos atribuir estos casos aislados. Tomando en cuenta la ligereza y falta de instrucción de los agentes postales que pasaban por alto estos detalles, me inclino a creer que el surgimiento de este porte de 4 centavos es el resultado de unos cuantos agentes postales que si aplicaron el Reglamento. Sustento esta aseveración en el hecho que, además de mis tarjetas, las demás que conozco, proceden de Puerto Cortés, Trujillo, Amapala y Santa Rosa de Copán; agencias postales de primera que en su momento contaron con personal mejor capacitado y por ende apegados al Reglamento Postal.
 
-Cualquiera sea la razón del origen de este material, descarto que haya sido una mera casualidad, por decir falta de sellos de 1 centavo, ya que en mi colección tengo un entero (figura 2) franqueado con un porte complementario de 2 centavos usando dos sellos de 1 centavo.
+Cualquiera sea la razón del origen de este material, descarto que haya sido una mera casualidad, por decir falta de sellos de 1 centavo, ya que en mi colección tengo un entero (*figura 2*) franqueado con un porte complementario de 2 centavos usando dos sellos de 1 centavo.
 
 Al final del día, lo cierto es que el surgimiento de este segmento de los enteros postales ha venido a ampliar la gama de estudios de tan atractivo tema.
 
 Bibliografía:
 
-Washburn, Richard. The Honduras Corner. The Oxcart, No. 268, diciembre
+Washburn, Richard. *The Honduras Corner*. *The Oxcart*, No. 268, diciembre
 
 1991. USA.
 

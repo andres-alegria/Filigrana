@@ -164,7 +164,7 @@ Descripción: Letra minúscula cursiva, alejada del menor esfuerzo por tratar de
 
 Esperamos que la presentación anterior cumpla con el propósito de orientar a la detección de los matasellos falsos en cuestión, considerando un posible resurgimiento de farsantes que auxiliados con la facilidad de la tecnología moderna no dudan en timar a los coleccionistas ajenos a estos detalles.
 
-Bibliografía: Anderson, Craig. Honduras Stamp Resource. Internet. USA.
+Bibliografía: Anderson, Craig. *Honduras Stamp Resource*. Internet. USA.
 
 Alegría R., Edgardo. Colección “La Locomotora”. Honduras.
 

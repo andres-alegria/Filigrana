@@ -30,11 +30,11 @@ Su hija Raymonde (1911–1998), nacida en Bruselas (Bélgica), contrajo nupcias 
 
 De Thuin afirmó que ya en 1916 se dedicaba al "trabajo filatélico” y que el mundo filatélico empezó a conocerlo entre las dos guerras mundiales.
 
-En 1927 tuvo una tienda Maison de Thuin, en 35 Boulevard Lambermont en Bruselas, Bélgica. Los servicios incluían la eliminación de cancelaciones fiscales de sellos británicos y la aplicación de contramarcas a sellos de Siam. También falsificaba cartas y marcas de garantía.
+En 1927 tuvo una tienda *Maison de Thuin*, en 35 Boulevard Lambermont en Bruselas, Bélgica. Los servicios incluían la eliminación de cancelaciones fiscales de sellos británicos y la aplicación de contramarcas a sellos de Siam. También falsificaba cartas y marcas de garantía.
 
 En una carta de 1969 a Carl Walske (respetado coleccionista e investigador de falsificaciones filatélicas), de Thuin afirmaba ser un buen amigo del también falsificador italiano Angelo Panelli (1887-1967), estrechamente asociado con su coterráneo y similar granuja Erasmo Oneglia (1853–1934).
 
-A los 41 años de Thuin salió huyendo de Europa perseguido por la policía belga y francesa por falsificador, arribando (acompañado de su hija Raymonde, a la sazón de 18 años) al puerto de Galveston en el vapor SS Spagne el 11 de octubre de 1931. Según datos de inmigración de los Estados Unidos de América, ingresó como “periodista”, al igual como lo haría poco después al desembarcar en Veracruz, México. De México, tras investigaciones realizadas por la Policía Secreta, fue expulsado en base a la acusación de montar y dirigir una red de falsificación que involucraba a funcionarios públicos. De aquí se mudó a Tegucigalpa, Honduras.
+A los 41 años de Thuin salió huyendo de Europa perseguido por la policía belga y francesa por falsificador, arribando (acompañado de su hija Raymonde, a la sazón de 18 años) al puerto de Galveston en el vapor *SS Spagne* el 11 de octubre de 1931. Según datos de inmigración de los Estados Unidos de América, ingresó como “periodista”, al igual como lo haría poco después al desembarcar en Veracruz, México. De México, tras investigaciones realizadas por la Policía Secreta, fue expulsado en base a la acusación de montar y dirigir una red de falsificación que involucraba a funcionarios públicos. De aquí se mudó a Tegucigalpa, Honduras.
 
 ![](/img/serie-8/vol-01/03-raoul-charles-de-thuin-una-verdadera-pesadilla-filatelica/image25.webp)
 
@@ -176,7 +176,7 @@ Como muestra, seguidamente presentamos uno de los membretes espurios, el HO 125-
 
 Además de Centro América, de Thuin se especializó de igual manera en contramarcas de Sudamérica y México, convirtiendo así sellos comunes en rarezas. También copió ilustraciones que había visto en revistas, repitiendo a veces los errores del ilustrador original cuando no tenía un ejemplar original como modelo. Por otro lado, él ponía especial empeño en producir piezas históricas que ya no tenían validez para ser utilizadas en el correo ordinario. Los comerciantes y coleccionistas de sellos recuerdan que en su momento de máxima actividad, residiendo en México desde donde operó por 26 años, de Thuin solía viajar con un laboratorio ambulante distribuido en tres maletas de enormes dimensiones.
 
-El prestigioso coleccionista inglés y comerciante de sellos Robson Lowe, comparó desfavorablemente a de Thuin con el también falsificador italiano Giovanni (Jean) de Sperati (1884-1957), a quien Lowe consideraba un artista superior. Señaló que mucho antes de que se conociera la verdadera identidad del señor de Thuin, su obra ya había sido identificada por filatelistas británicos que lo habían bautizado como George. Lowe indicó que a de Thuin se le atribuía haber comentado:
+El prestigioso coleccionista inglés y comerciante de sellos Robson Lowe, comparó desfavorablemente a de Thuin con el también falsificador italiano Giovanni (Jean) de Sperati (1884-1957), a quien Lowe consideraba un artista superior. Señaló que mucho antes de que se conociera la verdadera identidad del señor de Thuin, su obra ya había sido identificada por filatelistas británicos que lo habían bautizado como *George*. Lowe indicó que a de Thuin se le atribuía haber comentado:
 
 No tengo ninguna conciencia por haber engañado a toda esa gente tonta. Son sólo fanáticos que descuidan a sus familias por su pasión.
 
@@ -294,11 +294,11 @@ Dado que en la filatelia hondureña proliferan las falsificaciones, es oportuno 
 
 Bibliografía
 
-Autos Acordados y Circulares. Poder Judicial de Honduras, Materia Criminal. Tegucigalpa. 1936.
+*Autos Acordados y Circulares*. Poder Judicial de Honduras, Materia Criminal. Tegucigalpa. 1936.
 
-El Ciudadano. Periódico vespertino, no. 393. Tegucigalpa, Honduras. 27 de julio de 1934.
+*El Ciudadano*. Periódico vespertino, no. 393. Tegucigalpa, Honduras. 27 de julio de 1934.
 
-Expediente Judicial de Raúl De Thuin. Archivo Histórico del Poder Judicial de Honduras. Tegucigalpa, Honduras. 1935.
+*Expediente Judicial de Raúl De Thuin*. Archivo Histórico del Poder Judicial de Honduras. Tegucigalpa, Honduras. 1935.
 
 The Yucatan Affair, The Work of Raul Ch. de Thuin, Philatelic Counterfeiter. American Philatelic Society, State College, Pennsylvania, EUA. 1980.
 

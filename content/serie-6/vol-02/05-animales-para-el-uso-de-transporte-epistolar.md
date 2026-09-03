@@ -42,7 +42,7 @@ Los perros mensajeros desempeñaron labores de asistencia cuando las líneas tel
 
 Hay dos ejemplos dignos de mencionar. El primero un Setter inglés que durante la Batalla del Marne vio como su dueño y su destacamento quedaban enterrados por tierra y escombros tras la explosión de un proyectil. No sólo intentó sacarlos excavando hasta sangrar sino que, al no conseguirlo, ladró hasta atraer soldados que consiguieron salvarlos.
 
-El segundo, Satán, que en la Batalla de Verdún, consiguió salvar a un destacamento francés tras hacerles llegar la información sobre su rescate casi a costa de su vida.
+El segundo, *Satán*, que en la Batalla de Verdún, consiguió salvar a un destacamento francés tras hacerles llegar la información sobre su rescate casi a costa de su vida.
 
 Caballos
 

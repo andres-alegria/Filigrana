@@ -36,7 +36,7 @@ ES PEOR, AL PRESIDIO O AL MANI-
 
 COMIO.
 
-Este bonito sobre circulado de Tegucigalpa a Comayagua el 5 de junio de 1930, fue estampado con un llamativo sello de difusión de carácter antialcohólico. Esta campaña surgió en el contexto de un movimiento feminista en Honduras durante el siglo XX, dirigido por la organización “Liga Antialcohólica de Mujeres”.
+Este bonito sobre circulado de *Tegucigalpa* a Comayagua el 5 de junio de 1930, fue estampado con un llamativo sello de difusión de carácter antialcohólico. Esta campaña surgió en el contexto de un movimiento feminista en Honduras durante el siglo XX, dirigido por la organización “Liga Antialcohólica de Mujeres”.
 
 El movimiento se formó como parte de las actividades de la Sociedad Cultural Femenina, fundada por Visitación Padilla, una destacada activista feminista hondureña, y otras mujeres líderes de la época.
 

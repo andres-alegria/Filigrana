@@ -146,9 +146,9 @@ Colección de Craig Anderson.
 
 Colección de Jonathan Riehl.
 
-Green, Irving. Honduras: “Un Estudio de los Provisionales de 1923 y 1924”. Billig's Handbook, Volumen 20, páginas 40-66. 1954.
+Green, Irving. Honduras: “Un Estudio de los Provisionales de 1923 y 1924”. *Billig's Handbook*, Volumen 20, páginas 40-66. 1954.
 
-Washburn, Richard. Artículo “Honduras Report “. Revista The Oxcart. 1996.
+Washburn, Richard. Artículo “*Honduras Report* “. Revista *The Oxcart*. 1996.
 
 “HONDURAS FILATÈLICA” GALARDONADA CON
 

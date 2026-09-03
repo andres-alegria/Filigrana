@@ -22,7 +22,7 @@ review: []
 # Gemas de la Mosquitia
 Son cinco las piezas que se pueden considerar únicas en el mundo filatélico, vinculadas a diferentes etapas de la historia del “reino misquito”, en parte ubicado en el litoral Atlántico de Honduras. La existencia de este enclave étnico que por años vivió rodeado de un aura de misterio para el resto de los criollos, cual El Dorado centroamericano, del que de vez en cuando se relataban historias sobre junglas impenetrables, ciudades perdidas, y habitantes de costumbres y tradiciones muy ajenas a las heredadas de la tradición colonial. Por todo esto he creído que dichas piezas son ante todo un valioso testimonio de una historia pletórica de personajes y eventos que merecen ser estudiados detenidamente a manera de captar la verdadera dimensión del entorno que les dio origen.
 
-En 1620 ya se tenía conocimiento de grupos aborígenes que habitaban a lo largo de la Costa Atlántica de las provincias de Honduras y Nicaragua. En 1641 el navío del portugués Lorenzo Gramajo, cargado de esclavos africanos, naufragó frente a los Cayos Misquitos, logrando fugarse la mayoría de ellos para luego establecerse en diversos puntos del litoral, habitado entonces por indios misquitos. La mezcla vino después de la lucha, de la cual surgió el zambo. Tal fue el origen de la estrecha vinculación de Jamaica con la Costa Atlántica de Honduras y Nicaragua, hasta el punto que en 1678 fue coronado Jeremy I, primer “rey” de los misquitos, en la jamaiquina Spanish Town. De allí partirían luego inmigrantes británicos para intensificar los cortes de maderas preciosas y tintóreas o ampliar el contrabando con los españoles de las dos provincias ya citadas, siendo el más activo William Pitt (Guillermo Piche para los españoles), quien anteriormente se había desempeñado como gobernador de las Bermudas.
+En 1620 ya se tenía conocimiento de grupos aborígenes que habitaban a lo largo de la Costa Atlántica de las provincias de Honduras y Nicaragua. En 1641 el navío del portugués *Lorenzo Gramajo*, cargado de esclavos africanos, naufragó frente a los Cayos Misquitos, logrando fugarse la mayoría de ellos para luego establecerse en diversos puntos del litoral, habitado entonces por indios misquitos. La mezcla vino después de la lucha, de la cual surgió el zambo. Tal fue el origen de la estrecha vinculación de Jamaica con la Costa Atlántica de Honduras y Nicaragua, hasta el punto que en 1678 fue coronado Jeremy I, primer “rey” de los misquitos, en la jamaiquina Spanish Town. De allí partirían luego inmigrantes británicos para intensificar los cortes de maderas preciosas y tintóreas o ampliar el contrabando con los españoles de las dos provincias ya citadas, siendo el más activo William Pitt (Guillermo Piche para los españoles), quien anteriormente se había desempeñado como gobernador de las Bermudas.
 
 Durante la década de 1720, los españoles hicieron numerosos intentos para expulsar la cada vez más poderosa presencia británica en la costa de British Honduras (Belice). Cada vez que llegaban con fuerza, muchos de los colonos se retiraban, ya sea tierra adentro o a la Costa de Mosquitos, pero generalmente regresaban una vez que los hispanos se habían marchado. En 1732, William Pitt (1695-1771), decidió quedarse de manera permanente para continuar desarrollando su negocio maderero.
 
@@ -138,7 +138,7 @@ España nunca volvió a ocupar Black River. En la actualidad su sitio está pobl
 
 Hasta aquí podríamos decir a manera de colofón, que Inglaterra inventó una farsa teatral de Monarquía Misquita al amparo de las autoridades inglesas en Jamaica, coronando en esta isla en 1740 a un joven mosco analfabeta de 15 años de edad, descendiente de un antiguo cacique (que habían bautizado en Cartagena) remitiéndolo en un buque de guerra a Bluefields acompañado del súbdito inglés Patrick Walker, quien con el título de Cónsul General de su Majestad Británica ante Su Majestad el Rey de los Moscos, prácticamente gobernaría detrás del trono. Este rey Mosco, al igual que muchos de sus descendientes, llevó una vida licenciosa al vaivén del ron jamaiquino, otorgando vastas concesiones de tierra a colonos ingleses, prácticamente permutando barriles de ron por títulos inmuebles.
 
-Está claro que este fue un caso sui generis probablemente irrepetible a lo largo de los imperios español e inglés, donde para conquistar no prevaleció ni la espada ni la cruz, sino una política de beneficio mutuo que resultó altamente provechosa para ambos bandos. Cuando España lo comprendió así, fue demasiado tarde, pues los reyes moscos, habiendo adoptado una política de aversión hacia los españoles, decididamente expresaban su conformidad con la presencia inglesa, ya que los caballeros ingleses no los forzaban a trabajar, no les cobraban impuestos ni tampoco les pedían abandonar sus creencias paganas, sólo les requerían a cambio que les ayudaran con el contrabando manteniendo alejados a los molestos españoles mediante la disponibilidad de miles de guerreros perfectamente adaptados al medio, retribuyéndolos con armas, utensilios, ropas, bisutería y mucho ron; en definitiva un trato ganar/ganar. Empecinados en mantener este estado de cosas, el 10 de septiembre de 1841 el cónsul inglés todavía tuvo el descaro de anunciarle al Gobierno de Nicaragua y Honduras la reciente coronación del rey Mosco George Augustus Frederic II, aparejada a la consecuente protección que estaba dispuesto a brindarle el Gobierno Británico.
+Está claro que este fue un caso *sui generis* probablemente irrepetible a lo largo de los imperios español e inglés, donde para conquistar no prevaleció ni la espada ni la cruz, sino una política de beneficio mutuo que resultó altamente provechosa para ambos bandos. Cuando España lo comprendió así, fue demasiado tarde, pues los reyes moscos, habiendo adoptado una política de aversión hacia los españoles, decididamente expresaban su conformidad con la presencia inglesa, ya que los caballeros ingleses no los forzaban a trabajar, no les cobraban impuestos ni tampoco les pedían abandonar sus creencias paganas, sólo les requerían a cambio que les ayudaran con el contrabando manteniendo alejados a los molestos españoles mediante la disponibilidad de miles de guerreros perfectamente adaptados al medio, retribuyéndolos con armas, utensilios, ropas, bisutería y mucho ron; en definitiva un trato ganar/ganar. Empecinados en mantener este estado de cosas, el 10 de septiembre de 1841 el cónsul inglés todavía tuvo el descaro de anunciarle al Gobierno de Nicaragua y Honduras la reciente coronación del rey Mosco George Augustus Frederic II, aparejada a la consecuente protección que estaba dispuesto a brindarle el Gobierno Británico.
 
 Los zambos continuaron gobernando hasta el 12 de febrero de 1894, fecha en que el general nicaragüense Rigoberto Cabezas, por medio de una acción militar en Bluefields disuelve el reino misquito, anexando esa parte del territorio a la República de Nicaragua. A consecuencia de este suceso el último de los reyes, Robert Henry Clarence, se exilió en Jamaica. A pesar de lo irreversible del asunto, algunos líderes misquitos rehusaron aceptar el triste final de su extinto reino, de manera tal que las revueltas tendentes a exigir el retorno de su Rey se sucedieron estérilmente a lo largo de la primera década del siglo XX.
 
@@ -228,7 +228,7 @@ El ejemplar (5) que presentamos más adelante es un sobre con membrete de The Mi
 
 ![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image16.webp)
 
-De esta pieza se desprende que de alguna manera las políticas del Dr. Bonilla tuvieron algún grado de éxito. En Honduras Filatélica, volumen 12 de la serie 7, en el artículo sobre Iriona se aborda el caso de la Burchard Honduras Fruit
+De esta pieza se desprende que de alguna manera las políticas del Dr. Bonilla tuvieron algún grado de éxito. En *Honduras Filatélica*, volumen 12 de la serie 7, en el artículo sobre Iriona se aborda el caso de la Burchard Honduras Fruit
 
 Co. que al igual que esta compañía, en 1891 había recibido una vasta concesión de tierras para desarrollo comercial y agrícola.
 
@@ -254,23 +254,23 @@ Como para dejar definida de una buena vez la operatividad postal de la Mosquitia
 
 ![](/img/serie-8/vol-01/02-gemas-de-la-mosquitia/image21.webp)
 
-Si bien el Estado de Honduras había consolidado sus derechos territoriales de manera definitiva, en ese entonces éste no mostró mayor intención de ejercer un control fiscal, como tampoco controlar por la vía de la fuerza a esta dispersa y escasamente conocida población. Por lo tanto, la presencia in situ de autoridades gubernamentales o del ejército nacional resultó injustificada o prácticamente nula, salvo la designación de alguna exigua autoridad policial con sede en Trujillo.
+Si bien el Estado de Honduras había consolidado sus derechos territoriales de manera definitiva, en ese entonces éste no mostró mayor intención de ejercer un control fiscal, como tampoco controlar por la vía de la fuerza a esta dispersa y escasamente conocida población. Por lo tanto, la presencia *in situ* de autoridades gubernamentales o del ejército nacional resultó injustificada o prácticamente nula, salvo la designación de alguna exigua autoridad policial con sede en Trujillo.
 
 Bibliografía
 
 Alegría R., Edgardo. Colección privada. Tegucigalpa, Honduras.
 
-Bendeck D., Sergio. Colección Prefilatelia de Honduras. Tegucigalpa, Honduras.
+Bendeck D., Sergio. Colección *Prefilatelia de Honduras*. Tegucigalpa, Honduras.
 
-Floyd, Troy S. La Mosquitia, un conflicto de imperios. Centro Editorial. San Pedro Sula, Honduras. 1990.
+Floyd, Troy S. *La Mosquitia, un conflicto de imperios*. Centro Editorial. San Pedro Sula, Honduras. 1990.
 
-La Gaceta Oficial no. 2015. Litografía Nacional. Tegucigalpa, Honduras. 20 de noviembre de 1893.
+*La Gaceta Oficial* no. 2015. Litografía Nacional. Tegucigalpa, Honduras. 20 de noviembre de 1893.
 
-Revista de Indias, Volumen LXVII, Número 241. Madrid, España. 2007.
+*Revista de Indias*, Volumen LXVII, Número 241. Madrid, España. 2007.
 
 Kouri, Yamil. Colección privada. Florida, EUA.
 
-Vallejo, Antonio Ramón. Primer Anuario Estadístico de Honduras. Tipografía Nacional. Tegucigalpa, Honduras. 1893.
+Vallejo, Antonio Ramón. *Primer Anuario Estadístico de Honduras*. Tipografía Nacional. Tegucigalpa, Honduras. 1893.
 
 XX EXPOSICIÓN FILATÉLICA INTERNACIONAL
 

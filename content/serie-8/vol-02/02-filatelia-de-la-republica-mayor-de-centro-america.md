@@ -30,7 +30,7 @@ El 15 de septiembre de 1896, en la reunión del primer aniversario del Tratado e
 
 ![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image4.webp)
 
-El periódico filatélico alemán Der Philatelist, en una edición de finales de 1896, comentaba que:
+El periódico filatélico alemán *Der Philatelist*, en una edición de finales de 1896, comentaba que:
 
 Nosotros esperamos que este proyecto sea exitoso, sin necesidad de obligar a los dos estados remanentes a unirse por la fuerza de las armas. Si se usan medios bélicos, la confederación ciertamente se desintegrará rápidamente. Desde el punto de vista filatélico, ¿Cuál será el probable resultado de tal unión? Nosotros imaginamos que resultará que la República de Centro América emitirá sellos postales para el correo internacional, pero continuará con el uso de los sellos de los estados miembros para la correspondencia doméstica. Una sexta serie de sellos sería bienvenida en adición a las cinco actuales.
 
@@ -58,7 +58,7 @@ En 1903 los timbres de 1898 todavía estaban en uso. A raíz de la revolución l
 
 ![Medida de control consistente en un burulé de estrellas de 10 aristas enmarcadas en círculos y cuadrados, aplicado en 1903 a los timbres fiscales de 1898.](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image8.webp)
 
-A pesar de su propósito eminentemente fiscal, los timbres de menor valor fueron también utilizados para franqueo en la época de la República Mayor. El suceso acaeció en el lapso de septiembre de 1898 a febrero de 1899 a consecuencia de la escasez temporal de sellos postales, especialmente en Puerto Cortés, en la Costa Norte del país, dando lugar al surgimiento de piezas extremadamente raras y codiciadas. En vista de esto, el Der Philatelist de noviembre 1898 y febrero de 1899, erradamente los reportó como sellos postales. La escasez se debió a que la nueva emisión de sellos de La Locomotora (Scott 103-110), lista para ser puesta en circulación el 1 de agosto de 1898, no pudo ser distribuida a las oficinas de correo más alejadas sino hasta semanas más tarde. Este episodio fiscal-postal queda más que demostrado en el precioso sobre que a continuación ilustramos, con un porte sencillo correcto de 15 cts., pagado con timbres fiscales y marcado con sello fechador de la oficina postal de Puerto Cortés el 7 de septiembre de 1898:
+A pesar de su propósito eminentemente fiscal, los timbres de menor valor fueron también utilizados para franqueo en la época de la República Mayor. El suceso acaeció en el lapso de septiembre de 1898 a febrero de 1899 a consecuencia de la escasez temporal de sellos postales, especialmente en Puerto Cortés, en la Costa Norte del país, dando lugar al surgimiento de piezas extremadamente raras y codiciadas. En vista de esto, el *Der Philatelist* de noviembre 1898 y febrero de 1899, erradamente los reportó como sellos postales. La escasez se debió a que la nueva emisión de sellos de *La Locomotora* (Scott 103-110), lista para ser puesta en circulación el 1 de agosto de 1898, no pudo ser distribuida a las oficinas de correo más alejadas sino hasta semanas más tarde. Este episodio fiscal-postal queda más que demostrado en el precioso sobre que a continuación ilustramos, con un porte sencillo correcto de 15 cts., pagado con timbres fiscales y marcado con sello fechador de la oficina postal de Puerto Cortés el 7 de septiembre de 1898:
 
 ![La tarifa ordinaria básica exterior de 15 cts. recién había entrado en efecto el 23 de mayo de 1898.](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image9.webp)
 
@@ -78,7 +78,7 @@ El matasello usado, tal como figura seguidamente, es muy fácil de detectar, pue
 
 ![](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image14.webp)
 
-En el aspecto administrativo, en el Diario Oficial La Gaceta del 14 de octubre de 1896, el Gobierno daba a conocer el siguiente mandato:
+En el aspecto administrativo, en el *Diario Oficial La Gaceta* del 14 de octubre de 1896, el Gobierno daba a conocer el siguiente mandato:
 
 ![El Decreto anterior incluso abarcó las medidas de control implementadas por la Oficina General de Cuentas, sellando los timbres en el anverso al momento de contabilizarlos.](/img/serie-8/vol-02/02-filatelia-de-la-republica-mayor-de-centro-america/image15.webp)
 
@@ -176,7 +176,7 @@ Bibliografía:
 
 Alegría R., Edgardo. Colección República Mayor de Centro América. Tegucigalpa, Honduras.
 
-Schriber, Michael. Blampied, William. Nicaragua to 1940: A Philatelic Handbook. Segunda edición. Nicaragua Study Group. EUA. 2023.
+Schriber, Michael. Blampied, William.* Nicaragua to 1940: A Philatelic Handbook*. Segunda edición. Nicaragua Study Group. EUA. 2023.
 
 La FFRH tiene disponible para la venta los siguientes números anteriores de Honduras Filatélica a un valor de L50.00 (US$2.50) cada uno, más el costo de envío. Los pedidos se atenderán de acuerdo a la orden de llegada, ya que de algunos ejemplares sólo quedan 1o2.
 

@@ -36,7 +36,7 @@ La Escuela de Artes y Oficios y La Litografía Nacional fueron instituciones cre
 
 ![Litografía Nacional en la avenida Colón](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image37.webp)
 
-El 15 de abril de 1894 se formalizó la contratación de Ghizzoni como profesor de dibujo dentro del cuerpo de docentes del colegio El Espíritu del Siglo en Tegucigalpa. Sin embargo, la primera noticia vinculada a la Litografía Nacional aparece en el Diario La República el 7 de septiembre de 1894, cuando empleados del diario realizaron una visita a las instalaciones de la Litografía y lo entrevistaron mientras se ocupaba del montaje del taller, describiendo el local como amplio y cómodo como para satisfacer el gusto más exigente. Para ese entonces el presidente de Honduras Dr. Policarpo Bonilla estaba muy interesado en su instalación. Después de cuatro años de permanecer en el país, en noviembre de ese año al fin abre la Litografía Nacional. Su primer trabajo como desarrollo artístico fue un fotograbado del expresidente Ponciano Leiva. Es meritorio mencionar que uno de los que perduró hasta 1901 como discípulo suyo y que luego sería un loable artista de la plástica, fue Carlos Zúñiga Figueroa.
+El 15 de abril de 1894 se formalizó la contratación de Ghizzoni como profesor de dibujo dentro del cuerpo de docentes del colegio El Espíritu del Siglo en Tegucigalpa. Sin embargo, la primera noticia vinculada a la Litografía Nacional aparece en el *Diario La República* el 7 de septiembre de 1894, cuando empleados del diario realizaron una visita a las instalaciones de la Litografía y lo entrevistaron mientras se ocupaba del montaje del taller, describiendo el local como amplio y cómodo como para satisfacer el gusto más exigente. Para ese entonces el presidente de Honduras Dr. Policarpo Bonilla estaba muy interesado en su instalación. Después de cuatro años de permanecer en el país, en noviembre de ese año al fin abre la Litografía Nacional. Su primer trabajo como desarrollo artístico fue un fotograbado del expresidente Ponciano Leiva. Es meritorio mencionar que uno de los que perduró hasta 1901 como discípulo suyo y que luego sería un loable artista de la plástica, fue Carlos Zúñiga Figueroa.
 
 El 20 de marzo de 1895 Ghizzoni accede a renovar su contrato con un nuevo sueldo de 250 pesos plata. En esta nobel empresa se desarrollaron trabajos artísticos y comerciales en blanco y negro como ser: retratos, cartas geográficas, bonos, acciones, letras de cambio, billetes de banco, lotería, sellos de correo y timbres fiscales. Además, trabajos a color en grabados de zinc para los impresores particulares.
 
@@ -46,7 +46,7 @@ Además de su labor en la Litografía Nacional, Ghizzoni también ejecutaba trab
 
 ![Anuncio publicado en el Semanario La Unión el 9 de octubre de 1897.](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image38.webp)
 
-El 1 de enero de 1896 se puso en circulación la serie postal Céleo Arias, la primera impresa en el país. Mientras trabajaba en la preparación de la segunda emisión La Locomotora (a ponerse en circulación el 1 de agosto siguiente), el 30 de mayo Ghizzoni le escribe al señor Miguel Gálvez Jiménez acerca de lo que a partir de este momento sólo podemos especular, podría haber sido una oferta relacionada con los remanentes de los sellos recién emitidos. Siendo el aludido un sobre con membrete oficial, descartamos que se haya tratado de una carta personal; al contrario, esta condición le infería un carácter de seriedad a cualquier negocio propuesto.
+El 1 de enero de 1896 se puso en circulación la serie postal *Céleo Arias*, la primera impresa en el país. Mientras trabajaba en la preparación de la segunda emisión *La Locomotora* (a ponerse en circulación el 1 de agosto siguiente), el 30 de mayo Ghizzoni le escribe al señor Miguel Gálvez Jiménez acerca de lo que a partir de este momento sólo podemos especular, podría haber sido una oferta relacionada con los remanentes de los sellos recién emitidos. Siendo el aludido un sobre con membrete oficial, descartamos que se haya tratado de una carta personal; al contrario, esta condición le infería un carácter de seriedad a cualquier negocio propuesto.
 
 Era de esperarse que siendo ésta la primera emisión en un incipiente taller de artes gráficas, saturado de personal neófito, abundase el material colateral antes de haberse alcanzado el trabajo final, amén de bosquejos, pruebas, hojas descartadas, etc. cuyo destino no estaba previsto en las condiciones de trabajo, como tampoco existían los medios físicos para su salvaguarda. ¿Qué podía hacer alguien ante la disyuntiva de tirarlo todo a la basura o contactar a uno de los mejores comerciantes de sellos en un país que le era familiar?
 
@@ -60,9 +60,9 @@ En cuanto al destinatario, Miguel Gálvez J., había nacido en Loja el 7 de abri
 
 El primer negocio dedicado a la filatelia en la capital española fue fundado en 1868 por Leopoldo López en la Calle de la
 
-Cruz, No. 1. Corría el año de 1895 cuando el señor López traspasó el negocio a Miguel Gálvez, cambiando éste su denominación comercial por el de Filatelia Gálvez.
+Cruz, No. 1. Corría el año de 1895 cuando el señor López traspasó el negocio a Miguel Gálvez, cambiando éste su denominación comercial por el de *Filatelia Gálvez*.
 
-Es indiscutible la importancia de Miguel Gálvez en el desarrollo y conocimiento de la filatelia española, sobre todo en sus primeros tiempos. Su obra literaria es prolija y variada, destacando la publicación de diferentes catálogos como el Catálogo de España y Colonias, su Primer Catálogo Universal o el especializado de Pruebas y Ensayos de España.
+Es indiscutible la importancia de Miguel Gálvez en el desarrollo y conocimiento de la filatelia española, sobre todo en sus primeros tiempos. Su obra literaria es prolija y variada, destacando la publicación de diferentes catálogos como el *Catálogo de España y Colonias*, su *Primer Catálogo Universal* o el especializado de *Pruebas y Ensayos de España*.
 
 ![Portada de una obra de Miguel Gálvez, con dirección Calle de La Cruz, No. 1.](/img/serie-8/vol-01/04-italo-ghizzoni-en-la-genesis-de-la-filatelia-hondurena/image40.webp)
 
@@ -72,7 +72,7 @@ Bibliografía
 
 Alegría, Edgardo R. Colección privada. Tegucigalpa. 2024.
 
-García, Miguel Ángel. La Imprenta en Honduras 1828–1975. Editorial Universitaria, Tegucigalpa. Primera edición, mayo 1988.
+García, Miguel Ángel. *La Imprenta en Honduras 1828–1975*. Editorial Universitaria, Tegucigalpa. Primera edición, mayo 1988.
 
 ---
 

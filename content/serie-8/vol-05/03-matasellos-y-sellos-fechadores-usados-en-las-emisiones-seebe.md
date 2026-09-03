@@ -20,7 +20,7 @@ review: []
 ---
 
 # Matasellos y sellos fechadores usados en las emisiones Seebeck
-El Dr. Marco Aurelio Soto se proclamó en Amapala presidente de facto el 26 de agosto de 1876. Posteriormente, el 1 de febrero de 1881, tomó las riendas del Gobierno de manera constitucional.
+El Dr. Marco Aurelio Soto se proclamó en Amapala presidente *de facto* el 26 de agosto de 1876. Posteriormente, el 1 de febrero de 1881, tomó las riendas del Gobierno de manera constitucional.
 
 La inestabilidad política de los años previos dio como resultado una justificada desconfianza popular hacia el correo nacional, situación que orilló al presidente Soto a incluir dentro de su plan de reforma liberal, la completa modernización del sistema postal, siendo uno de los primeros pasos, la adhesión de Honduras a la Unión Postal Universal.
 
@@ -56,9 +56,9 @@ Artículo 54.- Aparte de la clasificación contenida en los artículos anteriore
 
 Para tener una idea más educada del material postal circulado en esta época, resulta muy útil poder determinar la procedencia de una pieza a manera de despejar dudas concernientes a la autenticidad de su origen.
 
-Para ello es necesario conocer la manera de cómo estaba organizado el engranaje postal en todo el país. Por esta razón le echaremos un vistazo a la distribución de las oficinas postales en sus distintas categorías tal como funcionaban en aquel entonces, por decir: oficinas departamentales, de distrito, de canje y sucursales y que se plasman en el siguiente cuadro descriptivo expuesto en el Anuario Estadístico de Honduras de 1893:
+Para ello es necesario conocer la manera de cómo estaba organizado el engranaje postal en todo el país. Por esta razón le echaremos un vistazo a la distribución de las oficinas postales en sus distintas categorías tal como funcionaban en aquel entonces, por decir: oficinas departamentales, de distrito, de canje y sucursales y que se plasman en el siguiente cuadro descriptivo expuesto en el *Anuario Estadístico de Honduras de 1893*:
 
-Dentro del mismo contexto organizativo, el uso de matasellos obsoletos y defectuosos dio paso a la incorporación de nuevos elementos, tal como se puede apreciar en el Acuerdo siguiente publicado en el Diario Oficial La Gaceta del 18 de julio de 1884:
+Dentro del mismo contexto organizativo, el uso de matasellos obsoletos y defectuosos dio paso a la incorporación de nuevos elementos, tal como se puede apreciar en el Acuerdo siguiente publicado en el *Diario Oficial La Gaceta* del 18 de julio de 1884:
 
 El 20 de abril de 1889 el Gobierno hondureño firmó un contrato con Nicolás Seebeck, presidente de la Hamilton Bank Note Co., para la producción de sellos postales. Aparte de las controversias que este contrato generó, es innegable la calidad de las seis emisiones producidas. Una vez que las emisiones Seebeck estuvieron en manos del aparato postal para su administración, se procedió a establecer puntos de ventas auxiliares, generalmente en pequeños negocios “pulperías” a manera de poner los sellos al alcance de los usuarios en puntos alejados de las oficinas y agencias principales. Para el caso, en Tegucigalpa y la Villa de la Concepción (Comayagüela), tal como se anunciaba en La Gaceta Oficial del 9 de abril de 1891, los sellos podían adquirirse en los siguientes lugares:
 
@@ -124,7 +124,7 @@ Aunque en este ejemplar el matasello aparece cortado y bordeado por un círculo,
 
 11 de abril de 1882, de Comayagua a Santa Fe, Nuevo México.
 
-La pieza precedente ostenta dos fechadores circulares, de menor uso en las emisiones Seebeck, aplicados especialmente sobre la emisión General Francisco Morazán en Tegucigalpa, Comayagua, Puerto Cortés y Amapala.
+La pieza precedente ostenta dos fechadores circulares, de menor uso en las emisiones Seebeck, aplicados especialmente sobre la emisión *General Francisco Morazán* en Tegucigalpa, Comayagua, Puerto Cortés y Amapala.
 
 ESTRELLA DE CINCO ARISTAS
 
@@ -202,7 +202,7 @@ CIRCULAR
 
 Señor Administrador de Correos
 
-4.- Exención de Porte.- En conformidad con el artículo 84 del Reglamento, cuidará Ud. de que la CORRESPONDENCIA OFICIAL lleve siempre en la cubierta el timbre de la oficina de donde emana, y en su defecto, la firma del funcionario remitente; sin tales requisitos deberá considerarla de un todo como correspondencia particular. En cuanto a las cartas SEMI-OFICIALES, deberá atenerse estrictamente a las que en el interior de la República, envíen o reciban los funcionarios enumerados en el artículo 99 del Reglamento, debiendo exigir, lo mismo que para la correspondencia oficial, el timbre o firma indicados.
+4.- Exención de Porte.- En conformidad con el artículo 84 del Reglamento, cuidará Ud. de que la CORRESPONDENCIA OFICIAL lleve siempre en la cubierta el timbre de la oficina de donde emana, y en su defecto, la *firma del funcionario remitente*; sin tales requisitos deberá considerarla de un todo como correspondencia particular. En cuanto a las cartas SEMI-OFICIALES, deberá atenerse estrictamente a las que en el interior de la República, envíen o reciban los funcionarios enumerados en el artículo 99 del Reglamento, debiendo exigir, lo mismo que para la correspondencia oficial, el *timbre o firma* indicados.
 
 5.- La tolerancia de algunos Administradores da lugar a que personas particulares y especialmente los amigos de ellos, abusen del correo dirigiendo bajo cubierta para los Administradores, cartas y encomiendas destinadas a particulares. Como esto constituye un verdadero robo, en el cual se vuelven cómplices los Administradores complacientes, espero que Ud. y sus subalternos no consentirán tal abuso.
 
@@ -212,7 +212,7 @@ E. CONSTANTINO FIALLOS
 
 Director General
 
-NOTA.- Desearía que las presentes indicaciones, como las que oportunamente se le hagan después, se sirva U. tenerlas a la vista en su oficina, en vez de leerlas y mandarlas á archivar para que luego caigan en olvido o no puedan ser conocidas por los empleados que le sucedan.
+NOTA.- *Desearía que las presentes indicaciones*, como las que oportunamente se le hagan después, se sirva U. *tenerlas a la vista* en su oficina, en vez de leerlas y mandarlas á archivar para que luego caigan en olvido o no puedan ser conocidas por los empleados que le sucedan.
 
 También se servirá U. cuidar de que siempre esté fijada en la puerta de su oficina la HOJA-AVISO que por separado le acompaño, dirigida al público para que den cuenta a esta Dirección de los motivos de queja que puedan tener del Servicio Nacional de Correos.
 

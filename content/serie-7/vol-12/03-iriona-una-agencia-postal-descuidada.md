@@ -26,11 +26,11 @@ En este punto es necesario remontarse a la historia del municipio de Iriona, cua
 
 Este emplazamiento se volvió propicio para la exportación de maderas preciosas dada su capacidad para recibir embarcaciones de mediano calado y su proximidad a las ricas regiones de explotación maderera; así lo visualizó la familia Resman Rodríguez, quienes en las últimas décadas del Siglo XIX establecieron aquí un extenso emprendimiento de esta índole.
 
-En 1895 la población se trasladó a Puerto Burchard, cuyo nombre deriva del apellido del coronel William C. Burchard, quien en la época fue cónsul de los Estados Unidos en Tegucigalpa (1866) , Omoa (1880), Trujillo (1883) y Roatán (1884). Asimismo, en 1893, atraído también por la aventura empresarial, obtuvo en la zona una generosa concesión gubernamental de 40,000 manzanas bajo la denominación comercial de The Burchard Honduras Fruit Company, con el propósito de desarrollar a nivel industrial plantaciones de bananos, cocos, naranjas, limones, piñas y café. Desafortunadamente, el coronel Burchard falleció cuatro años después, y con él su proyectada empresa.
+En 1895 la población se trasladó a Puerto Burchard, cuyo nombre deriva del apellido del coronel William C. Burchard, quien en la época fue cónsul de los Estados Unidos en Tegucigalpa (1866) , Omoa (1880), Trujillo (1883) y Roatán (1884). Asimismo, en 1893, atraído también por la aventura empresarial, obtuvo en la zona una generosa concesión gubernamental de 40,000 manzanas bajo la denominación comercial de *The Burchard Honduras Fruit Company*, con el propósito de desarrollar a nivel industrial plantaciones de bananos, cocos, naranjas, limones, piñas y café. Desafortunadamente, el coronel Burchard falleció cuatro años después, y con él su proyectada empresa.
 
 Carta del coronel Burchard, de Iriona a Trujillo el 28 de julio de 1895, porteada con 5 ct., o sea con deficiencia de 1 ct. de la tarifa interna de 6 ct.
 
-Una detallada descripción del entorno social de esa zona costera nos lo da el ilustre Dr. Antonio R. Vallejo cuando en su Primer Anuario Estadístico de 1893, apunta lo siguiente:
+Una detallada descripción del entorno social de esa zona costera nos lo da el ilustre Dr. Antonio R. Vallejo cuando en su *Primer Anuario Estadístico de 1893*, apunta lo siguiente:
 
 Sus habitantes, con pocas excepciones, son morenos y muy negados al trabajo. La generalidad vive en la vagancia, a pretexto de que están dedicados a la extracción de hule y la zarza, de que suelen llevar a Trujillo algunas pequeñas cantidades: son muy afectos al licor, desobedientes a la autoridad y propensos al desorden, según consta en documentos oficiales. En la actualidad no tiene Iriona escuelas de ningún sexo.
 
@@ -38,7 +38,7 @@ Sus ideas religiosas son incomprensibles, porque en sus prácticas se observa un
 
 Reconocen dos dioses, uno que se ocupa de hacerles beneficios, y otro en hacerles males de toda clase. A este último llaman Mafia.
 
-Para brindar una mejor idea del desenvolvimiento postal, nos remitimos al Mensaje y Memorias de Fomento correspondiente al año 1897, donde en uno de sus apartes se consigna el inventario de los haberes en cada oficina y agencia de correos del país, detallando los de Iriona así:
+Para brindar una mejor idea del desenvolvimiento postal, nos remitimos al *Mensaje y Memorias de Fomento* correspondiente al año 1897, donde en uno de sus apartes se consigna el inventario de los haberes en cada oficina y agencia de correos del país, detallando los de Iriona así:
 
 2 sellos fechadores ………………………………… 4.00
 

@@ -26,7 +26,7 @@ Charles Frederick Jeffs nació en Murray, Ontario, el 13 de junio de 1858 como h
 
 Jeffs se graduó de Ingeniero en Minas, llegando a Honduras alrededor de 1885. Defendiendo al presidente Luis Bográn participó en una de las revoluciones que trató de derrocarlo, de donde emergió con el grado de Coronel Honorario. Una vez establecido en Honduras se dedicó a varios menesteres, entre ellos minería, ingeniero ferrocarrilero, ganadería y agricultura.
 
-Su cercanía al presidente Bográn la encontramos manifiesta en una gacetilla de un corresponsal itinerante del periódico californiano San Francisco Call quien en la edición del 3 de abril de 1892 relata:
+Su cercanía al presidente Bográn la encontramos manifiesta en una gacetilla de un corresponsal itinerante del periódico californiano *San Francisco Call* quien en la edición del 3 de abril de 1892 relata:
 
 *Esta fue una concesión ferrocarrilera otorgada en 1895 a Washington Valentine.
 
@@ -34,7 +34,7 @@ Su cercanía al presidente Bográn la encontramos manifiesta en una gacetilla de
 
 El coronel Jeffs viajando por Honduras.
 
-En su libro Tres Gringos en Venezuela y Centroamérica, el escritor y periodista norteamericano Richard Harding Davis a su paso por Honduras narra lo siguiente:
+En su libro *Tres Gringos en Venezuela y Centroamérica*, el escritor y periodista norteamericano Richard Harding Davis a su paso por Honduras narra lo siguiente:
 
 Fue allí en Puerto Cortés donde conocimos a Jeffs llamándole la atención a nuestros maleteros, que no tenían derecho a robarnos solamente porque éramos gringos, y así logramos economizar varios dólares. Le dijimos que íbamos hacia la capital, contestándonos que él tenía que hacer ciertos negocios allá también y que le gustaría tomar un par de días cazando en el camino, le pedimos si quería venir con nosotros y ser nuestro guía; aceptando de inmediato.
 

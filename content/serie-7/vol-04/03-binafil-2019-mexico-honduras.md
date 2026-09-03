@@ -40,7 +40,7 @@ Actos de inauguración.
 
 Otra de las actividades de BINAFIL fue la realización de dos conferencias y la presentación de un libro. El día 18 de octubre a las 4:00 p. m. presenté la conferencia “Generalidades de la Filatelia de Honduras” y a las 5:00 p. m., Mario Bahena presentó la conferencia “Cinco Materiales Esenciales en la Temática”. Ambas fueron muy apreciadas por el público presente.
 
-El día 19 a la 1:00 p. m. fue la presentación del libro “XV Años de Creación Popular” que desarrolla un estudio profundo de esta emisión postal. Posteriormente inició el desmontaje de la exposición y a las 7:00 p. m. fue la recepción del Palmares donde además de la entrega de premios, fuimos agasajados con una deliciosa cena, muy concurrida por personas de diversas partes de México.
+El día 19 a la 1:00 p. m. fue la presentación del libro “*XV Años de Creación Popular*” que desarrolla un estudio profundo de esta emisión postal. Posteriormente inició el desmontaje de la exposición y a las 7:00 p. m. fue la recepción del Palmares donde además de la entrega de premios, fuimos agasajados con una deliciosa cena, muy concurrida por personas de diversas partes de México.
 
 Cena de Palmares
 

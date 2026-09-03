@@ -406,7 +406,7 @@ En relación al correo “V-mail” o "Victory Mail", es oportuno apuntar que é
 
 No hay que confundir la designación operativa de este sistema postal en particular, con la marca “V”, de por sí bastante rara, que en ciertas piezas circuladas aparece estampada al frente, obedeciendo la misma al espíritu patriótico de algunos particulares o entidades, que a nivel local expresaban con imágenes, frases y lemas ese fervor a tono con la causa de los aliados.
 
-Abonando al punto anterior, traemos a colación la nota dirigida al diario El Cronista (opositor del régimen cariista), que fechada el 29 de junio de 1943 exhorta al rotativo a cumplir con las medidas impuestas:
+Abonando al punto anterior, traemos a colación la nota dirigida al diario *El Cronista* (opositor del régimen cariista), que fechada el 29 de junio de 1943 exhorta al rotativo a cumplir con las medidas impuestas:
 
 ![En el plano epistolar, encontramos en la siguiente carta un testimonio que aborda la situación de la censura postal en Honduras, enviada por su hermana al connotado profesional y político hondureño ing. Félix Canales Salazar*, sobre la cual extraemos los párrafos atenientes:](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image28.webp)
 

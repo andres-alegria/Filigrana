@@ -24,7 +24,7 @@ Aunque no es un sobre, tiene todos los atributos para sobresalir; así es este p
 
 Su extrema rareza radica en que es el único entero postal conocido de Honduras cuya porción para la respuesta haya sido utilizada de regreso, en este caso de Berlín a Gracias (departamento de Lempira) el 26 de agosto de 1887, dirigida al prolífico personaje Tito Pérez.
 
-En el número de Honduras Filatélica Volumen 2, Serie 7, ya habíamos abordado este tema sin que en ese momento tuviese conocimiento de este ejemplar. Es hoy, cuando compelido por el encierro sanitario derivado del coronavirus he dispuesto de harto tiempo para hurgar a fondo mis archivos, topándome con la referencia apuntada.
+En el número de *Honduras Filatélica Volumen 2, Serie 7*, ya habíamos abordado este tema sin que en ese momento tuviese conocimiento de este ejemplar. Es hoy, cuando compelido por el encierro sanitario derivado del coronavirus he dispuesto de harto tiempo para hurgar a fondo mis archivos, topándome con la referencia apuntada.
 
 La tarifa exterior para postales era de 3 cts. Era normal que los enteros postales de 2 cts. para uso interno, se usaran para el exterior siempre y cuando se completara el porte faltante con una estampilla de 1 ct. En este caso lo más probable es que esto haya sucedido con la porción de ida; No obstante, la porción para la respuesta que nos ocupa no fue completada en Berlín ni multada por el faltante a su llegada a Gracias.
 

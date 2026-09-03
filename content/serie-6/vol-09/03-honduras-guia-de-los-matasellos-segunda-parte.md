@@ -38,15 +38,15 @@ BH9 . . . . . . con nueve barras
 
 BI . . . . . . . . . con barras irregulares y verticales
 
-BH50 . . . san serif letras 3mm.
+BH50 . . . *san serif* letras 3mm.
 
 2-1-2 líneas.
 
-BH51 . . . san serif letras 3.5mm.
+BH51 . . . *san serif* letras 3.5mm.
 
 2-1-2 líneas.
 
-BH52 . . . san serif letras 5-5.5mm.
+BH52 . . . *san serif* letras 5-5.5mm.
 
 2-1-2 líneas.
 
@@ -54,7 +54,7 @@ BH53 . . . serif letras 3mm.
 
 2-1-2 líneas.
 
-BH60 . . . san serif letras 3mm.
+BH60 . . . *san serif* letras 3mm.
 
 2-2-2 líneas.
 
@@ -76,11 +76,11 @@ BH73 . . . serif letras 3mm
 
 Usado para coleccionistas de Arias 1896.
 
-BH80 . . . san serif letras 3.5mm.
+BH80 . . . *san serif* letras 3.5mm.
 
 2-4-2 líneas.
 
-BH81 . . . san serif letras 3mm.
+BH81 . . . *san serif* letras 3mm.
 
 3-2-3 líneas.
 
@@ -88,11 +88,11 @@ BH82 . . . serif letras 4.5mm.
 
 3-2-3 líneas.
 
-BH83 . . . san serif letras 2.5mm.
+BH83 . . . *san serif* letras 2.5mm.
 
 3-2-3 líneas.
 
-BH90 . . . san serif letras 3.5mm.
+BH90 . . . *san serif* letras 3.5mm.
 
 3-3-3 líneas.
 
@@ -100,7 +100,7 @@ BI . . . barras iregulares.
 
 SABÍA USTED QUE…
 
-Avis de réception, aviso de recepción o aknowledgement of receipt, facilitan por igual el uso de sus siglas AR en los tres idiomas oficiales de la UPU.
+*Avis de réception*, *aviso de recepción* o *aknowledgement of receipt*, facilitan por igual el uso de sus siglas AR en los tres idiomas oficiales de la UPU.
 
 Desde el inicio de la GPU/UPU (1875), EEUU ofreció el servicio de AR a otros miembros fundadores de la UPU. A partir de 1879, el servicio se extendió a todos los miembros de la UPU a medida que se unían. Ya en 1868-1869 EEUU tenía tratados con Suiza y Alemania permitiendo un servicio de AR. No se conocen formas internacionales AR de Estados Unidos antes de la UPU, y sólo se conoce de una dirigida desde EEUU La forma AR más temprana conocida entrando a EEUU en el período pre-UPU es 1878. El servicio AR estuvo disponible como una opción libre hasta 1925. En ese entonces todas las formas de AR de EEUU requerían de un sobre, sin embargo no todas las oficinas extranjeras cumplieron esta disposición.
 

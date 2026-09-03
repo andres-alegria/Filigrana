@@ -84,7 +84,7 @@ El primo de Miriam, Charles R. Follin, se desempeñó como ingeniero de la Hondu
 
 Lo más probable es que Charles Follin le haya presentado a Squier su sobrina Miriam. Dada las difíciles circunstancias económicas por las que atravesaban, Susan Danforth Follin y su cuñado Augustus Follin, pudieron haber pensado prudente asegurarse que los caminos de ambos se cruzaran. Miriam era cautivadora y de gran belleza y Squier sería un buen partido si se animara a cortejarla. Su capacidad intelectual estaba al nivel de su capacidad de seducción. Años antes, su primer matrimonio, uno de conveniencia con un empleado de una joyería, fue anulado. Entonces había iniciado una carrera en el teatro, viajando con la actriz española Lola Montez, haciéndose pasar como su hermana Minnie.
 
-Miriam abandonó la actuación para casarse con Squier. Con él publicó un periódico en español llamado Noticias de Nueva York. A través de Squier conoció a Frank Leslie, con quien se casaría después de divorciarse de Squier. Propietario de una exitosa casa editora, Leslie la puso a cargo de la revista Lady's Magazine. Ella también se involucró en la producción de Frank Leslie's Chimney Corner y Frank Leslie's Lady's Journal. Para muchos ella era el poder detrás del trono. El mal manejo financiero aunado a la muerte de Leslie en 1880 casi da al traste con el negocio, pero Miriam era una buena administradora con un agudo sentido para percibir los intereses del público. Su decisión para reducir el tiraje de Lady's Magazine y concentrarse en el Frank Leslie's Popular Monthly, demostró su capacidad para administrar el negocio.
+Miriam abandonó la actuación para casarse con Squier. Con él publicó un periódico en español llamado *Noticias de Nueva York*. A través de Squier conoció a Frank Leslie, con quien se casaría después de divorciarse de Squier. Propietario de una exitosa casa editora, Leslie la puso a cargo de la revista *Lady's Magazine*. Ella también se involucró en la producción de *Frank Leslie's Chimney Corner* y *Frank Leslie's Lady's Journal*. Para muchos ella era el poder detrás del trono. El mal manejo financiero aunado a la muerte de Leslie en 1880 casi da al traste con el negocio, pero Miriam era una buena administradora con un agudo sentido para percibir los intereses del público. Su decisión para reducir el tiraje de *Lady's Magazine* y concentrarse en el *Frank Leslie's Popular Monthly*, demostró su capacidad para administrar el negocio.
 
 En esta época Miriam, al influjo del glamour y la fama, se cambió el nombre por “Frank Leslie”, fecha de nacimiento y los detalles de su parentela para acomodarlos a una vida de extravagancias donde cada uno de sus actos se volvía noticia, llegando a conocerse como la “Emperatriz del Periodismo”.
 
@@ -560,7 +560,7 @@ Radicados en San Pedro Sula, Carolina Follin y Ricardo Collier procrearon a:
 
 (5) María Carmen Collier F. (1896-?)
 
-(6) Zadik Collier F. (1898-1987). (Ver Honduras Filatélica Vol. 7, Serie 6).
+(6) Zadik Collier F. (1898-1987). (Ver *Honduras Filatélica Vol. 7, Serie 6*).
 
 (7) María Cornelia Collier F. (1900-?).
 

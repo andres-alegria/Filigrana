@@ -63,8 +63,9 @@ def _emphasize(text, bold, italic):
     trail = text[len(text.rstrip()):]
     return f'{lead}{marker}{text.strip()}{marker}{trail}'
 
-def para_markdown(p):
-    """Paragraph text with Word's bold/italic runs carried over as Markdown."""
+def para_segments(p):
+    """The paragraph as [text, bold, italic] runs, adjacent like-formatted runs
+    already merged. Shared with the one-off apply_emphasis.py pass."""
     segs = []
     for r in p.iter(W + 'r'):
         t = ''.join(x.text or '' for x in r.iter(W + 't'))
@@ -95,7 +96,11 @@ def para_markdown(p):
             del segs[i:i + 2]
         else:
             i += 1
-    return ''.join(_emphasize(*s) for s in segs)
+    return segs
+
+def para_markdown(p):
+    """Paragraph text with Word's bold/italic runs carried over as Markdown."""
+    return ''.join(_emphasize(*s) for s in para_segments(p))
 
 def strip_md(s):
     """Plain text of a Markdown string — for matching, keys and heuristics."""

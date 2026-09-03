@@ -24,7 +24,7 @@ Yuri Valentinovich Knórozov, el ruso que logró descifrar la escritura maya.
 
 El legado de su gran hazaña consistió en descifrar por primera vez lo jeroglíficos mayas. Antes de él nadie lo había conseguido. El primero en intentarlo fue el misionero franciscano Diego de Landa, que en el siglo XVI mandó a matar miles de indígenas mayas de Yucatán y Guatemala, so pretexto de herejía. Sin embargo, preservó algunos códices y escribió la Relación de las Cosas de Yucatán. En dicho documento, Diego de la Landa describe cómo era la forma de la vida de los mayas antes de la conquista, así como las instituciones existentes. Además, también hizo un apartado bajo el título Alfabeto Maya, que sirvió de base para el desciframiento de los glifos.
 
-En mi corazón siempre seré mexicano es la frase que decora el monumento al soldado ucraniano Yuri Valentinovich Knórozov en la ciudad de Mérida, Yucatán. Dicha frase se pronunció en 1994, cuando el exsoldado soviético recibió la condecoración Orden del Águila Azteca, la presea más alta que otorga el gobierno mexicano a un extranjero.
+*En mi corazón siempre seré mexicano* es la frase que decora el monumento al soldado ucraniano Yuri Valentinovich Knórozov en la ciudad de Mérida, Yucatán. Dicha frase se pronunció en 1994, cuando el exsoldado soviético recibió la condecoración Orden del Águila Azteca, la presea más alta que otorga el gobierno mexicano a un extranjero.
 
 El manuscrito original del franciscano se tradujo y fue publicado en francés en 1864. El texto había permanecido olvidado en la Real Academia de Historia de Madrid. Sin embargo, en abril 1945 los destinos de Knórozov y de Landa se cruzaron.
 

@@ -24,7 +24,7 @@ Sobrecito con tarjeta de felicitación de Año Nuevo circulado localmente de Teg
 
 Alberto de Jesús Membreño Márquez, hijo de Carlos Membreño y Ceferina Márquez, nació en la ciudad de Tegucigalpa el 12 de julio de 1859, falleciendo en la misma ciudad el 6 de febrero de 1921. En 1877 se graduó de Bachiller en Derecho Civil en la Academia del Estado de Honduras, rindiendo en 1880 su examen ante la Corte Suprema de Justicia para optar al título de abogado. A su paso por la universidad demostró su amor al estudio, a la historia y a las letras.
 
-Como juez y magistrado que fue en los tribunales siempre procuró honrar su profesión. En 1887 fue diputado en el Congreso Ordinario. En sus publicaciones recogió la jurisprudencia de la Corte Suprema de Justicia, anotándola con observaciones críticas. Escribió la obra Elementos de Práctica Forense en Materia Civil y los libros Hondureñismos y Aztequismo y Nombres Geográficos de la República de El Salvador.
+Como juez y magistrado que fue en los tribunales siempre procuró honrar su profesión. En 1887 fue diputado en el Congreso Ordinario. En sus publicaciones recogió la jurisprudencia de la Corte Suprema de Justicia, anotándola con observaciones críticas. Escribió la obra Elementos de Práctica Forense en Materia Civil y los libros *Hondureñismos* y *Aztequismo* y Nombres Geográficos de la República de El Salvador.
 
 Como diputado fue actor de la Ley Agraria. Siendo Ministro de Instrucción Pública, dijo: Independiente sólo seremos cuando seamos industriosos, cuando arranquemos a la naturaleza sus secretos y transformemos la materia para apropiarla a la satisfacción de nuestras necesidades. Con necesidades y sin medio para satisfacerlas no aspiremos a ser libres.
 

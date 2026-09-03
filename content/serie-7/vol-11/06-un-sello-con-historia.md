@@ -70,7 +70,7 @@ Francisco José Antonio Guillermo Soto Mijango, inhumado el 15 de julio de 1927
 
 Celestina Mijango Banderas de Soto, 16 de marzo de 1940. Había fallecido en Saint Jean de Luz (pirineos orientales, Francia).
 
-De acuerdo a esta cronología de decesos, doña Celestina sobrevivió dolorosamente a su esposo y cinco hijos. Ella era oriunda de Guatemala, donde contrajo matrimonio con el Dr. Soto, sólo por lo civil; por esta razón, al retornar a Honduras como Presidente en 1876, la parentela del desposado, residente en la capital Comayagua, se negó a recibirlos in situ hasta no verlos unidos religiosamente. Bajo estas circunstancias, el Dr. Soto optó por establecer temporalmente su Gobierno en la cercana ciudad de La Paz. Por sus raíces humildes, doña Celestina nunca fue bien vista por la “aristocracia” comayagüense, siendo este uno de los motivos que impulsó al Dr. Soto a mover en 1880 la Capital a Tegucigalpa.
+De acuerdo a esta cronología de decesos, doña Celestina sobrevivió dolorosamente a su esposo y cinco hijos. Ella era oriunda de Guatemala, donde contrajo matrimonio con el Dr. Soto, sólo por lo civil; por esta razón, al retornar a Honduras como Presidente en 1876, la parentela del desposado, residente en la capital Comayagua, se negó a recibirlos *in situ* hasta no verlos unidos religiosamente. Bajo estas circunstancias, el Dr. Soto optó por establecer temporalmente su Gobierno en la cercana ciudad de La Paz. Por sus raíces humildes, doña Celestina nunca fue bien vista por la “aristocracia” comayagüense, siendo este uno de los motivos que impulsó al Dr. Soto a mover en 1880 la Capital a Tegucigalpa.
 
 Acta de defunción del Dr. Marco Aurelio Soto.
 

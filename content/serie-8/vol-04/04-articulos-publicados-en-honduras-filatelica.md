@@ -20,7 +20,7 @@ review: []
 ---
 
 # Artículos publicados en Honduras Filatélica
-A continuación se presenta en orden cronológico la lista de todos los artículos publicados hasta hoy en Honduras Filatélica, partiendo del volumen 4, serie 1 de 1977. Se aclara que se excluyen los tres primeros números por contener únicamente los reportes de los miembros de la Junta Directiva de aquel entonces.
+A continuación se presenta en orden cronológico la lista de todos los artículos publicados hasta hoy en *Honduras Filatélica*, partiendo del volumen 4, serie 1 de 1977. Se aclara que se excluyen los tres primeros números por contener únicamente los reportes de los miembros de la Junta Directiva de aquel entonces.
 
 Si alguno de los lectores está interesado en obtener copias en físico blanco y negro de alguno de estos artículos, se le pueden suministrar a un costo de L2.00 por hoja o su equivalente en dólares al cambio del momento, más el costo de envío por correo certificado. Es necesario contactar previamente a esta Federación a fin de conocer de cuántas hojas consiste el material solicitado, lo cual se puede realizar vía el correo electrónico publicado en este Directorio. Para cualquier solicitud, además del nombre, por favor mencionar el número correlativo, el año, el volumen y la serie respectiva. En caso de interés, los tres primeros ejemplares están también disponibles.
 
@@ -72,7 +72,7 @@ Antecedentes Históricos del Correo de Honduras
 
 Centenario del Ingreso de Honduras a la UPU
 
-La Locomotora – 1898
+*La Locomotora* – 1898
 
 El Nacimiento de una Rareza: La Reemisión de F. D. R
 
@@ -108,7 +108,7 @@ Los Soles
 
 Resúmenes de Acuerdo Filatélicos
 
-Estudio de la Emisión de Céleo Arias: Genuinas y Falsas
+Estudio de la Emisión de *Céleo Arias*: Genuinas y Falsas
 
 Matasellos Especiales
 
@@ -448,13 +448,13 @@ Apuntes Sobre la Emisión de 1907
 
 Lista Especializada de los Primeros Vuelos Desde y Hacia Honduras
 
-Matasellos y Marcas Falsas Sobre la Emisión de La Locomotora
+Matasellos y Marcas Falsas Sobre la Emisión de *La Locomotora*
 
 ¿Pasó Albert Einstein por Amapala?
 
 Edward Meeker H. Último Piloto de la Central American Airlines
 
-La Locomotora en la Génesis del Correo Ambulante y Paquebote
+*La Locomotora* en la Génesis del Correo Ambulante y Paquebote
 
 Correo Certificado/Primer Aviso
 
@@ -534,7 +534,7 @@ Los Buzones de 1954
 
 Una Postal Primigenia
 
-Variedades en la Emisión de Céleo Arias
+Variedades en la Emisión de *Céleo Arias*
 
 Emerge una Tarjeta Postal de 1897 Enviada por un Hijo del General Morazán
 

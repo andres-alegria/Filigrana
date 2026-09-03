@@ -70,7 +70,7 @@ Dos mensajes escritos al reverso.
 
 Figura No. 13
 
-Otra magnífica pieza Seebeck nicaragüense, Figuras 14 a 20, es la que presentamos a continuación, donde el segmento de la respuesta pagada muestra, ademàs de la cancelación inicial del indicium cuando el entero completo fue despachado de Managua hacia Alemania, una marca parcial de tránsito fechada en agosto de 1895. Posteriormente la respuesta fue retornada de Alemania el 24 de agosto de 1895, recibida en tránsito por Nueva York el 5 de septiembre para finalmente entrar a territorio nicaraguense por el puerto de Corinto el 25 de ese mismo mes y año.
+Otra magnífica pieza Seebeck nicaragüense, Figuras 14 a 20, es la que presentamos a continuación, donde el segmento de la respuesta pagada muestra, ademàs de la cancelación inicial del *indicium* cuando el entero completo fue despachado de Managua hacia Alemania, una marca parcial de tránsito fechada en agosto de 1895. Posteriormente la respuesta fue retornada de Alemania el 24 de agosto de 1895, recibida en tránsito por Nueva York el 5 de septiembre para finalmente entrar a territorio nicaraguense por el puerto de Corinto el 25 de ese mismo mes y año.
 
 Figura No. 14
 

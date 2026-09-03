@@ -22,7 +22,7 @@ review: []
 # Un buzón de 1877 en Tegucigalpa
 Nos hemos encontrado con esta histórica fotografía que muestra un antiguo edifico ubicado frente al Jardín Morazán, hoy Parque Central de Tegucigalpa, donde otrora funcionó el Tribunal Superior de Cuentas y el Museo Nacional, tras lo cual fue demolido en 1977 a fin de ampliar y modernizar el parque. La gráfica tiene la particularidad que a la izquierda de la entrada se aprecia un buzón de correos, siendo del mismo tipo que se ilustra en los billetes de L.500.00. Las referencias más antiguas del servicio postal de buzones en el país las encontramos en los siguientes enunciados:
 
-Guía Postal de Honduras del 31 de marzo de 1877, Artículo 2º:
+*Guía Postal de Honduras* del 31 de marzo de 1877, Artículo 2º:
 
 “Toda correspondencia que llegue después de la hora que los cuadros de entrada y salidas fijan para el despacho de correos, quedará para remitirse por el inmediato: en tal virtud, una vez dada la hora no se admitirá correspondencia en la Administraciones, pudiendo si ser depositadas en los buzones de las mismas”.
 
@@ -32,11 +32,11 @@ Ley de Correos de 1883, Artículo 57:
 
 Ubicación del antiguo edificio en el actual Parque Central de Tegucigalpa.
 
-El Primer Anuario Estadístico de Honduras de 1893 apunta que: “En determinados puntos de la ciudad existen buzones de hierro del sistema moderno que facilitan la comunicación vecinal y envío de correspondencia”
+El *Primer Anuario Estadístico de Honduras* de 1893 apunta que: “En determinados puntos de la ciudad existen buzones de hierro del sistema moderno que facilitan la comunicación vecinal y envío de correspondencia”
 
 En 1899 en Tegucigalpa se registraban 25 buzones de bronce, de los cuales por lo menos sobrevivió uno de ellos atesorado actualmente en el Museo de Antropología e Historia en Villa Roy.
 
-Si desea mayores datos sobre este tema ver Honduras Filatélica Volumen 12, Serie 4, 1999.
+Si desea mayores datos sobre este tema ver *Honduras Filatélica* Volumen 12, Serie 4, 1999.
 
 Loa
 

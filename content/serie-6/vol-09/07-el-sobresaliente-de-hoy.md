@@ -24,7 +24,7 @@ INAUGURACION DE LA OFICINA POSTAL DE AGUA AZUL, CORTÉS
 
 Sobre preparado para atestiguar la apertura de la nueva oficina postal en la aldea de Agua Azul el 21 de noviembre de 1946 a la 1:30 p. m. Fue circulado desde Agua Azul (en el Lago de Yojoa) a la comunidad de Pito Solo, al extremo occidental del Lago. Está firmado por el Sr. Andrés Hernández F., primer director de dicha oficina postal. Como cachet se puede apreciar una vista panorámica del Lago de Yojoa.
 
-El remitente, James B. Edwards, era un botánico norteamericano que por varios años a partir de 1931 viajó por los departamentos de Atlántida, Comayagua, Cortés, Francisco Morazán y Yoro, contratado por el instituto Arnold Arboretum de la Universidad de Harvard, para el estudio y recolección de plantas nativas. Además de orquídeas, descubrió varias especies nuevas que quedaron clasificadas y registradas como parte de la extensa variedad de la flora hondureña.
+El remitente, James B. Edwards, era un botánico norteamericano que por varios años a partir de 1931 viajó por los departamentos de Atlántida, Comayagua, Cortés, *Francisco Morazán* y Yoro, contratado por el instituto *Arnold Arboretum* de la Universidad de Harvard, para el estudio y recolección de plantas nativas. Además de orquídeas, descubrió varias especies nuevas que quedaron clasificadas y registradas como parte de la extensa variedad de la flora hondureña.
 
 Este sobre es uno de los raros ejemplares que ha dejado plasmado en detalle un evento postal de esa naturaleza, gracias a la acuciosa disposición y cultura de su creador, que obviamente gozaba también de una afición filatélica, tal como lo evidencian también otros sobres del mismo remitente en manos del autor.
 

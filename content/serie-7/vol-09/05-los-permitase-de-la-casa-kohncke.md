@@ -22,7 +22,7 @@ review: []
 # Los permítase de la Casa Kohncke
 ¿Qué sería de la filatelia sin el aporte de la correspondencia comercial? Cualquier filatelista de inmediato respondería que sería una carencia que afectaría la conformación de cualquier colección seria. En efecto, el flujo epistolar local e internacional ejercido por el comercio, ha aportado material de estudio que de otra manera sería muy difícil de encontrar. Tal es el uso de portes más elevados, de marcas especiales y de destinos inusuales. Estas particularidades se han puesto de manifiesto al analizar el material producto del desarrollo comercial de la colonia alemana establecida a partir del siglo XIX en la ciudad puerto de Amapala en la isla de El Tigre, en el Pacífico hondureño; especialmente en lo concerniente a la marca de control PERMITASE, aplicada exclusivamente en esta localidad.
 
-Este artículo se centra en la aplicación de la marca PERMITASE sobre los sellos de La Locomotora (Scott 103-110) en 1898 y la de Santos Guardiola (Scott 111-118) en 1903. La serie de Céleo Arias (Scott 95-102) alcanzaría el término de su vigencia el 1 de agosto de 1898, cuando entraría en circulación La Locomotora, pero ésta no llegó a Amapala sino tres semanas después. Ante el atraso, las autoridades locales idearon contramarcar los sellos por Ley ya obsoletos a manera de validar su circulación hasta el arribo de la nueva emisión. Los sellos nuevos llegaron alrededor del 20 de agosto, los cuales, sin razón aparente, también recibieron la contramarca en mención. El autor ha llegado a la conclusión que dicha marca fue aplicada a la nueva serie por principio de simpleza emanado de la orden impartida de manera general. Podríamos imaginar que el jefe ordenó ¡contramarquen los sellos!, y el subalterno, muy sumiso y diligente, lo hizo con los obsoletos y luego con los entrantes; acción que también incluyó a los timbres fiscales. Sin importar las causas de este hecho, lo esencial es el valioso aporte filatélico surgido a raíz de esta muy codiciada contramarca.
+Este artículo se centra en la aplicación de la marca PERMITASE sobre los sellos de *La Locomotora* (Scott 103-110) en 1898 y la de *Santos Guardiola* (Scott 111-118) en 1903. La serie de *Céleo Arias* (Scott 95-102) alcanzaría el término de su vigencia el 1 de agosto de 1898, cuando entraría en circulación *La Locomotora*, pero ésta no llegó a Amapala sino tres semanas después. Ante el atraso, las autoridades locales idearon contramarcar los sellos por Ley ya obsoletos a manera de validar su circulación hasta el arribo de la nueva emisión. Los sellos nuevos llegaron alrededor del 20 de agosto, los cuales, sin razón aparente, también recibieron la contramarca en mención. El autor ha llegado a la conclusión que dicha marca fue aplicada a la nueva serie por principio de simpleza emanado de la orden impartida de manera general. Podríamos imaginar que el jefe ordenó ¡*contramarquen los sellos!*, y el subalterno, muy sumiso y diligente, lo hizo con los obsoletos y luego con los entrantes; acción que también incluyó a los timbres fiscales. Sin importar las causas de este hecho, lo esencial es el valioso aporte filatélico surgido a raíz de esta muy codiciada contramarca.
 
 Una de las primeras firmas comerciales establecidas en Amapala fue la casa Teodoro Kohncke & Co. Fundada en 1883, dedicada a la importación de productos y artículos especialmente alemanes que luego se distribuían en el interior del país a través de sus distintas sucursales.
 
@@ -52,7 +52,7 @@ Pasarían otros veinte años para que la conflagración europea ardiera una vez 
 
 Espantada por la tierra que décadas antes la había recibido con los brazos abiertos, la familia Kohncke retornó a Alemania, pero sin sospechar que por lo menos atrás dejaba un espléndido legado postal que sería altamente apreciado por las futuras generaciones de filatelistas.
 
-En los registros del autor sólo se conoce de trece sobres circulados con sellos de La Locomotora contramarcados con PERMITASE, la mayoría alguna vez en manos del reconocido estudioso Brian Moorhouse. Dos de ellos proceden de la Casa Kohncke, lo que me anima a creer que, dado el elevado número de transacciones llevadas a cabo vía correo, todavía existe la posibilidad de que otros emerjan en el futuro.
+En los registros del autor sólo se conoce de trece sobres circulados con sellos de *La Locomotora* contramarcados con PERMITASE, la mayoría alguna vez en manos del reconocido estudioso Brian Moorhouse. Dos de ellos proceden de la Casa Kohncke, lo que me anima a creer que, dado el elevado número de transacciones llevadas a cabo vía correo, todavía existe la posibilidad de que otros emerjan en el futuro.
 
 Localmente ha sido casi imposible recabar información puntual o material relacionada con la familia Kohncke o ésta esquiva marca, debido en gran medida a que el edificio de la Alcaldía Municipal y la Administración de Rentas y Aduanas de Amapala se incendió el 6 de abril de 1931.
 
@@ -94,7 +94,7 @@ Este ejemplar es producto de la puesta en uso por segunda ocasión de la marca P
 
 En la literatura filatélica siempre se dio por sentado que ante la situación adversa a las comunicaciones (la revolución duró hasta el 10 de abril), las autoridades de la Oficina de Correos y la Administración de Rentas de Amapala recurrieron nuevamente al cuño de PERMITASE a fin de que se permitiera la circulación del correo procedente de Amapala por las zonas en manos del bando contrario.
 
-(Entonces estaba vigente la emisión Santos Guardiola, de la cual fueron contramarcados sus ocho valores, siendo hoy en día mucho más escasos los valores de denominación más baja en vista que eran los requeridos por las tarifas básicas del momento).
+(Entonces estaba vigente la emisión *Santos Guardiola*, de la cual fueron contramarcados sus ocho valores, siendo hoy en día mucho más escasos los valores de denominación más baja en vista que eran los requeridos por las tarifas básicas del momento).
 
 Ante el surgimiento de nueva información, aunada a la oportunidad de examinar otros sobres circulados desde Amapala con esta contramarca, hoy me atrevo a afirmar que, aunque el objetivo era que no se entorpeciese a los correos en su cometido, en realidad no hubo correspondencia circulada desde Amapala durante ésta permaneció en Estado de Sitio. El sobre más antiguo que he podido estudiar data de junio de 1903 y el Estado de Sitio ya se había levantado en los primeros días de abril de ese año.
 
@@ -112,13 +112,13 @@ Como colofón deseo expresar que el espíritu de la filatelia está en rescatar 
 
 Bibliografía:
 
-Alegría Reichmann, Edgardo. Colección privada: Las Primeras Emisiones Impresas en Honduras. Honduras.
+Alegría Reichmann, Edgardo. Colección privada: *Las Primeras Emisiones Impresas en Honduras*. Honduras.
 
-Argueta, Mario. (1992). Los Alemanes en Honduras. Tegucigalpa, Honduras. Editorial Millenium.
+Argueta, Mario. (1992). *Los Alemanes en Honduras*. Tegucigalpa, Honduras. Editorial Millenium.
 
-Infante, Segisfredo. (1993). Los Alemanes en el Sur. Tegucigalpa, Honduras. Editorial Universitaria.
+Infante, Segisfredo. (1993). *Los Alemanes en el Sur*. Tegucigalpa, Honduras. Editorial Universitaria.
 
-Spears, John R. (1895). Honduras at Peace and War. Nueva York, EUA. New York Sun.
+Spears, John R. (1895). *Honduras at Peace and War*. Nueva York, EUA.* New York Sun*.
 
 EL
 

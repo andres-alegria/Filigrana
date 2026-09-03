@@ -34,11 +34,11 @@ Además de los EUA, muchas otras entidades postales en todo el mundo emitieron s
 
 En Centroamérica El Salvador lleva el honor de haber sido el primero en emitirlos en 1895 (Scott J1-11), tal como se muestran a continuación:
 
-Sin embargo, algunos países emitieron sellos de multa que son bellas obras de arte, con diseños intrincados. Entre los más contemporáneos está la serie de Mauritania de 1963 conformada por 16 sellos triangulares multicolores mostrando pájaros. Estos sellos fueron impresos tete beche, con denominaciones que van desde 50 centavos hasta 10 francos.
+Sin embargo, algunos países emitieron sellos de multa que son bellas obras de arte, con diseños intrincados. Entre los más contemporáneos está la serie de Mauritania de 1963 conformada por 16 sellos triangulares multicolores mostrando pájaros. Estos sellos fueron impresos *tete beche*, con denominaciones que van desde 50 centavos hasta 10 francos.
 
 Gibraltar emitió otro conjunto de seis coloridos sellos "a pagar" en 2002, mostrando los pinzones que se ven comúnmente en este pequeño país en el extremo sur de España. Como ya lo apreciamos en las ilustraciones, los sellos emitidos en los EUA no se concibieron con un diseño tan llamativo, impresos sólo en colores marrón, borgoña y carmín. Sin embargo, son una parte importante de cualquier colección especializada de sellos estadounidenses. Algunos de estos sellos son escasos debido a las diferencias en el papel en el que se imprimieron o el tamaño de la perforación. Los sellos individuales en perfecto estado en condición mint han alcanzado precios elevados en el mercado filatélico.
 
-El uso de sellos de multa en el correo de los EUA se descontinuó en noviembre de 1985 por varias razones. Una involucró la tecnología, pues se adoptó el uso generalizado de máquinas franqueadoras, y no menos importante, la descontinuación del uso de la prensa Cottrell (la última imprenta con capacidad de producir los sellos de multa tal como estaban diseñados) por parte del “Bureau of Engraving and Printing” (Oficina de Grabados e Impresiones), poniéndole así punto final a nuevas emisiones. Posteriormente, se enmendaron las regulaciones del servicio postal a manera de exigir el prepago completo del franqueo.
+El uso de sellos de multa en el correo de los EUA se descontinuó en noviembre de 1985 por varias razones. Una involucró la tecnología, pues se adoptó el uso generalizado de máquinas franqueadoras, y no menos importante, la descontinuación del uso de la prensa *Cottrell* (la última imprenta con capacidad de producir los sellos de multa tal como estaban diseñados) por parte del “Bureau of Engraving and Printing” (Oficina de Grabados e Impresiones), poniéndole así punto final a nuevas emisiones. Posteriormente, se enmendaron las regulaciones del servicio postal a manera de exigir el prepago completo del franqueo.
 
 Honduras, aunque no emitió sellos de multa, fue uno de los países que se apegó a la puesta en práctica de las marcas de multa, que de una época a otra variaron en su forma, incluso con diferencias entre las aplicadas entre una ciudad y otra. Esto último se debió a que los cuños habidos en las ciudades que manejaban mayor volumen de correspondencia se deterioraban más rápidamente, ameritando el cambio de los mismos; mientras que los de oficinas pequeñas perduraban por decenas de años. Es oportuno apuntar, que el uso extremo de estos implementos (de hule) culminaba ocasionalmente en su deformación física, por lo que al hacer un estudio y una recopilación de las marcas aplicadas a lo largo de los años, hemos tenido el cuidado de no incluir una marca que por su obvia deformación parezca diferente a una ya existente en años anteriores.
 
@@ -274,9 +274,9 @@ Circulado el 28 de agosto de 1899. Multa estampada en Tegucigalpa y cobrada corr
 
 1902. Multada con 10 cts. por el faltante de 5 en la tarifa doble de 30 cts.
 
-En el original las marcas “T” y “DUE 15 Cents” son del mismo color rojo, indicativo que ambas fueron aplicadas en los EUA. Se cobró el porte completo de 15 cts. al ver los dos sellos obsoletos de “La Locomotora” usados como cierre, obviando que el porte de 40 cts. con sellos vigentes de “Santos Guardiola” cubría en exceso de 15 cts. la tarifa exterior de 15 cts. más los 10 cts. del Certificado, cuyo tratamiento pasó desapercibido por haber sido estampado en el reverso y sin la etiqueta correspondiente.
+*En el original las marcas *“T”* y *“DUE 15 Cents” son del mismo color rojo, indicativo que ambas fueron aplicadas en los EUA. Se cobró el porte completo de 15 cts. al ver los dos sellos obsoletos de “La Locomotora” usados como cierre, obviando que el porte de 40 cts. con sellos vigentes de “Santos Guardiola” cubría en exceso de 15 cts. la tarifa exterior de 15 cts. más los 10 cts. del Certificado, cuyo tratamiento pasó desapercibido por haber sido estampado en el reverso y sin la etiqueta correspondiente.
 
-12 de agosto de 1908. Se multó en La Ceiba por el faltante de 1 ct. pero en Nueva York se cobró la tarifa completa de 3 cts. para postales, pasando por alto que el sello de 2 cts. estaba vigente. Lo anterior se nota en la diferencia en el color de las tintas, “T” (negra) y el “DUE 3 CENTS” (roja).
+12 de agosto de 1908. Se multó en La Ceiba por el faltante de 1 ct. pero en Nueva York se cobró la tarifa completa de 3 cts. para postales, pasando por alto que el sello de 2 cts. estaba vigente. Lo anterior se nota en la diferencia en el color de las tintas, “T”* (negra) y el *“DUE 3 CENTS” (roja).
 
 De El Paraíso, Cortés. Ostenta una “T” manuscrita, invalidando los 5 cts. del bisecado, cobrados posteriormente en Los Ángeles, California.
 
@@ -412,7 +412,7 @@ Para finales del Siglo XX la aplicación de multas postales era ya una política
 
 Bibliografía:
 
-Colección de Correo Multado. Edgardo Alegría R. Tegucigalpa, Honduras.
+*Colección de Correo Multado*. Edgardo Alegría R. Tegucigalpa, Honduras.
 
 Convenio Unión Postal Universal (UPU). 1878. Paris, Francia.
 
@@ -420,9 +420,9 @@ Convenio Unión Postal Universal (UPU). 1964. Viena, Austria.
 
 Ley Orgánica de Correos. 1899. Tipografía Nacional. Tegucigalpa, Honduras.
 
-Reglamento de Correos. 1943. Tipografía Nacional. Tegucigalpa, Honduras.
+*Reglamento de Correos*. 1943. Tipografía Nacional. Tegucigalpa, Honduras.
 
-Reglamento de Correos. 1963. Tipografía Nacional. Tegucigalpa, Honduras.
+*Reglamento de Correos*. 1963. Tipografía Nacional. Tegucigalpa, Honduras.
 
 ---
 
