@@ -160,5 +160,3 @@ Diario La Prensa: 15 de enero de 1982. San Pedro Sula.
 Diario El Heraldo: 16 de enero de 1982. Tegucigalpa.
 
 Boletín Panorama: enero-febrero de 1982. San José, Costa Rica.
-
----

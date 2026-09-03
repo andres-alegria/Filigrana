@@ -75,7 +75,3 @@ De regreso a su tierra natal, donde las musas languidecían bajo el influjo de u
 Bibliografía:
 
 González Paredes, José D. Camino Real, Crónicas de Honduras. 2023. Tegucigalpa.
-
------------------------------------------------------------------------------------------------
-
----
