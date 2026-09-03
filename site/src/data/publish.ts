@@ -59,7 +59,7 @@ export const publishQueue: PublishEntry[] = [
   {
     id: 'serie-8/vol-01/02-gemas-de-la-mosquitia',
     draft: true,
-    publishDate: '2026-09-02',
+    publishDate: '2026-09-03',
     teaser: 'Durante 207 años, una dinastía de reyes zambo-misquitos gobernó un reino olvidado en el litoral hondureño, entre piratas, contrabando y guerra fronteriza con España. Cinco piezas filatélicas, únicas en el mundo, son el rastro que sobrevive de aquel reino perdido.',
   },
   {
@@ -72,7 +72,7 @@ export const publishQueue: PublishEntry[] = [
   {
     id: 'serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro',
     featured: 1,
-    publishDate: '2026-09-04',
+    publishDate: '2026-09-03',
     teaser: 'En algún momento de su historia, Honduras emitió sellos de oro de 23 quilates para conmemorar sus tesoros arqueológicos — y lo que debía ser un orgullo filatélico terminó en el mayor escándalo del gremio en el país. Su autor fue testigo y participante directo de los hechos, y aquí los cuenta por primera vez en detalle.',
   },
   {
@@ -98,7 +98,7 @@ export const publishQueue: PublishEntry[] = [
   {
     id: 'serie-7/vol-01/02-paso-albert-einstein-por-amapala',
     featured: 2,
-    publishDate: '2026-09-04',
+    publishDate: '2026-09-03',
     teaser: 'Durante años circuló el rumor de que Albert Einstein, el físico más famoso del siglo XX, había pisado suelo hondureño en el puerto de Amapala. ¿Mito urbano o hecho real? El expediente filatélico detrás de la leyenda.',
   },
   {
