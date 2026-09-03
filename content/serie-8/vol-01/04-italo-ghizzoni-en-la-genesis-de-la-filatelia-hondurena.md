@@ -50,7 +50,9 @@ El 1 de enero de 1896 se puso en circulación la serie postal Céleo Arias, la p
 
 Era de esperarse que siendo ésta la primera emisión en un incipiente taller de artes gráficas, saturado de personal neófito, abundase el material colateral antes de haberse alcanzado el trabajo final, amén de bosquejos, pruebas, hojas descartadas, etc. cuyo destino no estaba previsto en las condiciones de trabajo, como tampoco existían los medios físicos para su salvaguarda. ¿Qué podía hacer alguien ante la disyuntiva de tirarlo todo a la basura o contactar a uno de los mejores comerciantes de sellos en un país que le era familiar?
 
-> > "¿Tirarlo todo a la basura, o contactar a uno de los mejores comerciantes de sellos en un país que le era familiar?" El acuerdo de emisión sólo contemplaba se pusiesen a resguardo las planchas para posibles futuras reimpresiones, nada más. Entonces no había pecado a la vista, pues estaba claro que al Gobierno no le interesaba este producto excedente. Lo positivo es, que, si este fue el caso, se logró arrebatar a la desventura un puñado de material primigenio excelso, que a lo mejor es el que conforma hoy en día parte de las piezas únicas de la filatelia nacional.
+> > "¿Tirarlo todo a la basura, o contactar a uno de los mejores comerciantes de sellos en un país que le era familiar?"
+
+El acuerdo de emisión sólo contemplaba se pusiesen a resguardo las planchas para posibles futuras reimpresiones, nada más. Entonces no había pecado a la vista, pues estaba claro que al Gobierno no le interesaba este producto excedente. Lo positivo es, que, si este fue el caso, se logró arrebatar a la desventura un puñado de material primigenio excelso, que a lo mejor es el que conforma hoy en día parte de las piezas únicas de la filatelia nacional.
 
 En cuanto al destinatario, Miguel Gálvez J., había nacido en Loja el 7 de abril de 1865, falleciendo en Madrid el 4 de noviembre de 1951, considerado el patriarca de la filatelia española.
 

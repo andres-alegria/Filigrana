@@ -92,7 +92,9 @@ Contramarca del Tribunal Superior de Cuentas.
 
 Seis meses después de haber sido puesta en circulación la nueva emisión de sellos postales del 2 de enero de 1931 (Scott 298-306), el Tribunal Superior de Cuentas, con sede en Tegucigalpa, descubrió que una buena cantidad de sellos había sido sustraída ilegalmente del inventario bajo su custodia. La investigación fue entorpecida tras encontrar al Contador General muerto de un balazo en el pecho.
 
-> > "La investigación fue entorpecida tras encontrar al Contador General muerto de un balazo en el pecho." Al final, el T. S. de C. resolvió se contramarcase el remanente de los sellos, incluyendo los fiscales, con sus siglas, a fin de diferenciarlos de los hurtados, control que se implementó a partir del 4 de julio de 1931 sobre la emisión de Renta del Timbre de 1928 impresa por la American Bank Note Co. para licores fuertes, esencias y perfumes, en valores de: ½, 1, 2, 4, 6, 12, 30, 50, 75 centavos y 1 peso.
+> > "La investigación fue entorpecida tras encontrar al Contador General muerto de un balazo en el pecho."
+
+Al final, el T. S. de C. resolvió se contramarcase el remanente de los sellos, incluyendo los fiscales, con sus siglas, a fin de diferenciarlos de los hurtados, control que se implementó a partir del 4 de julio de 1931 sobre la emisión de Renta del Timbre de 1928 impresa por la American Bank Note Co. para licores fuertes, esencias y perfumes, en valores de: ½, 1, 2, 4, 6, 12, 30, 50, 75 centavos y 1 peso.
 
 ![Asimismo, se contramarcaron los valores de 2y3 cts. de la Renta del Timbre de la ABN, de 1928, en rojo y negro respectivamente, cada uno con la contramarca en dos posiciones: lectura hacia arriba y hacia abajo.](/img/serie-7/vol-11/03-marcas-de-control-sobre-los-timbres-de-honduras/image34.webp)
 
