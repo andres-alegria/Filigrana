@@ -171,6 +171,10 @@ nav.site a:hover{color:var(--green)}
   border-bottom:1px solid var(--line);transition:border-color .18s ease}
 /* adjust prose link underline accent here */
 .article-body a:hover,.article-body a:focus-visible{border-bottom-color:var(--green)}
+/* Bold inside prose. Archivo is loaded at 300-600 only, so a default <strong>
+   asks for 700 and the browser smears a synthetic bold instead. 600 is the
+   heaviest weight actually drawn — adjust the emphasis weight here */
+.article-body strong{font-weight:600}
 /* Section headings inside an article. The global reset strips their margins,
    so without these they sit flush against the prose. h2 opens a major section
    (e.g. APÉNDICE), h3 a subsection under it. Adjust the display face, sizes

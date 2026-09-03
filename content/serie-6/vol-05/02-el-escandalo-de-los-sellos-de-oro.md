@@ -121,7 +121,7 @@ O qué tal esta otra tentadora oferta actual en internet:
 
 “Colección Encuentro de Dos Mundos, 25 réplicas de sellos en oro.
 
-Entre 1988 y 1991 se vendió una colección limitada de sellos de correos realizados en plata de ley chapada en oro de 22 quilates. Esta colección, denominada Encuentro de Dos Mundos, fue un anticipo de las celebraciones del V Centenario del Descubrimiento de América. Es una colección de gran valor postal, filatélico e histórico, muy difícil de conseguir hoy día completa y en tan inmejorable estado como la que aquí se ofrece. El precio por el que se pone a la venta es muy inferior al valor real de dicha colección, siendo una ocasión excepcional para hacerse con ella. 1,400.00 euros.”
+Entre 1988 y 1991 se vendió una colección limitada de sellos de correos realizados en plata de ley chapada en oro de 22 quilates. Esta colección, denominada Encuentro de Dos Mundos, fue un anticipo de las celebraciones del V Centenario del Descubrimiento de América. Es una colección de gran valor postal, filatélico e histórico, muy difícil de conseguir hoy día completa y en tan inmejorable estado como la que aquí se ofrece. El precio por el que se pone a la venta es muy inferior al valor real de dicha colección, siendo una ocasión excepcional para hacerse con ella. **1,400.00 euros**.”
 
 Qué bonito suena verdad, pero no es más que pura charlatanería, carnada en la trampa a la espera del dinero de la siguiente víctima.
 
