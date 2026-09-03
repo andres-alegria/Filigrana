@@ -41,6 +41,66 @@ def strip_accents(s):
     return ''.join(c for c in unicodedata.normalize('NFD', s)
                    if unicodedata.category(c) != 'Mn')
 
+# ------------------------------------------------- inline emphasis (runs)
+# Word marks emphasis per run (<w:r>), not per paragraph. Flattening every
+# <w:t> into one string loses it, and with it the distinctions the authors
+# actually made: ship names, publication titles, Latin terms, and the
+# vendor's own bold in an advert the author then calls charlatanería.
+
+def _rpr_on(el):
+    """A toggle property is on unless it carries an explicit off value."""
+    if el is None:
+        return False
+    return el.get(W + 'val') not in ('0', 'false', 'off')
+
+def _emphasize(text, bold, italic):
+    """Wrap in Markdown markers, keeping whitespace outside them — ``* x *``
+    is not emphasis in Markdown, ``*x*`` is."""
+    marker = '***' if bold and italic else '**' if bold else '*' if italic else ''
+    if not marker or not text.strip():
+        return text
+    lead = text[:len(text) - len(text.lstrip())]
+    trail = text[len(text.rstrip()):]
+    return f'{lead}{marker}{text.strip()}{marker}{trail}'
+
+def para_markdown(p):
+    """Paragraph text with Word's bold/italic runs carried over as Markdown."""
+    segs = []
+    for r in p.iter(W + 'r'):
+        t = ''.join(x.text or '' for x in r.iter(W + 't'))
+        if not t:
+            continue
+        rpr = r.find(W + 'rPr')
+        bold = ital = False
+        if rpr is not None:
+            bold = _rpr_on(rpr.find(W + 'b'))
+            ital = _rpr_on(rpr.find(W + 'i'))
+        # Word splits runs mid-word for reasons of its own (spell-check state,
+        # rsid tracking); merge neighbours that share formatting so a single
+        # phrase emits one pair of markers instead of several.
+        if segs and segs[-1][1] == bold and segs[-1][2] == ital:
+            segs[-1][0] += t
+        else:
+            segs.append([t, bold, ital])
+    # Word often leaves the space between two emphasized words in its own
+    # unformatted run, which would emit ``*Doctor* *Honoris Causa*``. Absorb a
+    # whitespace-only run when the runs on either side agree, so the phrase
+    # emits as one: ``*Doctor Honoris Causa*``.
+    i = 1
+    while i < len(segs) - 1:
+        if (not segs[i][0].strip()
+                and segs[i - 1][1:] == segs[i + 1][1:]
+                and (segs[i - 1][1] or segs[i - 1][2])):
+            segs[i - 1][0] += segs[i][0] + segs[i + 1][0]
+            del segs[i:i + 2]
+        else:
+            i += 1
+    return ''.join(_emphasize(*s) for s in segs)
+
+def strip_md(s):
+    """Plain text of a Markdown string — for matching, keys and heuristics."""
+    return re.sub(r'\*{1,3}([^*]*?)\*{1,3}', r'\1', s)
+
 def norm_key(s):
     return re.sub(r'[^a-z0-9]', '', strip_accents(collapse_spacing(s)).lower())
 
@@ -248,8 +308,11 @@ def load_blocks(path):
                 if b.get(R + 'embed') in rid2media]
         s = text.strip()
         pagenum = int(s) if re.fullmatch(r'\d{1,3}', s) else None
-        blocks.append({'text': text, 'images': imgs, 'pagenum': pagenum,
-                       'hashes': [img_hash(t) for t in imgs]})
+        # 'text' stays plain — every heading match, TOC key and heuristic in
+        # this file reads it. 'md' is the same paragraph with emphasis, and is
+        # what actually gets written out.
+        blocks.append({'text': text, 'md': para_markdown(p), 'images': imgs,
+                       'pagenum': pagenum, 'hashes': [img_hash(t) for t in imgs]})
     fulltext = ' '.join(t.text or '' for t in root.iter(W + 't'))
     return z, blocks, fulltext
 
@@ -475,12 +538,19 @@ def clean_body(blocks, lo, hi, issue_title_keys):
             continue                                   # running header/footer
         if norm_key(s) in issue_title_keys and len(s) < 60:
             continue                                   # repeated article title
+        # Emphasis-carrying version of the same paragraph. Every decision above
+        # and below is made on the plain text; only what gets appended differs.
+        # If the two ever disagree on wording, the plain text wins — a lost
+        # italic is a blemish, dropped words are not.
+        s_md = collapse_spacing(b.get('md') or s)
+        if strip_md(s_md) != s:
+            s_md = s
         # join hard-wrapped line into previous paragraph
-        if paras and paras[-1] and not re.search(r'[.!?:»”"\)]\s*$', paras[-1]) \
+        if paras and paras[-1] and not re.search(r'[.!?:»”"\)]\s*$', strip_md(paras[-1])) \
            and s[:1].islower():
-            paras[-1] += ' ' + s
+            paras[-1] += ' ' + s_md
         else:
-            paras.append(s)
+            paras.append(s_md)
     return paras, images, flags
 
 BYLINE = re.compile(r'^\s*(?:por|texto de|escrito por)\s*[:\-]?\s*(.+)$', re.I)
@@ -498,7 +568,9 @@ def detect_author(paras):
     """Return (author, flag, byline_index). byline_index is the paragraph to
     drop from the body once its name is lifted into the author field."""
     for i, p in enumerate(paras[:6]):
-        m = BYLINE.match(p)
+        # paragraphs carry Markdown emphasis now; the byline may arrive as
+        # *Por Edgardo Alegría R.* and would not match with the markers in
+        m = BYLINE.match(strip_md(p))
         if m and len(m.group(1)) < 60:
             return canonical_author(m.group(1)), False, i
     return "Edgardo Alegría Reichmann", True, None   # default -> flag
@@ -550,7 +622,8 @@ def yaml_str(s):
 def emit_article(meta, title, page_start, page_end, author, author_flag,
                  ftype, paras, images, extra_flags, themes):
     slug = slugify(title)
-    summary = ' '.join(' '.join(paras).split()[:40]) if paras else ''
+    # the summary is plain metadata, not prose — emphasis markers don't belong
+    summary = ' '.join(strip_md(' '.join(paras)).split()[:40]) if paras else ''
     review = []
     if author_flag: review.append('author-unconfirmed')
     if not paras: review.append('empty-body')
@@ -668,7 +741,7 @@ def main(path):
         if ftype in ('editorial', 'sello-con-historia', 'sobresaliente',
                      'credo', 'novedades'):
             author, aflag = "Edgardo Alegría Reichmann", False
-        summary_seed = ' '.join(paras[:2]) if paras else ''
+        summary_seed = strip_md(' '.join(paras[:2])) if paras else ''
         themes = [] if ftype in ('editorial', 'directorio') \
             else [guess_theme(clean_title, summary_seed)]
         slug, md = emit_article(meta, clean_title, page_start, page_end,
