@@ -60,13 +60,13 @@ Remodelación
 
 El edificio de la terminal no fue modificado hasta la administración de la Corporación Aeroportuaria de Tegucigalpa (CAT). Actualmente está siendo administrado por la empresa Aeropuertos de Honduras, del Grupo Nasser.
 
-El aeropuerto Toncontín fue completamente remodelado en 2006. En 2009 la pista de aterrizaje, que tenía una longitud de 1863 metros, fue ampliada con 300 metros, de las cuales 150 metros de pista útil, 60 metros de franja de seguridad de pista, y 90 metros de área de seguridad nivelado al extremo de la pista, la cual está equipada con luces de pista y letreros de señalización. Para facilitar la navegación está equipado con sistemas de radioayuda VOR/DME, y un sistema PAPI. Tiene la categoría OACI 4C,[] lo que permite que operen aeronaves con una envergadura máxima de 36 m. Los servicios de emergencia y rescate tienen la categoría SSEI 7. Toncontín está habilitado para operaciones de aeronaves de categoría equivalentes a Airbus A318, A319 y A320, y Boeing 737 y 757.
+El aeropuerto Toncontín fue completamente remodelado en 2006. En 2009 la pista de aterrizaje, que tenía una longitud de 1863 metros, fue ampliada con 300 metros, de las cuales 150 metros de pista útil, 60 metros de franja de seguridad de pista, y 90 metros de área de seguridad nivelado al extremo de la pista, la cual está equipada con luces de pista y letreros de señalización. Para facilitar la navegación está equipado con sistemas de radioayuda VOR/DME, y un sistema PAPI. Tiene la categoría OACI 4C, lo que permite que operen aeronaves con una envergadura máxima de 36 m. Los servicios de emergencia y rescate tienen la categoría SSEI 7. Toncontín está habilitado para operaciones de aeronaves de categoría equivalentes a Airbus A318, A319 y A320, y Boeing 737 y 757.
 
-La terminal cuenta con 3 puertas de embarque y 2 puentes de embarque para vuelos internacionales. Toncontín recibe entre 20 y 30 vuelos nacionales e internacionales diariamente.[]
+La terminal cuenta con 3 puertas de embarque y 2 puentes de embarque para vuelos internacionales. Toncontín recibe entre 20 y 30 vuelos nacionales e internacionales diariamente.
 
-Operan las líneas aéreas American Airlines, TACA, United Airlines, Copa Airlines, Delta Airlines,[] y las líneas locales Easy Sky, CM Airlines, Aerolíneas Sosa, e Isleña Airlines. Las líneas aéreas de carga que operan en Toncontín son DHL, Transportes Aéreos Guatemaltecos, Aeroruta Maya, FedEx, y UPS.
+Operan las líneas aéreas American Airlines, TACA, United Airlines, Copa Airlines, Delta Airlines, y las líneas locales Easy Sky, CM Airlines, Aerolíneas Sosa, e Isleña Airlines. Las líneas aéreas de carga que operan en Toncontín son DHL, Transportes Aéreos Guatemaltecos, Aeroruta Maya, FedEx, y UPS.
 
-El aeropuerto es administrado por una empresa privada, InterAirtports S. A., []cuyos principales socios son el Grupo Terra y IDC-Unique. Sus operaciones son supervisadas por organismos internacionales como TSA y OACI. Es miembro de ACI-LAC.
+El aeropuerto es administrado por una empresa privada, InterAirtports S. A., cuyos principales socios son el Grupo Terra y IDC-Unique. Sus operaciones son supervisadas por organismos internacionales como TSA y OACI. Es miembro de ACI-LAC.
 
 Accidentes e incidentes aéreos.
 
@@ -96,7 +96,7 @@ Toncontín y Palmerola.
 
 Luego del accidente del 30 de mayo de 2008, el entonces presidente Manuel Zelaya tomó la decisión personal de que el aeropuerto internacional Toncontín solamente se utilizaría para aeronaves de menos de 42 pasajeros, contraviniendo las disposiciones de la FAA (quien nunca pidió que dejaran de realizarse vuelos a los Estados Unidos) y de la OACI. Esta medida duró menos de un mes, y a los dos meses volvieron a operar todas las aerolíneas que operaban anteriormente con más de 170 pasajeros por avión.
 
-El primero de agosto de 2008 (2 meses después) se le permitió volver a operar a todas las aerolíneas que utilizaban el aeropuerto, Copa Airlines,[] Continental Airlines y American Airlines.
+El primero de agosto de 2008 (2 meses después) se le permitió volver a operar a todas las aerolíneas que utilizaban el aeropuerto, Copa Airlines, Continental Airlines y American Airlines.
 
 Los trabajos de la construcción de la nueva terminal en Palmerola están sufren obstáculos derivados de la falta de seriedad con que se han estado manejando estos asuntos. El nuevo aeropuerto en Palmerola traería la ventaja de que podría recibir casi cualquier tipo de aeronave, no importando su tamaño, ya que está ubicado en la extensa planicie de Comayagua. Palmerola actualmente ocupado como base aérea combinada de los Estados Unidos y Honduras sería convertido en aeropuerto comercial para uso general y su construcción estimada en más de 300 millones de dólares estaría lista es unos dos o tres años.
 

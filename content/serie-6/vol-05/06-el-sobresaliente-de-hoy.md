@@ -32,7 +32,7 @@ Pilottown sirve como un hogar temporal para los miembros de la Asociación Cresc
 
 Pilottown consta de un conjunto de edificios, incluidas las viviendas temporales para los pilotos del río, una estación meteorológica y algunos grandes tanques de combustible. Pilottown, al estar a pocos metros sobre el nivel del río, tiene una pasarela que conecta estos edificios y que corre a lo largo de la isla para ofrecer alguna base en caso de inundaciones.
 
-Pilottown sólo es accesible por agua o por helicóptero. En el siglo XIX y principios del XX muchos pescadores, pilotos y sus familias vivían aquí, pero ahora la mayoría vive en grandes comunidades río arriba. Los pilotos permanecen durante un pequeño lapso de tiempo, que es cuando trabajan. El pico de población tuvo lugar, probablemente, en la década de 1860, cuando La Balize tenía una población de cerca de 800 personas.[]
+Pilottown sólo es accesible por agua o por helicóptero. En el siglo XIX y principios del XX muchos pescadores, pilotos y sus familias vivían aquí, pero ahora la mayoría vive en grandes comunidades río arriba. Los pilotos permanecen durante un pequeño lapso de tiempo, que es cuando trabajan. El pico de población tuvo lugar, probablemente, en la década de 1860, cuando La Balize tenía una población de cerca de 800 personas.
 
 Hoy en día, la población permanente de Pilottown es pequeña, 19 personas según las cifras de un censo particular llevado a cabo en el año 2006. Pilottown no está en la lista del Censo en los Estados Unidos. La escuela fue cerrada en la década de 1970. Aunque todavía Pilottown tiene su propio código postal de 70081, la Oficina de Correos Pilottown se cerró cuando el Servicio Postal de los EE.UU. no pudo encontrar un encargado de correos dispuesto a vivir en el pueblo.
 
