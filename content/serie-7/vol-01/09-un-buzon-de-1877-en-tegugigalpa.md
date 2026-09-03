@@ -6,15 +6,15 @@ series: 7
 volume: 1
 issue_date: 2018-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 33
 page_end: 34
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "Nos hemos encontrado con esta histórica fotografía que muestra un antiguo edifico ubicado frente al Jardín Morazán, hoy Parque Central de Tegucigalpa, donde otrora funcionó el Tribunal Superior de Cuentas y el Museo Nacional, tras lo cual fue demolido en"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "Nos hemos encontrado con esta histórica fotografía que muestra un antiguo edifico ubicado frente al Jardín Morazán, hoy Parque Central de Tegucigalpa, donde otrora funcionó el Tribunal Superior de Cuentas y el Museo Nacional, tras lo cual fue demolido en 1977 a…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 6
 volume: 10
 issue_date: 2016-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: sobresaliente
 page_start: 48
 page_end: 48
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "Excelente pieza con membrete de la casa comercial Maier & Cia., circulada para Alemania el 1 de diciem-bre de 1894, porteada con 10 cts. de la serie Seebeck “Grl. José Trinidad Cabañas” (Sc. 79), cancelada en violeta con un inusitado"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "Excelente pieza con membrete de la casa comercial Maier & Cia., circulada para Alemania el 1 de diciem-bre de 1894, porteada con 10 cts. de la serie Seebeck “Grl. José Trinidad Cabañas” (Sc."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

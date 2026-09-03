@@ -6,15 +6,15 @@ series: 8
 volume: 4
 issue_date: 2025-08
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 43
 page_end: 49
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "A continuación se presenta en orden cronológico la lista de todos los artículos publicados hasta hoy en Honduras Filatélica, partiendo del volumen 4, serie 1 de 1977. Se aclara que se excluyen los tres primeros números por contener únicamente los"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "A continuación se presenta en orden cronológico la lista de todos los artículos publicados hasta hoy en Honduras Filatélica, partiendo del volumen 4, serie 1 de 1977."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 6
 volume: 9
 issue_date: 2016-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 24
 page_end: 29
-image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
-summary_es: "Recopilación por Edgardo Alegría Reichmann El SS Morazan fue un Buque de 2,984 toneladas, construido en 1908. En 1922 fue comprado a la Booth Line por la Vaccaro Brothers Steamship Company, que se había constituido legalmente en 1923 en Honduras"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 4
+summary_es: "Recopilación por Edgardo Alegría Reichmann El SS Morazan fue un Buque de 2,984 toneladas, construido en 1908. En 1922 fue comprado a la Booth Line por la Vaccaro Brothers Steamship Company, que se había constituido legalmente en 1923 en Honduras como la…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

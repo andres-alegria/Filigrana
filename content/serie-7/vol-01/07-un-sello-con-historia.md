@@ -6,15 +6,15 @@ series: 7
 volume: 1
 issue_date: 2018-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: sello-con-historia
 page_start: 26
 page_end: 30
-image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
-summary_es: "LAS CARTAS DEL RMS TITANIC Mucho se ha dicho y escrito sobre la tragedia del transatlántico TITANIC. Su fatal primero y, a la vez, último viaje ha sido relatado en diarios y revistas, así como en programas de radio y"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 2
+summary_es: "LAS CARTAS DEL RMS TITANIC Mucho se ha dicho y escrito sobre la tragedia del transatlántico TITANIC. Su fatal primero y, a la vez, último viaje ha sido relatado en diarios y revistas, así como en programas de radio y televisión, además…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

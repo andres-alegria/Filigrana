@@ -6,15 +6,15 @@ series: 8
 volume: 5
 issue_date: 2026-01
 author: "Edgardo Alegría Reichmann"
-themes: []   # GUESS — confirm/correct (5-theme vocab)
+themes: []
 feature_type: editorial
 page_start: 3
 page_end: 3
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "UN DESAFÍO MONUMENTAL En enero de 2026 el Estado de Honduras se encontró estrenando un nuevo Gobierno, y como es tradicional, paralelamente renacían las esperanzas de todo un pueblo vislumbrando por fin los anhelados cambios de prosperidad. En lo concerniente"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "UN DESAFÍO MONUMENTAL En enero de 2026 el Estado de Honduras se encontró estrenando un nuevo Gobierno, y como es tradicional, paralelamente renacían las esperanzas de todo un pueblo vislumbrando por fin los anhelados cambios de prosperidad."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

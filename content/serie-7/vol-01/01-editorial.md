@@ -6,15 +6,15 @@ series: 7
 volume: 1
 issue_date: 2018-06
 author: "Edgardo Alegría Reichmann"
-themes: []   # GUESS — confirm/correct (5-theme vocab)
+themes: []
 feature_type: editorial
 page_start: 3
 page_end: 3
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "40 AÑOS DE EXPOSICIONES Este año celebramos los cuarenta años de exposiciones ininterrumpidas. Ahora, cuando dentro de dos meses marcaremos nuevamente el calendario con otra EXFILHON, nos ponemos a meditar sobre el caudal de energía y dedicación volcada para hacer"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "40 AÑOS DE EXPOSICIONES Este año celebramos los cuarenta años de exposiciones ininterrumpidas. Ahora, cuando dentro de dos meses marcaremos nuevamente el calendario con otra EXFILHON, nos ponemos a meditar sobre el caudal de energía y dedicación volcada para hacer de cada…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

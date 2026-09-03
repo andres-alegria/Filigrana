@@ -22,7 +22,7 @@ export async function getStaticPaths() {
 }
 
 const { entry, publishDate } = Astro.props;
-const { title_es, author, themes, page_start, page_end, series, volume, issue_date } = entry.data;
+const { title_es, subtitle_es, author, themes, page_start, page_end, series, volume, issue_date } = entry.data;
 // The original print date (issue_date) is the one that belongs in the
 // article's own byline/meta — publishDate is only the site's own debut
 // date for that piece and belongs on cards, not here.
@@ -52,6 +52,7 @@ const bodyHtml = wrapImages(
         {page_start && <span>· pág. {page_start}{page_end && page_end !== page_start ? `–${page_end}` : ''}</span>}
       </div>
       <h1>{title_es}</h1>
+      {subtitle_es && <p class="article-kicker">{subtitle_es}</p>}
       <div class="byline">POR {author.toUpperCase()}</div>
       <p class="repro-note">Transcripción digital con edición ligera. En línea desde el {onlineLabel}.</p>
       <ShareBar url={canonicalUrl} title={title_es} />

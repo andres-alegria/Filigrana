@@ -6,15 +6,15 @@ series: 6
 volume: 5
 issue_date: 2014-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 43
 page_end: 46
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "CORREO POR HIDROPLANO DESDE PILOTTOWN Pilottown se construyó y se estableció después de septiembre de 1860 en su ubicación actual. Que sustituyó a la anterior aldea de La Balize, que se había fundado hacía más de 160 años atrás, después"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "CORREO POR HIDROPLANO DESDE PILOTTOWN Pilottown se construyó y se estableció después de septiembre de 1860 en su ubicación actual."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

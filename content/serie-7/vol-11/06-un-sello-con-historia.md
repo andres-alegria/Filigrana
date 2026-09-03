@@ -6,15 +6,15 @@ series: 7
 volume: 11
 issue_date: 2023-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sello-con-historia
 page_start: 50
 page_end: 54
-image_count: 9   # 0 colocadas en el texto, 9 sueltas al final
-summary_es: "El Dr. Marco Aurelio Soto fue presidente de Honduras en dos períodos, entre 1876 y 1883. Propulsó grandes cambios en el país bajo lo que luego se conocería como la “Gran Reforma Liberal”, pero por otro lado también se le"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 9
+summary_es: "El Dr. Marco Aurelio Soto fue presidente de Honduras en dos períodos, entre 1876 y 1883. Propulsó grandes cambios en el país bajo lo que luego se conocería como la “Gran Reforma Liberal”, pero por otro lado también se le objeta haber…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

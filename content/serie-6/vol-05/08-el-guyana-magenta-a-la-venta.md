@@ -6,15 +6,15 @@ series: 6
 volume: 5
 issue_date: 2014-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 48
 page_end: null
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "Una nueva y rara ocasión se presenta para hacerse del sello postal más raro del mundo. El 1ct. Guyana Magenta será rematado por la casa Sotheby’s de Nueva York el 17 de julio de 2014. La casa estima que esta"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "Una nueva y rara ocasión se presenta para hacerse del sello postal más raro del mundo. El 1ct. Guyana Magenta será rematado por la casa Sotheby’s de Nueva York el 17 de julio de 2014."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

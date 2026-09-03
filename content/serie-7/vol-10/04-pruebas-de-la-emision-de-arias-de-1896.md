@@ -6,15 +6,15 @@ series: 7
 volume: 10
 issue_date: 2022-12
 author: "Brian Moorhouse"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 30
 page_end: 45
-image_count: 10   # 0 colocadas en el texto, 10 sueltas al final
-summary_es: "Entre 1890 y 1895 Honduras había sido un país Seebeck pero en algún momento de este último año el contrato con la Hamilton Bank Note Company fue anulado y se decidió que la producción de futuras emisiones se haría en"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 10
+summary_es: "Entre 1890 y 1895 Honduras había sido un país Seebeck pero en algún momento de este último año el contrato con la Hamilton Bank Note Company fue anulado y se decidió que la producción de futuras emisiones se haría en Honduras en…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

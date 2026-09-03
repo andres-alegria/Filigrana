@@ -6,15 +6,15 @@ series: 7
 volume: 11
 issue_date: 2023-06
 author: "Edgardo Alegría Reichmann"
-themes: []   # GUESS — confirm/correct (5-theme vocab)
+themes: []
 feature_type: editorial
 page_start: 3
 page_end: 3
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "Este año marca un hito histórico en la filatelia nacional, al cumplir esta Federación cincuenta años de actividad ininterrumpida, misma que tuvo su arranque en aquel 1973 cuando un grupo de entusiastas coleccionistas decidieron aunar esfuerzos para constituir lo que"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "Este año marca un hito histórico en la filatelia nacional, al cumplir esta Federación cincuenta años de actividad ininterrumpida, misma que tuvo su arranque en aquel 1973 cuando un grupo de entusiastas coleccionistas decidieron aunar esfuerzos para constituir lo que es hoy…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

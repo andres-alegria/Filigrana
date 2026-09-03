@@ -6,15 +6,15 @@ series: 6
 volume: 12
 issue_date: 2017-12
 author: "Mauricio Mejía"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 37
 page_end: 38
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "Recientemente tuve la grata oportunidad de asistir nuevamente como Comisario a una exposición mundial de filatelia, la primera vez en Nueva York-2016 y ahora en Brasilia-2017. Los planes de la participación de Honduras en Brasilia inician cuando se recibieron las"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "Recientemente tuve la grata oportunidad de asistir nuevamente como Comisario a una exposición mundial de filatelia, la primera vez en Nueva York-2016 y ahora en Brasilia-2017."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

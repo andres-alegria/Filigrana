@@ -6,15 +6,15 @@ series: 7
 volume: 9
 issue_date: 2022-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: sobresaliente
 page_start: 50
 page_end: 50
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "El sobre que nos ocupa hoy fue enviado de Yuscarán a los Estados Unidos el 24 de diciembre de 1904. Se distingue entre muchos otros por la particularidad del sello de la oficina de correos de esa localidad que ostenta"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "El sobre que nos ocupa hoy fue enviado de Yuscarán a los Estados Unidos el 24 de diciembre de 1904. Se distingue entre muchos otros por la particularidad del sello de la oficina de correos de esa localidad que ostenta el Escudo…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

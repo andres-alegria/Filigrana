@@ -6,15 +6,15 @@ series: 8
 volume: 4
 issue_date: 2025-08
 author: "Edgardo Alegría Reichmann"
-themes: []   # GUESS — confirm/correct (5-theme vocab)
+themes: []
 feature_type: editorial
 page_start: 3
 page_end: 3
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "¿ACASO LA ESTOCADA MORTAL PARA HONDUCOR? Desde el 29 de agosto de 2025, los envíos menores a 800 dólares (minimis) que antes no pagaban impuestos para su ingreso a los Estados Unidos de América, ahora han quedado sujetos a aranceles"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "¿ACASO LA ESTOCADA MORTAL PARA HONDUCOR? Desde el 29 de agosto de 2025, los envíos menores a 800 dólares (minimis) que antes no pagaban impuestos para su ingreso a los Estados Unidos de América, ahora han quedado sujetos a aranceles y gravámenes…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

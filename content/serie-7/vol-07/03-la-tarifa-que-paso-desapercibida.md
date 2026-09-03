@@ -6,15 +6,15 @@ series: 7
 volume: 7
 issue_date: 2021-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 43
 page_end: 45
-image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
-summary_es: "Figura 1. De Puerto Cortés para Alemania 22 de febrero de 1900. Figura 2. De Puerto Cortés para Alemania 28 de septiembre de 1898. Recientemente llegó a mis manos un grupo de enteros postales de 2 cts. (para circulación interior)"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 2
+summary_es: "Figura 1. De Puerto Cortés para Alemania 22 de febrero de 1900. Figura 2. De Puerto Cortés para Alemania 28 de septiembre de 1898. Recientemente llegó a mis manos un grupo de enteros postales de 2 cts."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

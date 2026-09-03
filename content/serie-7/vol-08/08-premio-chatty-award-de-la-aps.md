@@ -6,15 +6,15 @@ series: 7
 volume: 8
 issue_date: 2021-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 56
 page_end: null
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "El 4 de febrero de 2021 la American Philatelic Society (APS) entregó sus premios \"Chatty Awards\" a las mejores presentaciones virtuales de sus charlas Stamp Chat realizadas en el 2020. Se juzgó dentro de siete categorías: 1) Conectando la filatelia"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "El 4 de febrero de 2021 la American Philatelic Society (APS) entregó sus premios 'Chatty Awards' a las mejores presentaciones virtuales de sus charlas Stamp Chat realizadas en el 2020."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 8
 volume: 3
 issue_date: 2025-06
 author: "Erick J. Rodríguez"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 10
 page_end: 30
-image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
+image_count: 5
 summary_es: "Una conexión olvidada entre el legado, el comercio y la historia postal de Nicaragua. Francisco Morazán Moncada Esta extraordinaria pieza surgió durante una búsqueda entre varios álbumes con sobres y tarjetas postales, donde había permanecido sin ser reconocida durante décadas."
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

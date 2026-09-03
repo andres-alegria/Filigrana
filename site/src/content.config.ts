@@ -18,6 +18,10 @@ const articles = defineCollection({
   schema: z.object({
     title_es: z.string(),
     title_en: z.string().nullable().optional().default(''),
+    // The kicker that sits under the title in the print edition ("TREINTA Y
+    // CUATRO AÑOS DESPUES"). It is part of the article's own framing, and had
+    // nowhere to live in the body once the pipeline lifted the title out.
+    subtitle_es: z.string().nullable().optional().default(''),
     slug: z.string(),
     series: z.number(),
     volume: z.number(),

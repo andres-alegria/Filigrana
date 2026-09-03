@@ -6,15 +6,15 @@ series: 8
 volume: 4
 issue_date: 2025-08
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 4
 page_end: 31
-image_count: 43   # 0 colocadas en el texto, 43 sueltas al final
-summary_es: "Durante la Segunda Guerra Mundial, tanto los Aliados como el Eje (Alemania, Italia, Japón) instituyeron la censura postal del correo civil. Las organizaciones más grandes eran las de los Estados Unidos, aunque el Reino Unido empleaba a unos 10,000 censores,"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 43
+summary_es: "Durante la Segunda Guerra Mundial, tanto los Aliados como el Eje (Alemania, Italia, Japón) instituyeron la censura postal del correo civil."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

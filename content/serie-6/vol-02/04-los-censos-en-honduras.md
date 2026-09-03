@@ -6,15 +6,15 @@ series: 6
 volume: 2
 issue_date: 2012-12
 author: "Manuel Balladares"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 17
 page_end: 24
-image_count: 17   # 0 colocadas en el texto, 17 sueltas al final
-summary_es: "En Honduras se han levantado diferentes tipos de censos dentro de los cuales los de mayor relevancia son los de Población y Vivienda pero también se han realizado censos de otro tipo como los de Agricultura, Ganadería, Avícola y de"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 17
+summary_es: "En Honduras se han levantado diferentes tipos de censos dentro de los cuales los de mayor relevancia son los de Población y Vivienda pero también se han realizado censos de otro tipo como los de Agricultura, Ganadería, Avícola y de Café."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

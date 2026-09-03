@@ -6,15 +6,15 @@ series: 6
 volume: 11
 issue_date: 2017-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 41
 page_end: 42
-image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
-summary_es: "Los Juegos Olímpicos de 1940, oficialmente conocidos como Juegos de la XII Olimpiada, fueron cancelados a raíz del estallido de la II Guerra Mundial. Después de la renuncia de su sede inicial en Tokio, se programaron para ser celebrados en"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 4
+summary_es: "Los Juegos Olímpicos de 1940, oficialmente conocidos como Juegos de la XII Olimpiada, fueron cancelados a raíz del estallido de la II Guerra Mundial."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 7
 volume: 6
 issue_date: 2020-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 24
 page_end: 26
-image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
-summary_es: "Recientemente estuvo en venta el siguiente entero postal de Honduras de la serie “La Locomotora” circulado de Tegucigalpa a San José, Costa Rica, el 3 de diciembre de 1902. Desde el punto de vista postal podemos decir que no muestra"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 5
+summary_es: "Recientemente estuvo en venta el siguiente entero postal de Honduras de la serie “La Locomotora” circulado de Tegucigalpa a San José, Costa Rica, el 3 de diciembre de 1902."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

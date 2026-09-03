@@ -6,15 +6,15 @@ series: 7
 volume: 9
 issue_date: 2022-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 30
 page_end: 33
-image_count: 7   # 0 colocadas en el texto, 7 sueltas al final
-summary_es: "El transporte del correo, desde tiempos coloniales constituyó un dolor de cabeza para las autoridades postales. Los impedimentos para un servicio eficiente tenían mucho que ver con los aspectos naturales del país, por decir La falta de caminos adecuados y"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 7
+summary_es: "El transporte del correo, desde tiempos coloniales constituyó un dolor de cabeza para las autoridades postales. Los impedimentos para un servicio eficiente tenían mucho que ver con los aspectos naturales del país, por decir La falta de caminos adecuados y los ríos…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

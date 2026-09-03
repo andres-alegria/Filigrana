@@ -6,15 +6,15 @@ series: 7
 volume: 3
 issue_date: 2019-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 44
 page_end: null
-image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
-summary_es: "Recientemente el autor adquirió esta bonita pieza fechada 27 de mayo de 1896, con la particularidad que está matasellada en x con un rarísimo “Tegucigalpa”. Posiblemente la rareza de este matasello se deba a que la misiva procedía de Casa"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 4
+summary_es: "Recientemente el autor adquirió esta bonita pieza fechada 27 de mayo de 1896, con la particularidad que está matasellada en x con un rarísimo “Tegucigalpa”."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

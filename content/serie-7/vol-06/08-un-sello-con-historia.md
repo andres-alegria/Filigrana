@@ -6,15 +6,15 @@ series: 7
 volume: 6
 issue_date: 2020-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sello-con-historia
 page_start: 32
 page_end: 39
-image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
-summary_es: "Leyenda y Mito Sobre la Muerte del Cacique Lempira Lempira fue un aguerrido capitán del pueblo lenca que luchó contra los conquistadores españoles durante la década de 1530. El nombre Lempira, según sostienen Jorge Lardé y Larín, proviene de la"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 5
+summary_es: "Leyenda y Mito Sobre la Muerte del Cacique Lempira Lempira fue un aguerrido capitán del pueblo lenca que luchó contra los conquistadores españoles durante la década de 1530."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

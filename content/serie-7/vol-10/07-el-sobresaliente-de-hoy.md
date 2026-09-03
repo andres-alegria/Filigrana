@@ -6,15 +6,15 @@ series: 7
 volume: 10
 issue_date: 2022-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 53
 page_end: 53
-image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
-summary_es: "Hoy tenemos este entero postal circulado el 11 de diciembre de 1899 desde Amapala para Alemania, con la particularidad que la sección para la respuesta fue utilizada para adherir una fotografía familiar, justificando así el uso de ambas secciones para"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 2
+summary_es: "Hoy tenemos este entero postal circulado el 11 de diciembre de 1899 desde Amapala para Alemania, con la particularidad que la sección para la respuesta fue utilizada para adherir una fotografía familiar, justificando así el uso de ambas secciones para el envío…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

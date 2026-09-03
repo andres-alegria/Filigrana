@@ -6,15 +6,15 @@ series: 8
 volume: 5
 issue_date: 2026-01
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 4
 page_end: 10
-image_count: 21   # 0 colocadas en el texto, 21 sueltas al final
-summary_es: "En filatelia las cancelaciones postales falsas o falsificadas se refiere a marcas postales que no se originaron en una oficina de correos legítima ni en un uso adecuado a través del sistema de correos, a menudo creadas para engañar a"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 21
+summary_es: "En filatelia las cancelaciones postales falsas o falsificadas se refiere a marcas postales que no se originaron en una oficina de correos legítima ni en un uso adecuado a través del sistema de correos, a menudo creadas para engañar a los coleccionistas…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

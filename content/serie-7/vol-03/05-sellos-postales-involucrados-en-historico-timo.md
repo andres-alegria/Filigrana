@@ -6,15 +6,15 @@ series: 7
 volume: 3
 issue_date: 2019-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Intriga y escándalo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Intriga y escándalo"]
 feature_type: investigacion
 page_start: 32
 page_end: 37
-image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
-summary_es: "Tema investigado por Edgardo Alegría R. Carlo Ponzi fue un italiano, nacido en Lugo en el año 1882, que más tarde emigraría a los Estados Unidos. Él es el personaje con el cual se identifica el fraude financiero conocido como"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 2
+summary_es: "Tema investigado por Edgardo Alegría R. Carlo Ponzi fue un italiano, nacido en Lugo en el año 1882, que más tarde emigraría a los Estados Unidos."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

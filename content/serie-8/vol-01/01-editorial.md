@@ -6,15 +6,15 @@ series: 8
 volume: 1
 issue_date: 2024-06
 author: "Edgardo Alegría Reichmann"
-themes: []   # GUESS — confirm/correct (5-theme vocab)
+themes: []
 feature_type: editorial
 page_start: 3
 page_end: 3
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "Calidad en las Emisiones Postales A pesar de su pequeño tamaño, los sellos postales siempre han tenido alguna utilidad más allá de su función de comprobante de pago. Los hemos visto numerosas veces en forma de homenajes o conmemoraciones, abanderando"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "Calidad en las Emisiones Postales A pesar de su pequeño tamaño, los sellos postales siempre han tenido alguna utilidad más allá de su función de comprobante de pago."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

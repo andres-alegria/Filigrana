@@ -6,15 +6,15 @@ series: 7
 volume: 10
 issue_date: 2022-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 26
 page_end: 29
-image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
-summary_es: "En el número anterior de Honduras Filatélica publiqué un artículo referente a la emisión de Céleo Arias, en el cual abordaba las incidencias en torno a la reimpresión de la misma. Posteriormente me encontré con un dato que aclara con"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 5
+summary_es: "En el número anterior de Honduras Filatélica publiqué un artículo referente a la emisión de Céleo Arias, en el cual abordaba las incidencias en torno a la reimpresión de la misma."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

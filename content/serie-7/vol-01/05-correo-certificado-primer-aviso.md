@@ -6,15 +6,15 @@ series: 7
 volume: 1
 issue_date: 2018-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 21
 page_end: 22
-image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
-summary_es: "Habremos escuchado repetidamente sobre exposiciones filatélicas, ¿Pero alguna vez han escuchado sobre una exhibición inspirada en arte postal? Bueno, este es el caso de la exhibición con motivos postales surgida del genio de la artista española radicada en Honduras Pilar"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 5
+summary_es: "Habremos escuchado repetidamente sobre exposiciones filatélicas, ¿Pero alguna vez han escuchado sobre una exhibición inspirada en arte postal?"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

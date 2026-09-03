@@ -6,15 +6,15 @@ series: 7
 volume: 3
 issue_date: 2019-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: sello-con-historia
 page_start: 38
 page_end: 43
-image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
-summary_es: "ANTONIE de SAINT EXUPÈRY La Compañía General Aeropostal generalmente conocida como \"La Aeropostal\" o “l'Aéropostale”, es una compañía aérea francesa con base en Toulouse, Montaudran. Su origen se debió a la idea soñada por Pierre-Georges Latécoère de una línea aérea"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 4
+summary_es: "ANTONIE de SAINT EXUPÈRY La Compañía General Aeropostal generalmente conocida como 'La Aeropostal' o “l'Aéropostale”, es una compañía aérea francesa con base en Toulouse, Montaudran."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

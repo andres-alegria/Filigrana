@@ -6,15 +6,15 @@ series: 7
 volume: 10
 issue_date: 2022-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 51
 page_end: 52
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
+image_count: 3
 summary_es: "En recientes pesquisas documentales en el Archivo Nacional me crucé con una llamativa y bien conservada carta procedente del Administrador de Correos de Tegucigalpa al Ministro General del Gobierno, exponiéndole los motivos por los cuales interpone su renuncia al cargo."
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

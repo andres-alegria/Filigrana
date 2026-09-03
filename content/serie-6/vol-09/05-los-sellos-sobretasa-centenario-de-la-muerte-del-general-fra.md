@@ -6,15 +6,15 @@ series: 6
 volume: 9
 issue_date: 2016-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 30
 page_end: 36
-image_count: 11   # 0 colocadas en el texto, 11 sueltas al final
-summary_es: "y “CRUZ ROJA HONDUREÑA” Estas dos sobretasas postales a la fecha son las únicas autorizadas de manera explicita por el gobierno de Honduras. Al respecto, el 17 de abril de 1973 se emitió la serie conmemorativa al poeta Juan Ramón"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 11
+summary_es: "y “CRUZ ROJA HONDUREÑA” Estas dos sobretasas postales a la fecha son las únicas autorizadas de manera explicita por el gobierno de Honduras."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

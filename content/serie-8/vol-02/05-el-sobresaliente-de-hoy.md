@@ -6,15 +6,15 @@ series: 8
 volume: 2
 issue_date: 2024-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 40
 page_end: 42
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "El ejemplar laureado en esta ocasión viene a enaltecer una vez más la rica herencia postal de Amapala, importante ciudad puerto de nuestra costa Pacífica en la Isla de El Tigre. En 1844 se declaró el puerto de Amapala puerto"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "El ejemplar laureado en esta ocasión viene a enaltecer una vez más la rica herencia postal de Amapala, importante ciudad puerto de nuestra costa Pacífica en la Isla de El Tigre. En 1844 se declaró el puerto de Amapala puerto de “Depósito”."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

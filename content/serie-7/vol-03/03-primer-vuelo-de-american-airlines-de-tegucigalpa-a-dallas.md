@@ -6,15 +6,15 @@ series: 7
 volume: 3
 issue_date: 2019-06
 author: "Mauricio Mejía"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 29
 page_end: 30
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "Imagen 1. Airbus A319 en Toncontín. (Cortesía de American Airlines). El 2 de octubre del 2018 American Airlines (AA) publica una nota de prensa en la que se anunciaban las nuevas rutas para el 2019, y por fortuna habían dos"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "Imagen 1. Airbus A319 en Toncontín. (Cortesía de American Airlines). El 2 de octubre del 2018 American Airlines (AA) publica una nota de prensa en la que se anunciaban las nuevas rutas para el 2019, y por fortuna habían dos para Honduras."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

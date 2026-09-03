@@ -6,15 +6,15 @@ series: 7
 volume: 4
 issue_date: 2019-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 60
 page_end: 62
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "Sobrecito con tarjeta de felicitación de Año Nuevo circulado localmente de Tegucigalpa a Comayagüela el 1 de enero de 1899. El hecho de ser una rara pieza de “La Locomotora” de circulación urbana con porte de 1 ct. se agranda"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "Sobrecito con tarjeta de felicitación de Año Nuevo circulado localmente de Tegucigalpa a Comayagüela el 1 de enero de 1899. El hecho de ser una rara pieza de “La Locomotora” de circulación urbana con porte de 1 ct."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

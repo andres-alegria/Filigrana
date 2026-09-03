@@ -6,15 +6,15 @@ series: 7
 volume: 9
 issue_date: 2022-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sello-con-historia
 page_start: 51
 page_end: 51
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "Después de la I Guerra Mundial las grandes potencias aliadas tomaron la decisión de que Guillermo II de Hohenzollern, ex emperador de Alemania, fuese extraditado de Holanda, en donde había encontrado refugio, para que fuese juzgado por sus responsabilidades en"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "Después de la I Guerra Mundial las grandes potencias aliadas tomaron la decisión de que Guillermo II de Hohenzollern, ex emperador de Alemania, fuese extraditado de Holanda, en donde había encontrado refugio, para que fuese juzgado por sus responsabilidades en dicha guerra."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

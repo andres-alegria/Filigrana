@@ -6,15 +6,15 @@ series: 7
 volume: 11
 issue_date: 2023-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 34
 page_end: 45
-image_count: 48   # 0 colocadas en el texto, 48 sueltas al final
-summary_es: "En casi todas las ocasiones en que las autoridades tomaron la decisión de implementar medidas de control a fin de contrarrestar el robo o perdida de especies postales, las ordenanzas emitidas por igual también abarcaban los timbres; esto, debido a"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 48
+summary_es: "En casi todas las ocasiones en que las autoridades tomaron la decisión de implementar medidas de control a fin de contrarrestar el robo o perdida de especies postales, las ordenanzas emitidas por igual también abarcaban los timbres; esto, debido a que las…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

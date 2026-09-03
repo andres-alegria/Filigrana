@@ -6,15 +6,15 @@ series: 7
 volume: 2
 issue_date: 2018-12
 author: "Craig Anderson"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 14
 page_end: 20
-image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
-summary_es: "ANTIGUO ROMANO Estos sellos fueron estudiados meticulosamente por Irving Green hace más de sesenta años. Richard Washburn resumió aspectos de esta emisión en 1996. Fueron producidos en una época de convulsión militar en el país. La escasez de sellos era"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 5
+summary_es: "ANTIGUO ROMANO Estos sellos fueron estudiados meticulosamente por Irving Green hace más de sesenta años. Richard Washburn resumió aspectos de esta emisión en 1996. Fueron producidos en una época de convulsión militar en el país."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

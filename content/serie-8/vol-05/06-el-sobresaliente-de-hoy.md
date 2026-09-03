@@ -6,15 +6,15 @@ series: 8
 volume: 5
 issue_date: 2026-01
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 49
 page_end: 50
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "UN SELLO DE DIFUSIÓN DE CUIDADO LOS EBRIOS SE CONVIERTEN, FRE- CUENTEMENTE EN LADRONES, ASE- SINOS E INCENDIARIOS. LA EMBRIAGUEZ CONDUCE RAPIDA- MENTE, AL CEMENTERIO, O LO QUE ES PEOR, AL PRESIDIO O AL MANI- COMIO. Este bonito sobre circulado"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "UN SELLO DE DIFUSIÓN DE CUIDADO LOS EBRIOS SE CONVIERTEN, FRE- CUENTEMENTE EN LADRONES, ASE- SINOS E INCENDIARIOS. LA EMBRIAGUEZ CONDUCE RAPIDA- MENTE, AL CEMENTERIO, O LO QUE ES PEOR, AL PRESIDIO O AL MANI- COMIO."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 7
 volume: 11
 issue_date: 2023-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: sobresaliente
 page_start: 48
 page_end: 49
-image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
-summary_es: "El sobre de esta ocasión es uno que atestigua la presencia de un grupo expedicionario en la Mosquitia de 1933. En efecto, en esa época, de esta región del territorio hondureño emanaban las más excitantes historias sobre ciudades perdidas, tribus"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 2
+summary_es: "El sobre de esta ocasión es uno que atestigua la presencia de un grupo expedicionario en la Mosquitia de 1933. En efecto, en esa época, de esta región del territorio hondureño emanaban las más excitantes historias sobre ciudades perdidas, tribus salvajes, ríos…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

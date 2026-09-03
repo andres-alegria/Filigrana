@@ -6,15 +6,15 @@ series: 6
 volume: 11
 issue_date: 2017-06
 author: "Edgardo Alegría Reichmann"
-themes: []   # GUESS — confirm/correct (5-theme vocab)
+themes: []
 feature_type: editorial
 page_start: 3
 page_end: 3
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "SECUESTRO POSTAL En la segunda quincena de noviembre del 2016 comencé a notar el retardo de mi correspondencia procedente de Europa, especialmente de Italia, Alemania y Francia. No me sorprendió, pues consideré que era el efecto recurrente de la temporada"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "SECUESTRO POSTAL En la segunda quincena de noviembre del 2016 comencé a notar el retardo de mi correspondencia procedente de Europa, especialmente de Italia, Alemania y Francia."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

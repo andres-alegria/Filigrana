@@ -6,15 +6,15 @@ series: 8
 volume: 2
 issue_date: 2024-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 4
 page_end: 22
-image_count: 41   # 0 colocadas en el texto, 41 sueltas al final
-summary_es: "A finales de 1894, el Dr. Policarpo Bonilla fue electo Presidente de Honduras, iniciando su mandato el 1 de febrero de 1895. El Dr. Bonilla era un ávido creyente de la Unión de Centro América, de manera que invitó a"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 41
+summary_es: "A finales de 1894, el Dr. Policarpo Bonilla fue electo Presidente de Honduras, iniciando su mandato el 1 de febrero de 1895. El Dr."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

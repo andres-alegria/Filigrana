@@ -6,15 +6,15 @@ series: 7
 volume: 6
 issue_date: 2020-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 20
 page_end: 23
-image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
-summary_es: "Fue un servicio especial de entrega de correspondencia que combinaba el transporte marítimo y el aéreo; la correspondencia, transportada por barco se transfería poco antes del arribo a un hidroavión que catapultado desde la cubierta de la embarcación, permitía que"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 5
+summary_es: "Fue un servicio especial de entrega de correspondencia que combinaba el transporte marítimo y el aéreo; la correspondencia, transportada por barco se transfería poco antes del arribo a un hidroavión que catapultado desde la cubierta de la embarcación, permitía que las cartas…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

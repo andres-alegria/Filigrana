@@ -6,15 +6,15 @@ series: 8
 volume: 3
 issue_date: 2025-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 48
 page_end: 49
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
+image_count: 3
 summary_es: "La pieza que hoy nos llama la atención es este entero postal nicaragüense despachado el 18 de junio de 1898 de Granada a Tegucigalpa, con una rarísima etiqueta de AUSENTE, colocada en Tegucigalpa y cuyo revelador contenido dice así: Sr."
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

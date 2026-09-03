@@ -6,15 +6,15 @@ series: 8
 volume: 1
 issue_date: 2024-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sello-con-historia
 page_start: 69
 page_end: 70
-image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
-summary_es: "1916 RECUERDO DEL DE FEBRERO FRANCISCO BERTRAND PRESIDENTE DE LA REPÚBLICA La estampilla de 1 centavo (Scott 182) conmemorativa a la toma de posesión del segundo período del presidente constitucional Dr. Francisco Bertrand Barahona el día domingo 1 de febrero"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 5
+summary_es: "1916 RECUERDO DEL DE FEBRERO FRANCISCO BERTRAND PRESIDENTE DE LA REPÚBLICA La estampilla de 1 centavo (Scott 182) conmemorativa a la toma de posesión del segundo período del presidente constitucional Dr."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 6
 volume: 2
 issue_date: 2012-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 25
 page_end: 29
-image_count: 6   # 0 colocadas en el texto, 6 sueltas al final
-summary_es: "Artículo recopilado por Edgardo Alegría R. La ayuda de animales para el transporte de cartas y mensajes ha sido usada en muchos países a través de la historia. Por mucho tiempo fue el medio más rápido de transportar grandes paquetes"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 6
+summary_es: "Artículo recopilado por Edgardo Alegría R. La ayuda de animales para el transporte de cartas y mensajes ha sido usada en muchos países a través de la historia."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

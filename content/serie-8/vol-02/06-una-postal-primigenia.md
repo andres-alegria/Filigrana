@@ -6,15 +6,15 @@ series: 8
 volume: 2
 issue_date: 2024-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 43
 page_end: 43
-image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
-summary_es: "Nuestro amigo y socio Yuri V. Montes nos ha facilitado de su colección esta postal que ostenta el título de ser la más antigua conocida producida en Honduras. Fue impresa por la casa J. Rossner & Co., establecida en el"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 2
+summary_es: "Nuestro amigo y socio Yuri V. Montes nos ha facilitado de su colección esta postal que ostenta el título de ser la más antigua conocida producida en Honduras. Fue impresa por la casa J."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

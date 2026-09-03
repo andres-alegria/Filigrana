@@ -6,15 +6,15 @@ series: 7
 volume: 4
 issue_date: 2019-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 4
 page_end: 53
-image_count: 38   # 0 colocadas en el texto, 38 sueltas al final
-summary_es: "En 1979 fue subastado por US$1,100.00, calificado como una rareza nunca antes vista, un lote de cinco sobres paquebote conteniendo sus respectivas cartas, remitidos entre 1857 y 1858 desde Honduras a los Estados Unidos de América, con el atractivo adicional"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 38
+summary_es: "En 1979 fue subastado por US$1,100.00, calificado como una rareza nunca antes vista, un lote de cinco sobres paquebote conteniendo sus respectivas cartas, remitidos entre 1857 y 1858 desde Honduras a los Estados Unidos de América, con el atractivo adicional de contener…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

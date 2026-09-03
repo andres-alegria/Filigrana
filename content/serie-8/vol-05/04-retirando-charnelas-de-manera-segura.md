@@ -6,15 +6,15 @@ series: 8
 volume: 5
 issue_date: 2026-01
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 41
 page_end: 47
-image_count: 11   # 0 colocadas en el texto, 11 sueltas al final
-summary_es: "El tema se refiere a la eliminación de las charnelas (bisagras, fijasellos) ​ adheridas a los sellos, tomando en consideración los peligros asociados al hacerlo y algunas técnicas para determinar si es posible o no separar una charnela de forma"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 11
+summary_es: "El tema se refiere a la eliminación de las charnelas (bisagras, fijasellos) ​ adheridas a los sellos, tomando en consideración los peligros asociados al hacerlo y algunas técnicas para determinar si es posible o no separar una charnela de forma segura."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 6
 volume: 2
 issue_date: 2012-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 4
 page_end: 11
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "CORREO MAYOR DE GUATEMALA por Edgardo Alegría Reichmann Se presenta el siguiente documento colonial como una pieza de alto interés filatélico en virtud de la importancia que en su momento jugó la actividad postal del Correo Mayor de Guatemala, el"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "CORREO MAYOR DE GUATEMALA por Edgardo Alegría Reichmann Se presenta el siguiente documento colonial como una pieza de alto interés filatélico en virtud de la importancia que en su momento jugó la actividad postal del Correo Mayor de Guatemala, el cual por…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

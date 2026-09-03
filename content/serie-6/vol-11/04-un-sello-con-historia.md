@@ -6,15 +6,15 @@ series: 6
 volume: 11
 issue_date: 2017-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sello-con-historia
 page_start: 31
 page_end: 33
-image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
-summary_es: "Sello (Scott C130) impreso por la Security Banknote Company, de Filadelfia, emitido el 14 de septiembre de 1943 como parte de una serie de 15 sellos dando a conocer la riqueza agrícola y ganadera del país. En relación a esto"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 2
+summary_es: "Sello (Scott C130) impreso por la Security Banknote Company, de Filadelfia, emitido el 14 de septiembre de 1943 como parte de una serie de 15 sellos dando a conocer la riqueza agrícola y ganadera del país."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

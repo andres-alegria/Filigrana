@@ -6,15 +6,15 @@ series: 7
 volume: 1
 issue_date: 2018-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 14
 page_end: 18
-image_count: 8   # 0 colocadas en el texto, 8 sueltas al final
-summary_es: "Nació en Astoria, condado de Queens, Nueva York, el 30 de mayo de 1896. A los veinte años se alistó en la Guardia Nacional de Nueva York el 21 de junio de 1916, siendo asignado al servicio de la frontera"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 8
+summary_es: "Nació en Astoria, condado de Queens, Nueva York, el 30 de mayo de 1896. A los veinte años se alistó en la Guardia Nacional de Nueva York el 21 de junio de 1916, siendo asignado al servicio de la frontera mexicana del…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

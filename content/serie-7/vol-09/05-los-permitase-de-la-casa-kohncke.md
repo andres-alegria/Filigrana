@@ -6,15 +6,15 @@ series: 7
 volume: 9
 issue_date: 2022-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 35
 page_end: 49
-image_count: 18   # 0 colocadas en el texto, 18 sueltas al final
-summary_es: "¿Qué sería de la filatelia sin el aporte de la correspondencia comercial? Cualquier filatelista de inmediato respondería que sería una carencia que afectaría la conformación de cualquier colección seria. En efecto, el flujo epistolar local e internacional ejercido por el"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 18
+summary_es: "¿Qué sería de la filatelia sin el aporte de la correspondencia comercial? Cualquier filatelista de inmediato respondería que sería una carencia que afectaría la conformación de cualquier colección seria."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

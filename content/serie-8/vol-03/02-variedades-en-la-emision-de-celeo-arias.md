@@ -6,15 +6,15 @@ series: 8
 volume: 3
 issue_date: 2025-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 4
 page_end: 9
-image_count: 9   # 0 colocadas en el texto, 9 sueltas al final
-summary_es: "Con la idea de ser autosuficiente y producir sellos postales a menor costo, el Gobierno hondureño contrató en 1889 al tipógrafo italiano Italo Ghizzoni a fin de hacerse cargo de la recién fundada Tipografía Nacional, donde se realizarían todos los"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 9
+summary_es: "Con la idea de ser autosuficiente y producir sellos postales a menor costo, el Gobierno hondureño contrató en 1889 al tipógrafo italiano Italo Ghizzoni a fin de hacerse cargo de la recién fundada Tipografía Nacional, donde se realizarían todos los trabajos impresos…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

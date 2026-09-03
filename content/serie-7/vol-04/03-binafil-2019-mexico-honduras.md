@@ -6,15 +6,15 @@ series: 7
 volume: 4
 issue_date: 2019-12
 author: "Mauricio Mejía"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 54
 page_end: 59
-image_count: 9   # 0 colocadas en el texto, 9 sueltas al final
-summary_es: "Del 15 al 19 de octubre recién pasado se realizó la primera Bi-Nacional Filatélica (BINAFIL) organizada por el Club Filatélico Querétaro con auspicio de la Federación Mexicana de Filatelia. En la Federación Filatélica de la República de Honduras (FFRH) nos"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 9
+summary_es: "Del 15 al 19 de octubre recién pasado se realizó la primera Bi-Nacional Filatélica (BINAFIL) organizada por el Club Filatélico Querétaro con auspicio de la Federación Mexicana de Filatelia."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

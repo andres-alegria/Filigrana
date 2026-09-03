@@ -6,15 +6,15 @@ series: 7
 volume: 1
 issue_date: 2018-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: sobresaliente
 page_start: 35
 page_end: 35
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "SE LE OLVIDÓ DEPOSITARLA EN EL BARCO Particular pieza paquebote despachada por barco de La Ceiba a Nueva Orleans donde fue recibida el 16 de abril de 1934. A simple vista cualquier filatelista diría que se trata de un sobre"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "SE LE OLVIDÓ DEPOSITARLA EN EL BARCO Particular pieza paquebote despachada por barco de La Ceiba a Nueva Orleans donde fue recibida el 16 de abril de 1934."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

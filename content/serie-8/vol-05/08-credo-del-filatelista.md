@@ -6,15 +6,15 @@ series: 8
 volume: 5
 issue_date: 2026-01
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: credo
 page_start: 52
 page_end: null
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "Aquí les presento los diez-puntos del Credo del Filatelista, basados en mi experiencia sobre las cosas malas que le suceden a sellos buenos. Trataré mis sellos y sobres tal como desearía que otros lo hiciesen. Siempre recordaré que conservaré mis"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "Aquí les presento los diez-puntos del Credo del Filatelista, basados en mi experiencia sobre las cosas malas que le suceden a sellos buenos. Trataré mis sellos y sobres tal como desearía que otros lo hiciesen."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

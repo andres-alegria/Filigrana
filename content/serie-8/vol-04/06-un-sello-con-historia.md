@@ -6,15 +6,15 @@ series: 8
 volume: 4
 issue_date: 2025-08
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: sello-con-historia
 page_start: 52
 page_end: 52
-image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
-summary_es: "En un primer momento me tomó por sorpresa este timbre municipal de 50 céntimos pro Hospital de Puerto Cortés, pues era la primera vez que lo tenía a la vista, al grado que pensé incluirlo en mi Catálogo de Timbres"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 2
+summary_es: "En un primer momento me tomó por sorpresa este timbre municipal de 50 céntimos pro Hospital de Puerto Cortés, pues era la primera vez que lo tenía a la vista, al grado que pensé incluirlo en mi Catálogo de Timbres Fiscales de…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

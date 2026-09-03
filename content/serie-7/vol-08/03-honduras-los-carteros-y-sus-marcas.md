@@ -6,15 +6,15 @@ series: 7
 volume: 8
 issue_date: 2021-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 31
 page_end: 45
-image_count: 26   # 0 colocadas en el texto, 26 sueltas al final
-summary_es: "El servicio público de correos ha sido tradicionalmente una actividad muy reglamentada, dadas las responsabilidades implícitas en recibir y entregar la correspondencia. Sin embargo, el propósito de este artículo, además de tocar el aspecto histórico de manera general, es estudiar"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 26
+summary_es: "El servicio público de correos ha sido tradicionalmente una actividad muy reglamentada, dadas las responsabilidades implícitas en recibir y entregar la correspondencia."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

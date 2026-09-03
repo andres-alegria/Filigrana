@@ -6,15 +6,15 @@ series: 7
 volume: 12
 issue_date: 2023-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Curiosidades"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Curiosidades"]
 feature_type: sobresaliente
 page_start: 45
 page_end: 45
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "Hoy tenemos esta singular pieza circulada de Honduras hacia Alemania con franqueo mixto (Honduras/EUA), a todas luces producto de correo encaminado. Debido a esta circunstancia no presenta ninguna marca de origen, pero por su remitente, don Teodoro Khoncke, un empresario"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "Hoy tenemos esta singular pieza circulada de Honduras hacia Alemania con franqueo mixto (Honduras/EUA), a todas luces producto de correo encaminado."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

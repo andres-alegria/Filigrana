@@ -6,15 +6,15 @@ series: 7
 volume: 8
 issue_date: 2021-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: sobresaliente
 page_start: 46
 page_end: 46
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "Un sobre muy especial, pues refleja el celo profesional del agente postal de la agencia de Balfate (Colón) al no admitir la carta por estar franqueada con sellos de la emisión de 1915 que recién había quedado obsoleta, por lo"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "Un sobre muy especial, pues refleja el celo profesional del agente postal de la agencia de Balfate (Colón) al no admitir la carta por estar franqueada con sellos de la emisión de 1915 que recién había quedado obsoleta, por lo que procedió…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

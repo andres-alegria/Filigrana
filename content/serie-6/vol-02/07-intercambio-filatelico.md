@@ -6,15 +6,15 @@ series: 6
 volume: 2
 issue_date: 2012-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 32
 page_end: 32
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "El intercambio filatélico a través de la correspondencia es uno de los pilares fundamentales en el que se sustenta nuestro pasatiempo. Sus intereses de canje serán publicados sin costo alguno, aportando los siguientes datos: Nombre, dirección postal, material que ofrece"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "El intercambio filatélico a través de la correspondencia es uno de los pilares fundamentales en el que se sustenta nuestro pasatiempo."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

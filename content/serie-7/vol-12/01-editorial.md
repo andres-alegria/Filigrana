@@ -6,15 +6,15 @@ series: 7
 volume: 12
 issue_date: 2023-12
 author: "Edgardo Alegría Reichmann"
-themes: []   # GUESS — confirm/correct (5-theme vocab)
+themes: []
 feature_type: editorial
 page_start: 3
 page_end: 3
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "SON YA 84 En efecto, con este número 12 estamos concluyendo la serie 7 de nuestra revista, que desde su inicio hasta hoy suman 84 los números publicados. Fue en septiembre de 1975 cuando salió a luz la primera publicación,"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "SON YA 84 En efecto, con este número 12 estamos concluyendo la serie 7 de nuestra revista, que desde su inicio hasta hoy suman 84 los números publicados."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

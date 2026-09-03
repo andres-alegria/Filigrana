@@ -6,15 +6,15 @@ series: 6
 volume: 12
 issue_date: 2017-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 41
 page_end: 41
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "Nos ha llamado la atención este sobre circulado de San Pedro Sula a los Estados Unidos el 20 de julio de 1898, con un porte correcto de 10 cts. de acuerdo a la tarifa vigente emitida en 1883 para cartas"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "Nos ha llamado la atención este sobre circulado de San Pedro Sula a los Estados Unidos el 20 de julio de 1898, con un porte correcto de 10 cts."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

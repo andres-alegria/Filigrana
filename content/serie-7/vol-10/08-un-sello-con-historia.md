@@ -6,15 +6,15 @@ series: 7
 volume: 10
 issue_date: 2022-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sello-con-historia
 page_start: 54
 page_end: 54
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "¿Estuvo José Julián Martí Pérez en Honduras? Nuevas revelaciones históricas así lo confirman. El prócer José Martí había regresado a México en diciembre de 1877 para contraer matrimonio con Carmen Zayas Bazán, cubana perteneciente a una familia aristocrática, económicamente poderosa"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "¿Estuvo José Julián Martí Pérez en Honduras? Nuevas revelaciones históricas así lo confirman. El prócer José Martí había regresado a México en diciembre de 1877 para contraer matrimonio con Carmen Zayas Bazán, cubana perteneciente a una familia aristocrática, económicamente poderosa y con…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

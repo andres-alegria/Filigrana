@@ -6,15 +6,15 @@ series: 8
 volume: 2
 issue_date: 2024-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 23
 page_end: 27
-image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
-summary_es: "Para los coleccionistas de filatelia clásica no es raro toparse de cuando en cuando con piezas marcadas con “SHIP”, “STEAMSHIP” o “STEAMBOAT”, conceptos de tratamiento postal que a veces resultan confusos, especialmente para los iniciados en el mundo filatélico. Así"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 4
+summary_es: "Para los coleccionistas de filatelia clásica no es raro toparse de cuando en cuando con piezas marcadas con “SHIP”, “STEAMSHIP” o “STEAMBOAT”, conceptos de tratamiento postal que a veces resultan confusos, especialmente para los iniciados en el mundo filatélico."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

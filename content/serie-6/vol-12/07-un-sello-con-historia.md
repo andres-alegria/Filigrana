@@ -6,15 +6,15 @@ series: 6
 volume: 12
 issue_date: 2017-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sello-con-historia
 page_start: 39
 page_end: 40
-image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
-summary_es: "SOBERANOS CABALLEROS Más de un milenio de historia tiene la Soberana Orden de los Caballeros de Malta. Una historia llena de episodios heroicos, desde que fuera fundada a fines del siglo XI por Fra Gerardo, para prestar ayuda a los"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 4
+summary_es: "SOBERANOS CABALLEROS Más de un milenio de historia tiene la Soberana Orden de los Caballeros de Malta. Una historia llena de episodios heroicos, desde que fuera fundada a fines del siglo XI por Fra Gerardo, para prestar ayuda a los peregrinos que…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

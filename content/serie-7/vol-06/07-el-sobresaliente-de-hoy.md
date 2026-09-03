@@ -6,15 +6,15 @@ series: 7
 volume: 6
 issue_date: 2020-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 27
 page_end: 31
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "Sobre con membrete de la Honduras Railroad Company* dirigido por Charles Jeffs a su madre el 14 de agosto de 1895. Charles Frederick Jeffs nació en Murray, Ontario, el 13 de junio de 1858 como hijo de Thomas Jeffs y"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "Sobre con membrete de la Honduras Railroad Company dirigido por Charles Jeffs a su madre el 14 de agosto de 1895."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

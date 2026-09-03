@@ -61,6 +61,7 @@ const bodyHtml = entry
             <span>· {entry.data.image_count} imágenes</span>
           </div>
           <h1>{entry.data.title_es}</h1>
+          {entry.data.subtitle_es && <p class="article-kicker">{entry.data.subtitle_es}</p>}
           <div class="byline">POR {entry.data.author.toUpperCase()}</div>
         </header>
         <div class="article-body" set:html={bodyHtml} />

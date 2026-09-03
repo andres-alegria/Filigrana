@@ -6,15 +6,15 @@ series: 7
 volume: 10
 issue_date: 2022-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 46
 page_end: 50
-image_count: 33   # 0 colocadas en el texto, 33 sueltas al final
-summary_es: "Recién tuve la excepcional oportunidad de adquirir un sobre “PERMITASE” circulado en 1899, con la particularidad adicional de llevar una marca de correo encaminado. La ocasión fue determinante para sondear un tema poco explorado en la filatelia, presentándose a la"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 33
+summary_es: "Recién tuve la excepcional oportunidad de adquirir un sobre “PERMITASE” circulado en 1899, con la particularidad adicional de llevar una marca de correo encaminado."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 7
 volume: 7
 issue_date: 2021-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sello-con-historia
 page_start: 48
 page_end: 51
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "El sello emitido por el correo mexicano en 1997 para conmemorar el tercer centenario de la Misión de Loreto en Baja California, encierra la historia de un compatriota que tuvo el arrojo y la perseverancia para convertirse en pionero de"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "El sello emitido por el correo mexicano en 1997 para conmemorar el tercer centenario de la Misión de Loreto en Baja California, encierra la historia de un compatriota que tuvo el arrojo y la perseverancia para convertirse en pionero de la exploración…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

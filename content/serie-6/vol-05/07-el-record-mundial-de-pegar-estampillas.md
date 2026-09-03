@@ -6,15 +6,15 @@ series: 6
 volume: 5
 issue_date: 2014-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 47
 page_end: 47
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "Si usted está interesado en romper el récord mundial Guiness de lamer y pegar estampillas, aquí le damos la pauta para que lo intente. Reglas de Guinness: Este es un evento individual, para lamer y pegar estampillas en términos de"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "Si usted está interesado en romper el récord mundial Guiness de lamer y pegar estampillas, aquí le damos la pauta para que lo intente. Reglas de Guinness: Este es un evento individual, para lamer y pegar estampillas en términos de minutos."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

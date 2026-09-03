@@ -6,15 +6,15 @@ series: 8
 volume: 4
 issue_date: 2025-08
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 53
 page_end: 53
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "Durante la Segunda Guerra Mundial, el Ekkai Maru era parte de un convoy, hundido mientras estaba atracado en la bahía de Coron, Filipinas. Fue el ataque de mayor distancia realizado en la guerra del Pacifico ya que los aviones estadounidenses"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "Durante la Segunda Guerra Mundial, el Ekkai Maru era parte de un convoy, hundido mientras estaba atracado en la bahía de Coron, Filipinas."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 7
 volume: 6
 issue_date: 2020-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 16
 page_end: 18
-image_count: 6   # 0 colocadas en el texto, 6 sueltas al final
-summary_es: "En 1915 el gobierno del presidente Francisco Bertrand B. (1915-1919) inauguró el entonces majestuoso puente sobre el río Ulúa que daría continuidad por 5 kms. adicionales entre Pimienta y Potrerillos a la ruta del ferrocarril trans-oceánico en un esfuerzo más"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 6
+summary_es: "En 1915 el gobierno del presidente Francisco Bertrand B. (1915-1919) inauguró el entonces majestuoso puente sobre el río Ulúa que daría continuidad por 5 kms."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

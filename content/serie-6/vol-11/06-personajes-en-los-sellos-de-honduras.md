@@ -6,15 +6,15 @@ series: 6
 volume: 11
 issue_date: 2017-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 35
 page_end: 39
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "Los sellos de Honduras desde su inicio han conmemorado personajes históricos y otros no tan históricos, pero que en ocasiones quedan ocultos en un segundo plano. Con el propósito de rescatarlos del anonimato, a continuación se presenta la lista de"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "Los sellos de Honduras desde su inicio han conmemorado personajes históricos y otros no tan históricos, pero que en ocasiones quedan ocultos en un segundo plano."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

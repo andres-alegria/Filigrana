@@ -6,15 +6,15 @@ series: 7
 volume: 7
 issue_date: 2021-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: sobresaliente
 page_start: 47
 page_end: 47
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "Este entero de la emisión “La Locomotora” de 1898, fue circulado de Amapala para Hamburgo el 19 de mayo de 1900. Es uno de tipo simple (sin el segmento para la respuesta) que ostenta la indicia impresa de 3 centavos"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "Este entero de la emisión “La Locomotora” de 1898, fue circulado de Amapala para Hamburgo el 19 de mayo de 1900."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

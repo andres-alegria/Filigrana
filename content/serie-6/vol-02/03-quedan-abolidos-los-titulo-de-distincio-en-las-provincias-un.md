@@ -6,15 +6,15 @@ series: 6
 volume: 2
 issue_date: 2012-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 12
 page_end: 16
-image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
-summary_es: "Como podrá observarse el Decreto es remitido “Al ciudadano José Velasco” indicando la inmediata aplicación de un tratamiento más republicano. Tal parece que el mandato tuvo efecto por lo menos a nivel gubernamental tal como se puede apreciar en la"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 4
+summary_es: "Como podrá observarse el Decreto es remitido “Al ciudadano José Velasco” indicando la inmediata aplicación de un tratamiento más republicano."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

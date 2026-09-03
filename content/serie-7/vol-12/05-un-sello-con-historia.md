@@ -6,15 +6,15 @@ series: 7
 volume: 12
 issue_date: 2023-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sello-con-historia
 page_start: 46
 page_end: 48
-image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
-summary_es: "Yuri Valentinovich Knórozov, el ruso que logró descifrar la escritura maya. El legado de su gran hazaña consistió en descifrar por primera vez lo jeroglíficos mayas. Antes de él nadie lo había conseguido. El primero en intentarlo fue el misionero"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 2
+summary_es: "Yuri Valentinovich Knórozov, el ruso que logró descifrar la escritura maya. El legado de su gran hazaña consistió en descifrar por primera vez lo jeroglíficos mayas. Antes de él nadie lo había conseguido."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 8
 volume: 1
 issue_date: 2024-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: sobresaliente
 page_start: 68
 page_end: 68
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "Este sobre circulado el 3 de septiembre de 1958 contiene en el texto del sello fechador la palabra “ESTAFETAS”. De manera genérica encontramos que este término se aplica o aplicaba a las oficinas en el servicio postal destinadas a realizar"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "Este sobre circulado el 3 de septiembre de 1958 contiene en el texto del sello fechador la palabra “ESTAFETAS”. De manera genérica encontramos que este término se aplica o aplicaba a las oficinas en el servicio postal destinadas a realizar el envío…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

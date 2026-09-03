@@ -6,15 +6,15 @@ series: 6
 volume: 12
 issue_date: 2017-12
 author: "Edgardo Alegría Reichmann"
-themes: []   # GUESS — confirm/correct (5-theme vocab)
+themes: []
 feature_type: editorial
 page_start: 3
 page_end: 3
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "AL BORDE DE LA ESPECULACIÓN En vísperas de culminar la presente gestión de cuatro años de la dirección de HONDUCOR, salió a circulación el 27 de septiembre de 2017 la penúltima emisión postal alusiva a las obras emprendidas por la"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "AL BORDE DE LA ESPECULACIÓN En vísperas de culminar la presente gestión de cuatro años de la dirección de HONDUCOR, salió a circulación el 27 de septiembre de 2017 la penúltima emisión postal alusiva a las obras emprendidas por la Alcaldía Municipal…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 7
 volume: 1
 issue_date: 2018-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 19
 page_end: 20
-image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
-summary_es: "CORREO AMBULANTE Y CORREO PAQUEBOTE Han salido a la luz nuevos datos que establecen de manera precisa la fecha y condiciones bajo las cuales inició el correo ambulante del tren en el país. Ya en 1896 había quedado prevista la"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 4
+summary_es: "CORREO AMBULANTE Y CORREO PAQUEBOTE Han salido a la luz nuevos datos que establecen de manera precisa la fecha y condiciones bajo las cuales inició el correo ambulante del tren en el país."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

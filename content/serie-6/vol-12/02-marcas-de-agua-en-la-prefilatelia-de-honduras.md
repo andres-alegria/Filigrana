@@ -6,15 +6,15 @@ series: 6
 volume: 12
 issue_date: 2017-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 4
 page_end: 25
-image_count: 40   # 0 colocadas en el texto, 40 sueltas al final
-summary_es: "La prefilatelia de Honduras abarca todo el periodo colonial y el republicano hasta 1865, año en que se emite el primer sello postal. El presente estudio contempla un grupo incipiente de marcas de agua detectadas en piezas de correspondencia del"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 40
+summary_es: "La prefilatelia de Honduras abarca todo el periodo colonial y el republicano hasta 1865, año en que se emite el primer sello postal."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

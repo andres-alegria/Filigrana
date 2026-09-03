@@ -6,15 +6,15 @@ series: 6
 volume: 10
 issue_date: 2016-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 4
 page_end: 19
-image_count: 15   # 0 colocadas en el texto, 15 sueltas al final
-summary_es: "Las Islas del Cisne, conocidas también como San Millán, Santanilla o Santillana, están ubicadas en un relativo aislamiento en el Mar Caribe occidental a una latitud de 17 grados 24’ latitud Norte y 83 grados 56’ longitud Oeste, aproximadamente a"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 15
+summary_es: "Las Islas del Cisne, conocidas también como San Millán, Santanilla o Santillana, están ubicadas en un relativo aislamiento en el Mar Caribe occidental a una latitud de 17 grados 24’ latitud Norte y 83 grados 56’ longitud Oeste, aproximadamente a 150 kms."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

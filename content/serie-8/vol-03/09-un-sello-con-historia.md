@@ -6,15 +6,15 @@ series: 8
 volume: 3
 issue_date: 2025-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sello-con-historia
 page_start: 50
 page_end: 50
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "La compra de Luisiana fue una transacción comercial en el año 1803 mediante la cual Napoleón Bonaparte, entonces primer cónsul francés, faltando al acuerdo de retroventa a España, vendió a los Estados Unidos 2,144,476 km² de posesiones francesas en América"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "La compra de Luisiana fue una transacción comercial en el año 1803 mediante la cual Napoleón Bonaparte, entonces primer cónsul francés, faltando al acuerdo de retroventa a España, vendió a los Estados Unidos 2,144,476 km² de posesiones francesas en América del Norte…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

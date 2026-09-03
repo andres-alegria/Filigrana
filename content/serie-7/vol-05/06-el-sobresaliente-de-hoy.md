@@ -6,15 +6,15 @@ series: 7
 volume: 5
 issue_date: 2020-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Curiosidades"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Curiosidades"]
 feature_type: sobresaliente
 page_start: 48
 page_end: null
-image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
-summary_es: "Aunque no es un sobre, tiene todos los atributos para sobresalir; así es este precioso entero postal doble, interior, de 2 cts. de la serie de Morazán emitida en 1878, impresa por la Hamilton Bank Note Co. Su extrema rareza"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 2
+summary_es: "Aunque no es un sobre, tiene todos los atributos para sobresalir; así es este precioso entero postal doble, interior, de 2 cts. de la serie de Morazán emitida en 1878, impresa por la Hamilton Bank Note Co."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

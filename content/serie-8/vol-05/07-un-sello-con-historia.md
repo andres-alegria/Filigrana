@@ -6,15 +6,15 @@ series: 8
 volume: 5
 issue_date: 2026-01
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: sello-con-historia
 page_start: 51
 page_end: 51
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "Se ha señalado que la bandera de las Provincias Unidas del Centro de América ( de efímera existencia del 1 de julio de 1823 al 22 de noviembre de 1824, y de donde se derivan las banderas de Honduras, Nicaragua,"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "Se ha señalado que la bandera de las Provincias Unidas del Centro de América ( de efímera existencia del 1 de julio de 1823 al 22 de noviembre de 1824, y de donde se derivan las banderas de Honduras, Nicaragua, El Salvador…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

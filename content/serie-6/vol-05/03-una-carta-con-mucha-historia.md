@@ -6,15 +6,15 @@ series: 6
 volume: 5
 issue_date: 2014-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 21
 page_end: 33
-image_count: 10   # 0 colocadas en el texto, 10 sueltas al final
-summary_es: "Además de atestiguar una de las épocas más insignes y turbulentas de la historia patria, esta misiva enviada de Trujillo a Omoa el 27 de marzo de 1832, está vinculada de manera indirecta a mis antepasados en la persona de"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 10
+summary_es: "Además de atestiguar una de las épocas más insignes y turbulentas de la historia patria, esta misiva enviada de Trujillo a Omoa el 27 de marzo de 1832, está vinculada de manera indirecta a mis antepasados en la persona de mi tatarabuela…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

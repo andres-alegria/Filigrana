@@ -6,15 +6,15 @@ series: 8
 volume: 3
 issue_date: 2025-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 31
 page_end: 37
-image_count: 17   # 0 colocadas en el texto, 17 sueltas al final
-summary_es: "Al remontarnos a la historia de figuras como Jean Sperati, Francois Fournier o Charles R. Dethuin, protagonistas de hartas irregularidades de la filatelia hondureña, nos encontramos inevitablemente con uno más de estos emprendedores cuyo accionar aún hoy perjudica la manera"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 17
+summary_es: "Al remontarnos a la historia de figuras como Jean Sperati, Francois Fournier o Charles R. Dethuin, protagonistas de hartas irregularidades de la filatelia hondureña, nos encontramos inevitablemente con uno más de estos emprendedores cuyo accionar aún hoy perjudica la manera de coleccionar…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

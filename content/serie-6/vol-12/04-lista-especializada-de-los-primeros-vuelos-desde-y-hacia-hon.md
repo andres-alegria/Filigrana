@@ -6,15 +6,15 @@ series: 6
 volume: 12
 issue_date: 2017-12
 author: "Mauricio Mejía"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 28
 page_end: 30
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "AAMC 0 Fecha vuelo Ruta Efectuado por Feb/1925 Tegucigalpa–Tela Empresa del Dr. Thomas C. Pounds Feb/1925 Tela–Tegucigalpa Pounds 10/Ago/25 Barranquilla–Amapala Sociedad Colombo Alemana de Transportes Aéreos (SCADTA) Sep/25 1 Nueva Orleans–Pilottown (a Honduras por barco) Gulf Coast Air Lines 1927"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "AAMC 0 Fecha vuelo Ruta Efectuado por Feb/1925 Tegucigalpa–Tela Empresa del Dr. Thomas C. Pounds Feb/1925 Tela–Tegucigalpa Pounds 10/Ago/25 Barranquilla–Amapala Sociedad Colombo Alemana de Transportes Aéreos (SCADTA) Sep/25 1 Nueva Orleans–Pilottown (a Honduras por barco) Gulf Coast Air Lines 1927 2 Tegucigalpa-Siguatepegue…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

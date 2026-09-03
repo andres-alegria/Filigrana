@@ -6,15 +6,15 @@ series: 7
 volume: 5
 issue_date: 2020-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: sello-con-historia
 page_start: 35
 page_end: 47
-image_count: 10   # 0 colocadas en el texto, 10 sueltas al final
-summary_es: "EL BRISTOL Y SU PILOTO DEAN IVAN LAMB El primer avión adquirido por el gobierno hondureño, entonces bajo la presidencia del general Rafael López Gutiérrez, fue un Bristol F-2B Fighter biplano de dos plazas, fabricado por la compañía inglesa British"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 10
+summary_es: "EL BRISTOL Y SU PILOTO DEAN IVAN LAMB El primer avión adquirido por el gobierno hondureño, entonces bajo la presidencia del general Rafael López Gutiérrez, fue un Bristol F-2B Fighter biplano de dos plazas, fabricado por la compañía inglesa British & Colonial…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

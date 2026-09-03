@@ -6,15 +6,15 @@ series: 7
 volume: 6
 issue_date: 2020-12
 author: "Edgardo Alegría Reichmann"
-themes: []   # GUESS — confirm/correct (5-theme vocab)
+themes: []
 feature_type: editorial
 page_start: 3
 page_end: 3
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "EL CORREO Y LA PANDEMIA La situación actual del correo con seguridad se ha vuelto un tema recurrente en el actual mundo filatélico, dado que no ha quedado exento de los efectos negativos del Covid 19. Es decir, que en"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "EL CORREO Y LA PANDEMIA La situación actual del correo con seguridad se ha vuelto un tema recurrente en el actual mundo filatélico, dado que no ha quedado exento de los efectos negativos del Covid 19."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 7
 volume: 11
 issue_date: 2023-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 4
 page_end: 33
-image_count: 20   # 0 colocadas en el texto, 20 sueltas al final
+image_count: 20
 summary_es: "En muchas ocasiones anteriores hemos abordado el tema del transporte del correo vía terrestre, marítimo, lacustre, ferroviario o aéreo; pero hasta ahora había permanecido oculto el hecho histórico de que brevemente existió en nuestro país el correo transportado por diligencia."
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

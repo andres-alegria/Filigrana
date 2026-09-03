@@ -6,15 +6,15 @@ series: 6
 volume: 9
 issue_date: 2016-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 4
 page_end: 18
-image_count: 9   # 0 colocadas en el texto, 9 sueltas al final
-summary_es: "Investigación histórica por Edgardo Alegría Reichmann Edward Austin Burke nació el 13 septiembre 1839 y falleció el 24 septiembre de 1928. De 1878 a 1888 fungió como Tesorero Estatal de Louisiana. Fue el primer demócrata en ocupar este cargo tras"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 9
+summary_es: "Investigación histórica por Edgardo Alegría Reichmann Edward Austin Burke nació el 13 septiembre 1839 y falleció el 24 septiembre de 1928. De 1878 a 1888 fungió como Tesorero Estatal de Louisiana. Fue el primer demócrata en ocupar este cargo tras la Reconstrucción."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

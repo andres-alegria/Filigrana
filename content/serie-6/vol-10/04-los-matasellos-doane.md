@@ -6,15 +6,15 @@ series: 6
 volume: 10
 issue_date: 2016-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 45
 page_end: 47
-image_count: 7   # 0 colocadas en el texto, 7 sueltas al final
+image_count: 7
 summary_es: "En 1903, la Oficina de correos de los Estados Unidos produjo un nuevo tipo de matasello de hule para el uso de las oficinas más pequeñas de cuarta clase en un intento por mejorar la legibilidad de sus marcas postales."
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

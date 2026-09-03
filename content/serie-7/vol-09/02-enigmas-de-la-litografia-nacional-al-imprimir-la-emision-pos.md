@@ -6,15 +6,15 @@ series: 7
 volume: 9
 issue_date: 2022-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 4
 page_end: 29
-image_count: 17   # 0 colocadas en el texto, 17 sueltas al final
-summary_es: "El 1 de enero de 1896 fue puesta en circulación la serie postal “Céleo Arias” (Scott 87-94), la primera impresa en Honduras. Previamente, la historia postal vernácula sólo contaba en su haber con siete emisiones. La primera de 1865 supuestamente"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 17
+summary_es: "El 1 de enero de 1896 fue puesta en circulación la serie postal “Céleo Arias” (Scott 87-94), la primera impresa en Honduras. Previamente, la historia postal vernácula sólo contaba en su haber con siete emisiones."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

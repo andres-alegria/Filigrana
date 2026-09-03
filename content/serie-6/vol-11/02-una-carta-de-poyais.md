@@ -6,15 +6,15 @@ series: 6
 volume: 11
 issue_date: 2017-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 4
 page_end: 28
-image_count: 11   # 0 colocadas en el texto, 11 sueltas al final
-summary_es: "“Estimado Señor. Tengo el honor de enviar a V. E. una copia de las propuestas que estoy encargado de hacer al gobierno español y que he comunicado ya a S. E. el Ministro de Ultramar; sabiendo que a las Cortes"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 11
+summary_es: "“Estimado Señor. Tengo el honor de enviar a V. E. una copia de las propuestas que estoy encargado de hacer al gobierno español y que he comunicado ya a S. E."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

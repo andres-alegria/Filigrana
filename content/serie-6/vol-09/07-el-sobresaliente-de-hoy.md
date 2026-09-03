@@ -6,15 +6,15 @@ series: 6
 volume: 9
 issue_date: 2016-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 38
 page_end: 38
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "INAUGURACION DE LA OFICINA POSTAL DE AGUA AZUL, CORTÉS Sobre preparado para atestiguar la apertura de la nueva oficina postal en la aldea de Agua Azul el 21 de noviembre de 1946 a la 1:30 p. m. Fue circulado desde"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "INAUGURACION DE LA OFICINA POSTAL DE AGUA AZUL, CORTÉS Sobre preparado para atestiguar la apertura de la nueva oficina postal en la aldea de Agua Azul el 21 de noviembre de 1946 a la 1:30 p. m."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

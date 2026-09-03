@@ -6,15 +6,15 @@ series: 8
 volume: 1
 issue_date: 2024-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 4
 page_end: 38
-image_count: 20   # 3 colocadas en el texto, 17 sueltas al final
-summary_es: "Son cinco las piezas que se pueden considerar únicas en el mundo filatélico, vinculadas a diferentes etapas de la historia del “reino misquito”, en parte ubicado en el litoral Atlántico de Honduras. La existencia de este enclave étnico que por"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 20
+summary_es: "Son cinco las piezas que se pueden considerar únicas en el mundo filatélico, vinculadas a diferentes etapas de la historia del “reino misquito”, en parte ubicado en el litoral Atlántico de Honduras."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

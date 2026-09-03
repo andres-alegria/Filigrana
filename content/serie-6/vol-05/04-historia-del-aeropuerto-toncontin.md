@@ -6,15 +6,15 @@ series: 6
 volume: 5
 issue_date: 2014-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Transporte y modernidad"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Transporte y modernidad"]
 feature_type: investigacion
 page_start: 34
 page_end: 41
-image_count: 8   # 0 colocadas en el texto, 8 sueltas al final
+image_count: 8
 summary_es: "Está ubicado 6 km al suroeste del centro de Tegucigalpa, en medio de una zona residencial. Está encerrado por una cadena de montañas y colinas que dificultan la navegación de los aviones, especialmente durante las maniobras de aproximación y aterrizaje."
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

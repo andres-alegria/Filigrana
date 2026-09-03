@@ -6,15 +6,15 @@ series: 7
 volume: 10
 issue_date: 2022-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 4
 page_end: 25
-image_count: 13   # 0 colocadas en el texto, 13 sueltas al final
-summary_es: "Por lo extenso que podría resultar, este artículo lo circunscribo a la introducción del papel sellado en la entonces Capitanía General de Guatemala en base a los antecedentes establecidos por la Corona española en tierras peninsulares. Tampoco es mi propósito"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 13
+summary_es: "Por lo extenso que podría resultar, este artículo lo circunscribo a la introducción del papel sellado en la entonces Capitanía General de Guatemala en base a los antecedentes establecidos por la Corona española en tierras peninsulares."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

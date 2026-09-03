@@ -6,15 +6,15 @@ series: 7
 volume: 12
 issue_date: 2023-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 37
 page_end: 44
-image_count: 12   # 0 colocadas en el texto, 12 sueltas al final
-summary_es: "Nos ha llamado la atención un hecho recurrente vinculado a la agencia postal de Iriona, cuando poco a poco se van detectando piezas circuladas durante la última década del Siglo XIX con evidentes fallas en el manejo de las especies"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 12
+summary_es: "Nos ha llamado la atención un hecho recurrente vinculado a la agencia postal de Iriona, cuando poco a poco se van detectando piezas circuladas durante la última década del Siglo XIX con evidentes fallas en el manejo de las especies postales y…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

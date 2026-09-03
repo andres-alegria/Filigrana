@@ -6,15 +6,15 @@ series: 8
 volume: 4
 issue_date: 2025-08
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 32
 page_end: 42
-image_count: 17   # 0 colocadas en el texto, 17 sueltas al final
-summary_es: "A inicios del último año de vigencia de la emisión de La Locomotora se volvió notorio que la existencia de los valores más bajos, y por ende los de mayor demanda, no bastarían para suplir las necesidades postales hasta alcanzar"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 17
+summary_es: "A inicios del último año de vigencia de la emisión de La Locomotora se volvió notorio que la existencia de los valores más bajos, y por ende los de mayor demanda, no bastarían para suplir las necesidades postales hasta alcanzar su caducidad…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

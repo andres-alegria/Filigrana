@@ -6,15 +6,15 @@ series: 7
 volume: 2
 issue_date: 2018-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 4
 page_end: 13
-image_count: 17   # 0 colocadas en el texto, 17 sueltas al final
-summary_es: "La era de los enteros postales llegó a Honduras como resultado de los contratos para emisiones postales suscritos entre el Gobierno y Nicolás Seebeck entre 1889 y 1895. (Caso similar ocurrió con El Salvador, Nicaragua, República Dominicana y Ecuador). Aparte"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 17
+summary_es: "La era de los enteros postales llegó a Honduras como resultado de los contratos para emisiones postales suscritos entre el Gobierno y Nicolás Seebeck entre 1889 y 1895. (Caso similar ocurrió con El Salvador, Nicaragua, República Dominicana y Ecuador)."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

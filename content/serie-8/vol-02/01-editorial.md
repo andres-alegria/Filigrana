@@ -6,15 +6,15 @@ series: 8
 volume: 2
 issue_date: 2024-12
 author: "Edgardo Alegría Reichmann"
-themes: []   # GUESS — confirm/correct (5-theme vocab)
+themes: []
 feature_type: editorial
 page_start: 3
 page_end: 3
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "Han sido muchos los artículos leídos y comentarios escuchados lamentándose invariablemente de la supuesta disminución del interés por el coleccionismo de sellos. Los argumentos siguen un patrón familiar y tienden a centrarse en dos temas muy trillados, a decir: Uno:"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "Han sido muchos los artículos leídos y comentarios escuchados lamentándose invariablemente de la supuesta disminución del interés por el coleccionismo de sellos."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

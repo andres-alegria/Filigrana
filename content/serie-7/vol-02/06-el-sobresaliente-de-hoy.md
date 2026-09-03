@@ -6,15 +6,15 @@ series: 7
 volume: 2
 issue_date: 2018-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 28
 page_end: 30
-image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
-summary_es: "En esta oportunidad presentamos una tarjeta postal paquebote circulada a través del buque Hannibal de la Marina de los USA a su paso por los Cayos Vivorillos el 14 de febrero de 1914. (En el matasello el nombre se deletreó"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 5
+summary_es: "En esta oportunidad presentamos una tarjeta postal paquebote circulada a través del buque Hannibal de la Marina de los USA a su paso por los Cayos Vivorillos el 14 de febrero de 1914."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

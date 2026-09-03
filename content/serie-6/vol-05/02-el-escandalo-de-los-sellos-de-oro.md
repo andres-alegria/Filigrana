@@ -1,20 +1,21 @@
 ---
 title_es: "El escándalo de los sellos de oro"
 title_en: ""
+subtitle_es: "Treinta y cuatro años después"
 slug: el-escandalo-de-los-sellos-de-oro
 series: 6
 volume: 5
 issue_date: 2014-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Intriga y escándalo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Intriga y escándalo"]
 feature_type: investigacion
 page_start: 4
 page_end: 20
-image_count: 8   # 0 colocadas en el texto, 8 sueltas al final
-summary_es: "Habiendo sido participante activo y testigo presencial de todo lo acontecido en lo que hoy podríamos dar en llamar el mayor escándalo filatélico del país, me parece interesante hacer un recuento de los hechos que dieron lugar a este infame"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 8
+summary_es: "Habiendo sido participante activo y testigo presencial de todo lo acontecido en lo que hoy podríamos dar en llamar el mayor escándalo filatélico del país, me parece interesante hacer un recuento de los hechos que dieron lugar a este infame episodio siete…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

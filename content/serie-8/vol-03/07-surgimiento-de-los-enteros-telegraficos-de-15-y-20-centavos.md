@@ -6,15 +6,15 @@ series: 8
 volume: 3
 issue_date: 2025-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 46
 page_end: 47
-image_count: 10   # 2 colocadas en el texto, 8 sueltas al final
-summary_es: "Desde que el presidente Marco Aurelio Soto inaugurara el telégrafo nacional el 1 de febrero de 1877, hubo la necesidad e establecer la forma en que se cobraría por dicho servicio. Al inició el cobro se efectuó en efectivo, pero"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 10
+summary_es: "Desde que el presidente Marco Aurelio Soto inaugurara el telégrafo nacional el 1 de febrero de 1877, hubo la necesidad e establecer la forma en que se cobraría por dicho servicio."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

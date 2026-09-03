@@ -6,15 +6,15 @@ series: 7
 volume: 8
 issue_date: 2021-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sello-con-historia
 page_start: 47
 page_end: 49
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "Gracias a la gentil colaboración de mi particular amigo José González, presentamos este ejemplar rescatado de la Revista Renacimiento, Año VI, Número 58, editada en Tegucigalpa el 29 de febrero de 1923, siendo su Director el periodista Mario Rivas de"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "Gracias a la gentil colaboración de mi particular amigo José González, presentamos este ejemplar rescatado de la Revista Renacimiento, Año VI, Número 58, editada en Tegucigalpa el 29 de febrero de 1923, siendo su Director el periodista Mario Rivas de Cantruy."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

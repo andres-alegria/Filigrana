@@ -6,15 +6,15 @@ series: 7
 volume: 2
 issue_date: 2018-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sello-con-historia
 page_start: 24
 page_end: 27
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "EL DIFÌCIL CAMINO AL TRONO Los Reyes Católicos, Fernando II de Aragón e Isabel I de Castilla, eran primos en segundo grado, pues ambos eran bisnietos del rey Juan I de Castilla, por lo que fue necesario obtener previamente una"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "EL DIFÌCIL CAMINO AL TRONO Los Reyes Católicos, Fernando II de Aragón e Isabel I de Castilla, eran primos en segundo grado, pues ambos eran bisnietos del rey Juan I de Castilla, por lo que fue necesario obtener previamente una autorización eclesiástica…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 7
 volume: 2
 issue_date: 2018-12
 author: "Craig Anderson"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 21
 page_end: 23
-image_count: 6   # 0 colocadas en el texto, 6 sueltas al final
-summary_es: "Hace unos días que recibí un grupo de sellos en el correo. Encontré en la colección unos sellos de 1931, un C20a y un C20b. El C20a estaba en un grupo de seis y sin usar. Un sello que me"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 6
+summary_es: "Hace unos días que recibí un grupo de sellos en el correo. Encontré en la colección unos sellos de 1931, un C20a y un C20b. El C20a estaba en un grupo de seis y sin usar. Un sello que me faltaba."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 8
 volume: 3
 issue_date: 2025-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 38
 page_end: 38
-image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
-summary_es: "Carlos Humberto Daniel Cano Romero fue un virtuoso violinista y compositor, nacido en Tegucigalpa el 12 de febrero de 1906, siendo sus padres Hipólito Cano y María del Carmen Romero Johanin. Fueron sus padrinos de bautismo el expresidente Policarpo Bonilla"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 4
+summary_es: "Carlos Humberto Daniel Cano Romero fue un virtuoso violinista y compositor, nacido en Tegucigalpa el 12 de febrero de 1906, siendo sus padres Hipólito Cano y María del Carmen Romero Johanin."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

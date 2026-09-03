@@ -6,15 +6,15 @@ series: 6
 volume: 11
 issue_date: 2017-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 40
 page_end: 40
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "Nuestro acucioso socio Craig Anderson nos hizo llegar el presente ejemplar (Sc. 340) emitido el 1 de marzo de 1939. Está contramarcado con la firma facsímil de Jesús María López, Administrador de Rentas de Tegucigalpa; lo cual no sería una"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "Nuestro acucioso socio Craig Anderson nos hizo llegar el presente ejemplar (Sc. 340) emitido el 1 de marzo de 1939."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

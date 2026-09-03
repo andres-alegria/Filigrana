@@ -6,15 +6,15 @@ series: 8
 volume: 2
 issue_date: 2024-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 28
 page_end: 39
-image_count: 19   # 0 colocadas en el texto, 19 sueltas al final
-summary_es: "En 1954 el Dr. Raúl Agüero Vega fue nombrado Director General de Correos, puesto que desempeñaría con particular entusiasmo y dinamismo orientados a dar pasos transformadores en el quehacer postal. En su afán de proyectar una imagen fresca de la"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 19
+summary_es: "En 1954 el Dr. Raúl Agüero Vega fue nombrado Director General de Correos, puesto que desempeñaría con particular entusiasmo y dinamismo orientados a dar pasos transformadores en el quehacer postal."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

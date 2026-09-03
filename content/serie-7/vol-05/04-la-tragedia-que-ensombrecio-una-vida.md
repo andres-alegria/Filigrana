@@ -6,15 +6,15 @@ series: 7
 volume: 5
 issue_date: 2020-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 13
 page_end: 34
-image_count: 16   # 0 colocadas en el texto, 16 sueltas al final
-summary_es: "Ricardo R. Streber Mertens Nació en 1846 en la ciudad de Usedum, actual Alemania, fruto del matrimonio del prusiano Fernando Streber y María Luisa Mertens. Doña María Luisa se casó en segundas nupcias con el alemán Carlos Ernesto Bernhard, quien"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 16
+summary_es: "Ricardo R. Streber Mertens Nació en 1846 en la ciudad de Usedum, actual Alemania, fruto del matrimonio del prusiano Fernando Streber y María Luisa Mertens."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

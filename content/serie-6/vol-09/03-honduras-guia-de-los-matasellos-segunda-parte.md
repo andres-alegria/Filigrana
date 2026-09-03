@@ -6,15 +6,15 @@ series: 6
 volume: 9
 issue_date: 2016-06
 author: "Craig F. Anderson"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 19
 page_end: 23
-image_count: 4   # 0 colocadas en el texto, 4 sueltas al final
-summary_es: "(Segunda parte) Parte 2A - Matasellos tipo “BARRAS” Código Descripción BH: . . .. . . . . barras horizontales con “HONDURAS” BH5: . . . . . . .con cinco barras BH7 . . .. . . . .con"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 4
+summary_es: "(Segunda parte) Parte 2A - Matasellos tipo “BARRAS” Código Descripción BH: . . .. . . . . barras horizontales con “HONDURAS” BH5: . . . . . . .con cinco barras BH7 . . .. . . ."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

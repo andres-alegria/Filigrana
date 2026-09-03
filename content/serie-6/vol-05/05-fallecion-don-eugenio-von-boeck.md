@@ -6,15 +6,15 @@ series: 6
 volume: 5
 issue_date: 2014-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 42
 page_end: 42
-image_count: 3   # 0 colocadas en el texto, 3 sueltas al final
-summary_es: "El 22 de febrero de 2014 falleció el connotado filatelista boliviano don Eugenio Von Boeck. La filatelia boliviana e internacional causa baja de uno de sus más sólidos pilares. Cabe destacar que como jurado, el señor Von Boeck no dudó"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 3
+summary_es: "El 22 de febrero de 2014 falleció el connotado filatelista boliviano don Eugenio Von Boeck. La filatelia boliviana e internacional causa baja de uno de sus más sólidos pilares."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

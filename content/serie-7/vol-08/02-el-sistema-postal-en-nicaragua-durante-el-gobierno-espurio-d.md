@@ -6,15 +6,15 @@ series: 7
 volume: 8
 issue_date: 2021-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 4
 page_end: 30
-image_count: 37   # 0 colocadas en el texto, 37 sueltas al final
-summary_es: "En la entrega anterior publicamos un artículo sobre la presencia de William Walker en Nicaragua, enfocando el estudio dentro de un marco histórico a la par de la actividad epistolar de algunos protagonistas. En esta ocasión, como una segunda parte"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 37
+summary_es: "En la entrega anterior publicamos un artículo sobre la presencia de William Walker en Nicaragua, enfocando el estudio dentro de un marco histórico a la par de la actividad epistolar de algunos protagonistas."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

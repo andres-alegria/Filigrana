@@ -6,15 +6,15 @@ series: 6
 volume: 9
 issue_date: 2016-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 37
 page_end: 37
-image_count: 2   # 0 colocadas en el texto, 2 sueltas al final
-summary_es: "CHRISTIAN BOSTVIRONAVOIS En enero de este año tuvimos el agrado de contar en una de nuestras reuniones de Junta Directiva con la presencia de nuestro socio y amigo Christian Bostvironavois. Aunque residente en Francia, Christian ha sido desde siempre un"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 2
+summary_es: "CHRISTIAN BOSTVIRONAVOIS En enero de este año tuvimos el agrado de contar en una de nuestras reuniones de Junta Directiva con la presencia de nuestro socio y amigo Christian Bostvironavois."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 7
 volume: 12
 issue_date: 2023-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 4
 page_end: 36
-image_count: 61   # 0 colocadas en el texto, 61 sueltas al final
-summary_es: "Antaño, ocasionalmente un empleado de correos detectaba una carta franqueada incorrectamente, frente a lo cual tenía dos opciones: primero, devolverla al remitente, siempre y cuando hubiese una dirección de éste, o, segundo, darle trámite de manera que el destinatario fuese"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 61
+summary_es: "Antaño, ocasionalmente un empleado de correos detectaba una carta franqueada incorrectamente, frente a lo cual tenía dos opciones: primero, devolverla al remitente, siempre y cuando hubiese una dirección de éste, o, segundo, darle trámite de manera que el destinatario fuese responsable de…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

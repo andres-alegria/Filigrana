@@ -6,15 +6,15 @@ series: 7
 volume: 7
 issue_date: 2021-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 52
 page_end: null
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "EL 17 DE MARZO DEL PRESENTE NOS SORPRENDIÓ LA TRISTE NOTICIA DEL DECESO DE NUESTRO AMIGO Y COLABORADOR DE ESTA REVISTA MANUEL MARIÑO REIMANN, QUIEN ADEMÁS DE SER DE LOS FUNDADORES DE ESTA FEDERACIÓN, TAMBIÉN ERA SOCIO HONORARIO DE LA"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "EL 17 DE MARZO DEL PRESENTE NOS SORPRENDIÓ LA TRISTE NOTICIA DEL DECESO DE NUESTRO AMIGO Y COLABORADOR DE ESTA REVISTA MANUEL MARIÑO REIMANN, QUIEN ADEMÁS DE SER DE LOS FUNDADORES DE ESTA FEDERACIÓN, TAMBIÉN ERA SOCIO HONORARIO DE LA MISMA."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 6
 volume: 2
 issue_date: 2012-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: novedades
 page_start: 33
 page_end: null
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "132 ANIVERSARIO DE LA BIBLIOTECA NACIONAL Valor de los sellos: Motivos: Cantidad de sellos: Cantidad S/S Valor de la serie: Color: Papel: Sobres de primer día: Valor: Tamaño: Papel: Matasello: Fecha de circulación: L. 2.00, L. 8.00 y L. 12.00"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "132 ANIVERSARIO DE LA BIBLIOTECA NACIONAL Valor de los sellos: Motivos: Cantidad de sellos: Cantidad S/S Valor de la serie: Color: Papel: Sobres de primer día: Valor: Tamaño: Papel: Matasello: Fecha de circulación: L. 2.00, L. 8.00 y L."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

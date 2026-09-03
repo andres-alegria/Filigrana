@@ -6,15 +6,15 @@ series: 8
 volume: 5
 issue_date: 2026-01
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 11
 page_end: 40
-image_count: 50   # 0 colocadas en el texto, 50 sueltas al final
-summary_es: "El Dr. Marco Aurelio Soto se proclamó en Amapala presidente de facto el 26 de agosto de 1876. Posteriormente, el 1 de febrero de 1881, tomó las riendas del Gobierno de manera constitucional. La inestabilidad política de los años previos"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 50
+summary_es: "El Dr. Marco Aurelio Soto se proclamó en Amapala presidente de facto el 26 de agosto de 1876. Posteriormente, el 1 de febrero de 1881, tomó las riendas del Gobierno de manera constitucional."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 6
 volume: 11
 issue_date: 2017-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 29
 page_end: 30
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "Nos hemos encontrado con el siguiente Decreto, ordenando en 1856 el traslado temporal de la capital, de Comayagua a Tegucigalpa: “Ministerio de Relaciones del Supremo Gobierno del Estado de Honduras. Comayagua julio 19 de 1856. El Supremo Poder Ejecutivo del"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "Nos hemos encontrado con el siguiente Decreto, ordenando en 1856 el traslado temporal de la capital, de Comayagua a Tegucigalpa: “Ministerio de Relaciones del Supremo Gobierno del Estado de Honduras. Comayagua julio 19 de 1856."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

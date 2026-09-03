@@ -6,15 +6,15 @@ series: 6
 volume: 11
 issue_date: 2017-06
 author: "Craig Anderson"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 34
 page_end: 34
-image_count: 5   # 0 colocadas en el texto, 5 sueltas al final
-summary_es: "Una autoridad editora de catálogos reduce los sellos provisionales de 1922-1923 a cuatro ejemplos sin variedades; otra, a cinco ejemplos más cinco variedades. La autoridad que parece ser la más aceptada entre coleccionistas hondureños describe aún más ejemplos (Scott 202"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 5
+summary_es: "Una autoridad editora de catálogos reduce los sellos provisionales de 1922-1923 a cuatro ejemplos sin variedades; otra, a cinco ejemplos más cinco variedades."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

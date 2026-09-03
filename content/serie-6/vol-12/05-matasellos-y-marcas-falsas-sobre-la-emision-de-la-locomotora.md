@@ -6,15 +6,15 @@ series: 6
 volume: 12
 issue_date: 2017-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 31
 page_end: 36
-image_count: 17   # 0 colocadas en el texto, 17 sueltas al final
-summary_es: "Entusiasmado por el progreso que el ferrocarril traería a la nación y para reflejar esta aspiración, el Gobierno hondureño por Acuerdo del 30 de abril de 1898 (La Gaceta No. 1673) ordenó la impresión en la Litografía Nacional de una"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 17
+summary_es: "Entusiasmado por el progreso que el ferrocarril traería a la nación y para reflejar esta aspiración, el Gobierno hondureño por Acuerdo del 30 de abril de 1898 (La Gaceta No."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 7
 volume: 3
 issue_date: 2019-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 4
 page_end: 28
-image_count: 38   # 0 colocadas en el texto, 38 sueltas al final
-summary_es: "Recopilaciòn por Edgardo Alegría R. La tarjeta postal es un medio de comunicación escrito que surge como un medio de correspondencia más económico que las cartas para el envío de mensajes cortos, y ser remitida al descubierto, sin sobre. Son"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 38
+summary_es: "Recopilaciòn por Edgardo Alegría R. La tarjeta postal es un medio de comunicación escrito que surge como un medio de correspondencia más económico que las cartas para el envío de mensajes cortos, y ser remitida al descubierto, sin sobre."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

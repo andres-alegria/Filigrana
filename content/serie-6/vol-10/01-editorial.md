@@ -6,15 +6,15 @@ series: 6
 volume: 10
 issue_date: 2016-12
 author: "Edgardo Alegría Reichmann"
-themes: []   # GUESS — confirm/correct (5-theme vocab)
+themes: []
 feature_type: editorial
 page_start: 3
 page_end: 3
-image_count: 0   # flagged; precise article-image match is a later pass
-summary_es: "Sellos con Historia Para todos los que estamos involucrados en la difusión del conocimiento filatélico, de varios años para acá ha sido evidente la disminución de adeptos a la lectura de textos dedicados a este pasatiempo, no tanto por la"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 0
+summary_es: "Sellos con Historia Para todos los que estamos involucrados en la difusión del conocimiento filatélico, de varios años para acá ha sido evidente la disminución de adeptos a la lectura de textos dedicados a este pasatiempo, no tanto por la merma en…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

@@ -6,15 +6,15 @@ series: 7
 volume: 1
 issue_date: 2018-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 4
 page_end: 13
-image_count: 8   # 0 colocadas en el texto, 8 sueltas al final
-summary_es: "Por muchos años se ha platicado del mito urbano acerca de la presencia en la ciudad puerto de Amapala, isla de El Tigre, del renombrado físico alemán Albert Einstein (14 de marzo 1879-18 de abril 1955). Entre las diversas versiones"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 8
+summary_es: "Por muchos años se ha platicado del mito urbano acerca de la presencia en la ciudad puerto de Amapala, isla de El Tigre, del renombrado físico alemán Albert Einstein (14 de marzo 1879-18 de abril 1955)."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---
@@ -56,9 +56,9 @@ El 22 de diciembre de 1931 el barco recala brevemente en Amapala, tal como lo ev
 
 > > "Amapala, ¡en Honduras! Por eso es que no habían recibido mensajes nuestros."
 
-![Excelsa pieza tanto en el orden filatélico como en el histórico.](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image4.webp)
+![Anverso de la postal, con el saludo autógrafo de Einstein.](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image4.webp)
 
-![](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image5.webp)
+![Excelsa pieza tanto en el orden filatélico como en el histórico.](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image5.webp)
 
 Respecto a esta visita, el genial científico detalla en su diario personal de viaje las siguientes entradas:
 

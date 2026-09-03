@@ -6,15 +6,15 @@ series: 8
 volume: 1
 issue_date: 2024-06
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia postal y falsificaciones"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia postal y falsificaciones"]
 feature_type: investigacion
 page_start: 39
 page_end: 60
-image_count: 13   # 0 colocadas en el texto, 13 sueltas al final
-summary_es: "Raoul Charles de Thuin Knapenn, nacido en Bruselas, Bélgica en 1890 del matrimonio formado por Charles de Thuin y Marie Louise Knapenn, fue un prolífico falsificador y comerciante de sellos, quien en su mejor etapa operó desde Mérida, Yucatán, México,"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 13
+summary_es: "Raoul Charles de Thuin Knapenn, nacido en Bruselas, Bélgica en 1890 del matrimonio formado por Charles de Thuin y Marie Louise Knapenn, fue un prolífico falsificador y comerciante de sellos, quien en su mejor etapa operó desde Mérida, Yucatán, México, país del…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

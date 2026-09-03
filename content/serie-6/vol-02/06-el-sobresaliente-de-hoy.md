@@ -6,15 +6,15 @@ series: 6
 volume: 2
 issue_date: 2012-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: sobresaliente
 page_start: 30
 page_end: 31
-image_count: 1   # 0 colocadas en el texto, 1 sueltas al final
-summary_es: "El sobre que nos ocupa en esta ocasión fue despachado de la ciudad de San Pedro Sula (Puerto Cortés) a Filadelfia en los Estados Unidos de América el 7 de diciembre de 1918 pasando por la censura impuesta a raíz"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 1
+summary_es: "El sobre que nos ocupa en esta ocasión fue despachado de la ciudad de San Pedro Sula (Puerto Cortés) a Filadelfia en los Estados Unidos de América el 7 de diciembre de 1918 pasando por la censura impuesta a raíz de la…"
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---

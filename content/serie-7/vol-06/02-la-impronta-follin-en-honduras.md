@@ -6,15 +6,15 @@ series: 7
 volume: 6
 issue_date: 2020-12
 author: "Edgardo Alegría Reichmann"
-themes: ["Historia a través del correo"]   # GUESS — confirm/correct (5-theme vocab)
+themes: ["Historia a través del correo"]
 feature_type: investigacion
 page_start: 4
 page_end: 15
-image_count: 12   # 0 colocadas en el texto, 12 sueltas al final
-summary_es: "En la primera mitad del Siglo XIX los puertos de Omoa y Trujillo constituyeron los puntos principales de entrada y salida de productos y mercadería para Europa y los Estados Unidos de América. Esta coyuntura se volvió atractiva para una"
-is_featured: false     # EDITORIAL DECISION
-has_exhibition: false  # EDITORIAL DECISION
-has_audio: false       # EDITORIAL DECISION
+image_count: 12
+summary_es: "En la primera mitad del Siglo XIX los puertos de Omoa y Trujillo constituyeron los puntos principales de entrada y salida de productos y mercadería para Europa y los Estados Unidos de América."
+is_featured: false
+has_exhibition: false
+has_audio: false
 lang_available: [es]
 review: []
 ---
