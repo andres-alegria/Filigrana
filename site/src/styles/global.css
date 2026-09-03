@@ -171,6 +171,17 @@ nav.site a:hover{color:var(--green)}
   border-bottom:1px solid var(--line);transition:border-color .18s ease}
 /* adjust prose link underline accent here */
 .article-body a:hover,.article-body a:focus-visible{border-bottom-color:var(--green)}
+/* Section headings inside an article. The global reset strips their margins,
+   so without these they sit flush against the prose. h2 opens a major section
+   (e.g. APÉNDICE), h3 a subsection under it. Adjust the display face, sizes
+   and the space above each here */
+.article-body h2,.article-body h3{font-family:'Fraunces',serif;font-weight:500;
+  line-height:1.25;color:var(--ink)}
+.article-body h2{font-size:clamp(22px,3vw,28px);margin:2.4em 0 .8em}
+.article-body h3{font-size:clamp(18px,2.2vw,21px);margin:1.9em 0 .6em;
+  font-style:italic;font-weight:400;color:var(--ink-soft)}
+/* first heading shouldn't push a big gap when it opens the body */
+.article-body h2:first-child,.article-body h3:first-child{margin-top:0}
 /* Lists in prose — the global reset zeroes padding on every element, so
    without this an <ol>/<ul> loses its indent entirely and the markers sit
    outside the text column. Bibliography lists opt out via their own rule

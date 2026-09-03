@@ -86,11 +86,9 @@ Para su tranquilidad, las visitas a CalTech de 1932 y 1933 atrajeron menos atenc
 
 Como colofón sólo resta decir que de esta forma hemos aportado la luz necesaria para establecer con certeza que Albert Einstein, aunque no puso los pies en suelo hondureño (posiblemente por razones fito-sanitarias o el sofocante calor) si estuvo en aguas hondureñas, de las cuales se llevó una grata impresión, así como de sus tropicales paisajes.
 
-Bibliografía: Archivo 008-0279.21-001.tif de los Archivos de Albert Einstein 1929-1934. Universidad Hebraica de Jerusalén. Israel. 2017.
+## APÉNDICE
 
-APÉNDICE
-
-MS Portland.
+### MS Portland
 
 Trasatlántico de 7,132 toneladas construido en 1928 para la Hamburg American Line.
 
@@ -102,10 +100,10 @@ En 1943 fue barrenado y hundido cerca de las islas Azores para evitar ser captur
 
 ![Sobre paquebote despachado del MS Portland el 27 de marzo de 1935.](/img/serie-7/vol-01/02-paso-albert-einstein-por-amapala/image10.webp)
 
-Hamburg American Packet.
+### Hamburg American Packet
 
 La Hamburg Amerikanische Packetfahrt Actien Gesellschaft (HAPAG), a veces denominada en inglés como Hamburg American Line, fue una empresa establecida en la ciudad alemana de Hamburgo el 27 de mayo de 1847 cuyo objeto era el transporte de personas y productos a través del océano Atlántico.[] El tráfico que generó a comienzos del siglo XX hizo de la HAPAG una de las compañías navieras más grandes del mundo, haciendo que la gran mayoría de los inmigrantes alemanes que pisaban suelo americano lo hicieran en uno de sus barcos. La compañía operaba principalmente desde el puerto de Hamburgo, haciendo viajes semanales a Nueva York, Indias Occidentales, México, Sur y Centro América, China Japón y Australia. Cada uno de los barcos tenía capacidad para 1,000 pasajeros en cabina, turista y tercera clase. Entre sus servicios se contaba con un espacioso comedor con mesas pequeñas, un salón de belleza, salón para fumadores, una atractiva cubierta para paseo parcialmente protegida con ventanales de vidrio en caso de mal tiempo y una piscina exterior. Cada barco llevaba un médico, un barbero y camareros que además de alemán e inglés también hablaban otros idiomas.
 
 La II Guerra Mundial resultó en la perdida de casi toda su flota, pero el esfuerzo y tenacidad de sus propietarios hizo que la compañía volviese a ocupar una de las posiciones líderes del transporte marítimo mundial.
 
----
+Bibliografía: Archivo 008-0279.21-001.tif de los Archivos de Albert Einstein 1929-1934. Universidad Hebraica de Jerusalén. Israel. 2017.
