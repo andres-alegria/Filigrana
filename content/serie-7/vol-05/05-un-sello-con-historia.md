@@ -46,7 +46,7 @@ Nueva York, N. Y.
 
 Caballeros:
 
-El primer vuelo jamás hecho a través de Centro América fue recientemente llevado a cabo por mi persona en un Bristol Fighter Fab. El vuelo fue de la Costa Norte a la Costa Sur de la república de Honduras. La máquina llegó a Puerto Cortés en enero de este año pero con el faltante de algunas piezas menores, y como se requerían tres meses para reemplazarlas, yo desempaqué y ensamblé la máquina hasta donde pude y la “Valsparré”* por completo para protegerla del clima húmedo, caliente y de los insectos devoradores de madera.
+El primer vuelo jamás hecho a través de Centro América fue recientemente llevado a cabo por mi persona en un Bristol Fighter Fab. El vuelo fue de la Costa Norte a la Costa Sur de la república de Honduras. La máquina llegó a Puerto Cortés en enero de este año pero con el faltante de algunas piezas menores, y como se requerían tres meses para reemplazarlas, yo desempaqué y ensamblé la máquina hasta donde pude y la “Valsparré”\* por completo para protegerla del clima húmedo, caliente y de los insectos devoradores de madera.
 
 Luego fue guardada en San Pedro Sula en una bodega abandonada que no tenía mucho de techo y de paredes abiertas, ofreciendo muy poca protección contra las fuertes tormentas tropicales, temiendo yo que la lona se destemplara; pero Valstar evitó que esto sucediera, al igual que protegió la madera contra el ataque de una gran variedad de insectos perforadores de madera. Cuando finalmente llegaron las partes faltantes la máquina fue ensamblada en un claro abierto entre la selva donde permaneció al descubierto durante tres meses a la espera que llegara la gasolina. Durante el día la temperatura siempre excedió los 100°F a la sombra, y cada noche la lluvia tropical bañaba la máquina, pero ni el calor ni el agua causaron daño alguno a las partes que fueron “Valsparreadas”.
 
@@ -60,7 +60,7 @@ D. Ivan Lamb
 
 Director General de Aviación República de Honduras
 
-*Valspar era un barniz protector fabricado por la Valentine & Co.
+\*Valspar era un barniz protector fabricado por la Valentine & Co.
 
 El Bristol a su llegada al campo de aterrizaje Toncontín en Tegucigalpa.
 
@@ -80,9 +80,9 @@ Con sólo 17 años se enroló en 1900 en la Marina de los Estados Unidos y sirvi
 
 Mientras residía en California recuperándose de sus heridas, le entró el gusanillo de la aviación. Siguiendo su impulso, en 1912 se matriculó en la Escuela de Aviación Curtiss en Hammondsport, Nueva York, de donde obtuvo sus credenciales como piloto.
 
-En el arranque de su incipiente carrera aérea proclamaba haber sido protagonista de la primera batalla aérea del mundo, cuando buscando aventura, se dirigió a Naco, Sonora, México, escenario donde se libraba una batalla entre las fuerzas del general Venustiano Carranza que ocupaban la ciudad y las del general Victoriano Huerta que la asediaban. Dean se puso en contacto con el comandante de los carrancistas, general Benjamín Hill, quien lo contrató de inmediato, haciendo los arreglos necesarios para la compra en Nueva York de un aeroplano Curtiss D Pusher. Al inicio Dean se ocupó en realizar vuelos de reconocimiento. Pronto se dio cuenta que su buen amigo y antiguo reportero para el periódico San Francisco Phil Rader* había sido contratado por el enemigo, volando un Christofferson Pusher. En una era donde no existían los combates aéreos, Dean no veía ningún problema volar en bandos contrarios. Phil, por órdenes del general Huerta, comenzó a lanzar bombas sobre la ciudad sitiada. En consecuencia, el general Hill le ordenó a Dean derribar el aeroplano enemigo. El hecho de que ambos personajes volaran aeroplanos tipo “pusher” no impedía que pudiesen disparar al frente, dado que este modelo tenía la hélice detrás del piloto.
+En el arranque de su incipiente carrera aérea proclamaba haber sido protagonista de la primera batalla aérea del mundo, cuando buscando aventura, se dirigió a Naco, Sonora, México, escenario donde se libraba una batalla entre las fuerzas del general Venustiano Carranza que ocupaban la ciudad y las del general Victoriano Huerta que la asediaban. Dean se puso en contacto con el comandante de los carrancistas, general Benjamín Hill, quien lo contrató de inmediato, haciendo los arreglos necesarios para la compra en Nueva York de un aeroplano Curtiss D Pusher. Al inicio Dean se ocupó en realizar vuelos de reconocimiento. Pronto se dio cuenta que su buen amigo y antiguo reportero para el periódico San Francisco Phil Rader\* había sido contratado por el enemigo, volando un Christofferson Pusher. En una era donde no existían los combates aéreos, Dean no veía ningún problema volar en bandos contrarios. Phil, por órdenes del general Huerta, comenzó a lanzar bombas sobre la ciudad sitiada. En consecuencia, el general Hill le ordenó a Dean derribar el aeroplano enemigo. El hecho de que ambos personajes volaran aeroplanos tipo “pusher” no impedía que pudiesen disparar al frente, dado que este modelo tenía la hélice detrás del piloto.
 
-*Phil Rader, tras servir en la fuerza aérea inglesa en 1914 y 1915, retornó a los USA para convertirse en instructor. Se mató en un accidente aéreo el 10 de junio de 1918 en el campo de aviación de la Curtiss en Búfalo, Nueva York.
+\*Phil Rader, tras servir en la fuerza aérea inglesa en 1914 y 1915, retornó a los USA para convertirse en instructor. Se mató en un accidente aéreo el 10 de junio de 1918 en el campo de aviación de la Curtiss en Búfalo, Nueva York.
 
 El 30 de noviembre de 1913 ambos se encontraron en los cielos naquenses. El evento lo describe Dean en sus memorias “*El Filibustero Incurable*” de la siguiente manera:
 
@@ -100,25 +100,25 @@ Lamb también clama haber sido comandante de escuadrón durante la Guerra Civil 
 
 El diario *Daily Eagle* de Nueva York, en 1928 reportaba:
 
-“El general* Dean Ivan Lamb, un pionero de la aviación e infame soldado de fortuna, descubrió los Pisco Sours en 1922 en el Bar Morris**. Se creó la fama de haber ingerido demasiados, y a raíz de la resultante destrucción que produjo en el bar, se aceleró su salida del Perú”.
+“El general\* Dean Ivan Lamb, un pionero de la aviación e infame soldado de fortuna, descubrió los Pisco Sours en 1922 en el Bar Morris\*\*. Se creó la fama de haber ingerido demasiados, y a raíz de la resultante destrucción que produjo en el bar, se aceleró su salida del Perú”.
 
 Tiempo después apuntaba en sus memorias:
 
 “Nunca supe cuál era el origen de ese líquido, pero por experiencia propia creo que era una triple destilación de nitroglicerina”.
 
-*En esa época era usual que los gobiernos latinoamericanos otorgaran el grado de general a cualquier extranjero que los impresionara.
+\*En esa época era usual que los gobiernos latinoamericanos otorgaran el grado de general a cualquier extranjero que los impresionara.
 
-**Víctor Vaughen Morris, inventor del Pisco Sour, era nativo de Utah.
+\*\*Víctor Vaughen Morris, inventor del Pisco Sour, era nativo de Utah.
 
 Como todo buen aventurero, Dean era afín del buen whiskey y champán cuando estaban disponibles en buenas cantidades. Le gustaba el ron y las cocacolas cuando esta última era una novedad. Siempre degustaba los licores locales. Tequila diez años añejo era su favorito en México, en Brasil fue la cachaca y en Lima el ya mencionado pisco. Aunque no haya sido el creador del Pisco Sour, ciertamente contribuyó a su fama en los Estados Unidos.
 
 En 1923 Lamb toma parte en la Guerra Civil de Río Grande do Sul, estado de Brasil. Probablemente esta sea la parte más interesante en su carrera. Aseguraba haber participado en siete batallas y enfrentamientos y haber matado un hombre en un duelo a pistola en Uruguay. Él mantenía un diario de todas sus experiencias (donde es notable que dejó por fuera varias de éllas) hasta 1924, cuando tiene que salir de Brasil.
 
-En 1924 lo encontramos nuevamente en Honduras, posiblemente atendiendo un llamado urgente del Gobierno para combatir contra la Revolución Reivindicatoria jefeada por los generales Tiburcio Carías Andino, Gregorio Ferrera y Vicente Tosta, alzados en armas al asumir la Dictadura el presidente Rafael López Gutiérrez. En este año Honduras contaba, además del Bristol* con otros aviones, de los cuales si se sabe que un Lincoln Standard fue piloteado por otro mercenario de nombre (¿Clarence H.?) Brown al servicio de la revolución. Aquí se dio también otro hecho de “primera vez” al constituirse Tegucigalpa en la primera ciudad en Latinoamérica en ser bombardeada desde el aire.
+En 1924 lo encontramos nuevamente en Honduras, posiblemente atendiendo un llamado urgente del Gobierno para combatir contra la Revolución Reivindicatoria jefeada por los generales Tiburcio Carías Andino, Gregorio Ferrera y Vicente Tosta, alzados en armas al asumir la Dictadura el presidente Rafael López Gutiérrez. En este año Honduras contaba, además del Bristol\* con otros aviones, de los cuales si se sabe que un Lincoln Standard fue piloteado por otro mercenario de nombre (¿Clarence H.?) Brown al servicio de la revolución. Aquí se dio también otro hecho de “primera vez” al constituirse Tegucigalpa en la primera ciudad en Latinoamérica en ser bombardeada desde el aire.
 
 De regreso en los USA, Lamb fue Presidente de la escuela de aviación Bettis en McKeesport, Pensilvania, 1926-27; vendedor de aviones para la Air Associates, 1927-28; piloto de prueba para la Vertoplane Corporation de Nueva York, 1935-36; y Presidente de Larga Company, una firma exportadora de aeroplanos, 1938-39.
 
-*Hasta hoy no hay evidencia fehaciente de que el Bristol haya volado nuevamente. Se presume que fue incendiado en Toncontín durante esta revolución.
+\*Hasta hoy no hay evidencia fehaciente de que el Bristol haya volado nuevamente. Se presume que fue incendiado en Toncontín durante esta revolución.
 
 Estuvo de alta en la Fuerza Aérea de los USA entre 1942 y 1944; luego se reincorporó de 1947 a 1948. Previo a este periodo se vio envuelto en un escandaloso incidente que los medios escritos lo dieron a conocer así:
 

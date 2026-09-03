@@ -44,9 +44,9 @@ Años después encontramos en La Gaceta Oficial del 16 de agosto de 1900, una al
 
 Hasta el día de hoy no hemos tenido la fortuna de tener a la vista un ejemplar de estos enteros telegráficos de la segunda generación, dado que al cabo de cierto tiempo cada oficina telegráfica estaba obligada a remitir al Ministerio de Gobernación en Tegucigalpa las “esquelas” usadas, las cuales eventualmente eran incineradas. Sin embargo, en el afán de recolectar “papeles viejos”, en una de mis correrías filatélica por la norteña ciudad de San Pedro Sula llegó a mis manos una cantidad de papel sellado entre los cuales figuraba una relación de hechos en torno a la pérdida en un incendio local de una cantidad de enteros telegráficos.
 
-Aparte de las pérdidas materiales, se desprende de este siniestro el hecho de que todavía en 1928 se continuaban aplicando las mismas tarifas de 15 y 30 centavos, y que los interesados además de poder adquirir las esquelas en la oficina de telégrafos, también lo podían hacer de manera privada en los estancos*. En otras palabras, el interesado también podía adquirir el telegrama para redactar el texto y luego llevarlo al telégrafo.
+Aparte de las pérdidas materiales, se desprende de este siniestro el hecho de que todavía en 1928 se continuaban aplicando las mismas tarifas de 15 y 30 centavos, y que los interesados además de poder adquirir las esquelas en la oficina de telégrafos, también lo podían hacer de manera privada en los estancos\*. En otras palabras, el interesado también podía adquirir el telegrama para redactar el texto y luego llevarlo al telégrafo.
 
-*Los estancos eran pequeños negocios autorizados para la venta de las especies estancadas monopolios del Estado, por decir: Aguardiente, tabaco, especies postales, timbres fiscales y papel sellado.
+\*Los estancos eran pequeños negocios autorizados para la venta de las especies estancadas monopolios del Estado, por decir: Aguardiente, tabaco, especies postales, timbres fiscales y papel sellado.
 
 Pidiendo se declare la irresponsabilidad por unas pérdidas.
 

@@ -60,7 +60,7 @@ Guanaja's prominent lighted western point Ochre Bluff is about 10 n. ni. east of
 
 Page 196
 
-N7A •* Cayo Vivorillo One nautical mile Soundings in Fathoms 15 17 15° 083° 50'N 19'W 20 17 20 It) ID thick ... Cayo Vivorillo The Vivorillo Bank lies from 33 to 53 n.m. NNE of Cabo Falso. ... Honduran Navy patrols Vivorillo irregularly.
+N7A •\* Cayo Vivorillo One nautical mile Soundings in Fathoms 15 17 15° 083° 50'N 19'W 20 17 20 It) ID thick ... Cayo Vivorillo The Vivorillo Bank lies from 33 to 53 n.m. NNE of Cabo Falso. ... Honduran Navy patrols Vivorillo irregularly.
 
 Page 252
 

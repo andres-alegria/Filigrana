@@ -20,7 +20,7 @@ review: []
 ---
 
 # El Sobresaliente de Hoy
-Sobre con membrete de la Honduras Railroad Company* dirigido por Charles Jeffs a su madre el 14 de agosto de 1895.
+Sobre con membrete de la Honduras Railroad Company\* dirigido por Charles Jeffs a su madre el 14 de agosto de 1895.
 
 Charles Frederick Jeffs nació en Murray, Ontario, el 13 de junio de 1858 como hijo de Thomas Jeffs y Nancy Antonette Priest. Tuvo un hermano, Dean, y una hermana, Georgiana. La familia emigró de Canadá en 1870 estableciéndose en Grand Rapids, Michigan. Ambos hermanos trabajaron para una compañía frutera. Dean murió en un naufragio frente a las costas de Honduras.
 
@@ -28,7 +28,7 @@ Jeffs se graduó de Ingeniero en Minas, llegando a Honduras alrededor de 1885. D
 
 Su cercanía al presidente Bográn la encontramos manifiesta en una gacetilla de un corresponsal itinerante del periódico californiano *San Francisco Call* quien en la edición del 3 de abril de 1892 relata:
 
-*Esta fue una concesión ferrocarrilera otorgada en 1895 a Washington Valentine.
+\*Esta fue una concesión ferrocarrilera otorgada en 1895 a Washington Valentine.
 
 “En Santa Bárbara, Honduras, visitamos al Sr. Luis Bográn, Presidente retirado de la República. Es una persona popular y de buen talante. Su tío, don Ponciano Leiva le sucedió en el Poder. Charles Jeffs, un norteamericano, está instalando un sistema de agua potable en Santa Bárbara…”
 
@@ -42,9 +42,9 @@ Nuestro viaje de Puerto Cortés a San Pedro Sula en ferrocarril duró cuatro hor
 
 Hace más o menos 30 años un tren interoceánico fue concebido, desde Cortés hasta la Costa Pacífica, una distancia de 148 millas, pero este ferrocarril resultó ser una gran estafa y el gobierno se quedó con esta gran deuda entre manos, con un gran ejército de acreedores de bonos que satisfacer; al final terminó con sólo estas 37 millas, de pésima construcción. Esta línea férrea tenía que ser pagada a cierto precio por milla pero los encargados de levantar mapas topográficos y de construirla, por consiguiente la hicieron el doble más larga de lo que debió haber sido y sus curvas y pendientes harían llorar a cualquier ingeniero honesto por tal trabajo. Se puede observar que las cuestas en ciertos lugares son demasiados inclinadas y como la máquina no era nada nueva, se necesitaba de dos negros adolescentes y una caja llena de arena ubicados enfrente de la locomotora, para ayudar a parar el tren cuando era necesario o cuando iba cuesta abajo muy rápido, su trabajo era echar arena en los rieles.
 
-Mis dos compañeros Griscom y Somerset* en cuanto descubrieron la ocupación de estos asistentes, les compraron sus posiciones y en la primera parada intercambiaron lugar hasta el final del viaje. Fue un paseo maravilloso y emocionante mejor que esos trencitos de Coney Island o esos otros alrededor de París. Era interesante y temerario ver cada riel mohoso levantarse un poco con el peso de la máquina, que a veces parecía que iba a volar en nuestras caras,  pero al pasarle por encima la locomotora volvía a su lugar; cuando la velocidad aumentaba, los rieles se abrían casi medio pie a ambos lados, lo cual eso sí nos asustó; pero lo que sí en verdad nos llenó de miedo, fue cuando los venados aparecían en medio de los rieles al final de un túnel boscoso formado por la
+Mis dos compañeros Griscom y Somerset\* en cuanto descubrieron la ocupación de estos asistentes, les compraron sus posiciones y en la primera parada intercambiaron lugar hasta el final del viaje. Fue un paseo maravilloso y emocionante mejor que esos trencitos de Coney Island o esos otros alrededor de París. Era interesante y temerario ver cada riel mohoso levantarse un poco con el peso de la máquina, que a veces parecía que iba a volar en nuestras caras,  pero al pasarle por encima la locomotora volvía a su lugar; cuando la velocidad aumentaba, los rieles se abrían casi medio pie a ambos lados, lo cual eso sí nos asustó; pero lo que sí en verdad nos llenó de miedo, fue cuando los venados aparecían en medio de los rieles al final de un túnel boscoso formado por la
 
-*Henry Somerset, era un adolescente trotamundos que a su corta edad ya había cubierto más kilómetros que muchos experimentados viajeros; mientras que a Lloyd Griscom, attaché de la Legación Norteamericana en Londres, su médico le había recomendado viajar al Sur.
+\*Henry Somerset, era un adolescente trotamundos que a su corta edad ya había cubierto más kilómetros que muchos experimentados viajeros; mientras que a Lloyd Griscom, attaché de la Legación Norteamericana en Londres, su médico le había recomendado viajar al Sur.
 
 naturaleza, que nos hacía sentir que estábamos al otro lado de un telescopio, viendo crecer la imagen del animal más y más hacia nosotros mientras el tren avanzaba. Pero siempre se apartaban hacia un lado al último momento, antes de matar a uno de nosotros y lo hacían por el bullicio de la campana, el pito, los sonidos de la máquina más nuestros gritos de desesperación. Ahora discutimos ¿Qué hubiera sido lo mejor, si saltar del tren o morir en nuestro puesto, con nuestras manos llenas de arena?”
 

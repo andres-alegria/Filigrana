@@ -26,7 +26,7 @@ Algunos detalles fuera de lo común, implícitos en esta octava emisión, van mu
 
 Dr. Policarpo Bonilla
 
-José Policarpo Bonilla Vásquez (*Tegucigalpa 17 de marzo de 1858 – Nueva Orleans, 11 de septiembre de 1926) fue un abogado y político hondureño. Durante la Administración del general Luis Bográn fue diputado al Congreso Nacional y Gobernador Político de Tegucigalpa.
+José Policarpo Bonilla Vásquez (\*Tegucigalpa 17 de marzo de 1858 – Nueva Orleans, 11 de septiembre de 1926) fue un abogado y político hondureño. Durante la Administración del general Luis Bográn fue diputado al Congreso Nacional y Gobernador Político de Tegucigalpa.
 
 Al término de su primer mandato, el presidente Luis Bográn fue persuadido a la reelección y retado de nuevo por el envejecido expresidente y jefe del Partido Liberal (entonces Liga Liberal) Céleo Arias.
 
@@ -204,7 +204,7 @@ CANTIDAD
 
 5.000
 
-TOTAL *
+TOTAL \*
 
 1.000.00
 
@@ -222,7 +222,7 @@ TOTAL *
 
 5.000.00
 
-*Esta columna de TOTAL no forma parte del Acuerdo, sino que ha sido agregada por el autor para fines comparativos.
+\*Esta columna de TOTAL no forma parte del Acuerdo, sino que ha sido agregada por el autor para fines comparativos.
 
 Tarjetas postales VALOR CANTIDAD
 
@@ -342,7 +342,7 @@ CANTIDAD
 
 10.000
 
-TOTAL*
+TOTAL\*
 
 1.500.00
 
@@ -360,7 +360,7 @@ TOTAL*
 
 10.000.00
 
-*Esta columna de TOTAL no forma parte del Acuerdo, sino que ha sido agregada por el autor con propósitos comparativos.
+\*Esta columna de TOTAL no forma parte del Acuerdo, sino que ha sido agregada por el autor con propósitos comparativos.
 
 Este segundo Acuerdo ordena la impresión de los valores básicos por un monto de $15.300.00, cantidad que, aunque ajustada, al final resultó suficiente para concluir el periodo de su vigencia, el cual, por motivos de atrasos en la emisión de la serie *La Locomotora* (Scott 103-110), tuvo que extenderse del 1 de enero al 31 de julio de 1898.
 

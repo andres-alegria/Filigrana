@@ -168,7 +168,7 @@ Campo Naranja, Honduras, Jueves Nov. 26th/57
 >
 > Tus noticias del Gran Pánico en la bolsa de valores fue también noticia en las cartas a los otros muchachos en esta división. Los padres de dos de ellos han sido afectados y realmente se sienten mal y yo no puedo más que consolarlos en su tristeza mientras derraman lágrimas. Llueve un poco ahora, como si la estación lluviosa se estuviese despidiendo; realmente estamos de mal humor.
 >
-> Uno de nuestro equipo, un Agente del Orden, un inglés, quien ha sufrido mucho a consecuencia del clima, se encontraba camino a casa y por tomar una sobredosis de Láudano murió hace unas semanas en Panamá. Su nombre era George N. Gliddon*, conocido como el hombre momia.
+> Uno de nuestro equipo, un Agente del Orden, un inglés, quien ha sufrido mucho a consecuencia del clima, se encontraba camino a casa y por tomar una sobredosis de Láudano murió hace unas semanas en Panamá. Su nombre era George N. Gliddon\*, conocido como el hombre momia.
 >
 > Durante toda mi estadía y por el momento me encuentro bien y animado. Estamos tratando de avanzar hacia el Pacífico tanto como nos es posible y pienso que llegaremos allí en dos o tres meses como máximo y luego iniciaremos nuestro viaje a casa tratando de hacerlo en un mes más. No sé cómo ni por cuál ruta lo haremos. Esto todavía no ha sido decidido. Podríamos hacerlo a través del Istmo o tomar un barco en Omoa; por mi parte prefiero hacerlo por Panamá pero esto le costaría a la Compañía más, por lo que temo no nos enviarán por esta ruta.
 >
@@ -180,7 +180,7 @@ Campo Naranja, Honduras, Jueves Nov. 26th/57
 
 ![La Catedral de Comayagua tal como la encontró J. Godown](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image21.webp)
 
-*Gliddon, el mejor amigo de Squier, falleció de fiebre amarilla en Panamá el 16 de noviembre de 1857.
+\*Gliddon, el mejor amigo de Squier, falleció de fiebre amarilla en Panamá el 16 de noviembre de 1857.
 
 ![Residencia del general Santos Guardiola en Comayagua.](/img/serie-7/vol-04/02-el-sueno-del-ferrocarril-interoceanico-trasciende-a-la-filat/image22.webp)
 
@@ -246,7 +246,7 @@ Con todo y todo, la narración de los segmentos rescatados no deja de impresiona
 >
 > Agatas y jaspe son muy abundantes, también semi-ópalos. Tengo algunos especímenes conmigo junto con obsidiana, que fue producida en el corazón de algunos volcanes en vez de en fábricas de vidrio. Por el momento no nos encontramos cerca de ningún volcán, aunque Amapala y Conchagua están a la vista, justo ahora están muy callados, aunque ocasionalmente son causa de terremotos.
 >
-> Una de las peores molestias en esta parte del país es la moneda de cobre. Durante una de las revoluciones algún tiempo atrás, el Gobierno acuño una gran cantidad de cobre para pagarle a los soldados. Ellos hicieron que la pobre gente cambiara una moneda grande de cobre* por un dólar de plata. Aunque ahora ellos pagan 25 por un dólar esto sólo viene a ser 4 cts. de nuestra moneda. Por ahora es el único circulante que se maneja, y cuando tú escuchas de un desayuno que cuesta $30.00 se refieren sólo a dólares de cobre. La semana pasada cabalgué en una mula 80 kilómetros a Comayagua con un par de alforjas llenas de ellas. Compramos todas nuestras provisiones con esta moneda y frecuentemente tenemos a la mano dos o tres mil dólares lo que en realidad no resulta ser mucho dinero; sin embargo resulta muy apropiado para huevos y pollos.
+> Una de las peores molestias en esta parte del país es la moneda de cobre. Durante una de las revoluciones algún tiempo atrás, el Gobierno acuño una gran cantidad de cobre para pagarle a los soldados. Ellos hicieron que la pobre gente cambiara una moneda grande de cobre\* por un dólar de plata. Aunque ahora ellos pagan 25 por un dólar esto sólo viene a ser 4 cts. de nuestra moneda. Por ahora es el único circulante que se maneja, y cuando tú escuchas de un desayuno que cuesta $30.00 se refieren sólo a dólares de cobre. La semana pasada cabalgué en una mula 80 kilómetros a Comayagua con un par de alforjas llenas de ellas. Compramos todas nuestras provisiones con esta moneda y frecuentemente tenemos a la mano dos o tres mil dólares lo que en realidad no resulta ser mucho dinero; sin embargo resulta muy apropiado para huevos y pollos.
 >
 > Debo dejar de escribir ahora ya que es muy tarde y mi hamaca luce muy invitadora después de un duro día de trabajo. Escribe pronto y envía periódicos. Mi amor para todos.
 >
@@ -256,7 +256,7 @@ Con todo y todo, la narración de los segmentos rescatados no deja de impresiona
 
 Culminada su experiencia en Honduras, Godown participa en la Guerra de Secesión con el rango de Teniente 2do. en el 12vo. Regimiento de Indiana. El 17 de agosto de 1862 es transferido a la Compañía K como Teniente 1º, eventualmente ascendido a Capitán. El 22 de julio de 1864 es capturado en la batalla de Atlanta y puesto en prisión en Georgia de donde fue liberado a cambio de un oficial sureño. Se le dio de baja el 8 de junio de 1865. En su vida militar participó en no menos de veinte batallas, incluyendo Chattanooga,
 
-*Conocida como moneda de “media leche” por haber sido acuñada con 500 milésimas de cobre y 500 de plata.
+\*Conocida como moneda de “media leche” por haber sido acuñada con 500 milésimas de cobre y 500 de plata.
 
 Vicksburg, Mission Ridge y en la arrolladora marcha del general William Sherman por los estados sureños.
 
@@ -368,7 +368,7 @@ Potrerillos. En 1843 Potrerillos, situado en la parte sur del Valle de Sula, en 
 
 Yojoa. En la matrícula poblacional de 1801 ordenada por el gobernador Ramón de Anguiano aparece Yojoa con una población de 10 familias españolas, 50 indios ladinos y 26 solteros.
 
-Valle de Las Piedras (actual La Paz). En la misma matrícula anterior se menciona la “Reducción* de Las Piedras” con una población de 165 indios ladinos y 28 solteros.
+Valle de Las Piedras (actual La Paz). En la misma matrícula anterior se menciona la “Reducción\* de Las Piedras” con una población de 165 indios ladinos y 28 solteros.
 
 Rancho Chiquito. Pueblo del municipio de la Villa de San Antonio en Comayagua. En 1791 forma parte del curato de Cururú, según informe del 20 de octubre de ese año por fray Xavier López.
 
@@ -380,7 +380,7 @@ Campo Volcán. El volcán Yojoa es un campo volcánico al norte del Lago de Yojo
 
 Caridad. Toma su nombre a raíz de la hacienda La Caridad y así figura en el recuento de población de 1801 de la tenencia de Nacaome. La hacienda era propiedad de una familia de apellido Maldonado de origen guatemalteco. En la primera División Política Territorial de 1825 se menciona como parte de Comayagua, en 1869 como parte del departamento de La Paz y en 1893 perteneciente al departamento de Valle.
 
-*Las reducciones eran poblados que agrupaban a los indígenas dispersos en las zonas aledañas para asegurar un mejor control.
+\*Las reducciones eran poblados que agrupaban a los indígenas dispersos en las zonas aledañas para asegurar un mejor control.
 
 El Naranjo. La mención de este lugar por Godown tal vez haya sido una de las pocas ocasiones que alguien se ocupó de ello, pues con dicho nombre se denomina a un minúsculo caserío en el departamento de Valle, perteneciente a la aldea Los Llanos, municipio de Langue.
 

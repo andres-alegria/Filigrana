@@ -34,13 +34,13 @@ Vista la anterior solicitud, y el Dictamen del Fiscal General de Hacienda, y Con
 
 ACUERDA:
 
-1.- Autorizar a los señores Bertie Cecil, R. S. De Leon y Charles F. Jeffs, para que formen una compañía anónima, con el capital de doscientos mil pesos oro la cual se denominará “The Honduras Mail Stage Coach and Express Company Limited”, y establecerá dicho servicio de diligencias para la conducción de pasajeros, transporte de carga, malas*, etc. entre San Pedro Sula y San Lorenzo, vía Trinidad, Santa Bárbara, Comayagua, Tegucigalpa y demás pueblos situados a lo largo de la ruta.
+1.- Autorizar a los señores Bertie Cecil, R. S. De Leon y Charles F. Jeffs, para que formen una compañía anónima, con el capital de doscientos mil pesos oro la cual se denominará “The Honduras Mail Stage Coach and Express Company Limited”, y establecerá dicho servicio de diligencias para la conducción de pasajeros, transporte de carga, malas\*, etc. entre San Pedro Sula y San Lorenzo, vía Trinidad, Santa Bárbara, Comayagua, Tegucigalpa y demás pueblos situados a lo largo de la ruta.
 
 2.- Conceder a dichos señores Cecil, De Leon y Jeffs, ó a la compañía que funden con el objeto arriba expresado, el derecho exclusivo de hacer el tráfico en diligencias, por la ruta indicada, por diez años, y el de extender dicho tráfico á cualesquiera otros lugares de la República, por las rutas que lleguen á abrirse.
 
 3.- Otorgar también á los concesionarios, o á la compañía que constituyan, los siguientes derechos:
 
-* Maleta o valija del correo, término derivado del francés “malle”, usado originalmente en Francia e Inglaterra.
+\* Maleta o valija del correo, término derivado del francés “malle”, usado originalmente en Francia e Inglaterra.
 
 a. De importar, libre de todo impuesto fiscal o municipal, los animales, coches, carretas, arneses, aparejos, sillas de montar, herramientas, instrumentos de agricultura, semillas, plantas vivas y demás materiales que se necesiten para la empresa, lo mismo que toda clase artículos de subsistencia para los pasajeros, en las diferentes estaciones y posadas.
 

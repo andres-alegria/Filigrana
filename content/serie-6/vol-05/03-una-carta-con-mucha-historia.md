@@ -22,9 +22,9 @@ review: []
 # Una carta con mucha historia
 Además de atestiguar una de las épocas más insignes y turbulentas de la historia patria, esta misiva enviada de Trujillo a Omoa el 27 de marzo de 1832, está vinculada de manera indirecta a mis antepasados en la persona de mi tatarabuela paterna Gertrudis Alegría Alvarado, hija de Nieves Alegría y Juliana Alvarado, quien oriunda del enclave mineral de El Corpus, en Choluteca, Honduras, se casó en primeras nupcias con el general Vicente Dominguez, originario del estado de Morelos, México (hermano de don José Domínguez Manso, Secretario Privado y posteriormente Secretario de Justicia del Emperador de México Agustín de Iturbide) quien fue traído a Honduras por el Obispo Juan José de Aycinena y Piñol y el Marqués de Aycinena, poco después de la independencia para dirigir el Ejército Federal en El Salvador y en Honduras contra el movimiento unionista del General Francisco Morazán.
 
-“C. Ramon Guzman Governador comandante de la plaza de Omoa”*
+“C. Ramon Guzman Governador comandante de la plaza de Omoa”\*
 
-* En 1759 el rey Fernando VI de España autorizó la construcción de la fortaleza en la costa atlántica, la cual se le encomendó al ingeniero español Luis Diez Navarro, finalizándola en 1775. Fue construida por los indígenas y algunos de los esclavos africanos, con el propósito de defenderse de los ataques piratas.
+\* En 1759 el rey Fernando VI de España autorizó la construcción de la fortaleza en la costa atlántica, la cual se le encomendó al ingeniero español Luis Diez Navarro, finalizándola en 1775. Fue construida por los indígenas y algunos de los esclavos africanos, con el propósito de defenderse de los ataques piratas.
 
 (Texto original que se transcribe a continuación)
 

@@ -36,11 +36,11 @@ Picardie, Francia; se casó con Marie Francoise Juneau (1755-1813) Nueva
 
 Orleans, quien falleció en Charleston, Carolina del Sur.
 
-Francois Michel Auguste Follin se había trasladado a la colonia francesa de San Nicolás en St. Domingue*. Durante la revuelta de esclavos en ese lugar se refugió con su familia en Charleston, Carolina del Sur.
+Francois Michel Auguste Follin se había trasladado a la colonia francesa de San Nicolás en St. Domingue\*. Durante la revuelta de esclavos en ese lugar se refugió con su familia en Charleston, Carolina del Sur.
 
 Tuvieron tres hijos y una hija:
 
-*Santo Domingo Francés, así se conocía la colonia establecida por Francia en la isla La Española y que por un tiempo abarcó todo el territorio insular, es decir, los países contemporáneos de Haití y República Dominicana.
+\*Santo Domingo Francés, así se conocía la colonia establecida por Francia en la isla La Española y que por un tiempo abarcó todo el territorio insular, es decir, los países contemporáneos de Haití y República Dominicana.
 
 Augustus Firmin Follin Juneau (1777-1851) St. Domingue. Se casó con Melanie Noel (1785-1851) Francia. Falleció en Mobile, Alabama.
 
@@ -502,7 +502,7 @@ Tomasa Bardales (1844-?).
 
 (2) Hortensia Follin (1847-1925). Nació en Omoa. Radicada en los USA, murió en Mobile, Alabama.
 
-Charles R. Follin comenzó su carrera como empleado de Ephraim George Squier, conocido ya por sus emprendimientos ferrocarrileros en Honduras. Viajó a través de Centro América con Squier en 1853 como su asistente e intérprete. Charles era versado en español, inglés y francés; era agricultor, comerciante, y tiempo después reemplazó a su padre como Vice-Cónsul* en Omoa hasta 1874. Estuvo presente como importante enlace con el Gobierno hondureño durante la llegada de los inmigrantes confederados en 1867-68 que buscaban un nuevo comienzo tras su derrota en la Guerra de Secesión, facilitándoles su establecimiento en la colonia confederada “Medina” ubicada cerca de la ciudad de San Pedro Sula.
+Charles R. Follin comenzó su carrera como empleado de Ephraim George Squier, conocido ya por sus emprendimientos ferrocarrileros en Honduras. Viajó a través de Centro América con Squier en 1853 como su asistente e intérprete. Charles era versado en español, inglés y francés; era agricultor, comerciante, y tiempo después reemplazó a su padre como Vice-Cónsul\* en Omoa hasta 1874. Estuvo presente como importante enlace con el Gobierno hondureño durante la llegada de los inmigrantes confederados en 1867-68 que buscaban un nuevo comienzo tras su derrota en la Guerra de Secesión, facilitándoles su establecimiento en la colonia confederada “Medina” ubicada cerca de la ciudad de San Pedro Sula.
 
 Contrajo matrimonio con María Tomasa Bardales, procreando tres hijos:
 
@@ -526,7 +526,7 @@ María Angelina Pérez Follin (de Jeffre) (1903-1997).
 
 Celia Regina Pérez Follin (de Bonner) (1907-1998).
 
-*En 1861 el Consulado en Trujillo fue asignado a Eduardo Prudot. El 6 de enero de 1862 el presidente Abraham Lincoln nombró a Royston Betts Cónsul para Omoa y Trujillo en sustitución de Augusto Follin. En 1863, recomendado por George Squier, Charles R. Follin fue nombrado cónsul para ambos lugares.
+\*En 1861 el Consulado en Trujillo fue asignado a Eduardo Prudot. El 6 de enero de 1862 el presidente Abraham Lincoln nombró a Royston Betts Cónsul para Omoa y Trujillo en sustitución de Augusto Follin. En 1863, recomendado por George Squier, Charles R. Follin fue nombrado cónsul para ambos lugares.
 
 (2) Augustus Follin Bardales (1866-?); casado con Felipa Estrada. Por un tiempo la familia vivió en Nueva Orleans. Tras la muerte de Augustus la viuda y sus hijos se mudaron a Los Ángeles, California.
 

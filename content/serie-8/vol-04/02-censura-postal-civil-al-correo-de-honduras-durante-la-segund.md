@@ -162,11 +162,11 @@ Los países en conflicto, en general ajustaban la censura a ciertas reglas que d
 
 • Máximo 4 páginas en letras con el nombre y la dirección del remitente y destinatario en cada página.
 
-• No está permitido el comercio de sellos postales*.
+• No está permitido el comercio de sellos postales\*.
 
 • No debe contener noticias sobre la situación económica, suministros de alimentos, bombardeos, etc.
 
-*El envío de sellos postales fuera de los EUA sólo se podía hacer previa autorización de la Unidad de Control Filatélico, adscrita a la Censura Postal de los EUA, situada en el 244 de la 7ª. avenida de Nueva York.
+\*El envío de sellos postales fuera de los EUA sólo se podía hacer previa autorización de la Unidad de Control Filatélico, adscrita a la Censura Postal de los EUA, situada en el 244 de la 7ª. avenida de Nueva York.
 
 A pesar de las rígidas regulaciones y dada la enorme cantidad de material por procesar, los censores pasaron al flujo normal de correo más del 98 por ciento de las cartas que les llegaban, sin cortes o con recortes menores que involucraban una sola palabra, frase u oración.
 
@@ -276,7 +276,7 @@ Los Ángeles
 
 13800
 
-Zona del Canal*
+Zona del Canal\*
 
 2581
 
@@ -332,7 +332,7 @@ Cable de Nueva York
 
 Chicago
 
-*Balboa: 13008-13243 y 58002-58247
+\*Balboa: 13008-13243 y 58002-58247
 
 3001
 
@@ -408,9 +408,9 @@ No hay que confundir la designación operativa de este sistema postal en particu
 
 Abonando al punto anterior, traemos a colación la nota dirigida al diario *El Cronista* (opositor del régimen cariista), que fechada el 29 de junio de 1943 exhorta al rotativo a cumplir con las medidas impuestas:
 
-![En el plano epistolar, encontramos en la siguiente carta un testimonio que aborda la situación de la censura postal en Honduras, enviada por su hermana al connotado profesional y político hondureño ing. Félix Canales Salazar*, sobre la cual extraemos los párrafos atenientes:](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image28.webp)
+![En el plano epistolar, encontramos en la siguiente carta un testimonio que aborda la situación de la censura postal en Honduras, enviada por su hermana al connotado profesional y político hondureño ing. Félix Canales Salazar\*, sobre la cual extraemos los párrafos atenientes:](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image28.webp)
 
-*El ing. Félix Canales Salazar, era oriundo de Jesús de Otoro (Intibucá). Realizó estudios de ingeniería en México. Al casarse con María Prisca Zúñiga Huete se volvió cuñado y correligionario de José Ángel Zúñiga Huete, líder del opositor Partido Liberal, situación que devino en sus frecuentes exilios durante el régimen del Dr. Tiburcio Carías Andino.
+\*El ing. Félix Canales Salazar, era oriundo de Jesús de Otoro (Intibucá). Realizó estudios de ingeniería en México. Al casarse con María Prisca Zúñiga Huete se volvió cuñado y correligionario de José Ángel Zúñiga Huete, líder del opositor Partido Liberal, situación que devino en sus frecuentes exilios durante el régimen del Dr. Tiburcio Carías Andino.
 
 ![De alguna manera, las instrucciones emanadas del Departamento Postal de los Estados Unidos, llegaron a la población hondureña, pues en el caso de esta carta, fue escrita en papel muy ligero, al grado que en la original el entintado de la máquina de escribir trasciende al reverso.](/img/serie-8/vol-04/02-censura-postal-civil-al-correo-de-honduras-durante-la-segund/image29.webp)
 

@@ -24,7 +24,7 @@ En 1954 el Dr. Raúl Agüero Vega fue nombrado Director General de Correos, pues
 
 Dr. Raúl Agüero Vega servicio de buzones a nivel nacional. Se adquirieron nuevas unidades destinadas a facilitar la recolección de cartas en las principales ciudades, a la vez que se estructuraba su operatividad para que este servicio fuese puntual y eficiente, todo con miras a recuperar de los usuarios la confianza antaño perdida.
 
-El tema de los buzones ya lo habíamos abordado de manera general en el artículo publicado en *Honduras Filatélica *(Volumen 12 Serie 4 de diciembre de 1999). Sin embargo, consideramos que este periodo merece ser tratado por separado ya que representó el momento en que el servicio de buzones alcanzó la cúspide de su historia, para luego ir feneciendo hasta desaparecer por completo en los años posteriores.
+El tema de los buzones ya lo habíamos abordado de manera general en el artículo publicado en \*Honduras Filatélica \*(Volumen 12 Serie 4 de diciembre de 1999). Sin embargo, consideramos que este periodo merece ser tratado por separado ya que representó el momento en que el servicio de buzones alcanzó la cúspide de su historia, para luego ir feneciendo hasta desaparecer por completo en los años posteriores.
 
 Desde que el servicio de buzones se estableció en 1877, la subsecuente *Ley Orgánica de Correos* puntualizaba este servicio de la siguiente manera:
 
