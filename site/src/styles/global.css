@@ -268,12 +268,6 @@ nav.site a:hover{color:var(--green)}
 .longquote__summary:hover .longquote__toggle{color:var(--gold)}
 .longquote > blockquote{margin-top:0}
 
-/* sale-pitch: less prominent than blockquotes, for quoted ads/listings */
-.sale-pitch{border-left:3px solid var(--gold-light);padding-left:1.2em;margin:1.3em 0;
-  font-size:0.95em;opacity:0.85;font-style:italic}
-.sale-pitch p{margin-bottom:0.8em}
-.sale-pitch p:last-child{margin-bottom:0}
-
 /* verbatim quoted material (a letter, a contract, transcribed word for
    word) — write it as a normal Markdown blockquote (a `>` before each
    line) and it renders like this automatically */

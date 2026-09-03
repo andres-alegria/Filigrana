@@ -116,31 +116,19 @@ Por supuesto mucha gente se preguntará cómo puede ser que estos comerciantes p
 
 Las únicas personas que todavía creen que tienen en sus manos algo de valor son aquellas que directamente, vía publicidad engañosa, han sido espoleadas a comprar tales cosas o que por alguna razón las han heredado de parientes o como regalo de amigos. En realidad, el hecho de imprimir millones de ejemplares sobrepasa en demasía cualquier número de coleccionistas inexpertos que puedan adquirirlas, quedando a disposición un amplio mercado de terceras personas que se ven cegadas simplemente al leer la palabra “oro.” Entonces éstas tratan de venderlas a través de subastas en línea para darse cuenta que al final del intento sus “tesoros” sólo valen unos $0.50 cada una. A veces el valor resulta tan bajo que muchos coleccionistas las compran para usar las bellas hojas en que vienen montadas para presentar el sello original retirando la réplica de oro. Por otro lado hay que fijarse en la forma solapada y engañosa en que los comerciantes las mercadean en línea, por ejemplo:
 
-<div class=”sale-pitch”>
-
-“…Réplicas de sellos de oro son una forma de medalla o medallón y pueden ser una forma interesante de invertir en oro tal como lo haría al adquirir piezas artísticas, históricas o antigüedades…”
-
-</div>
+> “…Réplicas de sellos de oro son una forma de medalla o medallón y pueden ser una forma interesante de invertir en oro tal como lo haría al adquirir piezas artísticas, históricas o antigüedades…”
 
 O qué tal esta otra tentadora oferta actual en internet:
 
-<div class=”sale-pitch”>
-
-“Colección Encuentro de Dos Mundos, 25 réplicas de sellos en oro.
-
-Entre 1988 y 1991 se vendió una colección limitada de sellos de correos realizados en plata de ley chapada en oro de 22 quilates. Esta colección, denominada Encuentro de Dos Mundos, fue un anticipo de las celebraciones del V Centenario del Descubrimiento de América. Es una colección de gran valor postal, filatélico e histórico, muy difícil de conseguir hoy día completa y en tan inmejorable estado como la que aquí se ofrece. El precio por el que se pone a la venta es muy inferior al valor real de dicha colección, siendo una ocasión excepcional para hacerse con ella. **1,400.00 euros**.”
-
-</div>
+> “Colección Encuentro de Dos Mundos, 25 réplicas de sellos en oro.
+> 
+> Entre 1988 y 1991 se vendió una colección limitada de sellos de correos realizados en plata de ley chapada en oro de 22 quilates. Esta colección, denominada Encuentro de Dos Mundos, fue un anticipo de las celebraciones del V Centenario del Descubrimiento de América. Es una colección de gran valor postal, filatélico e histórico, muy difícil de conseguir hoy día completa y en tan inmejorable estado como la que aquí se ofrece. El precio por el que se pone a la venta es muy inferior al valor real de dicha colección, siendo una ocasión excepcional para hacerse con ella. **1,400.00 euros**.”
 
 Qué bonito suena verdad, pero no es más que pura charlatanería, carnada en la trampa a la espera del dinero de la siguiente víctima.
 
 O tal vez le impresione esta venta reciente:
 
-<div class=”sale-pitch”>
-
-“Réplicas de oro de sellos de los Estados Unidos. 71 relucientes réplicas sobre una superficie de oro de 22k. Protegidas en un álbum de fundas plásticas. El álbum mide aproximadamente 4½” altura x 10½” x 13½.” Sellos de varios tamaños. Precio de arranque $25.00.”
-
-</div>
+> “Réplicas de oro de sellos de los Estados Unidos. 71 relucientes réplicas sobre una superficie de oro de 22k. Protegidas en un álbum de fundas plásticas. El álbum mide aproximadamente 4½” altura x 10½” x 13½.” Sellos de varios tamaños. Precio de arranque $25.00.”
 
 ![](/img/serie-6/vol-05/02-el-escandalo-de-los-sellos-de-oro/image9.webp)
 
