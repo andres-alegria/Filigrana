@@ -64,29 +64,16 @@ El 14 de noviembre de 1981 ante la complejidad generada entre las autoridades, l
 
 Aún conservo el apunte manuscrito que como Secretario tomé en la sesión previa al envío de la nota arriba aludida, y que detalla los puntos sobre los que basaríamos nuestra posición:
 
-El contrato no está autorizado por el Procurador General de la República.
-
-El contrato debió ser avalado por el Banco Central como agente fiscalizador de todas las especies fiscales emitidas.
-
-Uso ilegal de la firma del Director de Correos y símbolos patrios.
-
-La Constitución prohíbe los monopolios.
-
-No existe de por medio una fianza depositaria.
-
-El contrato no ha sido publicado en el diario oficial La Gaceta
-
-La emisión de estos sellos es totalmente especulativa.
-
-Las emisiones especulativas contravienen la Ley de Correos en sus artículos 9, 172 y 173; el 9 del convenio con la UPU; y el
-
-Artículo No. 4 de los estatutos de la Federación Filatélica de la
-
-República de Honduras.
-
-La Ley de Correos prohíbe el envío de metales preciosos por correo.
-
-10.) Viola la Ley del impuesto sobre la renta.
+1. El contrato no está autorizado por el Procurador General de la República.
+2. El contrato debió ser avalado por el Banco Central como agente fiscalizador de todas las especies fiscales emitidas.
+3. Uso ilegal de la firma del Director de Correos y símbolos patrios.
+4. La Constitución prohíbe los monopolios.
+5. No existe de por medio una fianza depositaria.
+6. El contrato no ha sido publicado en el diario oficial La Gaceta
+7. La emisión de estos sellos es totalmente especulativa.
+8. Las emisiones especulativas contravienen la Ley de Correos en sus artículos 9, 172 y 173; el 9 del convenio con la UPU; y el Artículo No. 4 de los estatutos de la Federación Filatélica de la República de Honduras.
+9. La Ley de Correos prohíbe el envío de metales preciosos por correo.
+10. Viola la Ley del impuesto sobre la renta.
 
 Poco después Italcambio envió a Correos la cantidad de 5,333 réplicas de oro para su puesta en circulación, que comprendía una serie de siete réplicas distintas. No se sabe si circularon por el correo o no, aunque lo más probable es lo segundo ya que aún las tarifas más altas del momento estaban muy por debajo del valor facial de L.17.00. Hasta entonces el valor facial más alto de un sello emitido por Honduras era de L.5.00. Además era ridículo el sólo pensar en intentar pegar una lámina metálica en un sobre y matasellarla. Me consta que el Director de Correos envió unos cuantos FDC a Italcambio, tal como lo estipulaba el contrato. En esos días Italcambio invitó a altos funcionarios del gobierno, con gastos pagados, para que observaran la impresión que se estaba llevando a cabo en Miami, Florida.
 

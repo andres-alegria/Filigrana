@@ -171,6 +171,13 @@ nav.site a:hover{color:var(--green)}
   border-bottom:1px solid var(--line);transition:border-color .18s ease}
 /* adjust prose link underline accent here */
 .article-body a:hover,.article-body a:focus-visible{border-bottom-color:var(--green)}
+/* Lists in prose — the global reset zeroes padding on every element, so
+   without this an <ol>/<ul> loses its indent entirely and the markers sit
+   outside the text column. Bibliography lists opt out via their own rule
+   below. Adjust the indent and item spacing here */
+.article-body ol,.article-body ul:not(.bibliography){margin:0 0 1.3em;padding-left:1.9em}
+.article-body li{margin-bottom:.5em;padding-left:.2em}
+.article-body li::marker{color:var(--gold);font-size:.92em}
 .article-figure{margin:2em 0;max-width:640px}
 .article-figure img{width:100%;border:1px solid var(--line);background:var(--paper-lit)}
 .article-figure figcaption{font-size:13.5px;color:var(--ink-soft);margin-top:9px;
